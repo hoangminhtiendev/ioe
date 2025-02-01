@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "question": [
+            "i",
+            "want",
+            "some",
+            "coffee"
+        ],
+        "hint": "Just following general structure"
+    },
+    {
+        "id": 2,
+        "question": [
+            "the ",
+            "weather",
+            "is",
+            "nice."
+        ],
+        "hint": "Just following general structure"
+    },
+    {
+        "id": 3,
+        "question": [
+            "studying ",
+            "is",
+            "always",
+            "good."
+        ],
+        "hint": "Just following general structure"
+    },
+    {
+        "id": 4,
+        "question": [
+            "you",
+            "look",
+            "really",
+            "great."
+        ],
+        "hint": "Just following general structure"
+    },
+    {
+        "id": 5,
+        "question": [
+            "Tet",
+            "holiday",
+            "is",
+            "going to be ended."
+        ],
+        "hint": "Just following general structure"
+    },
+    {
+        "id": 6,
+        "question": [
+            "Saying",
+            "somethings",
+            "good",
+            "is interesting."
+        ],
+        "hint": "Just following general structure"
+    },
+    {
+        "id": 7,
+        "question": [
+            "Coding",
+            "is",
+            "very",
+            "interesting."
+        ],
+        "hint": "Just following general structure"
+    },
+    {
+        "id": 8,
+        "question": [
+            "Apple",
+            "is",
+            "better",
+            "than others."
+        ],
+        "hint": "Just following general structure"
+    },
+    {
+        "id": 9,
+        "question": [
+            "Green ",
+            "is",
+            "cooler than",
+            "red."
+        ],
+        "hint": "Just following general structure"
+    },
+    {
+        "id": 10,
+        "question": [
+            "Trump",
+            "is",
+            "the 47th",
+            "President."
+        ],
+        "hint": "Just following general structure"
+    }
+]

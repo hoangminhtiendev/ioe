@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "sentence": "The cat is _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/audios/colors/black.mp3",
+        "answer": "black",
+        "hint": "Blah"
+    },
+    {
+        "id": 2,
+        "sentence": "The cat is _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/audios/colors/black.mp3",
+        "answer": "blue",
+        "hint": "Blah"
+    },
+    {
+        "id": 3,
+        "sentence": "The cat is _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/audios/colors/black.mp3",
+        "answer": "green",
+        "hint": "Blah"
+    },
+    {
+        "id": 4,
+        "sentence": "The cat is _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/audios/colors/black.mp3",
+        "answer": "orange",
+        "hint": "Blah"
+    },
+    {
+        "id": 5,
+        "sentence": "The cat is _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/audios/colors/black.mp3",
+        "answer": "red",
+        "hint": "Blah"
+    },
+    {
+        "id": 6,
+        "sentence": "The cat is _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/audios/colors/black.mp3",
+        "answer": "purple",
+        "hint": "Blah"
+    },
+    {
+        "id": 7,
+        "sentence": "The cat is _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/audios/colors/black.mp3",
+        "answer": "indigo",
+        "hint": "Blah"
+    },
+    {
+        "id": 8,
+        "sentence": "The dog is _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/audios/colors/black.mp3",
+        "answer": "black",
+        "hint": "gru"
+    },
+    {
+        "id": 9,
+        "sentence": "The chicken is _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/audios/colors/black.mp3",
+        "answer": "noisyy",
+        "hint": "o o o"
+    },
+    {
+        "id": 10,
+        "sentence": "The green is _ than the red",
+        "imageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/audios/colors/black.mp3",
+        "answer": "cooler",
+        "hint": "great"
+    }
+]

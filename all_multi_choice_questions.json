@@ -3,7 +3,7 @@
         "id": 1,
         "question": "Who are you?",
         "questionImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/chicken.png",
-        "questionAudioUrl": ,
+        "questionAudioUrl": "",
         "choices": [
             "A. pupil",
             "B. teacher",
@@ -16,7 +16,7 @@
     {
         "id": 2,
         "question": "Where are you?",
-        "questionImageUrl": ,
+        "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/blue.mp3",
         "choices": [
             "A. beach",
@@ -44,7 +44,7 @@
     {
         "id": 2,
         "question": "Where are you?",
-        "questionImageUrl": ,
+        "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/blue.mp3",
         "choices": [
             "A. beach",
@@ -58,49 +58,7 @@
     {
         "id": 2,
         "question": "Where are you?",
-        "questionImageUrl": ,
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/blue.mp3",
-        "choices": [
-            "A. beach",
-            "B. sea",
-            "C. mountain",
-            "D. school"
-        ],
-        "correctAnswerIndex": 0,
-        "hint": "When is it?"
-    },
-    {
-        "id": 2,
-        "question": "Where are you?",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/chicken.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/blue.mp3",
-        "choices": [
-            "A. beach",
-            "B. sea",
-            "C. mountain",
-            "D. school"
-        ],
-        "correctAnswerIndex": 0,
-        "hint": "When is it?"
-    },
-    {
-        "id": 2,
-        "question": "Where are you?",
-        "questionImageUrl": ,
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/blue.mp3",
-        "choices": [
-            "A. beach",
-            "B. sea",
-            "C. mountain",
-            "D. school"
-        ],
-        "correctAnswerIndex": 0,
-        "hint": "When is it?"
-    },
-    {
-        "id": 2,
-        "question": "Where are you?",
-        "questionImageUrl": ,
+        "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/blue.mp3",
         "choices": [
             "A. beach",
@@ -128,7 +86,49 @@
     {
         "id": 2,
         "question": "Where are you?",
-        "questionImageUrl": ,
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/blue.mp3",
+        "choices": [
+            "A. beach",
+            "B. sea",
+            "C. mountain",
+            "D. school"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "When is it?"
+    },
+    {
+        "id": 2,
+        "question": "Where are you?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/blue.mp3",
+        "choices": [
+            "A. beach",
+            "B. sea",
+            "C. mountain",
+            "D. school"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "When is it?"
+    },
+    {
+        "id": 2,
+        "question": "Where are you?",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/chicken.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/blue.mp3",
+        "choices": [
+            "A. beach",
+            "B. sea",
+            "C. mountain",
+            "D. school"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": "When is it?"
+    },
+    {
+        "id": 2,
+        "question": "Where are you?",
+        "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/blue.mp3",
         "choices": [
             "A. beach",

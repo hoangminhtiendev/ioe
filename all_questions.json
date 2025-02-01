@@ -1,152 +1,152 @@
 [
     {
         "id": 1,
-        "questionType": "QuestionType.multiChoice",
+        "questionType": "multiChoice",
         "questionId": 1
     },
     {
         "id": 2,
-        "questionType": "QuestionType.completeSentence",
+        "questionType": "completeSentence",
         "questionId": 1
     },
     {
         "id": 3,
-        "questionType": "QuestionType.wordOrder",
+        "questionType": "wordOrder",
         "questionId": 1
     },
     {
         "id": 4,
-        "questionType": "QuestionType.multiChoice",
+        "questionType": "multiChoice",
         "questionId": 2
     },
     {
         "id": 5,
-        "questionType": "QuestionType.completeSentence",
+        "questionType": "completeSentence",
         "questionId": 2
     },
     {
         "id": 6,
-        "questionType": "QuestionType.wordOrder",
+        "questionType": "wordOrder",
         "questionId": 2
     },
     {
         "id": 7,
-        "questionType": "QuestionType.multiChoice",
+        "questionType": "multiChoice",
         "questionId": 3
     },
     {
         "id": 8,
-        "questionType": "QuestionType.completeSentence",
+        "questionType": "completeSentence",
         "questionId": 3
     },
     {
         "id": 9,
-        "questionType": "QuestionType.wordOrder",
+        "questionType": "wordOrder",
         "questionId": 3
     },
     {
         "id": 10,
-        "questionType": "QuestionType.multiChoice",
+        "questionType": "multiChoice",
         "questionId": 4
     },
     {
         "id": 11,
-        "questionType": "QuestionType.completeSentence",
+        "questionType": "completeSentence",
         "questionId": 4
     },
     {
         "id": 12,
-        "questionType": "QuestionType.wordOrder",
+        "questionType": "wordOrder",
         "questionId": 4
     },
     {
         "id": 13,
-        "questionType": "QuestionType.multiChoice",
+        "questionType": "multiChoice",
         "questionId": 5
     },
     {
         "id": 14,
-        "questionType": "QuestionType.completeSentence",
+        "questionType": "completeSentence",
         "questionId": 5
     },
     {
         "id": 15,
-        "questionType": "QuestionType.wordOrder",
+        "questionType": "wordOrder",
         "questionId": 5
     },
     {
         "id": 16,
-        "questionType": "QuestionType.multiChoice",
+        "questionType": "multiChoice",
         "questionId": 6
     },
     {
         "id": 17,
-        "questionType": "QuestionType.completeSentence",
+        "questionType": "completeSentence",
         "questionId": 6
     },
     {
         "id": 18,
-        "questionType": "QuestionType.wordOrder",
+        "questionType": "wordOrder",
         "questionId": 6
     },
     {
         "id": 19,
-        "questionType": "QuestionType.multiChoice",
+        "questionType": "multiChoice",
         "questionId": 7
     },
     {
         "id": 20,
-        "questionType": "QuestionType.completeSentence",
+        "questionType": "completeSentence",
         "questionId": 7
     },
     {
         "id": 21,
-        "questionType": "QuestionType.wordOrder",
+        "questionType": "wordOrder",
         "questionId": 7
     },
     {
         "id": 22,
-        "questionType": "QuestionType.multiChoice",
+        "questionType": "multiChoice",
         "questionId": 8
     },
     {
         "id": 23,
-        "questionType": "QuestionType.completeSentence",
+        "questionType": "completeSentence",
         "questionId": 8
     },
     {
         "id": 24,
-        "questionType": "QuestionType.wordOrder",
+        "questionType": "wordOrder",
         "questionId": 8
     },
     {
         "id": 25,
-        "questionType": "QuestionType.multiChoice",
+        "questionType": "multiChoice",
         "questionId": 9
     },
     {
         "id": 26,
-        "questionType": "QuestionType.completeSentence",
+        "questionType": "completeSentence",
         "questionId": 9
     },
     {
         "id": 27,
-        "questionType": "QuestionType.wordOrder",
+        "questionType": "wordOrder",
         "questionId": 9
     },
     {
         "id": 28,
-        "questionType": "QuestionType.multiChoice",
+        "questionType": "multiChoice",
         "questionId": 10
     },
     {
         "id": 29,
-        "questionType": "QuestionType.completeSentence",
+        "questionType": "completeSentence",
         "questionId": 10
     },
     {
         "id": 30,
-        "questionType": "QuestionType.wordOrder",
+        "questionType": "wordOrder",
         "questionId": 10
     }
 ]

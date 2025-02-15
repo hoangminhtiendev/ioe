@@ -7,9 +7,7 @@
             "are",
             "red."
         ],
-        "hint": "The balls are red.",
-        "type-id": "order-1",
-        "grade": "school"
+        "hint": "The balls are red."
     },
     {
         "id": 2,
@@ -19,9 +17,7 @@
             "a",
             "brown box."
         ],
-        "hint": "This is a brown box.",
-        "type-id": "order-2",
-        "grade": "province"
+        "hint": "This is a brown box."
     },
     {
         "id": 3,
@@ -31,9 +27,7 @@
             "is",
             "Tu."
         ],
-        "hint": "This boy is Tu.",
-        "type-id": "order-3",
-        "grade": "school"
+        "hint": "This boy is Tu."
     },
     {
         "id": 4,
@@ -43,9 +37,7 @@
             "the",
             "library."
         ],
-        "hint": "Look at the library.",
-        "type-id": "order-4",
-        "grade": "school"
+        "hint": "Look at the library."
     },
     {
         "id": 5,
@@ -55,9 +47,7 @@
             "is in",
             "the bedroom."
         ],
-        "hint": "The bed is in the bedroom.",
-        "type-id": "order-5",
-        "grade": "province"
+        "hint": "The bed is in the bedroom."
     },
     {
         "id": 6,
@@ -67,9 +57,7 @@
             "thanks.",
             "And you?"
         ],
-        "hint": "I'm fine, thanks. And you?",
-        "type-id": "order-6",
-        "grade": "school"
+        "hint": "I'm fine, thanks. And you?"
     },
     {
         "id": 7,
@@ -79,9 +67,7 @@
             "from",
             "Vietnam."
         ],
-        "hint": "I am from Vietnam.",
-        "type-id": "order-7",
-        "grade": "school"
+        "hint": "I am from Vietnam."
     },
     {
         "id": 8,
@@ -91,9 +77,7 @@
             "a",
             "black cat."
         ],
-        "hint": "This is a black cat.",
-        "type-id": "order-8",
-        "grade": "province"
+        "hint": "This is a black cat."
     },
     {
         "id": 9,
@@ -103,9 +87,7 @@
             "but",
             "old."
         ],
-        "hint": "It's large but old.",
-        "type-id": "order-9",
-        "grade": "school"
+        "hint": "It's large but old."
     },
     {
         "id": 10,
@@ -115,9 +97,7 @@
             "my",
             "picture."
         ],
-        "hint": "This isn't my picture.",
-        "type-id": "order-10",
-        "grade": "school"
+        "hint": "This isn't my picture."
     },
     {
         "id": 11,
@@ -127,9 +107,7 @@
             "are in",
             "the computer room."
         ],
-        "hint": "My friends are in the computer room.",
-        "type-id": "order-11",
-        "grade": "province"
+        "hint": "My friends are in the computer room."
     },
     {
         "id": 12,
@@ -139,9 +117,7 @@
             "is new ",
             "and big."
         ],
-        "hint": "The classroom is new  and big.",
-        "type-id": "order-12",
-        "grade": "province"
+        "hint": "The classroom is new  and big."
     },
     {
         "id": 13,
@@ -151,9 +127,7 @@
             "new pupil, ",
             "Lisa."
         ],
-        "hint": "This is a new pupil,  Lisa.",
-        "type-id": "order-13",
-        "grade": "school"
+        "hint": "This is a new pupil,  Lisa."
     },
     {
         "id": 14,
@@ -163,9 +137,7 @@
             "to meet",
             "you, children."
         ],
-        "hint": "Hello, nice to meet you, children.",
-        "type-id": "order-14",
-        "grade": "school"
+        "hint": "Hello, nice to meet you, children."
     },
     {
         "id": 15,
@@ -175,9 +147,7 @@
             "and close",
             " the book."
         ],
-        "hint": "We stand up and close  the book.",
-        "type-id": "order-15",
-        "grade": "province"
+        "hint": "We stand up and close  the book."
     },
     {
         "id": 16,
@@ -187,9 +157,7 @@
             "your",
             "mother?"
         ],
-        "hint": "Who is your mother?",
-        "type-id": "order-16",
-        "grade": "school"
+        "hint": "Who is your mother?"
     },
     {
         "id": 17,
@@ -199,9 +167,7 @@
             "fine,",
             "thank you."
         ],
-        "hint": "We are fine, thank you.",
-        "type-id": "order-17",
-        "grade": "school"
+        "hint": "We are fine, thank you."
     },
     {
         "id": 18,
@@ -211,9 +177,7 @@
             "is seven",
             "years old."
         ],
-        "hint": "My brother is seven years old.",
-        "type-id": "order-18",
-        "grade": "school"
+        "hint": "My brother is seven years old."
     },
     {
         "id": 19,
@@ -223,9 +187,7 @@
             "their",
             "bags."
         ],
-        "hint": "These are their bags.",
-        "type-id": "order-19",
-        "grade": "school"
+        "hint": "These are their bags."
     },
     {
         "id": 20,
@@ -235,9 +197,7 @@
             "are",
             "friends."
         ],
-        "hint": "Peter  and Bill are friends.",
-        "type-id": "order-20",
-        "grade": "school"
+        "hint": "Peter  and Bill are friends."
     },
     {
         "id": 21,
@@ -247,9 +207,7 @@
             "nine",
             "years old"
         ],
-        "hint": "Nga is nine years old",
-        "type-id": "order-21",
-        "grade": "school"
+        "hint": "Nga is nine years old"
     },
     {
         "id": 22,
@@ -259,9 +217,7 @@
             "games",
             " at break time."
         ],
-        "hint": "We play sports and games  at break time.",
-        "type-id": "order-22",
-        "grade": "province"
+        "hint": "We play sports and games  at break time."
     },
     {
         "id": 23,
@@ -271,9 +227,7 @@
             "to see",
             "you."
         ],
-        "hint": "It's glad to see you.",
-        "type-id": "order-23",
-        "grade": "school"
+        "hint": "It's glad to see you."
     },
     {
         "id": 24,
@@ -283,9 +237,7 @@
             "is old but",
             "large."
         ],
-        "hint": "The library is old but large.",
-        "type-id": "order-24",
-        "grade": "province"
+        "hint": "The library is old but large."
     },
     {
         "id": 25,
@@ -295,9 +247,7 @@
             "your",
             "pet?"
         ],
-        "hint": "Is that your pet?",
-        "type-id": "order-25",
-        "grade": "school"
+        "hint": "Is that your pet?"
     },
     {
         "id": 26,
@@ -307,9 +257,7 @@
             "your",
             "book?"
         ],
-        "hint": "Where is  your book?",
-        "type-id": "order-26",
-        "grade": "school"
+        "hint": "Where is  your book?"
     },
     {
         "id": 27,
@@ -319,9 +267,7 @@
             "two",
             "dolls."
         ],
-        "hint": "There are two dolls.",
-        "type-id": "order-27",
-        "grade": "province"
+        "hint": "There are two dolls."
     },
     {
         "id": 28,
@@ -331,9 +277,7 @@
             "pencil",
             "green?"
         ],
-        "hint": "Is your pencil green?",
-        "type-id": "order-28",
-        "grade": "school"
+        "hint": "Is your pencil green?"
     },
     {
         "id": 29,
@@ -343,9 +287,7 @@
             "is",
             "my friend."
         ],
-        "hint": "Yes, he is my friend.",
-        "type-id": "order-29",
-        "grade": "school"
+        "hint": "Yes, he is my friend."
     },
     {
         "id": 30,
@@ -355,9 +297,7 @@
             "these?",
             "They're chairs."
         ],
-        "hint": "What are these? They're chairs.",
-        "type-id": "order-30",
-        "grade": "school"
+        "hint": "What are these? They're chairs."
     },
     {
         "id": 31,
@@ -367,9 +307,7 @@
             "the",
             "music room."
         ],
-        "hint": "Look at the music room.",
-        "type-id": "order-31",
-        "grade": "school"
+        "hint": "Look at the music room."
     },
     {
         "id": 32,
@@ -379,9 +317,7 @@
             "thank",
             "you."
         ],
-        "hint": "I\u2019m fine, thank you.",
-        "type-id": "order-32",
-        "grade": "school"
+        "hint": "I\u2019m fine, thank you."
     },
     {
         "id": 33,
@@ -391,9 +327,7 @@
             "I am",
             "fine."
         ],
-        "hint": "Thank you. I am fine.",
-        "type-id": "order-33",
-        "grade": "school"
+        "hint": "Thank you. I am fine."
     },
     {
         "id": 34,
@@ -403,9 +337,7 @@
             "an",
             "eraser."
         ],
-        "hint": "That is an eraser.",
-        "type-id": "order-34",
-        "grade": "school"
+        "hint": "That is an eraser."
     },
     {
         "id": 35,
@@ -415,9 +347,7 @@
             "that",
             "boy?"
         ],
-        "hint": "Who is that boy?",
-        "type-id": "order-35",
-        "grade": "school"
+        "hint": "Who is that boy?"
     },
     {
         "id": 36,
@@ -427,9 +357,7 @@
             "school",
             "big?"
         ],
-        "hint": "Is your school big?",
-        "type-id": "order-36",
-        "grade": "school"
+        "hint": "Is your school big?"
     },
     {
         "id": 37,
@@ -439,9 +367,7 @@
             "name\u2019s",
             "Thu."
         ],
-        "hint": "Hello, my name\u2019s Thu.",
-        "type-id": "order-37",
-        "grade": "school"
+        "hint": "Hello, my name\u2019s Thu."
     },
     {
         "id": 38,
@@ -451,9 +377,7 @@
             "you",
             "tomorrow."
         ],
-        "hint": "Goodbye. See you tomorrow.",
-        "type-id": "order-38",
-        "grade": "school"
+        "hint": "Goodbye. See you tomorrow."
     },
     {
         "id": 39,
@@ -463,9 +387,7 @@
             "my",
             "friend."
         ],
-        "hint": "Jenny is my friend.",
-        "type-id": "order-39",
-        "grade": "school"
+        "hint": "Jenny is my friend."
     },
     {
         "id": 40,
@@ -475,9 +397,7 @@
             "very",
             "much."
         ],
-        "hint": "Thank you very much.",
-        "type-id": "order-40",
-        "grade": "school"
+        "hint": "Thank you very much."
     },
     {
         "id": 41,
@@ -487,9 +407,7 @@
             "my",
             "bicycle."
         ],
-        "hint": "That is my bicycle.",
-        "type-id": "order-41",
-        "grade": "school"
+        "hint": "That is my bicycle."
     },
     {
         "id": 42,
@@ -499,9 +417,7 @@
             "your",
             "friend."
         ],
-        "hint": "Listen to your friend.",
-        "type-id": "order-42",
-        "grade": "school"
+        "hint": "Listen to your friend."
     },
     {
         "id": 43,
@@ -511,9 +427,7 @@
             "quiet,",
             "students."
         ],
-        "hint": "Please be quiet, students.",
-        "type-id": "order-43",
-        "grade": "province"
+        "hint": "Please be quiet, students."
     },
     {
         "id": 44,
@@ -523,9 +437,7 @@
             "a",
             "circle."
         ],
-        "hint": "Let\u2019s make a circle.",
-        "type-id": "order-44",
-        "grade": "province"
+        "hint": "Let\u2019s make a circle."
     },
     {
         "id": 45,
@@ -535,9 +447,7 @@
             "help",
             "me?"
         ],
-        "hint": "Can you help me?",
-        "type-id": "order-45",
-        "grade": "school"
+        "hint": "Can you help me?"
     },
     {
         "id": 46,
@@ -547,9 +457,7 @@
             "my",
             "pens."
         ],
-        "hint": "These are my pens.",
-        "type-id": "order-46",
-        "grade": "school"
+        "hint": "These are my pens."
     },
     {
         "id": 47,
@@ -559,9 +467,7 @@
             "my",
             "bedroom."
         ],
-        "hint": "This is my bedroom.",
-        "type-id": "order-47",
-        "grade": "school"
+        "hint": "This is my bedroom."
     },
     {
         "id": 48,
@@ -571,9 +477,7 @@
             "tomorrow,",
             "Peter."
         ],
-        "hint": "See you tomorrow, Peter.",
-        "type-id": "order-48",
-        "grade": "school"
+        "hint": "See you tomorrow, Peter."
     },
     {
         "id": 49,
@@ -583,9 +487,7 @@
             "is",
             "big."
         ],
-        "hint": "My classroom is big.",
-        "type-id": "order-49",
-        "grade": "school"
+        "hint": "My classroom is big."
     },
     {
         "id": 50,
@@ -595,9 +497,7 @@
             "a",
             "desk?"
         ],
-        "hint": "Is it a desk?",
-        "type-id": "order-50",
-        "grade": "school"
+        "hint": "Is it a desk?"
     },
     {
         "id": 51,
@@ -607,9 +507,7 @@
             "my",
             "friend, too."
         ],
-        "hint": "He is my friend, too.",
-        "type-id": "order-51",
-        "grade": "school"
+        "hint": "He is my friend, too."
     },
     {
         "id": 52,
@@ -619,9 +517,7 @@
             "hand",
             "down."
         ],
-        "hint": "Put your hand down.",
-        "type-id": "order-52",
-        "grade": "school"
+        "hint": "Put your hand down."
     },
     {
         "id": 53,
@@ -631,9 +527,7 @@
             "is",
             "small."
         ],
-        "hint": "Your schoolbag is small.",
-        "type-id": "order-53",
-        "grade": "school"
+        "hint": "Your schoolbag is small."
     },
     {
         "id": 54,
@@ -643,9 +537,7 @@
             "hand,",
             "children."
         ],
-        "hint": "Raise your hand, children.",
-        "type-id": "order-54",
-        "grade": "school"
+        "hint": "Raise your hand, children."
     },
     {
         "id": 55,
@@ -655,9 +547,7 @@
             "your",
             "pencil."
         ],
-        "hint": "Pick up your pencil.",
-        "type-id": "order-55",
-        "grade": "province"
+        "hint": "Pick up your pencil."
     },
     {
         "id": 56,
@@ -667,9 +557,7 @@
             "his",
             "name?"
         ],
-        "hint": "What is his name?",
-        "type-id": "order-56",
-        "grade": "school"
+        "hint": "What is his name?"
     },
     {
         "id": 57,
@@ -679,9 +567,7 @@
             "is",
             "pink and blue."
         ],
-        "hint": "My bag is pink and blue.",
-        "type-id": "order-57",
-        "grade": "province"
+        "hint": "My bag is pink and blue."
     },
     {
         "id": 58,
@@ -691,9 +577,7 @@
             "years",
             "old."
         ],
-        "hint": "I\u2019m seven years old.",
-        "type-id": "order-58",
-        "grade": "school"
+        "hint": "I\u2019m seven years old."
     },
     {
         "id": 59,
@@ -703,9 +587,7 @@
             "are",
             "those pens?"
         ],
-        "hint": "What color are those pens?",
-        "type-id": "order-59",
-        "grade": "province"
+        "hint": "What color are those pens?"
     },
     {
         "id": 60,
@@ -715,9 +597,7 @@
             "my",
             "brother."
         ],
-        "hint": "This is my brother.",
-        "type-id": "order-60",
-        "grade": "school"
+        "hint": "This is my brother."
     },
     {
         "id": 61,
@@ -727,9 +607,7 @@
             "my",
             "cats."
         ],
-        "hint": "These are my cats.",
-        "type-id": "order-61",
-        "grade": "school"
+        "hint": "These are my cats."
     },
     {
         "id": 62,
@@ -739,9 +617,7 @@
             "good",
             "day."
         ],
-        "hint": "Have a good day.",
-        "type-id": "order-62",
-        "grade": "province"
+        "hint": "Have a good day."
     },
     {
         "id": 63,
@@ -751,9 +627,7 @@
             "are watching",
             "a cartoon"
         ],
-        "hint": "The children are watching a cartoon",
-        "type-id": "order-63",
-        "grade": "province"
+        "hint": "The children are watching a cartoon"
     },
     {
         "id": 64,
@@ -763,9 +637,7 @@
             "or ",
             "dive?"
         ],
-        "hint": "Can you swim or  dive?",
-        "type-id": "order-64",
-        "grade": "city"
+        "hint": "Can you swim or  dive?"
     },
     {
         "id": 65,
@@ -775,9 +647,7 @@
             "my pencil",
             "case."
         ],
-        "hint": "This isn\u2019t my pencil case.",
-        "type-id": "order-65",
-        "grade": "school"
+        "hint": "This isn\u2019t my pencil case."
     },
     {
         "id": 66,
@@ -787,9 +657,7 @@
             "is next",
             "Monday."
         ],
-        "hint": "Her birthday is next Monday.",
-        "type-id": "order-66",
-        "grade": "city"
+        "hint": "Her birthday is next Monday."
     },
     {
         "id": 67,
@@ -799,9 +667,7 @@
             "to the",
             "museum?"
         ],
-        "hint": "Do you go to the museum?",
-        "type-id": "order-67",
-        "grade": "province"
+        "hint": "Do you go to the museum?"
     },
     {
         "id": 68,
@@ -811,9 +677,7 @@
             "any",
             "sisters?"
         ],
-        "hint": "Does Jane have any sisters?",
-        "type-id": "order-68",
-        "grade": "city"
+        "hint": "Does Jane have any sisters?"
     },
     {
         "id": 69,
@@ -823,9 +687,7 @@
             "very ",
             "big."
         ],
-        "hint": "This bag is very  big.",
-        "type-id": "order-69",
-        "grade": "school"
+        "hint": "This bag is very  big."
     },
     {
         "id": 70,
@@ -835,9 +697,7 @@
             "a famous",
             "footballer."
         ],
-        "hint": "Uncle Roger is a famous footballer.",
-        "type-id": "order-70",
-        "grade": "province"
+        "hint": "Uncle Roger is a famous footballer."
     },
     {
         "id": 71,
@@ -847,9 +707,7 @@
             "room",
             "big?"
         ],
-        "hint": "Is your  room big?",
-        "type-id": "order-71",
-        "grade": "province"
+        "hint": "Is your  room big?"
     },
     {
         "id": 72,
@@ -859,9 +717,7 @@
             "grandparents",
             "live?"
         ],
-        "hint": "Where do your grandparents live?",
-        "type-id": "order-72",
-        "grade": "city"
+        "hint": "Where do your grandparents live?"
     },
     {
         "id": 73,
@@ -871,9 +727,7 @@
             "fishing on",
             "Sunday."
         ],
-        "hint": "He never goes fishing on Sunday.",
-        "type-id": "order-73",
-        "grade": "province"
+        "hint": "He never goes fishing on Sunday."
     },
     {
         "id": 74,
@@ -883,9 +737,7 @@
             "his ",
             "bike?"
         ],
-        "hint": "What color is his  bike?",
-        "type-id": "order-74",
-        "grade": "province"
+        "hint": "What color is his  bike?"
     },
     {
         "id": 75,
@@ -895,9 +747,7 @@
             "you,",
             "Anna."
         ],
-        "hint": "Nice to meet you, Anna.",
-        "type-id": "order-75",
-        "grade": "school"
+        "hint": "Nice to meet you, Anna."
     },
     {
         "id": 76,
@@ -907,9 +757,7 @@
             "usually do",
             "on weekends?"
         ],
-        "hint": "What do you usually do on weekends?",
-        "type-id": "order-76",
-        "grade": "city"
+        "hint": "What do you usually do on weekends?"
     },
     {
         "id": 77,
@@ -919,9 +767,7 @@
             "sleeping under",
             "the sofa."
         ],
-        "hint": "The cat is sleeping under the sofa.",
-        "type-id": "order-77",
-        "grade": "city"
+        "hint": "The cat is sleeping under the sofa."
     },
     {
         "id": 78,
@@ -931,9 +777,7 @@
             "your ",
             "T-shirt?"
         ],
-        "hint": "What color is your  T-shirt?",
-        "type-id": "order-78",
-        "grade": "city"
+        "hint": "What color is your  T-shirt?"
     },
     {
         "id": 79,
@@ -943,9 +787,7 @@
             "fence around",
             "your house?"
         ],
-        "hint": "Is there any fence around your house?",
-        "type-id": "order-79",
-        "grade": "province"
+        "hint": "Is there any fence around your house?"
     },
     {
         "id": 80,
@@ -955,9 +797,7 @@
             "like in",
             "Hanoi?"
         ],
-        "hint": "What\u2019s the weather like in Hanoi?",
-        "type-id": "order-80",
-        "grade": "city"
+        "hint": "What\u2019s the weather like in Hanoi?"
     },
     {
         "id": 81,
@@ -967,9 +807,7 @@
             "much ",
             "noise."
         ],
-        "hint": "Don\u2019t make too much  noise.",
-        "type-id": "order-81",
-        "grade": "city"
+        "hint": "Don\u2019t make too much  noise."
     },
     {
         "id": 82,
@@ -979,9 +817,7 @@
             "to the",
             "zoo."
         ],
-        "hint": "We are walking to the zoo.",
-        "type-id": "order-82",
-        "grade": "city"
+        "hint": "We are walking to the zoo."
     },
     {
         "id": 83,
@@ -991,9 +827,7 @@
             "like",
             "football?"
         ],
-        "hint": "Do you like football?",
-        "type-id": "order-83",
-        "grade": "city"
+        "hint": "Do you like football?"
     },
     {
         "id": 84,
@@ -1003,9 +837,7 @@
             "a",
             "nurse."
         ],
-        "hint": "My mother is a nurse.",
-        "type-id": "order-84",
-        "grade": "province"
+        "hint": "My mother is a nurse."
     },
     {
         "id": 85,
@@ -1015,9 +847,7 @@
             "picture of",
             "our school."
         ],
-        "hint": "Let\u2019s color this picture of our school.",
-        "type-id": "order-85",
-        "grade": "province"
+        "hint": "Let\u2019s color this picture of our school."
     },
     {
         "id": 86,
@@ -1027,9 +857,7 @@
             "any",
             "sandwiches."
         ],
-        "hint": "I don\u2019t have any sandwiches.",
-        "type-id": "order-86",
-        "grade": "province"
+        "hint": "I don\u2019t have any sandwiches."
     },
     {
         "id": 87,
@@ -1039,9 +867,7 @@
             "are there",
             "in your house?"
         ],
-        "hint": "How many rooms are there in your house?",
-        "type-id": "order-87",
-        "grade": "province"
+        "hint": "How many rooms are there in your house?"
     },
     {
         "id": 88,
@@ -1051,9 +877,7 @@
             "his email",
             "address."
         ],
-        "hint": "I don\u2019t know his email address.",
-        "type-id": "order-88",
-        "grade": "province"
+        "hint": "I don\u2019t know his email address."
     },
     {
         "id": 89,
@@ -1063,9 +887,7 @@
             "your",
             "sister?"
         ],
-        "hint": "Where is  your sister?",
-        "type-id": "order-89",
-        "grade": "school"
+        "hint": "Where is  your sister?"
     },
     {
         "id": 90,
@@ -1075,9 +897,7 @@
             "your",
             "brother?"
         ],
-        "hint": "How old is your brother?",
-        "type-id": "order-90",
-        "grade": "school"
+        "hint": "How old is your brother?"
     },
     {
         "id": 91,
@@ -1087,9 +907,7 @@
             "singing an",
             "English song."
         ],
-        "hint": "The girl is singing an English song.",
-        "type-id": "order-91",
-        "grade": "city"
+        "hint": "The girl is singing an English song."
     },
     {
         "id": 92,
@@ -1099,9 +917,7 @@
             "you",
             "from?"
         ],
-        "hint": "Where are  you from?",
-        "type-id": "order-92",
-        "grade": "school"
+        "hint": "Where are  you from?"
     },
     {
         "id": 93,
@@ -1111,9 +927,7 @@
             "turtle and",
             "two goldfish."
         ],
-        "hint": "James has one turtle and two goldfish.",
-        "type-id": "order-93",
-        "grade": "province"
+        "hint": "James has one turtle and two goldfish."
     },
     {
         "id": 94,
@@ -1123,9 +937,7 @@
             "Maths on",
             "Monday."
         ],
-        "hint": "I don\u2019t have Maths on Monday.",
-        "type-id": "order-94",
-        "grade": "province"
+        "hint": "I don\u2019t have Maths on Monday."
     },
     {
         "id": 95,
@@ -1135,9 +947,7 @@
             "full",
             "name?"
         ],
-        "hint": "What\u2019s your  full name?",
-        "type-id": "order-95",
-        "grade": "province"
+        "hint": "What\u2019s your  full name?"
     },
     {
         "id": 96,
@@ -1147,9 +957,7 @@
             "brother\u2019s",
             "name?"
         ],
-        "hint": "What is your brother\u2019s name?",
-        "type-id": "order-96",
-        "grade": "city"
+        "hint": "What is your brother\u2019s name?"
     },
     {
         "id": 97,
@@ -1159,9 +967,7 @@
             "any dogs",
             "at home?"
         ],
-        "hint": "Do you have any dogs at home?",
-        "type-id": "order-97",
-        "grade": "city"
+        "hint": "Do you have any dogs at home?"
     },
     {
         "id": 98,
@@ -1171,9 +977,7 @@
             "for",
             "school."
         ],
-        "hint": "Don\u2019t be late for school.",
-        "type-id": "order-98",
-        "grade": "city"
+        "hint": "Don\u2019t be late for school."
     },
     {
         "id": 99,
@@ -1183,9 +987,7 @@
             "do at",
             "break time?"
         ],
-        "hint": "What does Amy do at break time?",
-        "type-id": "order-99",
-        "grade": "province"
+        "hint": "What does Amy do at break time?"
     },
     {
         "id": 100,
@@ -1195,9 +997,7 @@
             "his ",
             "car."
         ],
-        "hint": "He\u2019s washing his  car.",
-        "type-id": "order-100",
-        "grade": "city"
+        "hint": "He\u2019s washing his  car."
     },
     {
         "id": 101,
@@ -1207,9 +1007,7 @@
             "you",
             "doing?"
         ],
-        "hint": "What are you doing?",
-        "type-id": "order-101",
-        "grade": "province"
+        "hint": "What are you doing?"
     },
     {
         "id": 102,
@@ -1219,9 +1017,7 @@
             "this ",
             "weekend."
         ],
-        "hint": "Let\u2019s go camping this  weekend.",
-        "type-id": "order-102",
-        "grade": "province"
+        "hint": "Let\u2019s go camping this  weekend."
     },
     {
         "id": 103,
@@ -1231,9 +1027,7 @@
             "to school",
             "by bus?"
         ],
-        "hint": "Does he go to school by bus?",
-        "type-id": "order-103",
-        "grade": "province"
+        "hint": "Does he go to school by bus?"
     },
     {
         "id": 104,
@@ -1243,9 +1037,7 @@
             "English",
             "teacher"
         ],
-        "hint": "She is my English teacher",
-        "type-id": "order-104",
-        "grade": "city"
+        "hint": "She is my English teacher"
     },
     {
         "id": 105,
@@ -1255,9 +1047,7 @@
             "boys in",
             "my class."
         ],
-        "hint": "There are twenty boys in my class.",
-        "type-id": "order-105",
-        "grade": "city"
+        "hint": "There are twenty boys in my class."
     },
     {
         "id": 106,
@@ -1267,9 +1057,7 @@
             "eating",
             "tomatoes."
         ],
-        "hint": "I don\u2019t like eating tomatoes.",
-        "type-id": "order-106",
-        "grade": "city"
+        "hint": "I don\u2019t like eating tomatoes."
     },
     {
         "id": 107,
@@ -1279,9 +1067,7 @@
             "very good",
             "student."
         ],
-        "hint": "Minh is a very good student.",
-        "type-id": "order-107",
-        "grade": "city"
+        "hint": "Minh is a very good student."
     },
     {
         "id": 108,
@@ -1291,9 +1077,7 @@
             "tall and",
             "thin."
         ],
-        "hint": "My brother is tall and thin.",
-        "type-id": "order-108",
-        "grade": "province"
+        "hint": "My brother is tall and thin."
     },
     {
         "id": 109,
@@ -1303,9 +1087,7 @@
             "new ",
             "ruler."
         ],
-        "hint": "This is my new  ruler.",
-        "type-id": "order-109",
-        "grade": "city"
+        "hint": "This is my new  ruler."
     },
     {
         "id": 110,
@@ -1315,9 +1097,7 @@
             "your",
             "grandparents live?"
         ],
-        "hint": "Where do your grandparents live?",
-        "type-id": "order-110",
-        "grade": "city"
+        "hint": "Where do your grandparents live?"
     },
     {
         "id": 111,
@@ -1327,9 +1107,7 @@
             "you",
             "doing?"
         ],
-        "hint": "What are you doing?",
-        "type-id": "order-111",
-        "grade": "city"
+        "hint": "What are you doing?"
     },
     {
         "id": 112,
@@ -1339,9 +1117,7 @@
             "your",
             "sister?"
         ],
-        "hint": "Where is your sister?",
-        "type-id": "order-112",
-        "grade": "city"
+        "hint": "Where is your sister?"
     },
     {
         "id": 113,
@@ -1351,9 +1127,7 @@
             "your",
             "sister?"
         ],
-        "hint": "The cat is sleeping  under the sofa.",
-        "type-id": "order-113",
-        "grade": "province"
+        "hint": "The cat is sleeping  under the sofa."
     },
     {
         "id": 114,
@@ -1363,9 +1137,7 @@
             "under",
             "the sofa."
         ],
-        "hint": "I don\u2019t have Math  on Monday.",
-        "type-id": "order-114",
-        "grade": "province"
+        "hint": "I don\u2019t have Math  on Monday."
     },
     {
         "id": 115,
@@ -1375,9 +1147,7 @@
             "our",
             "new classmate."
         ],
-        "hint": "Let\u2019s say hello to our new classmate.",
-        "type-id": "order-115",
-        "grade": "city"
+        "hint": "Let\u2019s say hello to our new classmate."
     },
     {
         "id": 116,
@@ -1387,9 +1157,7 @@
             "around",
             "your house?"
         ],
-        "hint": "Is there a fence around your house?",
-        "type-id": "order-116",
-        "grade": "province"
+        "hint": "Is there a fence around your house?"
     },
     {
         "id": 117,
@@ -1399,9 +1167,7 @@
             "goes fishing",
             " on Sunday."
         ],
-        "hint": "He  never goes fishing  on Sunday.",
-        "type-id": "order-117",
-        "grade": "city"
+        "hint": "He  never goes fishing  on Sunday."
     },
     {
         "id": 118,
@@ -1411,9 +1177,7 @@
             "is",
             "a nurse."
         ],
-        "hint": "My mother is a nurse.",
-        "type-id": "order-118",
-        "grade": "city"
+        "hint": "My mother is a nurse."
     },
     {
         "id": 119,
@@ -1423,9 +1187,7 @@
             "is",
             "his bike?"
         ],
-        "hint": "What color is his bike?",
-        "type-id": "order-119",
-        "grade": "city"
+        "hint": "What color is his bike?"
     },
     {
         "id": 120,
@@ -1435,9 +1197,7 @@
             "is standing",
             "near the door."
         ],
-        "hint": "My English teacher is standing near the door.",
-        "type-id": "order-120",
-        "grade": "province"
+        "hint": "My English teacher is standing near the door."
     },
     {
         "id": 121,
@@ -1447,9 +1207,7 @@
             "an English",
             "song."
         ],
-        "hint": "The girl is singing an English song.",
-        "type-id": "order-121",
-        "grade": "province"
+        "hint": "The girl is singing an English song."
     },
     {
         "id": 122,
@@ -1459,9 +1217,7 @@
             "like",
             "in Hanoi?"
         ],
-        "hint": "What\u2019s the weather like in Hanoi?",
-        "type-id": "order-122",
-        "grade": "city"
+        "hint": "What\u2019s the weather like in Hanoi?"
     },
     {
         "id": 123,
@@ -1471,9 +1227,7 @@
             "have",
             "any sisters?"
         ],
-        "hint": "Does Jane have any sisters?",
-        "type-id": "order-123",
-        "grade": "city"
+        "hint": "Does Jane have any sisters?"
     },
     {
         "id": 124,
@@ -1483,9 +1237,7 @@
             "very",
             "good student."
         ],
-        "hint": "Minh is a very good student.",
-        "type-id": "order-124",
-        "grade": "province"
+        "hint": "Minh is a very good student."
     },
     {
         "id": 125,
@@ -1495,9 +1247,7 @@
             "his",
             "email address."
         ],
-        "hint": "I don\u2019t know his email address.",
-        "type-id": "order-125",
-        "grade": "city"
+        "hint": "I don\u2019t know his email address."
     },
     {
         "id": 126,
@@ -1507,9 +1257,7 @@
             "is your ",
             "big brother?"
         ],
-        "hint": "How old is your  big brother?",
-        "type-id": "order-126",
-        "grade": "city"
+        "hint": "How old is your  big brother?"
     },
     {
         "id": 127,
@@ -1519,9 +1267,7 @@
             "too",
             "much noise."
         ],
-        "hint": "Don\u2019t make too much noise.",
-        "type-id": "order-127",
-        "grade": "province"
+        "hint": "Don\u2019t make too much noise."
     },
     {
         "id": 128,
@@ -1531,9 +1277,7 @@
             "like",
             "football?"
         ],
-        "hint": "Do you like football?",
-        "type-id": "order-128",
-        "grade": "city"
+        "hint": "Do you like football?"
     },
     {
         "id": 129,
@@ -1543,9 +1287,7 @@
             "meet",
             "you, Anna."
         ],
-        "hint": "Nice to meet you, Anna.",
-        "type-id": "order-129",
-        "grade": "city"
+        "hint": "Nice to meet you, Anna."
     },
     {
         "id": 130,
@@ -1555,9 +1297,7 @@
             "like eating",
             "tomatoes."
         ],
-        "hint": "I don\u2019t like eating tomatoes.",
-        "type-id": "order-130",
-        "grade": "city"
+        "hint": "I don\u2019t like eating tomatoes."
     },
     {
         "id": 131,
@@ -1567,9 +1307,7 @@
             "do at",
             "break time?"
         ],
-        "hint": "What does Amy  do at break time?",
-        "type-id": "order-131",
-        "grade": "province"
+        "hint": "What does Amy  do at break time?"
     },
     {
         "id": 132,
@@ -1579,9 +1317,7 @@
             " of",
             "our school."
         ],
-        "hint": "Let\u2019s color this picture  of our school.",
-        "type-id": "order-132",
-        "grade": "province"
+        "hint": "Let\u2019s color this picture  of our school."
     },
     {
         "id": 133,
@@ -1591,9 +1327,7 @@
             "usually do",
             "on the weekends?"
         ],
-        "hint": "What do you usually do on the weekends?",
-        "type-id": "order-133",
-        "grade": "province"
+        "hint": "What do you usually do on the weekends?"
     },
     {
         "id": 134,
@@ -1603,9 +1337,7 @@
             "go to school",
             "by bus?"
         ],
-        "hint": "Does he go to school by bus?",
-        "type-id": "order-134",
-        "grade": "city"
+        "hint": "Does he go to school by bus?"
     },
     {
         "id": 135,
@@ -1615,9 +1347,7 @@
             "are there",
             "in your house?"
         ],
-        "hint": "How many rooms are there in your house?",
-        "type-id": "order-135",
-        "grade": "city"
+        "hint": "How many rooms are there in your house?"
     },
     {
         "id": 136,
@@ -1627,9 +1357,7 @@
             "you",
             "from?"
         ],
-        "hint": "Where are you from?",
-        "type-id": "order-136",
-        "grade": "city"
+        "hint": "Where are you from?"
     },
     {
         "id": 137,
@@ -1639,9 +1367,7 @@
             "camping",
             "this weekend."
         ],
-        "hint": "Let\u2019s go camping this weekend.",
-        "type-id": "order-137",
-        "grade": "city"
+        "hint": "Let\u2019s go camping this weekend."
     },
     {
         "id": 138,
@@ -1651,9 +1377,7 @@
             "windows,",
             "please."
         ],
-        "hint": "Close the windows, please.",
-        "type-id": "order-138",
-        "grade": "city"
+        "hint": "Close the windows, please."
     },
     {
         "id": 139,
@@ -1663,9 +1387,7 @@
             "walking to",
             "the zoo."
         ],
-        "hint": "We are walking to the zoo.",
-        "type-id": "order-139",
-        "grade": "province"
+        "hint": "We are walking to the zoo."
     },
     {
         "id": 140,
@@ -1675,9 +1397,7 @@
             "the museum",
             "after school?"
         ],
-        "hint": "Do you go to the museum after school?",
-        "type-id": "order-140",
-        "grade": "province"
+        "hint": "Do you go to the museum after school?"
     },
     {
         "id": 141,
@@ -1687,9 +1407,7 @@
             "have any",
             "sandwiches."
         ],
-        "hint": "I don\u2019t have any sandwiches.",
-        "type-id": "order-141",
-        "grade": "city"
+        "hint": "I don\u2019t have any sandwiches."
     },
     {
         "id": 142,
@@ -1699,9 +1417,7 @@
             "is",
             "next Monday."
         ],
-        "hint": "Her birthday is next Monday.",
-        "type-id": "order-142",
-        "grade": "province"
+        "hint": "Her birthday is next Monday."
     },
     {
         "id": 143,
@@ -1711,9 +1427,7 @@
             "\tvery big",
             "bag."
         ],
-        "hint": "This is a \tvery big bag.",
-        "type-id": "order-143",
-        "grade": "city"
+        "hint": "This is a \tvery big bag."
     },
     {
         "id": 144,
@@ -1723,9 +1437,7 @@
             "my",
             "new ruler."
         ],
-        "hint": "This is my new ruler.",
-        "type-id": "order-144",
-        "grade": "city"
+        "hint": "This is my new ruler."
     },
     {
         "id": 145,
@@ -1735,9 +1447,7 @@
             "my",
             "pencil case."
         ],
-        "hint": "It isn\u2019t my pencil case.",
-        "type-id": "order-145",
-        "grade": "city"
+        "hint": "It isn\u2019t my pencil case."
     },
     {
         "id": 146,
@@ -1747,9 +1457,7 @@
             "is",
             "your T-shirt?"
         ],
-        "hint": "What color is your T-shirt?",
-        "type-id": "order-146",
-        "grade": "city"
+        "hint": "What color is your T-shirt?"
     },
     {
         "id": 147,
@@ -1759,9 +1467,7 @@
             "swim",
             "or dive?"
         ],
-        "hint": "Can you swim or dive?",
-        "type-id": "order-147",
-        "grade": "province"
+        "hint": "Can you swim or dive?"
     },
     {
         "id": 148,
@@ -1771,9 +1477,7 @@
             "a cartoon",
             "now."
         ],
-        "hint": "The children are watching a cartoon now.",
-        "type-id": "order-148",
-        "grade": "province"
+        "hint": "The children are watching a cartoon now."
     },
     {
         "id": 149,
@@ -1783,9 +1487,7 @@
             "any dogs",
             "at home?"
         ],
-        "hint": "Do you have any dogs at home?",
-        "type-id": "order-149",
-        "grade": "province"
+        "hint": "Do you have any dogs at home?"
     },
     {
         "id": 150,
@@ -1795,9 +1497,7 @@
             "famous",
             "footballer."
         ],
-        "hint": "Uncle Roger is a famous footballer.",
-        "type-id": "order-150",
-        "grade": "province"
+        "hint": "Uncle Roger is a famous footballer."
     },
     {
         "id": 151,
@@ -1807,9 +1507,7 @@
             "and ",
             "two goldfish."
         ],
-        "hint": "James has one turtle and  two goldfish.",
-        "type-id": "order-151",
-        "grade": "province"
+        "hint": "James has one turtle and  two goldfish."
     },
     {
         "id": 153,
@@ -1819,9 +1517,7 @@
             "brother\u2019s",
             "name?"
         ],
-        "hint": "What\u2019s your brother\u2019s name?",
-        "type-id": "order-153",
-        "grade": "city"
+        "hint": "What\u2019s your brother\u2019s name?"
     },
     {
         "id": 154,
@@ -1831,9 +1527,7 @@
             "boys",
             "in my class."
         ],
-        "hint": "There are twenty boys in my class.",
-        "type-id": "order-154",
-        "grade": "province"
+        "hint": "There are twenty boys in my class."
     },
     {
         "id": 155,
@@ -1843,9 +1537,7 @@
             "are forty",
             "years old."
         ],
-        "hint": "Both my father and my mother are forty years old.",
-        "type-id": "order-155",
-        "grade": "province"
+        "hint": "Both my father and my mother are forty years old."
     },
     {
         "id": 156,
@@ -1855,9 +1547,7 @@
             "late",
             "for school."
         ],
-        "hint": "Don\u2019t be late for school.",
-        "type-id": "order-156",
-        "grade": "province"
+        "hint": "Don\u2019t be late for school."
     },
     {
         "id": 157,
@@ -1867,9 +1557,7 @@
             "Tim and",
             "Jane."
         ],
-        "hint": "This is Tim and Jane.",
-        "type-id": "order-157",
-        "grade": "school"
+        "hint": "This is Tim and Jane."
     },
     {
         "id": 158,
@@ -1879,9 +1567,7 @@
             "a",
             "doll."
         ],
-        "hint": "This is a doll.",
-        "type-id": "order-158",
-        "grade": "school"
+        "hint": "This is a doll."
     },
     {
         "id": 159,
@@ -1891,9 +1577,7 @@
             "are at",
             "the school gate."
         ],
-        "hint": "Peter and Mary are at the school gate.",
-        "type-id": "order-159",
-        "grade": "province"
+        "hint": "Peter and Mary are at the school gate."
     },
     {
         "id": 160,
@@ -1903,9 +1587,7 @@
             "my",
             "teddy bear."
         ],
-        "hint": "This is my teddy bear.",
-        "type-id": "order-160",
-        "grade": "province"
+        "hint": "This is my teddy bear."
     },
     {
         "id": 161,
@@ -1915,9 +1597,7 @@
             "hungry",
             "now."
         ],
-        "hint": "I am hungry now.",
-        "type-id": "order-161",
-        "grade": "city"
+        "hint": "I am hungry now."
     },
     {
         "id": 162,
@@ -1927,9 +1607,7 @@
             "a",
             "chair."
         ],
-        "hint": "It is a chair.",
-        "type-id": "order-162",
-        "grade": "school"
+        "hint": "It is a chair."
     },
     {
         "id": 163,
@@ -1939,9 +1617,7 @@
             "my",
             "book."
         ],
-        "hint": "This is my book.",
-        "type-id": "order-163",
-        "grade": "school"
+        "hint": "This is my book."
     },
     {
         "id": 164,
@@ -1951,9 +1627,7 @@
             "your",
             "name?"
         ],
-        "hint": "What is your name?",
-        "type-id": "order-164",
-        "grade": "school"
+        "hint": "What is your name?"
     },
     {
         "id": 165,
@@ -1963,9 +1637,7 @@
             "friend\u2019s",
             "name?"
         ],
-        "hint": "What\u2019s your friend\u2019s name?",
-        "type-id": "order-165",
-        "grade": "school"
+        "hint": "What\u2019s your friend\u2019s name?"
     },
     {
         "id": 166,
@@ -1975,9 +1647,7 @@
             "some",
             "food."
         ],
-        "hint": "Peter wants some food.",
-        "type-id": "order-166",
-        "grade": "province"
+        "hint": "Peter wants some food."
     },
     {
         "id": 167,
@@ -1987,9 +1657,7 @@
             "like",
             "cats."
         ],
-        "hint": "My brother doesn\u2019t like cats.",
-        "type-id": "order-167",
-        "grade": "province"
+        "hint": "My brother doesn\u2019t like cats."
     },
     {
         "id": 168,
@@ -1999,9 +1667,7 @@
             "you",
             "tomorrow!"
         ],
-        "hint": "Bye. See you tomorrow!",
-        "type-id": "order-168",
-        "grade": "school"
+        "hint": "Bye. See you tomorrow!"
     },
     {
         "id": 169,
@@ -2011,9 +1677,7 @@
             "postcard",
             "to a pen friend."
         ],
-        "hint": "Write a postcard to a pen friend.",
-        "type-id": "order-169",
-        "grade": "province"
+        "hint": "Write a postcard to a pen friend."
     },
     {
         "id": 170,
@@ -2023,9 +1687,7 @@
             "English",
             "."
         ],
-        "hint": "Let\u2019s learn English .",
-        "type-id": "order-170",
-        "grade": "school"
+        "hint": "Let\u2019s learn English ."
     },
     {
         "id": 171,
@@ -2035,9 +1697,7 @@
             "crossword",
             "puzzle."
         ],
-        "hint": "Complete the crossword puzzle.",
-        "type-id": "order-171",
-        "grade": "province"
+        "hint": "Complete the crossword puzzle."
     },
     {
         "id": 172,
@@ -2047,9 +1707,7 @@
             "teacher",
             "."
         ],
-        "hint": "Good morning, teacher .",
-        "type-id": "order-172",
-        "grade": "school"
+        "hint": "Good morning, teacher ."
     },
     {
         "id": 173,
@@ -2059,9 +1717,7 @@
             "a",
             "purple bag."
         ],
-        "hint": "This is a purple bag.",
-        "type-id": "order-173",
-        "grade": "province"
+        "hint": "This is a purple bag."
     },
     {
         "id": 174,
@@ -2071,9 +1727,7 @@
             "go",
             "out?"
         ],
-        "hint": "May I go out?",
-        "type-id": "order-174",
-        "grade": "city"
+        "hint": "May I go out?"
     },
     {
         "id": 175,
@@ -2083,9 +1737,7 @@
             "in",
             "my bag."
         ],
-        "hint": "I have a book in my bag.",
-        "type-id": "order-175",
-        "grade": "city"
+        "hint": "I have a book in my bag."
     },
     {
         "id": 176,
@@ -2095,9 +1747,7 @@
             "is",
             "Li Li."
         ],
-        "hint": "My name is Li Li.",
-        "type-id": "order-176",
-        "grade": "school"
+        "hint": "My name is Li Li."
     },
     {
         "id": 177,
@@ -2107,9 +1757,7 @@
             "blue",
             "book."
         ],
-        "hint": "It is a blue book.",
-        "type-id": "order-177",
-        "grade": "city"
+        "hint": "It is a blue book."
     },
     {
         "id": 178,
@@ -2119,9 +1767,7 @@
             "a",
             "bag."
         ],
-        "hint": "It is a bag.",
-        "type-id": "order-178",
-        "grade": "school"
+        "hint": "It is a bag."
     },
     {
         "id": 179,
@@ -2131,9 +1777,7 @@
             "a",
             "red apple."
         ],
-        "hint": "This is a red apple.",
-        "type-id": "order-179",
-        "grade": "city"
+        "hint": "This is a red apple."
     },
     {
         "id": 180,
@@ -2143,9 +1787,7 @@
             "some",
             "water."
         ],
-        "hint": "We want some water.",
-        "type-id": "order-180",
-        "grade": "city"
+        "hint": "We want some water."
     },
     {
         "id": 181,
@@ -2155,9 +1797,7 @@
             "your",
             "book?"
         ],
-        "hint": "Is that your book?",
-        "type-id": "order-181",
-        "grade": "city"
+        "hint": "Is that your book?"
     },
     {
         "id": 182,
@@ -2167,9 +1807,7 @@
             "this?",
             ""
         ],
-        "hint": "What is this? ",
-        "type-id": "order-182",
-        "grade": "school"
+        "hint": "What is this? "
     },
     {
         "id": 183,
@@ -2179,9 +1817,7 @@
             "green",
             "pen."
         ],
-        "hint": "Look at that green pen.",
-        "type-id": "order-183",
-        "grade": "province"
+        "hint": "Look at that green pen."
     },
     {
         "id": 184,
@@ -2191,9 +1827,7 @@
             "your",
             "book."
         ],
-        "hint": "Put away your book.",
-        "type-id": "order-184",
-        "grade": "province"
+        "hint": "Put away your book."
     },
     {
         "id": 185,
@@ -2203,9 +1837,7 @@
             "after",
             "me."
         ],
-        "hint": "Please repeat after me.",
-        "type-id": "order-185",
-        "grade": "city"
+        "hint": "Please repeat after me."
     },
     {
         "id": 186,
@@ -2215,9 +1847,7 @@
             "the",
             "board."
         ],
-        "hint": "Look at the board.",
-        "type-id": "order-186",
-        "grade": "city"
+        "hint": "Look at the board."
     },
     {
         "id": 187,
@@ -2227,9 +1857,7 @@
             "How",
             "are you?"
         ],
-        "hint": "Hi, Mary. How are you?",
-        "type-id": "order-187",
-        "grade": "school"
+        "hint": "Hi, Mary. How are you?"
     },
     {
         "id": 188,
@@ -2239,9 +1867,7 @@
             "fine,",
             "thank you."
         ],
-        "hint": "I am fine, thank you.",
-        "type-id": "order-188",
-        "grade": "school"
+        "hint": "I am fine, thank you."
     },
     {
         "id": 189,
@@ -2251,9 +1877,7 @@
             "teeth,",
             "please."
         ],
-        "hint": "Clean your teeth, please.",
-        "type-id": "order-189",
-        "grade": "city"
+        "hint": "Clean your teeth, please."
     },
     {
         "id": 190,
@@ -2263,9 +1887,7 @@
             "my",
             "classroom."
         ],
-        "hint": "This is my classroom.",
-        "type-id": "order-190",
-        "grade": "city"
+        "hint": "This is my classroom."
     },
     {
         "id": 191,
@@ -2275,9 +1897,7 @@
             "my",
             "teacher."
         ],
-        "hint": "She is my teacher.",
-        "type-id": "order-191",
-        "grade": "city"
+        "hint": "She is my teacher."
     },
     {
         "id": 192,
@@ -2287,9 +1907,7 @@
             "a",
             "brown cat."
         ],
-        "hint": "That is a brown cat.",
-        "type-id": "order-192",
-        "grade": "city"
+        "hint": "That is a brown cat."
     },
     {
         "id": 193,
@@ -2299,9 +1917,7 @@
             "is",
             "this?"
         ],
-        "hint": "What colour is this?",
-        "type-id": "order-193",
-        "grade": "city"
+        "hint": "What colour is this?"
     },
     {
         "id": 194,
@@ -2311,9 +1927,7 @@
             "its",
             "name?"
         ],
-        "hint": "What is its name?",
-        "type-id": "order-194",
-        "grade": "school"
+        "hint": "What is its name?"
     },
     {
         "id": 195,
@@ -2323,9 +1937,7 @@
             "my",
             "friend."
         ],
-        "hint": "Tom is my friend.",
-        "type-id": "order-195",
-        "grade": "school"
+        "hint": "Tom is my friend."
     },
     {
         "id": 196,
@@ -2335,9 +1947,7 @@
             "school",
             "big?"
         ],
-        "hint": "Is your school big?",
-        "type-id": "order-196",
-        "grade": "city"
+        "hint": "Is your school big?"
     },
     {
         "id": 197,
@@ -2347,9 +1957,7 @@
             "the book,",
             "please."
         ],
-        "hint": "Give me the book, please.",
-        "type-id": "order-197",
-        "grade": "school"
+        "hint": "Give me the book, please."
     },
     {
         "id": 198,
@@ -2359,9 +1967,7 @@
             "my",
             "new friends."
         ],
-        "hint": "These are my new friends.",
-        "type-id": "order-198",
-        "grade": "school"
+        "hint": "These are my new friends."
     },
     {
         "id": 199,
@@ -2371,9 +1977,7 @@
             "my friend,",
             "too."
         ],
-        "hint": "He is my friend, too.",
-        "type-id": "order-199",
-        "grade": "city"
+        "hint": "He is my friend, too."
     },
     {
         "id": 200,
@@ -2383,9 +1987,7 @@
             "your",
             "hand."
         ],
-        "hint": "Put down your hand.",
-        "type-id": "order-200",
-        "grade": "province"
+        "hint": "Put down your hand."
     },
     {
         "id": 202,
@@ -2395,9 +1997,7 @@
             "want",
             "some milk?"
         ],
-        "hint": "Do you want some milk?",
-        "type-id": "order-202",
-        "grade": "province"
+        "hint": "Do you want some milk?"
     },
     {
         "id": 203,
@@ -2407,9 +2007,7 @@
             "my",
             "new book."
         ],
-        "hint": "This is my new book.",
-        "type-id": "order-203",
-        "grade": "city"
+        "hint": "This is my new book."
     },
     {
         "id": 204,
@@ -2419,9 +2017,7 @@
             "go",
             "out?"
         ],
-        "hint": "May I go out?",
-        "type-id": "order-204",
-        "grade": "city"
+        "hint": "May I go out?"
     },
     {
         "id": 205,
@@ -2431,9 +2027,7 @@
             "an",
             "eraser."
         ],
-        "hint": "This is an eraser.",
-        "type-id": "order-205",
-        "grade": "city"
+        "hint": "This is an eraser."
     },
     {
         "id": 206,
@@ -2443,9 +2037,7 @@
             "my",
             "box."
         ],
-        "hint": "That is my box.",
-        "type-id": "order-206",
-        "grade": "province"
+        "hint": "That is my box."
     },
     {
         "id": 207,
@@ -2455,9 +2047,7 @@
             "school",
             "every morning."
         ],
-        "hint": "I go to school every morning.",
-        "type-id": "order-207",
-        "grade": "province"
+        "hint": "I go to school every morning."
     },
     {
         "id": 208,
@@ -2467,9 +2057,7 @@
             "the way",
             "we go to school."
         ],
-        "hint": "This is the way we go to school.",
-        "type-id": "order-208",
-        "grade": "province"
+        "hint": "This is the way we go to school."
     },
     {
         "id": 209,
@@ -2479,9 +2067,7 @@
             "some",
             "chalks."
         ],
-        "hint": "He has some chalks.",
-        "type-id": "order-209",
-        "grade": "province"
+        "hint": "He has some chalks."
     },
     {
         "id": 210,
@@ -2491,9 +2077,7 @@
             "an",
             "eraser."
         ],
-        "hint": "It is an eraser.",
-        "type-id": "order-210",
-        "grade": "city"
+        "hint": "It is an eraser."
     },
     {
         "id": 211,
@@ -2503,9 +2087,7 @@
             "my",
             "pens."
         ],
-        "hint": "These are my pens.",
-        "type-id": "order-211",
-        "grade": "city"
+        "hint": "These are my pens."
     },
     {
         "id": 212,
@@ -2515,9 +2097,7 @@
             "is",
             "white."
         ],
-        "hint": "The rabbit is white.",
-        "type-id": "order-212",
-        "grade": "province"
+        "hint": "The rabbit is white."
     },
     {
         "id": 213,
@@ -2527,9 +2107,7 @@
             "am",
             "late."
         ],
-        "hint": "Sorry, I am late.",
-        "type-id": "order-213",
-        "grade": "city"
+        "hint": "Sorry, I am late."
     },
     {
         "id": 214,
@@ -2539,9 +2117,7 @@
             "is",
             "Peter."
         ],
-        "hint": "His name is Peter.",
-        "type-id": "order-214",
-        "grade": "school"
+        "hint": "His name is Peter."
     },
     {
         "id": 215,
@@ -2551,9 +2127,7 @@
             "crayons",
             "are there?"
         ],
-        "hint": "How many crayons are there?",
-        "type-id": "order-215",
-        "grade": "city"
+        "hint": "How many crayons are there?"
     },
     {
         "id": 216,
@@ -2563,9 +2137,7 @@
             "school bag,",
             "Peter."
         ],
-        "hint": "Open your school bag, Peter.",
-        "type-id": "order-216",
-        "grade": "city"
+        "hint": "Open your school bag, Peter."
     },
     {
         "id": 217,
@@ -2575,9 +2147,7 @@
             "my",
             "friend, Linh."
         ],
-        "hint": "This is my friend, Linh.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "This is my friend, Linh."
     },
     {
         "id": 218,
@@ -2587,9 +2157,7 @@
             "window",
             "new, too?"
         ],
-        "hint": "Is the window new, too?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Is the window new, too?"
     },
     {
         "id": 219,
@@ -2599,9 +2167,7 @@
             "to",
             "school today."
         ],
-        "hint": "Linda goes to school today.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Linda goes to school today."
     },
     {
         "id": 220,
@@ -2611,9 +2177,7 @@
             "friends,",
             "Binh and Nam."
         ],
-        "hint": "They are my friends, Binh and Nam.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "They are my friends, Binh and Nam."
     },
     {
         "id": 221,
@@ -2623,9 +2187,7 @@
             "sing a song",
             " together."
         ],
-        "hint": "My friends and I sing a song together.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "My friends and I sing a song together."
     },
     {
         "id": 222,
@@ -2635,9 +2197,7 @@
             "your",
             "sister?"
         ],
-        "hint": "Is she your sister?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Is she your sister?"
     },
     {
         "id": 223,
@@ -2647,9 +2207,7 @@
             "borrow",
             "your pen?"
         ],
-        "hint": "Can I borrow your pen?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Can I borrow your pen?"
     },
     {
         "id": 224,
@@ -2659,9 +2217,7 @@
             "years old,",
             "too."
         ],
-        "hint": "Nam is ten years old, too.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Nam is ten years old, too."
     },
     {
         "id": 225,
@@ -2671,9 +2227,7 @@
             "come in,",
             "Ms. Hoa?"
         ],
-        "hint": "May I come in, Ms. Hoa?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "May I come in, Ms. Hoa?"
     },
     {
         "id": 226,
@@ -2683,9 +2237,7 @@
             "his",
             "new friends?"
         ],
-        "hint": "Are they his new friends?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Are they his new friends?"
     },
     {
         "id": 227,
@@ -2695,9 +2247,7 @@
             "is",
             "your room?"
         ],
-        "hint": "What colour is your room?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "What colour is your room?"
     },
     {
         "id": 228,
@@ -2707,9 +2257,7 @@
             "spell",
             "this name?"
         ],
-        "hint": "How do you spell this name?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "How do you spell this name?"
     },
     {
         "id": 229,
@@ -2719,9 +2267,7 @@
             "is",
             "Quan."
         ],
-        "hint": "His name is Quan.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "His name is Quan."
     },
     {
         "id": 230,
@@ -2731,9 +2277,7 @@
             "big",
             "dog."
         ],
-        "hint": "It is a big dog.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "It is a big dog."
     },
     {
         "id": 231,
@@ -2743,9 +2287,7 @@
             "pencil",
             "sharpener?"
         ],
-        "hint": "What colour is your pencil sharpener?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "What colour is your pencil sharpener?"
     },
     {
         "id": 232,
@@ -2755,9 +2297,7 @@
             "playground ",
             "large?"
         ],
-        "hint": "Is your school playground large?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Is your school playground large?"
     },
     {
         "id": 233,
@@ -2767,9 +2307,7 @@
             "your ",
             "friend?"
         ],
-        "hint": "How old is your friend?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "How old is your friend?"
     },
     {
         "id": 234,
@@ -2779,9 +2317,7 @@
             "are",
             "on the desk."
         ],
-        "hint": "Five pens are on the desk.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Five pens are on the desk."
     },
     {
         "id": 235,
@@ -2791,9 +2327,7 @@
             "are",
             "yellow and green."
         ],
-        "hint": "Their bags are yellow and green.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Their bags are yellow and green."
     },
     {
         "id": 236,
@@ -2803,9 +2337,7 @@
             "are",
             "yellow."
         ],
-        "hint": "My cats are yellow.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "My cats are yellow."
     },
     {
         "id": 237,
@@ -2815,9 +2347,7 @@
             "school",
             "in the morning."
         ],
-        "hint": "I go to school in the morning.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "I go to school in the morning."
     },
     {
         "id": 238,
@@ -2827,9 +2357,7 @@
             "in",
             "the room."
         ],
-        "hint": "He is not in the room.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "He is not in the room."
     },
     {
         "id": 239,
@@ -2839,9 +2367,7 @@
             "years",
             "old."
         ],
-        "hint": "I\u2019m eight years old.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "I\u2019m eight years old."
     },
     {
         "id": 240,
@@ -2851,9 +2377,7 @@
             "new",
             "and big."
         ],
-        "hint": "My school is new and big.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "My school is new and big."
     },
     {
         "id": 241,
@@ -2863,9 +2387,7 @@
             "eight",
             "years old."
         ],
-        "hint": "I am eight years old.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "I am eight years old."
     },
     {
         "id": 242,
@@ -2875,9 +2397,7 @@
             "pens",
             "and pencils?"
         ],
-        "hint": "Are these his pens and pencils?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Are these his pens and pencils?"
     },
     {
         "id": 243,
@@ -2887,9 +2407,7 @@
             "spell",
             "that name?"
         ],
-        "hint": "How do you spell that name?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "How do you spell that name?"
     },
     {
         "id": 244,
@@ -2899,9 +2417,7 @@
             "book,",
             "Nam."
         ],
-        "hint": "Close your book, Nam.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Close your book, Nam."
     },
     {
         "id": 245,
@@ -2911,9 +2427,7 @@
             "in",
             "the classroom."
         ],
-        "hint": "They aren\u2019t in the classroom.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "They aren\u2019t in the classroom."
     },
     {
         "id": 246,
@@ -2923,9 +2437,7 @@
             "is small",
             "but new."
         ],
-        "hint": "The art room is small but new.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "The art room is small but new."
     },
     {
         "id": 247,
@@ -2935,9 +2447,7 @@
             "my",
             "short rulers."
         ],
-        "hint": "These are my short rulers.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "These are my short rulers."
     },
     {
         "id": 248,
@@ -2947,9 +2457,7 @@
             "today,",
             "Mai and Phong?"
         ],
-        "hint": "How are you today, Mai and Phong?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "How are you today, Mai and Phong?"
     },
     {
         "id": 249,
@@ -2959,9 +2467,7 @@
             "school",
             "library big?"
         ],
-        "hint": "Is your school library big?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Is your school library big?"
     },
     {
         "id": 250,
@@ -2971,9 +2477,7 @@
             "notebooks",
             "and pencils."
         ],
-        "hint": "These are my notebooks and pencils.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "These are my notebooks and pencils."
     },
     {
         "id": 251,
@@ -2983,9 +2487,7 @@
             "on",
             "the bookcase."
         ],
-        "hint": "The books are on the bookcase.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "The books are on the bookcase."
     },
     {
         "id": 252,
@@ -2995,9 +2497,7 @@
             "book,",
             "please!"
         ],
-        "hint": "Open your book, please!",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Open your book, please!"
     },
     {
         "id": 253,
@@ -3007,9 +2507,7 @@
             "yellow",
             "and pink."
         ],
-        "hint": "This box is yellow and pink.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "This box is yellow and pink."
     },
     {
         "id": 254,
@@ -3019,9 +2517,7 @@
             "you",
             "today?"
         ],
-        "hint": "How are you today?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "How are you today?"
     },
     {
         "id": 255,
@@ -3031,9 +2527,7 @@
             "on",
             "the table."
         ],
-        "hint": "The book is on the table.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "The book is on the table."
     },
     {
         "id": 256,
@@ -3043,9 +2537,7 @@
             "sick",
             "today."
         ],
-        "hint": "Tony is sick today.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Tony is sick today."
     },
     {
         "id": 257,
@@ -3055,9 +2547,7 @@
             "your",
             "name?"
         ],
-        "hint": "What\u2019s your name?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "What\u2019s your name?"
     },
     {
         "id": 258,
@@ -3067,9 +2557,7 @@
             "play",
             "badminton."
         ],
-        "hint": "I play badminton.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "I play badminton."
     },
     {
         "id": 259,
@@ -3079,9 +2567,7 @@
             "thanks.",
             "And you?"
         ],
-        "hint": "I\u2019m fine, thanks. And you?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "I\u2019m fine, thanks. And you?"
     },
     {
         "id": 260,
@@ -3091,9 +2577,7 @@
             "in",
             "playground."
         ],
-        "hint": "I play table tennis in the playground.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "I play table tennis in the playground."
     },
     {
         "id": 261,
@@ -3103,9 +2587,7 @@
             "in the",
             "art room."
         ],
-        "hint": "He draws pictures in the art room.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "He draws pictures in the art room."
     },
     {
         "id": 262,
@@ -3115,9 +2597,7 @@
             "name",
             "is Linda."
         ],
-        "hint": "Hi. My name is Linda.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Hi. My name is Linda."
     },
     {
         "id": 263,
@@ -3127,9 +2607,7 @@
             "two",
             "little puppies."
         ],
-        "hint": "These are two little puppies.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "These are two little puppies."
     },
     {
         "id": 264,
@@ -3139,9 +2617,7 @@
             "playing",
             "football"
         ],
-        "hint": "I like playing football.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "I like playing football."
     },
     {
         "id": 265,
@@ -3151,9 +2627,7 @@
             "is",
             "your new bag?"
         ],
-        "hint": "What colour is your new bag?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "What colour is your new bag?"
     },
     {
         "id": 266,
@@ -3163,9 +2637,7 @@
             "garden",
             "is large."
         ],
-        "hint": "My school garden is large.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "My school garden is large."
     },
     {
         "id": 267,
@@ -3175,9 +2647,7 @@
             "boys",
             "!"
         ],
-        "hint": "Be quiet, boys!",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Be quiet, boys!"
     },
     {
         "id": 268,
@@ -3187,9 +2657,7 @@
             "is",
             "small, and my ruler is short."
         ],
-        "hint": "My rubber is small, and my ruler is short.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "My rubber is small, and my ruler is short."
     },
     {
         "id": 269,
@@ -3199,9 +2667,7 @@
             "is",
             "your teacher?"
         ],
-        "hint": "How old is your teacher?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "How old is your teacher?"
     },
     {
         "id": 270,
@@ -3211,9 +2677,7 @@
             "to",
             "school with my friends."
         ],
-        "hint": "I go to school with my friends.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "I go to school with my friends."
     },
     {
         "id": 271,
@@ -3223,9 +2687,7 @@
             "are",
             "brown."
         ],
-        "hint": "Their backpacks are brown.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Their backpacks are brown."
     },
     {
         "id": 272,
@@ -3235,9 +2697,7 @@
             "your",
             "pet?"
         ],
-        "hint": "Is that your pet?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Is that your pet?"
     },
     {
         "id": 273,
@@ -3247,9 +2707,7 @@
             "is",
             "not large."
         ],
-        "hint": "My classroom is not large.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "My classroom is not large."
     },
     {
         "id": 274,
@@ -3259,9 +2717,7 @@
             "spell",
             "her name?"
         ],
-        "hint": "How do you spell her name?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "How do you spell her name?"
     },
     {
         "id": 275,
@@ -3271,9 +2727,7 @@
             "ask you",
             "a question?"
         ],
-        "hint": "May I ask you a question?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "May I ask you a question?"
     },
     {
         "id": 276,
@@ -3283,9 +2737,7 @@
             "his",
             "books."
         ],
-        "hint": "Those aren\u2019t his books.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Those aren\u2019t his books."
     },
     {
         "id": 277,
@@ -3295,9 +2747,7 @@
             "a new ",
             "pupil, Sarah."
         ],
-        "hint": "This is a new pupil, Sarah.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "This is a new pupil, Sarah."
     },
     {
         "id": 278,
@@ -3307,9 +2757,7 @@
             "my",
             "new friends."
         ],
-        "hint": "Those are my new friends.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Those are my new friends."
     },
     {
         "id": 279,
@@ -3319,9 +2767,7 @@
             "my",
             "new friend."
         ],
-        "hint": "Peter is my new friend.",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Peter is my new friend."
     },
     {
         "id": 280,
@@ -3331,8 +2777,6 @@
             "that",
             "girl?"
         ],
-        "hint": "Who\u2019s that girl?",
-        "type-id": NaN,
-        "grade": "School D1"
+        "hint": "Who\u2019s that girl?"
     }
 ]

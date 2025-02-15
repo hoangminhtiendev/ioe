@@ -1,82 +1,1642 @@
 [
     {
         "id": 1,
-        "sentence": "The cat is _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/audios/colors/black.mp3",
-        "answer": "black",
-        "hint": "Blah"
+        "sentence": "How old is your g______father?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "rand",
+        "hint": "Grandfather \u2192 \u00f4ng n\u1ed9i/\u00f4ng ngo\u1ea1i\nHow old is your grandfather? \u2192 \u00d4ng c\u1ee7a b\u1ea1n bao nhi\u00eau tu\u1ed5i?"
     },
     {
         "id": 2,
-        "sentence": "The cat is _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/audios/colors/black.mp3",
-        "answer": "blue",
-        "hint": "Blah"
+        "sentence": "We have ______ apples",
+        "imageUrl": "Image 5",
+        "audioUrl": "",
+        "answer": "five",
+        "hint": "Five \u2192 n\u0103m\nWe have five apples. \u2192 Ch\u00fang t\u00f4i c\u00f3 n\u0103m qu\u1ea3 t\u00e1o.."
     },
     {
         "id": 3,
-        "sentence": "The cat is _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/audios/colors/black.mp3",
-        "answer": "green",
-        "hint": "Blah"
+        "sentence": "My mom is ______.",
+        "imageUrl": "Image cooking",
+        "audioUrl": "",
+        "answer": "cooking",
+        "hint": "Cook \u2192 n\u1ea5u \u0103n                                                                         \nC\u1ea5u tr\u00fac S + be + Ving \u2192 Ai \u0111\u00f3 \u0111ang l\u00e0m g\u00ec\nMy mom is cooking. \u2192 M\u1eb9 t\u00f4i \u0111ang n\u1ea5u \u0103n."
     },
     {
         "id": 4,
-        "sentence": "The cat is _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/audios/colors/black.mp3",
-        "answer": "orange",
-        "hint": "Blah"
+        "sentence": "Is your ball old ______ new?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "or",
+        "hint": "Or \u2192 hay\nIs your ball old or new? \u2192 Qu\u1ea3 b\u00f3ng c\u1ee7a b\u1ea1n c\u0169 hay m\u1edbi?"
     },
     {
         "id": 5,
-        "sentence": "The cat is _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/audios/colors/black.mp3",
-        "answer": "red",
-        "hint": "Blah"
+        "sentence": "The girls are playing ______.",
+        "imageUrl": "Image volleyball ",
+        "audioUrl": "",
+        "answer": "volleyball",
+        "hint": "volleyball \u2192 b\u00f3ng chuy\u1ec1n\nThe girls are playing volleyball. \u2192 C\u00e1c c\u00f4 g\u00e1i \u0111ang ch\u01a1i b\u00f3ng chuy\u1ec1n."
     },
     {
         "id": 6,
-        "sentence": "The cat is _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/audios/colors/black.mp3",
-        "answer": "purple",
-        "hint": "Blah"
+        "sentence": "They have four ______.",
+        "imageUrl": "Image dogs",
+        "audioUrl": "",
+        "answer": "dogs",
+        "hint": "Dogs \u2192 ch\u00f3\nThey have four dogs. \u2192 H\u1ecd c\u00f3 b\u1ed1n con ch\u00f3."
     },
     {
         "id": 7,
-        "sentence": "The cat is _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/audios/colors/black.mp3",
-        "answer": "indigo",
-        "hint": "Blah"
+        "sentence": "Nice to m ______ you.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "eet",
+        "hint": "Meet \u2192 g\u1eb7p\nNice to meet you. \u2192 R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n."
     },
     {
         "id": 8,
-        "sentence": "The dog is _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/audios/colors/black.mp3",
-        "answer": "black",
-        "hint": "gru"
+        "sentence": "Is y______ name Peter?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "our",
+        "hint": "Your \u2192 c\u1ee7a b\u1ea1n\nIs your name Peter? \u2192 T\u00ean c\u1ee7a b\u1ea1n l\u00e0 Peter ph\u1ea3i kh\u00f4ng?"
     },
     {
         "id": 9,
-        "sentence": "The chicken is _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/audios/colors/black.mp3",
-        "answer": "noisyy",
-        "hint": "o o o"
+        "sentence": "Sit d______, please.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "own",
+        "hint": "Down \u2192 xu\u1ed1ng\nSit down, please. \u2192 L\u00e0m \u01a1n ng\u1ed3i xu\u1ed1ng."
     },
     {
         "id": 10,
-        "sentence": "The green is _ than the red",
-        "imageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/audios/colors/black.mp3",
-        "answer": "cooler",
-        "hint": "great"
+        "sentence": "What do  they often do at break ti______?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "me",
+        "hint": "Time \u2192 th\u1eddi gian\nBreaktime \u2192 gi\u1edd ra ch\u01a1i\nWhat do they often do at break time? \u2192 H\u1ecd th\u01b0\u1eddng l\u00e0m g\u00ec v\u00e0o gi\u1edd ra ch\u01a1i?"
+    },
+    {
+        "id": 11,
+        "sentence": "Is your room b______?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ig",
+        "hint": "Big \u2192 l\u1edbn\nIs your room big? \u2192 Ph\u00f2ng c\u1ee7a b\u1ea1n c\u00f3 l\u1edbn kh\u00f4ng?"
+    },
+    {
+        "id": 12,
+        "sentence": "How ______ you, Mai? \u2013 I\u2019m good. Thanks.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "are",
+        "hint": "How are you, Mai? \u2013 I\u2019m good. Thanks. \u2192 B\u1ea1n kh\u1ecfe kh\u00f4ng, Mai? \u2013 M\u00ecnh kh\u1ecfe. C\u1ea3m \u01a1n."
+    },
+    {
+        "id": 13,
+        "sentence": "My son likes playing ______ his free time.",
+        "imageUrl": "image basketball",
+        "audioUrl": "",
+        "answer": "badminton",
+        "hint": "In \u2192 trong\nMy son likes playing basketball in his free time. \u2192 Con trai t\u00f4i th\u00edch ch\u01a1i b\u00f3ng r\u1ed5 trong th\u1eddi gian r\u1ea3nh."
+    },
+    {
+        "id": 14,
+        "sentence": "What are you rea______?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ding",
+        "hint": "Read \u2192 \u0111\u1ecdc\nReading \u2192 \u0111ang \u0111\u1ecdc\nWhat are you reading? \u2192 B\u1ea1n \u0111ang \u0111\u1ecdc g\u00ec?"
+    },
+    {
+        "id": 15,
+        "sentence": "Blue is my favorite co______ .",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "lour",
+        "hint": "Color \u2192 m\u00e0u\nBlue is my favorite color. \u2192 M\u00e0u xanh d\u01b0\u01a1ng l\u00e0 m\u00e0u y\u00eau th\u00edch c\u1ee7a t\u00f4i."
+    },
+    {
+        "id": 16,
+        "sentence": "I\u2019m ten years ______.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "old",
+        "hint": "Old \u2192 tu\u1ed5i\nI\u2019m ten years old. \u2192 T\u00f4i m\u01b0\u1eddi tu\u1ed5i."
+    },
+    {
+        "id": 17,
+        "sentence": "Suzy is playing ______ tennis.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "table",
+        "hint": "Table \u2192 b\u00e0n\nSuzy is playing table tennis. \u2192 Suzy \u0111ang ch\u01a1i b\u00f3ng b\u00e0n."
+    },
+    {
+        "id": 18,
+        "sentence": "______ROOM.",
+        "imageUrl": "image living room",
+        "audioUrl": "",
+        "answer": "living",
+        "hint": "LIVINGROOM \u2192 PH\u00d2NG KH\u00c1CH"
+    },
+    {
+        "id": 19,
+        "sentence": "There\u2019s bi______on the tree.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "rd",
+        "hint": "Bird \u2192 chim\nThere\u2019s a bird on the tree. \u2192 C\u00f3 m\u1ed9t con chim tr\u00ean c\u00e2y."
+    },
+    {
+        "id": 20,
+        "sentence": "The bu______ is coming.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "Bus \u2192 xe bu\u00fdt\nThe bus is coming. \u2192 Xe bu\u00fdt \u0111ang \u0111\u1ebfn."
+    },
+    {
+        "id": 21,
+        "sentence": "TEDDY______ ?",
+        "imageUrl": "image teddy bear",
+        "audioUrl": "",
+        "answer": "BEAR",
+        "hint": "TEDDY BEAR \u2192 g\u1ea5u b\u00f4ng"
+    },
+    {
+        "id": 22,
+        "sentence": "ELEPH_____",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ANT",
+        "hint": "ELEPHANT \u2192 con voi"
+    },
+    {
+        "id": 23,
+        "sentence": "I can c______from  one to ten.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ount",
+        "hint": "Count \u2192 \u0111\u1ebfm\nI can count from one to ten. \u2192 T\u00f4i c\u00f3 th\u1ec3 \u0111\u1ebfm t\u1eeb m\u1ed9t \u0111\u1ebfn m\u01b0\u1eddi."
+    },
+    {
+        "id": 24,
+        "sentence": "My mom is in the kit_____ .",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "chen",
+        "hint": "Kitchen \u2192 nh\u00e0 b\u1ebfp\nMy mom is in the kitchen. \u2192 M\u1eb9 t\u00f4i \u0111ang \u1edf trong nh\u00e0 b\u1ebfp."
+    },
+    {
+        "id": 25,
+        "sentence": "Hello! My ______ is Nam.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "name",
+        "hint": "Name \u2192 t\u00ean\nHello! My name is Nam. \u2192 Xin ch\u00e0o! T\u00ean t\u00f4i l\u00e0 Nam"
+    },
+    {
+        "id": 26,
+        "sentence": "Her father is a dr______.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "iver",
+        "hint": "Driver \u2192 t\u00e0i x\u1ebf\nHer father is a driver. \u2192 B\u1ed1 c\u1ee7a c\u00f4 \u1ea5y l\u00e0 t\u00e0i x\u1ebf."
+    },
+    {
+        "id": 27,
+        "sentence": "My father often play ch______ after dinner.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ess",
+        "hint": "Chess \u2192 c\u1edd vua\nMy father often plays chess after dinner. \u2192 B\u1ed1 t\u00f4i th\u01b0\u1eddng ch\u01a1i c\u1edd vua sau b\u1eefa t\u1ed1i."
+    },
+    {
+        "id": 28,
+        "sentence": "How do you spell your mid______ name?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "dle",
+        "hint": "Middle \u2192 \u0111\u1ec7m\nMiddle name \u2192 t\u00ean \u0111\u1ec7m\nHow do you spell your middle name? \u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n t\u00ean \u0111\u1ec7m c\u1ee7a b\u1ea1n nh\u01b0 th\u1ebf n\u00e0o?"
+    },
+    {
+        "id": 29,
+        "sentence": "BE______ROOM",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "D",
+        "hint": "BEDROOM \u2192 PH\u00d2NG NG\u1ee6"
+    },
+    {
+        "id": 30,
+        "sentence": "W______\u2019s your Dad? \u2013 He\u2019s in the garden.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "here",
+        "hint": "Where \u2192 \u0111\u00e2u\nWhere\u2019s your Dad? \u2013 He\u2019s in the garden. \u2192 B\u1ed1 b\u1ea1n \u0111\u00e2u? \u2013 \u00d4ng \u1ea5y \u0111ang \u1edf trong v\u01b0\u1eddn."
+    },
+    {
+        "id": 31,
+        "sentence": "D_____ ?",
+        "imageUrl": "image of doctor",
+        "audioUrl": "",
+        "answer": "OCTOR",
+        "hint": "DOCTOR \u2192 b\u00e1c s\u0129"
+    },
+    {
+        "id": 32,
+        "sentence": "F_____.",
+        "imageUrl": "FIFTEEN",
+        "audioUrl": "",
+        "answer": "IFTEEN",
+        "hint": "FIFTEEN \u2192 s\u1ed1 15"
+    },
+    {
+        "id": 33,
+        "sentence": "What do we have for din______ , Mom?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ner",
+        "hint": "Dinner \u2192 b\u1eefa t\u1ed1i\nWhat do we have for dinner, Mom? \u2192 M\u1eb9 \u01a1i, ch\u00fang ta c\u00f3 g\u00ec cho b\u1eefa t\u1ed1i?"
+    },
+    {
+        "id": 34,
+        "sentence": "Mary\u2019s mother is a nu______.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "rse",
+        "hint": "Nurse \u2192 y t\u00e1\nMary\u2019s mother is a nurse. \u2192 M\u1eb9 c\u1ee7a Mary l\u00e0 y t\u00e1."
+    },
+    {
+        "id": 35,
+        "sentence": "What\u2019s the wea______ like today?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ther",
+        "hint": "Weather \u2192 th\u1eddi ti\u1ebft\nWhat\u2019s the weather like today? \u2192 Th\u1eddi ti\u1ebft h\u00f4m nay th\u1ebf n\u00e0o?"
+    },
+    {
+        "id": 36,
+        "sentence": "How many er______ do you have?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "aser",
+        "hint": "Eraser \u2192 c\u1ee5c t\u1ea9y\nHow many +  danh t\u1eeb s\u1ed1 nhi\u1ec1u, Eraser \u2192 Erasers\nHow many erasers do you have? \u2192 B\u1ea1n c\u00f3 bao nhi\u00eau c\u1ee5c t\u1ea9y?"
+    },
+    {
+        "id": 37,
+        "sentence": "Nam has two dogs and fo______cats.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ur",
+        "hint": "Four \u2192 b\u1ed1n\nNam has two dogs and four cats. \u2192 Nam c\u00f3 hai con ch\u00f3 v\u00e0 b\u1ed1n con m\u00e8o."
+    },
+    {
+        "id": 38,
+        "sentence": "Op______ your book, please.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "en",
+        "hint": "Open \u2192 m\u1edf\nOpen your book, please. \u2192 L\u00e0m \u01a1n m\u1edf s\u00e1ch c\u1ee7a b\u1ea1n."
+    },
+    {
+        "id": 39,
+        "sentence": "PE_____",
+        "imageUrl": "audio of peacock",
+        "audioUrl": "",
+        "answer": "ACOCK",
+        "hint": "PEACOCK \u2192 con c\u00f4ng"
+    },
+    {
+        "id": 40,
+        "sentence": "Do you have ______ rulers?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "any",
+        "hint": "Any \u2192 c\u00e1i n\u00e0o\nDo you have any rulers? \u2192 B\u1ea1n c\u00f3 c\u00e1i th\u01b0\u1edbc n\u00e0o kh\u00f4ng?"
+    },
+    {
+        "id": 41,
+        "sentence": "P______.",
+        "imageUrl": "image of plane",
+        "audioUrl": "",
+        "answer": "LANE",
+        "hint": "PLANE \u2192 m\u00e1y bay"
+    },
+    {
+        "id": 42,
+        "sentence": "There ______ two notebooks in my schoolbag.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "are",
+        "hint": "There are \u2192 c\u00f3 (s\u1ed1 l\u01b0\u1ee3ng > 1)\nThere are two notebooks in my schoolbag. \u2192 C\u00f3 hai quy\u1ec3n v\u1edf trong c\u1eb7p c\u1ee7a t\u00f4i."
+    },
+    {
+        "id": 43,
+        "sentence": "My mother is a doctor and my father is a te______",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "acher",
+        "hint": "Teacher \u2192 gi\u00e1o vi\u00ean\nMy mother is a doctor and my father is a teacher. \u2192 M\u1eb9 t\u00f4i l\u00e0 b\u00e1c s\u0129 v\u00e0 b\u1ed1 t\u00f4i l\u00e0 gi\u00e1o vi\u00ean."
+    },
+    {
+        "id": 44,
+        "sentence": "RA______",
+        "imageUrl": "image of rabbit",
+        "audioUrl": "",
+        "answer": "BBIT",
+        "hint": "RABBIT \u2192 con th\u1ecf"
+    },
+    {
+        "id": 45,
+        "sentence": "S______?",
+        "imageUrl": "image of ship",
+        "audioUrl": "",
+        "answer": "HIP",
+        "hint": "SHIP \u2192 con t\u00e0u"
+    },
+    {
+        "id": 46,
+        "sentence": "It\u2019s clo______ today.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "udy",
+        "hint": "Cloudy \u2192 nhi\u1ec1u m\u00e2y\nIt\u2019s cloudy today. \u2192 H\u00f4m nay tr\u1eddi nhi\u1ec1u m\u00e2y."
+    },
+    {
+        "id": 47,
+        "sentence": "They are playing foo______.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "tball",
+        "hint": "Football \u2192 b\u00f3ng \u0111\u00e1\nThey are playing football. \u2192 H\u1ecd \u0111ang ch\u01a1i b\u00f3ng \u0111\u00e1."
+    },
+    {
+        "id": 48,
+        "sentence": "___ many dogs do you have? - I have two dogs.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "How",
+        "hint": "How many \u2192 Bao nhi\u00eau (+ danh t\u1eeb s\u1ed1 nhi\u1ec1u)\nHow many dogs do you have? - I have two dogs. \u2192 B\u1ea1n c\u00f3 bao nhi\u00eau con ch\u00f3? - T\u00f4i c\u00f3 hai con ch\u00f3."
+    },
+    {
+        "id": 49,
+        "sentence": "___ your books pink? - Yes, they are",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "Are",
+        "hint": "Are \u2192 c\u00f3 ph\u1ea3i \nAre your books pink? - Yes, they are. \u2192 S\u00e1ch c\u1ee7a b\u1ea1n c\u00f3 m\u00e0u h\u1ed3ng kh\u00f4ng? - V\u00e2ng, \u0111\u00fang v\u1eady."
+    },
+    {
+        "id": 50,
+        "sentence": "This is my mother.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "other",
+        "hint": "Mother \u2192 m\u1eb9\nThis is my mother. \u2192 \u0110\u00e2y l\u00e0 m\u1eb9 c\u1ee7a t\u00f4i. "
+    },
+    {
+        "id": 51,
+        "sentence": "Look __that map on the wall, please.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "at",
+        "hint": "Look at \u2192 nh\u00ecn v\u00e0o\nLook at that map on the wall, please. \u2192 H\u00e3y nh\u00ecn v\u00e0o t\u1ea5m b\u1ea3n \u0111\u1ed3 tr\u00ean t\u01b0\u1eddng."
+    },
+    {
+        "id": 52,
+        "sentence": "Co__plete the sentences.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "m",
+        "hint": "Complete \u2192 ho\u00e0n th\u00e0nh\nComplete the sentences. \u2192 Ho\u00e0n th\u00e0nh c\u00e1c c\u00e2u sau."
+    },
+    {
+        "id": 53,
+        "sentence": "Bye. See you la___.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ter",
+        "hint": "trungf ne"
+    },
+    {
+        "id": 54,
+        "sentence": "A: ____\u2019s it? - B: It\u2019s my notebook.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "What",
+        "hint": "What \u2192 c\u00e1i g\u00ec\nA: What\u2019s it? - B: It\u2019s my notebook. \u2192 A: \u0110\u00e2y l\u00e0 c\u00e1i g\u00ec? - B: \u0110\u00e2y l\u00e0 quy\u1ec3n v\u1edf c\u1ee7a t\u00f4i."
+    },
+    {
+        "id": 55,
+        "sentence": "Listen __me, please.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "to",
+        "hint": "To \u2192 v\u1edbi\nListen to me, please. \u2192 H\u00e3y l\u1eafng nghe t\u00f4i."
+    },
+    {
+        "id": 56,
+        "sentence": "L__k, listen and repeat.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "oo",
+        "hint": "Look \u2192 nh\u00ecn\nLook, listen and repeat. \u2192 H\u00e3y nh\u00ecn, l\u1eafng nghe v\u00e0 nh\u1eafc l\u1ea1i."
+    },
+    {
+        "id": 57,
+        "sentence": "Good mo__ing, children!",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "rn",
+        "hint": "Morning \u2192 bu\u1ed5i s\u00e1ng\nGood morning, children! \u2192 Ch\u00e0o bu\u1ed5i s\u00e1ng c\u00e1c con!"
+    },
+    {
+        "id": 58,
+        "sentence": "My brother likes playing ________ games.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "video",
+        "hint": "Video game\u2192 tr\u00f2 ch\u01a1i \u0111i\u1ec7n t\u1eed\nMy brother likes playing video games. \u2192 Anh trai t\u00f4i th\u00edch ch\u01a1i tr\u00f2 ch\u01a1i \u0111i\u1ec7n t\u1eed."
+    },
+    {
+        "id": 59,
+        "sentence": "Is it _ ruler? \u2013 No, it isn\u2019t.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "A \u2192 m\u1ed9t\nIs it a ruler? \u2013 No, it isn\u2019t. \u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i l\u00e0 m\u1ed9t c\u00e1i th\u01b0\u1edbc kh\u00f4ng? \u2013 Kh\u00f4ng, kh\u00f4ng ph\u1ea3i."
+    },
+    {
+        "id": 60,
+        "sentence": "Point __the pupils.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "to",
+        "hint": "At \u2192 v\u00e0o\nPoint at the teacher. \u2192 Ch\u1ec9 v\u00e0o h\u1ecdc sinh."
+    },
+    {
+        "id": 61,
+        "sentence": "Sit __wn , please!",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "do",
+        "hint": "Down \u2192 xu\u1ed1ng\nSit down, please! \u2192 H\u00e3y ng\u1ed3i xu\u1ed1ng!"
+    },
+    {
+        "id": 62,
+        "sentence": "Let\u2019s make a ci__cle.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "Circle \u2192 v\u00f2ng tr\u00f2n\nLet\u2019s make a circle. \u2192 H\u00e3y t\u1ea1o th\u00e0nh m\u1ed9t v\u00f2ng tr\u00f2n."
+    },
+    {
+        "id": 63,
+        "sentence": "Stand __, please.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "up",
+        "hint": "Up \u2192 l\u00ean\nStand up, please. \u2192 H\u00e3y \u0111\u1ee9ng l\u00ean."
+    },
+    {
+        "id": 64,
+        "sentence": "She\u2019s beautiful. And who\u2019s this ? \u2013 It\u2019s my elder brother. H__ name is Trung.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "is",
+        "hint": "His \u2192 c\u1ee7a anh \u1ea5y\nShe\u2019s beautiful. And who\u2019s this? \u2013 It\u2019s my elder brother. His name is Trung. \u2192 C\u00f4 \u1ea5y r\u1ea5t \u0111\u1eb9p. C\u00f2n \u0111\u00e2y l\u00e0 ai? \u2013 \u0110\u00e2y l\u00e0 anh trai t\u00f4i. T\u00ean anh \u1ea5y l\u00e0 Trung."
+    },
+    {
+        "id": 65,
+        "sentence": "Unscramble this word: \u201cYBEDOGO\u201d \u2192 \u201cGOOD ___\u201d.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "BYE",
+        "hint": "S\u1eafp x\u1ebfp l\u1ea1i ch\u1eef: \u201cYBEDOGO\u201d \u2192 \u201cGOOD BYE\u201d \u2192 \u201cT\u1ea1m bi\u1ec7t\u201d"
+    },
+    {
+        "id": 66,
+        "sentence": "That\u2019s my fathe__.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "Father \u2192 cha\nThat\u2019s my father. \u2192 \u0110\u00f3 l\u00e0 cha t\u00f4i."
+    },
+    {
+        "id": 67,
+        "sentence": "There are many k____ in the sky.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ites",
+        "hint": "Kites \u2192 di\u1ec1u\nThere are many kites in the sky. \u2192 C\u00f3 nhi\u1ec1u con di\u1ec1u tr\u00ean b\u1ea7u tr\u1eddi."
+    },
+    {
+        "id": 68,
+        "sentence": "SEV___",
+        "imageUrl": "image of seventeen",
+        "audioUrl": "",
+        "answer": "ENTEEN",
+        "hint": "SEVENTEEN \u2192 m\u01b0\u1eddi b\u1ea3y"
+    },
+    {
+        "id": 69,
+        "sentence": "___ do you spell your name, Sam? - It\u2019s S-A-M.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "How",
+        "hint": "How \u2192 nh\u01b0 th\u1ebf n\u00e0o\nHow do you spell your name, Sam? - It\u2019s S-A-M. \u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n t\u00ean c\u1ee7a b\u1ea1n nh\u01b0 th\u1ebf n\u00e0o, Sam? - \u0110\u00f3 l\u00e0 S-A-M."
+    },
+    {
+        "id": 70,
+        "sentence": "Let\u2019s ma__ a line, students.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ke",
+        "hint": "How \u2192 nh\u01b0 th\u1ebf n\u00e0o\nHow do you spell your name, Sam? - It\u2019s S-A-M. \u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n t\u00ean c\u1ee7a b\u1ea1n nh\u01b0 th\u1ebf n\u00e0o, Sam? - \u0110\u00f3 l\u00e0 S-A-M."
+    },
+    {
+        "id": 71,
+        "sentence": "LIS__EN",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "T",
+        "hint": "LISTEN \u2192 Nghe"
+    },
+    {
+        "id": 72,
+        "sentence": "Be q__et, please.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ui",
+        "hint": "Quiet \u2192 y\u00ean l\u1eb7ng\nBe quiet, please. \u2192 H\u00e3y gi\u1eef im l\u1eb7ng."
+    },
+    {
+        "id": 73,
+        "sentence": "My n__me is Hieu.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "Name \u2192 t\u00ean\nMy name is Hieu. \u2192 T\u00ean t\u00f4i l\u00e0 Hi\u1ebfu."
+    },
+    {
+        "id": 74,
+        "sentence": "Is this __ eraser?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "an",
+        "hint": "An \u2192 m\u1ed9t\nIs this an eraser? \u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i l\u00e0 m\u1ed9t c\u1ee5c t\u1ea9y kh\u00f4ng?"
+    },
+    {
+        "id": 75,
+        "sentence": "__es she like table tennis?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "Do",
+        "hint": "Does \u2192 c\u00f3 ph\u1ea3i\nDoes she like table tennis? \u2192 C\u00f4 \u1ea5y c\u00f3 th\u00edch ch\u01a1i b\u00f3ng b\u00e0n kh\u00f4ng?\n"
+    },
+    {
+        "id": 76,
+        "sentence": "__at is your name? - My name is Hung.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "Wh",
+        "hint": "What \u2192 g\u00ec\nWhat is your name? - My name is Hung. \u2192 T\u00ean c\u1ee7a b\u1ea1n l\u00e0 g\u00ec? - T\u00ean t\u00f4i l\u00e0 H\u00f9ng."
+    },
+    {
+        "id": 77,
+        "sentence": "This is the way I c____ my room.",
+        "imageUrl": "Image of clean",
+        "audioUrl": "",
+        "answer": "lean",
+        "hint": "Clean \u2192 d\u1ecdn d\u1eb9p\nThis is the way I clean my room. \u2192 \u0110\u00e2y l\u00e0 c\u00e1ch t\u00f4i d\u1ecdn d\u1eb9p ph\u00f2ng c\u1ee7a m\u00ecnh."
+    },
+    {
+        "id": 78,
+        "sentence": "What\u2019s y__ur name?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "our",
+        "hint": "Your \u2192 c\u1ee7a b\u1ea1n\nWhat\u2019s your name? \u2192 T\u00ean c\u1ee7a b\u1ea1n l\u00e0 g\u00ec?"
+    },
+    {
+        "id": 79,
+        "sentence": "Point and s__y.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "Say \u2192 n\u00f3i\nPoint and say. \u2192 Ch\u1ec9 v\u00e0 n\u00f3i."
+    },
+    {
+        "id": 80,
+        "sentence": "W__t is this? \u2013 This is a marker.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ha",
+        "hint": "What \u2192 g\u00ec\nWhat is this? \u2013 This is a marker. \u2192 \u0110\u00e2y l\u00e0 g\u00ec? \u2013 \u0110\u00e2y l\u00e0 m\u1ed9t b\u00fat l\u00f4ng."
+    },
+    {
+        "id": 81,
+        "sentence": "I like basketba__.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ll",
+        "hint": "Ball \u2192 b\u00f3ng\nBasketball \u2192 b\u00f3ng r\u1ed5\nI like basketball. \u2192 T\u00f4i th\u00edch b\u00f3ng r\u1ed5."
+    },
+    {
+        "id": 82,
+        "sentence": "Stand u__, please.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "p",
+        "hint": "Up \u2192 \u0111\u1ee9ng l\u00ean\nStand up, please. \u2192 H\u00e3y \u0111\u1ee9ng l\u00ean."
+    },
+    {
+        "id": 83,
+        "sentence": ".___ is that? \u2013 That is my younger brother.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "Who",
+        "hint": "Who \u2192 Ai\nWho is that? \u2013 That is my younger brother. \u2192 Ai kia? \u2013 \u0110\u00f3 l\u00e0 em trai t\u00f4i."
+    },
+    {
+        "id": 84,
+        "sentence": "Nice __ see you.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "to",
+        "hint": "Nice to see you. \u2192 R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n."
+    },
+    {
+        "id": 85,
+        "sentence": "BACK__ACK",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "P",
+        "hint": "BACKPACK \u2192 Ba l\u00f4"
+    },
+    {
+        "id": 86,
+        "sentence": "What is your f______e food?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "vorite",
+        "hint": "Favorite \u2192 y\u00eau th\u00edch\nWhat is your favorite food? \u2192 M\u00f3n \u0103n y\u00eau th\u00edch c\u1ee7a b\u1ea1n l\u00e0 g\u00ec?"
+    },
+    {
+        "id": 87,
+        "sentence": "Listen and ti__.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ck",
+        "hint": "Tick \u2192 \u0111\u00e1nh d\u1ea5u\nListen and tick. \u2192 Nghe v\u00e0 \u0111\u00e1nh d\u1ea5u."
+    },
+    {
+        "id": 88,
+        "sentence": "There are two books o_ the table.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "On \u2192 tr\u00ean\nThere are two books on the table. \u2192 C\u00f3 hai quy\u1ec3n s\u00e1ch tr\u00ean b\u00e0n."
+    },
+    {
+        "id": 89,
+        "sentence": "I draw a pictu__ in the room.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "re",
+        "hint": "Picture \u2192 b\u1ee9c tranh\nI draw a picture in the room. \u2192 T\u00f4i v\u1ebd m\u1ed9t b\u1ee9c tranh trong ph\u00f2ng."
+    },
+    {
+        "id": 90,
+        "sentence": "Put your books on the tabl_.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "table\u2192 c\u00e1i b\u00e0n\nPut your books on the table. \u2192 \u0110\u1eb7t s\u00e1ch c\u1ee7a b\u1ea1n l\u00ean b\u00e0n."
+    },
+    {
+        "id": 91,
+        "sentence": "I\u2019m fine, ____k you.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "than",
+        "hint": "Thank \u2192 c\u1ea3m \u01a1n\nI\u2019m fine, thank you. \u2192 T\u00f4i kh\u1ecfe, c\u1ea3m \u01a1n b\u1ea1n."
+    },
+    {
+        "id": 92,
+        "sentence": "Gi__e me the book, please.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "v",
+        "hint": "Give \u2192 \u0111\u01b0a\nGive me the book, please. \u2192 L\u00e0m \u01a1n \u0111\u01b0a t\u00f4i quy\u1ec3n s\u00e1ch."
+    },
+    {
+        "id": 93,
+        "sentence": "My school __ new.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "is",
+        "hint": "Is \u2192 l\u00e0\nMy school is new. \u2192 Tr\u01b0\u1eddng c\u1ee7a t\u00f4i m\u1edbi."
+    },
+    {
+        "id": 94,
+        "sentence": "How __ are you? \u2013 I\u2019m seven years old.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "old",
+        "hint": "Old \u2192 tu\u1ed5i\nHow old are you? \u2013 I\u2019m seven years old. \u2192 B\u1ea1n bao nhi\u00eau tu\u1ed5i? \u2013 T\u00f4i b\u1ea3y tu\u1ed5i."
+    },
+    {
+        "id": 95,
+        "sentence": "That\u2019_ his brother.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "Is \u2192 l\u00e0\nThat\u2019s his brother. \u2192 \u0110\u00f3 l\u00e0 anh trai c\u1ee7a anh \u1ea5y."
+    },
+    {
+        "id": 96,
+        "sentence": "Nam\u2019s pencil is ____ but mine is short.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "long",
+        "hint": "Long \u2192 d\u00e0i\nNam\u2019s pencil is long but mine is short. \u2192 B\u00fat ch\u00ec c\u1ee7a Nam d\u00e0i nh\u01b0ng b\u00fat c\u1ee7a t\u00f4i th\u00ec ng\u1eafn."
+    },
+    {
+        "id": 97,
+        "sentence": "This gift is for you. - Thank you very ____.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "much",
+        "hint": "Much \u2192 nhi\u1ec1u\nThis gift is for you. - Thank you very much. \u2192 \u0110\u00e2y l\u00e0 m\u00f3n qu\u00e0 d\u00e0nh cho b\u1ea1n. - C\u1ea3m \u01a1n b\u1ea1n r\u1ea5t nhi\u1ec1u."
+    },
+    {
+        "id": 98,
+        "sentence": ". Is your school mall? - ___, it\u2019s big.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "No",
+        "hint": "No \u2192 kh\u00f4ng\nIs your school small? - No, it\u2019s big. \u2192 Tr\u01b0\u1eddng c\u1ee7a b\u1ea1n c\u00f3 nh\u1ecf kh\u00f4ng? - Kh\u00f4ng, n\u00f3 l\u1edbn."
+    },
+    {
+        "id": 99,
+        "sentence": "How __ you spell your name?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "do",
+        "hint": "Do \u2192 \u0111\u00e1nh v\u1ea7n\nHow do you spell your name? \u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n t\u00ean c\u1ee7a b\u1ea1n nh\u01b0 th\u1ebf n\u00e0o?"
+    },
+    {
+        "id": 100,
+        "sentence": "How old i_ your mother?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": ""
+    },
+    {
+        "id": 101,
+        "sentence": "Sue is playing ___ piano.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "the",
+        "hint": ""
+    },
+    {
+        "id": 102,
+        "sentence": "My mother is a doctor a__ my father is an architect.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "nd",
+        "hint": ""
+    },
+    {
+        "id": 103,
+        "sentence": "There\u2019s _ big tree behind my house.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": ""
+    },
+    {
+        "id": 104,
+        "sentence": "Is y__ur name Kim?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "our",
+        "hint": ""
+    },
+    {
+        "id": 105,
+        "sentence": "They are playing vo____ball in the park.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "lley",
+        "hint": ""
+    },
+    {
+        "id": 106,
+        "sentence": "Nam has two dogs and o__ iguana.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "one",
+        "hint": ""
+    },
+    {
+        "id": 107,
+        "sentence": "How m___ tables are there in your classroom? \u2013 Twenty.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "any",
+        "hint": ""
+    },
+    {
+        "id": 108,
+        "sentence": "BA__ROOM",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "TH",
+        "hint": ""
+    },
+    {
+        "id": 109,
+        "sentence": "__ your room big?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "Is",
+        "hint": ""
+    },
+    {
+        "id": 110,
+        "sentence": "What do we have ___ dinner, Mom?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "for",
+        "hint": ""
+    },
+    {
+        "id": 111,
+        "sentence": "Their kids are having lunch __ the moment.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "at",
+        "hint": ""
+    },
+    {
+        "id": 112,
+        "sentence": "Is your house far ____ here?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "from",
+        "hint": ""
+    },
+    {
+        "id": 113,
+        "sentence": "What ___ you watching?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "are",
+        "hint": ""
+    },
+    {
+        "id": 114,
+        "sentence": "They have diffe____ pets.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "rent",
+        "hint": ""
+    },
+    {
+        "id": 115,
+        "sentence": "How old is your g____mother?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "rand",
+        "hint": ""
+    },
+    {
+        "id": 116,
+        "sentence": "How do you spell your fu__ name?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ll",
+        "hint": ""
+    },
+    {
+        "id": 117,
+        "sentence": "What\u2019s your sister do____?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ing",
+        "hint": ""
+    },
+    {
+        "id": 118,
+        "sentence": "Wh___\u2019s your Dad? \u2013 He\u2019s in the garden.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ere",
+        "hint": ""
+    },
+    {
+        "id": 119,
+        "sentence": "PE_CIL",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "N",
+        "hint": ""
+    },
+    {
+        "id": 120,
+        "sentence": "I am in the reading room w___ my friends.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ith",
+        "hint": ""
+    },
+    {
+        "id": 121,
+        "sentence": "I don\u2019t want __ buy more toys.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "to",
+        "hint": ""
+    },
+    {
+        "id": 122,
+        "sentence": "Is there any milk in the fridge? \u2013 __, there isn\u2019t.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "No",
+        "hint": ""
+    },
+    {
+        "id": 123,
+        "sentence": "Wh__ color is your sweater?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "at",
+        "hint": ""
+    },
+    {
+        "id": 124,
+        "sentence": "I\u2019m eight _____ old.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "years",
+        "hint": ""
+    },
+    {
+        "id": 125,
+        "sentence": "The girls are playing hide-and-seek __ present.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "at",
+        "hint": ""
+    },
+    {
+        "id": 126,
+        "sentence": "How many rul__s do you have?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ers",
+        "hint": ""
+    },
+    {
+        "id": 127,
+        "sentence": "Hello! My n___ is Phong.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ame",
+        "hint": ""
+    },
+    {
+        "id": 128,
+        "sentence": "We have a ___ of fun at the playground.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "lot",
+        "hint": ""
+    },
+    {
+        "id": 129,
+        "sentence": "What __ they often do at break time?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "do",
+        "hint": ""
+    },
+    {
+        "id": 130,
+        "sentence": "Blue is my favo____ color.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "rite",
+        "hint": ""
+    },
+    {
+        "id": 131,
+        "sentence": "What\u2019s the weather l___ today?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ike",
+        "hint": ""
+    },
+    {
+        "id": 132,
+        "sentence": "How are you, Mai? \u2013 I\u2019m good. Th____.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "anks",
+        "hint": ""
+    },
+    {
+        "id": 133,
+        "sentence": "PA__OT",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "RR",
+        "hint": ""
+    },
+    {
+        "id": 134,
+        "sentence": "Mary\u2019s mother is a t__cher.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ea",
+        "hint": ""
+    },
+    {
+        "id": 135,
+        "sentence": "He__ is a picture of my room.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "re",
+        "hint": ""
+    },
+    {
+        "id": 136,
+        "sentence": "It\u2019s win__ today.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "dy",
+        "hint": ""
+    },
+    {
+        "id": 137,
+        "sentence": "Her brother is listening __ music.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "to",
+        "hint": ""
+    },
+    {
+        "id": 138,
+        "sentence": "Does Peter li__ soccer?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ke",
+        "hint": ""
+    },
+    {
+        "id": 139,
+        "sentence": "My father often wat____ TV after dinner.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ches",
+        "hint": ""
+    },
+    {
+        "id": 140,
+        "sentence": "There ___ four books in my schoolbag.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "are",
+        "hint": ""
+    },
+    {
+        "id": 141,
+        "sentence": "Do you have a ted__ bear?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "dy",
+        "hint": ""
+    },
+    {
+        "id": 142,
+        "sentence": "Clo__ your book, please.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "se",
+        "hint": ""
+    },
+    {
+        "id": 143,
+        "sentence": "My son likes playing video games __ his free time.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "in",
+        "hint": ""
+    },
+    {
+        "id": 144,
+        "sentence": "Do you have ___ pens?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "any",
+        "hint": ""
+    },
+    {
+        "id": 145,
+        "sentence": "Is your skateboard old __ new?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "or",
+        "hint": ""
+    },
+    {
+        "id": 146,
+        "sentence": "Sit d___, please.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "own",
+        "hint": ""
+    },
+    {
+        "id": 147,
+        "sentence": "Don\u2019t talk in cl__s.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "as",
+        "hint": ""
+    },
+    {
+        "id": 148,
+        "sentence": "Nice __ meet you.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "to",
+        "hint": ""
+    },
+    {
+        "id": 149,
+        "sentence": "I can count ____ one to one hundred.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "from",
+        "hint": ""
+    },
+    {
+        "id": 150,
+        "sentence": "Wh___ color is your sweater?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "at",
+        "hint": ""
+    },
+    {
+        "id": 151,
+        "sentence": "T___",
+        "imageUrl": "image of tiger",
+        "audioUrl": "",
+        "answer": "iger",
+        "hint": ""
+    },
+    {
+        "id": 152,
+        "sentence": "T___",
+        "imageUrl": "image of truck",
+        "audioUrl": "",
+        "answer": "ruck",
+        "hint": ""
+    },
+    {
+        "id": 153,
+        "sentence": "My sister is wa ___TV",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "tching",
+        "hint": ""
+    },
+    {
+        "id": 154,
+        "sentence": "____ and up!",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "Stand",
+        "hint": ""
+    },
+    {
+        "id": 155,
+        "sentence": "My book i_ green.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": ""
+    },
+    {
+        "id": 156,
+        "sentence": "Ar__ room",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": ""
+    },
+    {
+        "id": 157,
+        "sentence": "__ose are my T-shirts.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "Th",
+        "hint": ""
+    },
+    {
+        "id": 158,
+        "sentence": "Nice to m__t you!",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "eet",
+        "hint": ""
+    },
+    {
+        "id": 159,
+        "sentence": "TW__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "O",
+        "hint": ""
+    },
+    {
+        "id": 160,
+        "sentence": "TABLE AND CHAI__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "R",
+        "hint": ""
+    },
+    {
+        "id": 161,
+        "sentence": "_lose your book, please!",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "C",
+        "hint": ""
+    },
+    {
+        "id": 162,
+        "sentence": "__UNCH ROOM",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "L",
+        "hint": ""
+    },
+    {
+        "id": 163,
+        "sentence": "The computers _e new.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ar",
+        "hint": ""
+    },
+    {
+        "id": 164,
+        "sentence": "_IBRARY",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "L",
+        "hint": ""
+    },
+    {
+        "id": 165,
+        "sentence": "I have a bl__ ball.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ue",
+        "hint": ""
+    },
+    {
+        "id": 166,
+        "sentence": "This is my ne_ friend, Lisa.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "w",
+        "hint": ""
+    },
+    {
+        "id": 167,
+        "sentence": "My favourite __lour is red. (image of red color)",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "co",
+        "hint": ""
+    },
+    {
+        "id": 168,
+        "sentence": "The pencil is __llow. (image of yellow pencil)",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ye",
+        "hint": ""
+    },
+    {
+        "id": 169,
+        "sentence": "L_NG (image of a giraffe)",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "LO",
+        "hint": ""
+    },
+    {
+        "id": 170,
+        "sentence": "PLAYGR__ND",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "OU",
+        "hint": ""
+    },
+    {
+        "id": 171,
+        "sentence": "COL___R",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "OUR",
+        "hint": ""
+    },
+    {
+        "id": 172,
+        "sentence": "RUB_ER (image)",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "B",
+        "hint": ""
+    },
+    {
+        "id": 173,
+        "sentence": "__pen your book, please! (image)",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "O",
+        "hint": ""
+    },
+    {
+        "id": 174,
+        "sentence": "BA_KPACK (image)",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "C",
+        "hint": ""
+    },
+    {
+        "id": 175,
+        "sentence": "Don\u2019t talk __ class!",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "in",
+        "hint": ""
+    },
+    {
+        "id": 176,
+        "sentence": "Is you_ school new?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": ""
+    },
+    {
+        "id": 177,
+        "sentence": "D__G",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "O",
+        "hint": ""
+    },
+    {
+        "id": 178,
+        "sentence": "SH_RT",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "O",
+        "hint": ""
+    },
+    {
+        "id": 179,
+        "sentence": "N___EBOOK",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "OT",
+        "hint": ""
+    },
+    {
+        "id": 180,
+        "sentence": "Be q__iet, boys!",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "u",
+        "hint": ""
+    },
+    {
+        "id": 181,
+        "sentence": "This is a computer r___m.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "oom",
+        "hint": ""
+    },
+    {
+        "id": 182,
+        "sentence": "E_GHT",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": ""
+    },
+    {
+        "id": 183,
+        "sentence": "This is a _ed apple.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": ""
+    },
+    {
+        "id": 184,
+        "sentence": "The elephant is big and the mouse is _mall.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": ""
+    },
+    {
+        "id": 185,
+        "sentence": "I dra_ a picture in the art room.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "w",
+        "hint": ""
+    },
+    {
+        "id": 186,
+        "sentence": "__ome here, Tom.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "C",
+        "hint": ""
+    },
+    {
+        "id": 187,
+        "sentence": "No, it is n___.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ot",
+        "hint": ""
+    },
+    {
+        "id": 188,
+        "sentence": "__eep silent!",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "K",
+        "hint": ""
+    },
+    {
+        "id": 189,
+        "sentence": "TABL__ TENNIS",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "E",
+        "hint": ""
+    },
+    {
+        "id": 190,
+        "sentence": "THREE PENCIL__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "S",
+        "hint": ""
+    },
+    {
+        "id": 191,
+        "sentence": "_EVEN",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "S",
+        "hint": ""
+    },
+    {
+        "id": 192,
+        "sentence": "We sing a song in the _usic room.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "m",
+        "hint": ""
+    },
+    {
+        "id": 193,
+        "sentence": "BOOKCA_E",
+        "imageUrl": "image of bookcase",
+        "audioUrl": "",
+        "answer": "S",
+        "hint": ""
+    },
+    {
+        "id": 194,
+        "sentence": "BAD_ INTON",
+        "imageUrl": "image of badminton",
+        "audioUrl": "",
+        "answer": "M",
+        "hint": ""
+    },
+    {
+        "id": 195,
+        "sentence": "I go home ___ my friends",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "with",
+        "hint": ""
+    },
+    {
+        "id": 196,
+        "sentence": "H__ are you?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ow",
+        "hint": ""
+    },
+    {
+        "id": 197,
+        "sentence": "D_SK",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "E",
+        "hint": ""
+    },
+    {
+        "id": 198,
+        "sentence": "May I go out? \u2013 Yes, you ____.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "can",
+        "hint": ""
+    },
+    {
+        "id": 199,
+        "sentence": "There are ___ hats. ",
+        "imageUrl": "(Picture of 3 hats)",
+        "audioUrl": "",
+        "answer": "three",
+        "hint": ""
+    },
+    {
+        "id": 200,
+        "sentence": "I\u2019m five years ___.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "old",
+        "hint": ""
+    },
+    {
+        "id": 201,
+        "sentence": "Complete the word: THA__ YOU",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "nk",
+        "hint": ""
+    },
+    {
+        "id": 202,
+        "sentence": " ___er name is Lucy.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "H",
+        "hint": ""
+    },
+    {
+        "id": 203,
+        "sentence": "Unscramble this word: \u201cERBBRU\u201d \u2192 \u201cRUBB___\u201d.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "er",
+        "hint": ""
+    },
+    {
+        "id": 204,
+        "sentence": "Unscramble this word: \u201cAERSRE\u201d \u2192 \u201cERAS___\u201d.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "er",
+        "hint": ""
+    },
+    {
+        "id": 205,
+        "sentence": "Unscramble the word: ELOHL \u2192 HE____",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "Hello",
+        "hint": ""
     }
 ]

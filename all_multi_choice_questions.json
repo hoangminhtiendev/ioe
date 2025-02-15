@@ -1,142 +1,3558 @@
 [
     {
         "id": 1,
-        "question": "Who are you?",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/chicken.png",
+        "question": "A doctor works at _______.",
+        "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. pupil",
-            "B. teacher",
-            "C. engineer",
-            "D. doctor"
+            "A. a school",
+            "B. a farm",
+            "C. a hospital",
+            "D. a post office"
         ],
         "correctAnswerIndex": 0,
-        "hint": "Who are you?-B\u1ea1n l\u00e0 ai?\\nA. pupil - A. h\u1ecdc sinh\\nB. teacher - B. gi\u00e1o vi\u00ean\\nC. engineer - C. k\u1ef9 s\u01b0\\nD. doctor - D. b\u00e1c s\u0129\""
+        "hint": ""
     },
     {
         "id": 2,
-        "question": "Where are you?",
+        "question": "Which is the second month of the year?",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/blue.mp3",
+        "questionAudioUrl": "",
         "choices": [
-            "A. beach",
-            "B. sea",
-            "C. mountain",
-            "D. school"
+            "A. June",
+            "B. September",
+            "C. February",
+            "D. March"
         ],
         "correctAnswerIndex": 0,
-        "hint": "When is it?"
+        "hint": ""
     },
     {
         "id": 3,
-        "question": "Where are you?",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/chicken.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/blue.mp3",
+        "question": "Which animal is it?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
-            "A. beach",
-            "B. sea",
-            "C. mountain",
-            "D. school"
+            "A. It's an eraser.",
+            "B. It's a duck.",
+            "C. It's an orange.",
+            "D. It's a bridge."
         ],
         "correctAnswerIndex": 0,
-        "hint": "When is it?"
+        "hint": ""
     },
     {
         "id": 4,
-        "question": "Where are you?",
+        "question": "Choose the letter(s) to make a correct word: pu_____le",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/blue.mp3",
+        "questionAudioUrl": "",
         "choices": [
-            "A. beach",
-            "B. sea",
-            "C. mountain",
-            "D. school"
+            "A. ss",
+            "B. aa",
+            "C. zz",
+            "D. rr"
         ],
         "correctAnswerIndex": 0,
-        "hint": "When is it?"
+        "hint": ""
     },
     {
         "id": 5,
-        "question": "Where are you?",
+        "question": "",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/blue.mp3",
+        "questionAudioUrl": "",
         "choices": [
-            "A. beach",
-            "B. sea",
-            "C. mountain",
-            "D. school"
+            "",
+            "",
+            "",
+            ""
         ],
         "correctAnswerIndex": 0,
-        "hint": "When is it?"
+        "hint": ""
     },
     {
         "id": 6,
-        "question": "Where are you?",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/chicken.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/blue.mp3",
+        "question": "",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
-            "A. beach",
-            "B. sea",
-            "C. mountain",
-            "D. school"
+            "",
+            "",
+            "",
+            ""
         ],
         "correctAnswerIndex": 0,
-        "hint": "When is it?"
+        "hint": ""
     },
     {
         "id": 7,
-        "question": "Where are you?",
+        "question": "Choose the letter(s) to make a correct word: sch______yard",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/blue.mp3",
+        "questionAudioUrl": "",
         "choices": [
-            "A. beach",
-            "B. sea",
-            "C. mountain",
-            "D. school"
+            "A. oon",
+            "B. ool",
+            "C. een",
+            "D. eel"
         ],
         "correctAnswerIndex": 0,
-        "hint": "When is it?"
+        "hint": ""
     },
     {
         "id": 8,
-        "question": "Where are you?",
+        "question": "______ your teeth before you go to bed.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/blue.mp3",
+        "questionAudioUrl": "",
         "choices": [
-            "A. beach",
-            "B. sea",
-            "C. mountain",
-            "D. school"
+            "A. Read",
+            "B. Practise",
+            "C. Brush",
+            "D. Wash"
         ],
         "correctAnswerIndex": 0,
-        "hint": "When is it?"
+        "hint": ""
     },
     {
         "id": 9,
-        "question": "Where are you?",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/chicken.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/blue.mp3",
+        "question": "Tom and Lucy are my _________.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
-            "A. beach",
-            "B. sea",
-            "C. mountain",
-            "D. school"
+            "A. classmate",
+            "B. brother",
+            "C. friends",
+            "D. friend"
         ],
         "correctAnswerIndex": 0,
-        "hint": "When is it?"
+        "hint": ""
     },
     {
         "id": 10,
-        "question": "Where are you?",
+        "question": "Choose the odd one out.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/blue.mp3",
+        "questionAudioUrl": "",
         "choices": [
-            "A. beach",
-            "B. sea",
-            "C. mountain",
+            "A. Pizza",
+            "B. Desk",
+            "C. Chair",
+            "D. Shelf"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 11,
+        "question": "He's wearing a ________ of red sandals.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. pair",
+            "B. bar",
+            "C. packet",
+            "D. box"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 12,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. brother",
+            "B. teacher",
+            "C. mother",
+            "D. uncle"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 13,
+        "question": "Minh is _____ . He wants something to eat.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. tall",
+            "B. thirsty",
+            "C. short",
+            "D. hungry"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 14,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. She",
+            "B. They",
+            "C. He",
+            "D. My"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 15,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Who",
+            "B. That",
+            "C. What",
+            "D. How"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 16,
+        "question": "Choose the odd one out.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Hello",
+            "B. Good afternoon",
+            "C. Hi",
+            "D. Spell"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 17,
+        "question": "Which CAN'T you find in your classroom?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Chalk",
+            "B. Bowl",
+            "C. Desk",
+            "D. Book"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 18,
+        "question": "We stay at school ______ 7 ______11:30 every morning.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. from \u2013 to",
+            "B. from - in",
+            "C. at - at",
+            "D. between \u2013 from"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 19,
+        "question": "Which word/phrase is INCORRECT: My mother and my sister cooks dinner in the kitchen.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. in",
+            "B. the",
+            "C. cooks",
+            "D. sister"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 20,
+        "question": " _______ is your dictionary like? \u2013 It\u2019s very thick.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. When",
+            "B. Which",
+            "C. Where",
+            "D. What"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 21,
+        "question": "This is my friend, Sophie. - _______",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Nice to meet you, Sophie.",
+            "B. I\u2019m fine.",
+            "C. Sophie is my name.",
+            "D. It\u2019s nice too meet you."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 22,
+        "question": "What _______ the boys doing at the moment?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. does",
+            "B. are",
+            "C. is",
+            "D. do"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 23,
+        "question": "What ________ that? \u2013 It\u2019s a pencil sharpener.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. has",
+            "B. have",
+            "C. are",
+            "D. is"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 24,
+        "question": "Can you dance, Emily? \u2013 Yes, _______.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. I do",
+            "B. I don't",
+            "C. I can",
+            "D. I can't"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 25,
+        "question": "Excuse me. Can I sit here? - ______.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. C. Here you are.",
+            "B. D. Sure.",
+            "C. A. Yes, I can.",
+            "D. B. No, I can't."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 26,
+        "question": "I like bears ______ they\u2019re very cute.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. so",
+            "B. because",
+            "C. but",
+            "D. not"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 27,
+        "question": "Do you have any blue pens?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. I don\u2019t like that color.",
+            "B. They are not mine.",
+            "C. I'm nine.",
+            "D. I have three."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 28,
+        "question": "I can\u2019t go out now. I have too________ homework to do.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. very",
+            "B. many",
+            "C. much",
+            "D. a lot"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 29,
+        "question": "Is this your eraser? - Yes,_____.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. they are",
+            "B. it isn't",
+            "C. they is",
+            "D. it is"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 30,
+        "question": "That\u2019s Miss Hien. ________is my English teacher.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. She",
+            "B. It",
+            "C. Her",
+            "D. He"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 31,
+        "question": "Is this a goldfish? - _________, it isn\u2019t.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Yes",
+            "B. No",
+            "C. Not",
+            "D. It"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 32,
+        "question": "Emma's house is ________ to my house.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. behind",
+            "B. near",
+            "C. next",
+            "D. in front"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 33,
+        "question": "What subjects _______ have on Monday?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. are you",
+            "B. do they",
+            "C. is she",
+            "D. are they"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 34,
+        "question": "Let's play basketball. -________.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Yes, I do.",
+            "B. No, it isn't.",
+            "C. No, I don't.",
+            "D. Good idea."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 35,
+        "question": "What color ________ your pens? - ______blue and black.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. is - They're",
+            "B. is - It's",
+            "C. are - They're",
+            "D. are - It's"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 36,
+        "question": "This is ________apple.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. a",
+            "B. an",
+            "C. it",
+            "D. the"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 37,
+        "question": "When ________ your birthday, Chris?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. does",
+            "B. are",
+            "C. do",
+            "D. is"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 38,
+        "question": "Uncle Brian ________ work at 5:30 every day.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. finishes",
+            "B. finishing",
+            "C. finishs",
+            "D. finish"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 39,
+        "question": "The parrot is in front ______ the bookcase.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. from",
+            "B. to",
+            "C. at",
+            "D. of"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 40,
+        "question": "What time ______ get up at the weekend?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. do you",
+            "B. do she",
+            "C. is he",
+            "D. does you"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 41,
+        "question": "________ out your notebooks, please.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Takes",
+            "B. To take",
+            "C. Taking",
+            "D. Take"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 42,
+        "question": "_____ do you have Maths? - On Mondays and Thursdays.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. When",
+            "B. What",
+            "C. Why",
+            "D. Where"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 43,
+        "question": "Is that your brother Louis? - No, it _______.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. not",
+            "B. is",
+            "C. isn't",
+            "D. aren't"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 44,
+        "question": "Nice to meet you. - _____________.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Goodbye",
+            "B. Good afternoon",
+            "C. See you later",
+            "D. Nice to meet you, too"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 45,
+        "question": "Those chairs ________ all new.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. are",
+            "B. to be",
+            "C. is",
+            "D. can"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 46,
+        "question": "Where are my dolls? - They are ________ the floor.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. under",
+            "B. on",
+            "C. in",
+            "D. at"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 47,
+        "question": "________ are you, Alex? \u2013 I\u2019m fine. Thanks",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. What",
+            "B. Who",
+            "C. Where",
+            "D. How"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 48,
+        "question": "This ___ a house.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. are",
+            "B. is",
+            "C. you",
+            "D. her"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 49,
+        "question": "I ___ Andy.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. are",
+            "B. am",
+            "C. is",
+            "D. you"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 50,
+        "question": "You ___ Long.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. is",
+            "B. be",
+            "C. are",
+            "D. am"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 51,
+        "question": "This ___ a desk.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. is",
+            "B. are",
+            "C. you",
+            "D. he"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 52,
+        "question": "She ___ Mary.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. am",
+            "B. is",
+            "C. are",
+            "D. he"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 53,
+        "question": "This is ___ ruler.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. a",
+            "B. an",
+            "C. and",
+            "D. end"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 54,
+        "question": "Hello, ___ Sean.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. you",
+            "B. am",
+            "C. I\u2019m",
+            "D. I"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 55,
+        "question": "What\u2019s ___ name?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. she",
+            "B. he",
+            "C. you",
+            "D. her"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 56,
+        "question": "This isn\u2019t ___ bag.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. he\u2019s",
+            "B. his",
+            "C. me\u2019s",
+            "D. you\u2019s"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 57,
+        "question": "Good mo___ning, Peter.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. w",
+            "B. t",
+            "C. r",
+            "D. q"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 58,
+        "question": "Loo___ at the dog.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. t",
+            "B. k",
+            "C. b",
+            "D. c"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 59,
+        "question": "Sing a s___ng.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. o",
+            "B. w",
+            "C. u",
+            "D. q"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 60,
+        "question": "W___o is she? She is Mary.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. t",
+            "B. h",
+            "C. w",
+            "D. q"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 61,
+        "question": "This is m___ school.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. e",
+            "B. w",
+            "C. y",
+            "D. a"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 62,
+        "question": "This ___ a house.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. are",
+            "B. is",
+            "C. you",
+            "D. her"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 63,
+        "question": "I ___ Andy.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. are",
+            "B. am",
+            "C. is",
+            "D. you"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 64,
+        "question": "You ___ Long.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. is",
+            "B. be",
+            "C. are",
+            "D. am"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 65,
+        "question": "This ___ a desk.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. is",
+            "B. are",
+            "C. you",
+            "D. he"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 66,
+        "question": "She ___ Mary.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. am",
+            "B. is",
+            "C. are",
+            "D. he"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 67,
+        "question": "This is ___ ruler.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. a",
+            "B. an",
+            "C. and",
+            "D. end"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 68,
+        "question": "Hello, ___ Sean.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. you",
+            "B. am",
+            "C. I\u2019m",
+            "D. I"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 69,
+        "question": "What\u2019s ___ name?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. she",
+            "B. he",
+            "C. you",
+            "D. her"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 70,
+        "question": "This isn\u2019t ___ bag.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. he\u2019s",
+            "B. his",
+            "C. me\u2019s",
+            "D. you\u2019s"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 71,
+        "question": "Good mo___ning, Peter.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. w",
+            "B. t",
+            "C. r",
+            "D. q"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 72,
+        "question": "Loo___ at the dog.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. t",
+            "B. k",
+            "C. b",
+            "D. c"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 73,
+        "question": "Sing a s___ng.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. o",
+            "B. w",
+            "C. u",
+            "D. q"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 74,
+        "question": "W___o is she? She is Mary.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. t",
+            "B. h",
+            "C. w",
+            "D. q"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 75,
+        "question": "This is m___ school.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. e",
+            "B. w",
+            "C. y",
+            "D. a"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 76,
+        "question": "How ___ are you?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. e",
+            "B. s",
+            "C. a",
+            "D. o"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 77,
+        "question": "Ope___ the book, please.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. t",
+            "B. h",
+            "C. n",
+            "D. r"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 78,
+        "question": "Hi___ name is Peter.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. w",
+            "B. S",
+            "C. a",
+            "D. t"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 79,
+        "question": "Nice to meet ___!",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. I",
+            "B. me",
+            "C. he",
+            "D. you"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 80,
+        "question": "My ___ is Jenny.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. your",
+            "B. name",
+            "C. game",
+            "D. name\u2019s"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 81,
+        "question": "Do you like ___?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. look",
+            "B. books",
+            "C. ten",
+            "D. sing"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 82,
+        "question": "Stand ___, please.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. down",
+            "B. up",
+            "C. in",
+            "D. on"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 83,
+        "question": "Sit ___, please.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. down",
+            "B. up",
+            "C. in",
+            "D. on"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 84,
+        "question": "Alice ___ a cat.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. you",
+            "B. he",
+            "C. she",
+            "D. has"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 85,
+        "question": "Bob: \"Hello. My name is Bob.\" Mary: - ___, Bob.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Nice to meet you",
+            "B. See you later",
+            "C. Goodbye",
+            "D. Good night"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 86,
+        "question": "Goodbye ___!",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Nice to meet you.",
+            "B. See you later",
+            "C. Good morning",
+            "D. Good evening"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 87,
+        "question": "___ to ___ you, Nam.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Nice \u2013 meet",
+            "B. Fine \u2013 hi",
+            "C. You \u2013 me",
+            "D. He \u2013 she"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 88,
+        "question": "___ your name?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. What",
+            "B. What\u2019s",
+            "C. How\u2019s",
+            "D. Why\u2019s"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 89,
+        "question": "___ are you?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. What",
+            "B. How",
+            "C. How\u2019s",
+            "D. What\u2019s"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 90,
+        "question": "I\u2019m fine, ___ you.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. thank",
+            "B. thanks",
+            "C. good",
+            "D. bye"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 91,
+        "question": "I\u2019m fine, thank you. ___ you?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. you",
+            "B. And you",
+            "C. And",
+            "D. Bye"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 92,
+        "question": "Hi, My name ___ Nam.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. are",
+            "B. is",
+            "C. be",
+            "D. and"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 93,
+        "question": "Play with !",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. to",
+            "B. hi",
+            "C. me",
+            "D. hello"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 94,
+        "question": "___ you, Lan?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Is",
+            "B. Are",
+            "C. He",
+            "D. She"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 95,
+        "question": "This is a flo___er.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. u",
+            "B. w",
+            "C. x",
+            "D. b"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 96,
+        "question": "H___w are you? - I\u2019m fine, thanks.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. o",
+            "B. u",
+            "C. i",
+            "D. a"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 97,
+        "question": "I\u2019m f___e, thank you.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. in",
+            "B. il",
+            "C. it",
+            "D. if"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 98,
+        "question": "Se you later.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. i",
+            "B. e",
+            "C. u",
+            "D. a"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 99,
+        "question": "How are u? Fine, thanks.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. yu",
+            "B. ye",
+            "C. yo",
+            "D. yi"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 100,
+        "question": "hat\u2019s his name? His name is John.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. H",
+            "B. W",
+            "C. T",
+            "D. U"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 101,
+        "question": "Hello, Alan. Nice to meet you. - Nice to meet you, t.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. ou",
+            "B. oe",
+            "C. oa",
+            "D. oo"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 102,
+        "question": "W___ite your name.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. u",
+            "B. r",
+            "C. t",
+            "D. q"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 103,
+        "question": "Se you later.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. i",
+            "B. u",
+            "C. e",
+            "D. a"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 104,
+        "question": "What c___lour is this? \u2013 It\u2019s blue.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. u",
+            "B. o",
+            "C. e",
+            "D. i"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 105,
+        "question": "Nice to ___ you!",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. meet",
+            "B. go",
+            "C. for",
+            "D. come"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 106,
+        "question": "___ morning, Adam.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. hello",
+            "B. hi",
+            "C. good",
+            "D. you"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 107,
+        "question": "What is ___ name?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. I",
+            "B. me",
+            "C. his",
+            "D. she"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 108,
+        "question": "What colour ___ this? \u2013 It\u2019s yellow.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. it",
+            "B. is",
+            "C. that",
+            "D. hi"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 109,
+        "question": "She ___ my friend.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. are",
+            "B. is",
+            "C. me",
+            "D. I"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 110,
+        "question": "Is your school white?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Yes, it is not",
+            "B. No, it isn\u2019t",
+            "C. No, it is",
+            "D. Yes, it isn\u2019t"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 111,
+        "question": "This isn\u2019t ___ bag.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. he",
+            "B. his",
+            "C. me",
+            "D. you"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 112,
+        "question": "This is ___ chair.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. he",
+            "B. she",
+            "C. it",
+            "D. my"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 113,
+        "question": "Give ___ an eraser, please!",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. he",
+            "B. me",
+            "C. she",
+            "D. they"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 114,
+        "question": "Let\u2019s sing with __ !",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. he",
+            "B. me",
+            "C. I",
+            "D. she"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 115,
+        "question": "Let\u2019s stand __!",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. down",
+            "B. up",
+            "C. in",
+            "D. on"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 116,
+        "question": "Wh__ is that? - That\u2019s Tom.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. u",
+            "B. e",
+            "C. o",
+            "D. a"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 117,
+        "question": "The__ are your books on the table.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. t",
+            "B. w",
+            "C. y",
+            "D. r"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 118,
+        "question": "What colour is this kite? \u2013 This kite is bro___n.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. u",
+            "B. v",
+            "C. w",
+            "D. n"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 119,
+        "question": "How m___ny pets do you have? - I have one cat.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. u",
+            "B. ..i",
+            "C. a",
+            "D. e"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 120,
+        "question": "What colour ___ this? - It\u2019s green.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. a",
+            "B. u",
+            "C. i",
+            "D. e"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 121,
+        "question": "Let\u2019s ___ a song.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. look",
+            "B. sing",
+            "C. stand",
+            "D. sit"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 122,
+        "question": "___ your hand, please.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Goodbye",
+            "B. Hi",
+            "C. Wash",
+            "D. study"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 123,
+        "question": "___ your name?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. How\u2019s",
+            "B. Hi\u2019s",
+            "C. What\u2019s",
+            "D. Bye\u2019s"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 124,
+        "question": "___ are you? I\u2019m fine, thanks.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Who",
+            "B. What",
+            "C. How",
+            "D. When"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 125,
+        "question": "___ is that? \u2013 It\u2019s a pen.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. How",
+            "B. When",
+            "C. Where",
+            "D. What"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 126,
+        "question": "Goodbye. ___!",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Fine, thanks",
+            "B. Nice to meet you too",
+            "C. See you later",
+            "D. Hi, nice to meet you"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 127,
+        "question": "Good morning, Tom. ___!",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Good morning, Alan",
+            "B. Good night, Alan",
+            "C. My name\u2019s Alan",
+            "D. Alan, this is my pen."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 128,
+        "question": "___? \u2013 It\u2019s black.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. What colour is this",
+            "B. What is this",
+            "C. Is this black",
+            "D. This is blue"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 129,
+        "question": "My ___ is Jean.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. name\u2019s",
+            "B. names",
+            "C. name",
+            "D. Nam"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 130,
+        "question": "Is that a pen?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Yes",
+            "B. yes, it is",
+            "C. Not",
+            "D. no"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 131,
+        "question": "Who is he? ___!",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. She is Mary",
+            "B. He my friend",
+            "C. She my friend",
+            "D. He\u2019s Tom"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 132,
+        "question": "These ___ my books.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. are",
+            "B. is",
+            "C. am",
+            "D. this"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 133,
+        "question": "How ___ you? \u2013 Fine, thanks.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. are",
+            "B. am",
+            "C. is",
+            "D. this"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 134,
+        "question": "It ___ a ball.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. are",
+            "B. hi",
+            "C. goodbye",
+            "D. is"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 135,
+        "question": "___ this a pencil? \u2013 No, it isn\u2019t.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. are",
+            "B. is",
+            "C. it",
+            "D. the"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 136,
+        "question": "This is ___ desk.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. my",
+            "B. my\u2019s",
+            "C. she\u2019s",
+            "D. they"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 137,
+        "question": "This is Sam. He ___ my friend.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. is",
+            "B. are",
+            "C. the",
+            "D. am"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 138,
+        "question": "Alice is a ___ at Oxford Primary School.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. boy",
+            "B. toy",
+            "C. student",
+            "D. she"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 139,
+        "question": "Let\u2019s say ___ to the teacher.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. \u201cHello!\u201d",
+            "B. \u201cGood\u201d",
+            "C. \u201cYou\u201d",
+            "D. \u201cHe\u201d"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 140,
+        "question": "What\u2019s his name? ___!",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. My name\u2019s Peter",
+            "B. See you later",
+            "C. He is Peter",
+            "D. He is my friend"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 141,
+        "question": "What is this? ___!",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. My name is Andy",
+            "B. It is a doll",
+            "C. It\u2019s an doll",
+            "D. This is Mary"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 142,
+        "question": "What ___ is this? It\u2019s green.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. is",
+            "B. this",
+            "C. that",
+            "D. it"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 143,
+        "question": "___, students. See you tomorrow.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Good morning",
+            "B. Good night",
+            "C. Goodbye",
+            "D. Nice to meet you"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 144,
+        "question": "Is this a pencil box? - ___, it is.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. No",
+            "B. not",
+            "C. Yes",
+            "D. No\u2019s"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 145,
+        "question": "How many cassettes? - One ___.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. a cassette",
+            "B. two cassettes",
+            "C. cassette",
+            "D. cassettes"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 146,
+        "question": "Is that a pen? - ___, it isn\u2019t.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Yes",
+            "B. Yes, it is",
+            "C. No",
+            "D. Not"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 147,
+        "question": "He is ___ farmer.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. an",
+            "B. a",
+            "C. this",
+            "D. am"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 148,
+        "question": "Good morning, teacher. - ___!",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Goodbye",
+            "B. See you later",
+            "C. Good morning",
+            "D. Fine, thanks"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 149,
+        "question": "Let\u2019s ___ goodbye to Miss White.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. say\u2019s",
+            "B. say",
+            "C. says",
+            "D. to say"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 150,
+        "question": "Is your classroom big? ___!",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Yes, it is",
+            "B. No, it is",
+            "C. Yes, it isn\u2019t",
+            "D. yes, she i"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 151,
+        "question": "Listen ___ the teacher.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. to",
+            "B. on",
+            "C. in",
+            "D. for"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 152,
+        "question": "Is ___ a chair? \u2013 Yes, it is.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. are",
+            "B. it",
+            "C. it\u2019s",
+            "D. his"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 153,
+        "question": "Mary goes to the school library to ___ books.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. read\u2019s",
+            "B. reads",
+            "C. read",
+            "D. read to"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 154,
+        "question": "___ is that? \u2013 That\u2019s Mary. She\u2019s my friend.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. How",
+            "B. when",
+            "C. Who",
+            "D. Where"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 155,
+        "question": "The _____ is very big.",
+        "questionImageUrl": "photo playground",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. computer room",
+            "B. playground",
+            "C. library",
+            "D. gym"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 156,
+        "question": "Touch your _____!",
+        "questionImageUrl": "Photo nose",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. hand",
+            "B. hair",
+            "C. nose",
+            "D. ears"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 157,
+        "question": "I have a/an _____.",
+        "questionImageUrl": "photo book",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. notebook",
+            "B. orange",
+            "C. cake",
+            "D. book"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 158,
+        "question": "I have a/an _____.",
+        "questionImageUrl": "photo ruler",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. ruler",
+            "B. candy",
+            "C. book",
+            "D. chocolate"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 159,
+        "question": "What colour is this?",
+        "questionImageUrl": "photo orange",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. orange",
+            "B. white",
+            "C. pink",
+            "D. red"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 160,
+        "question": "Let's go to the _____",
+        "questionImageUrl": "photo computer room",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. music room",
+            "B. playground",
+            "C. computer room",
+            "D. art room"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 161,
+        "question": "The_____ is large",
+        "questionImageUrl": "photo playground",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. music room",
+            "B. playground",
+            "C. computer room",
+            "D. art room"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 162,
+        "question": "That is a _____ pen.",
+        "questionImageUrl": "photo",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. green",
+            "B. blue",
+            "C. red",
+            "D. pink"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 163,
+        "question": "What are those? - Those are_____.",
+        "questionImageUrl": "photo",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. kites",
+            "B. candy",
+            "C. lamps",
+            "D. bikes"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 164,
+        "question": "That is a _____ doll",
+        "questionImageUrl": "photo",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. yellow",
+            "B. blue",
+            "C. red",
+            "D. pink"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 165,
+        "question": "The _____ is new",
+        "questionImageUrl": "photo",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. bedroom",
+            "B. bathroom",
+            "C. living room",
+            "D. kitchen"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 166,
+        "question": "The girl is _____ years old.",
+        "questionImageUrl": "audio",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. 9",
+            "B. 6",
+            "C. 10",
+            "D. 8"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 167,
+        "question": "How old is Eva?",
+        "questionImageUrl": "audio",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. She's seven years old",
+            "B. She's eight years old",
+            "C. She's ten years old",
+            "D. She's nine years old"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 168,
+        "question": "Choose the word that has the underlined letters pronounced differently.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. teacher",
+            "B. clean",
+            "C. bean",
+            "D. great"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 169,
+        "question": "Choose the word that has the underlined letters pronounced differently.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. sister",
+            "B. pencil",
+            "C. ruler",
+            "D. brother"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 170,
+        "question": "Choose the word that has the underlined letters pronounced differently.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. these",
+            "B. this",
+            "C. thank",
+            "D. those"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 171,
+        "question": "Find the word that has the underlined part pronounced differently from the others. ",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. pencil",
+            "B. pen",
+            "C. ten",
+            "D. they"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 172,
+        "question": "Find the word that has the underlined part pronounced differently from the others. ",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. day",
+            "B. paper",
+            "C. say",
+            "D. ball"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 173,
+        "question": "Which word has the underlined part pronounced like the letter \"e\" in \"red\"?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. listen",
+            "B. quiet",
+            "C. bed",
+            "D. table"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 174,
+        "question": "Find the word that has the underlined part pronounced differently from the others. ",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. father",
+            "B. play",
+            "C. table",
+            "D. eraser"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 175,
+        "question": "Choose the odd one out:",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Pencil",
+            "B. Black",
+            "C. Book",
+            "D. Ruler"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 176,
+        "question": "Choose the odd one out:",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. One",
+            "B. Year",
+            "C. Three",
+            "D. Two"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 177,
+        "question": "Choose the odd one out:",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. you",
+            "B. hi",
+            "C. I",
+            "D. she"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 178,
+        "question": "Choose the odd one out:",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. time",
+            "B. play",
+            "C. skate",
+            "D. run"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 179,
+        "question": "Choose the odd one out:",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. book",
+            "B. eleven",
+            "C. three",
+            "D. ten"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 180,
+        "question": "Choose the odd one out:",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. out",
+            "B. short",
+            "C. big",
+            "D. young"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 181,
+        "question": "Choose the odd one out",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Pupil",
+            "B. Blue",
+            "C. Yellow",
+            "D. Orange"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 182,
+        "question": "Choose the odd one out",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. pencil",
+            "B. ruler",
+            "C. eraser",
+            "D. purple"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 183,
+        "question": "Choose the odd one out:",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. What",
+            "B. Hello",
+            "C. Hi",
+            "D. Good morning"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 184,
+        "question": "Choose the odd one out:",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. library",
+            "B. classroom",
+            "C. name",
             "D. school"
         ],
         "correctAnswerIndex": 0,
-        "hint": "When is it?"
+        "hint": ""
+    },
+    {
+        "id": 185,
+        "question": "Choose the odd one out:",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. she",
+            "B. my",
+            "C. he",
+            "D. you"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 186,
+        "question": "Choose the incorrect word(s) in the following sentences: Do you has any school things?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. you",
+            "B. school",
+            "C. has",
+            "D. things"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 187,
+        "question": "Choose the incorrect word(s) in the following sentence: Long and Hoa isn't in the classroom. They are in the art room.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. They",
+            "B. are",
+            "C. classroom",
+            "D. isn't"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 188,
+        "question": "Choose the incorrect word(s) in the following sentence: Is the living room big? - No, It is big.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. the",
+            "B. No",
+            "C. It",
+            "D. room"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 189,
+        "question": "Peter and Tony are my ____. ",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Friend",
+            "B. Friends",
+            "C. A friends",
+            "D. A friend"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 190,
+        "question": "Her old car is a ____ Honda.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Red",
+            "B. Black",
+            "C. White",
+            "D. Pink"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 191,
+        "question": "A: _________ B: - I\u2019m Peter.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. How are you?",
+            "B. What\u2019s your name?",
+            "C. How old are you?",
+            "D. What colour is it?"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 192,
+        "question": "_____ old are you?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. How",
+            "B. What",
+            "C. Which",
+            "D. When"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 193,
+        "question": "My ____ is Tony.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. School",
+            "B. Friend",
+            "C. Bag",
+            "D. Class"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 194,
+        "question": "How do you sp_ll your name?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. E",
+            "B. O",
+            "C. U",
+            "D. A"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 195,
+        "question": "May I ___ in?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Coming",
+            "B. To come",
+            "C. Come",
+            "D. Came"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 196,
+        "question": "That is a ____.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Pig",
+            "B. Cat",
+            "C. Chicken",
+            "D. Dog"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 197,
+        "question": "I s_ng a song.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. O",
+            "B. A",
+            "C. E",
+            "D. I"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 198,
+        "question": "Choose the letter(s) to make a correct word: H_S",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. O",
+            "B. I",
+            "C. E",
+            "D. U"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 199,
+        "question": "___ talk in class, boys!",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Do",
+            "B. Be",
+            "C. Don\u2019t",
+            "D. Being"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 200,
+        "question": "My pencil case ___ pink and my pencils __ yellow.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Are - is",
+            "B. Is \u2013 are",
+            "C. Is \u2013 is",
+            "D. Are \u2013 are"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 201,
+        "question": "___ your name?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. What",
+            "B. What\u2019s",
+            "C. How",
+            "D. How\u2019s"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 202,
+        "question": "Be quiet, boy! \u2013 B: ____",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Thank you.",
+            "B. Yes, please.",
+            "C. No, you can\u2019t.",
+            "D. Sorry, sir."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 203,
+        "question": "Hoa has a green book, a red book, and a ___ book.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Yellow",
+            "B. Green",
+            "C. Red",
+            "D. White"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 204,
+        "question": "The pencils are ___ my pencil case.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. In",
+            "B. On",
+            "C. At",
+            "D. Of"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 205,
+        "question": "How do you spell ___ name?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. You",
+            "B. She",
+            "C. He",
+            "D. His"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 206,
+        "question": "___ friend is Bobby.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. My",
+            "B. He",
+            "C. She",
+            "D. I"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 207,
+        "question": "___ those your parents? \u2013 Yes, _____",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Is \u2013 he is",
+            "B. Is \u2013 she is",
+            "C. Are \u2013 they are",
+            "D. Are \u2013 they aren\u2019t"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 208,
+        "question": "____ are they? \u2013 They are black.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. What",
+            "B. What\u2019s colour",
+            "C. How colour",
+            "D. What colour"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 209,
+        "question": "Choose the incorrect word(s) in the following sentence: What colour is your school bags?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. What",
+            "B. Colour",
+            "C. Is",
+            "D. Your"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 210,
+        "question": "___ APPLES (image of six apples)",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Four",
+            "B. Five",
+            "C. Six",
+            "D. Seven"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 211,
+        "question": "Choose the letter(s) to make a correct word: S_ALL",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. M",
+            "B. N",
+            "C. G",
+            "D. D"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 212,
+        "question": "This is a ___ house. (Yellow house image)",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Pink",
+            "B. Yellow",
+            "C. White",
+            "D. Blue"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 213,
+        "question": "A: _______ B: I\u2019m ten.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. How are you?",
+            "B. What\u2019s your name?",
+            "C. How old are you?",
+            "D. What colour is it?"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 214,
+        "question": "They ___ pictures in the room.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Clean",
+            "B. Sing",
+            "C. Draw",
+            "D. Meet"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 215,
+        "question": "Is that a blue pencil case? - ______ (image of a blue pencil case)",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Yes, its is.",
+            "B. Yes, it\u2019s is.",
+            "C. Yes, it is.",
+            "D. Yes, it isn\u2019t."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 216,
+        "question": "May I go out?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Yes, you can.",
+            "B. Yes, you do.",
+            "C. Yes, you may.",
+            "D. Yes, please."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 217,
+        "question": "__, I\u2019m Linda. Nice to meet you.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Hi",
+            "B. Goodbye",
+            "C. Bye",
+            "D. See you later"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 218,
+        "question": "Choose the correct sentence:",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. They are my school bags.",
+            "B. They are my school bag.",
+            "C. These are my school bag.",
+            "D. Those are my school bag."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 219,
+        "question": "What\u2019s your name? \u2013 My ___ Hoa.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Name",
+            "B. Name\u2019s",
+            "C. Name\u2019re",
+            "D. Name are"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 220,
+        "question": "We draw pictures in the ____.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Gym",
+            "B. Computer room",
+            "C. Music room",
+            "D. Art room"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 221,
+        "question": "This __ his book.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. It",
+            "B. Its",
+            "C. Is",
+            "D. It\u2019s"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 222,
+        "question": "These ___ my backpacks.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Are",
+            "B. Is",
+            "C. Its",
+            "D. Am"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 223,
+        "question": "Choose the letter(s) to make a correct word: P_NCIL CASE",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. E",
+            "B. A",
+            "C. I",
+            "D. O"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 224,
+        "question": "___ are you? \u2013 I\u2019m fine.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. How old",
+            "B. How",
+            "C. Who",
+            "D. Which"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 225,
+        "question": "Choose the odd one out:",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Pencils",
+            "B. Pencil sharpeners",
+            "C. Classroom",
+            "D. Rulers"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 226,
+        "question": "Is this your ruler? \u2013 No, ___ isn\u2019t",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. It",
+            "B. That",
+            "C. Its",
+            "D. It\u2019s"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 227,
+        "question": "How old are you? - _____",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. I\u2019m eight.",
+            "B. I\u2019m fine.",
+            "C. Thank you.",
+            "D. See you later."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 228,
+        "question": "Is your room ___? \u2013 No, it isn\u2019t.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Large",
+            "B. That",
+            "C. Five",
+            "D. This"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 229,
+        "question": "They ___ a song in the classroom.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Point",
+            "B. Read",
+            "C. Look",
+            "D. Sing"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 230,
+        "question": "Choose the odd one out:",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. My",
+            "B. Your",
+            "C. Our",
+            "D. Him"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 231,
+        "question": "Choose the correct sentence:",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. This is my pens.",
+            "B. They are my pens.",
+            "C. These is my pen.",
+            "D. This are my pens."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 232,
+        "question": "My classroom is lar___.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Ne",
+            "B. Ge",
+            "C. Le",
+            "D. Me"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 233,
+        "question": "Choose the odd one out:",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Rubber",
+            "B. Big",
+            "C. Small",
+            "D. Large"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 234,
+        "question": "Choose the correct answer: What is this? \u2013 It\u2019s a ___",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Pen  ",
+            "B. Pencil ",
+            "C. Pencil case",
+            "D. Pencil sharpener"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 235,
+        "question": "Choose the odd one out:",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Be quiet! B. Don\u2019t talk! C. School D. Keep silent!",
+            "",
+            "",
+            ""
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 236,
+        "question": "Choose the odd one out:",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Computer room B. Music room C. Table D. Gym",
+            "",
+            "",
+            ""
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 237,
+        "question": "I\u2019m ___ class 3A.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "On",
+            "At",
+            "Of",
+            "In"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 238,
+        "question": "Choose the correct response: What colour is your pen?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "It\u2019s blue.",
+            "It\u2019s blue.",
+            "It is small.",
+            "It is big."
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 239,
+        "question": "The computer room is small ___ new.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "And",
+            "With",
+            "But",
+            "In"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 240,
+        "question": "Choose the correct letter to complete the word: NI_E",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "V",
+            "C",
+            "M",
+            "Z"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 241,
+        "question": "Is your ____ name Le Kim Dong?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "Middle",
+            "First",
+            "Family",
+            "Full"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 242,
+        "question": "Linda is calling and Emma is ___ the telephone.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "Speaking",
+            "Telling",
+            "Answering",
+            "Saying"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 243,
+        "question": "Choose the odd one out:",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "Piano",
+            "Guitar",
+            "Singer",
+            "Violin"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 244,
+        "question": "Red is my ___ colour.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "Favourite",
+            "Interesting",
+            "Beautiful",
+            "Like"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 245,
+        "question": "Would you like to play basketball?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "I like",
+            "I love it",
+            "I\u2019d love to",
+            "I want"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 246,
+        "question": "Choose the correct response: Excuse me. Can I sit here?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "Sure!",
+            "Here you are!",
+            "Yes, I can.",
+            "I\u2019m sure"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 247,
+        "question": "I'd like to send this letter ___ China.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "To",
+            "On",
+            "In",
+            "At"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 248,
+        "question": "Ann and her brother ___ at home yesterday.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "Didn\u2019t are",
+            "Wasn\u2019t",
+            "Weren\u2019t",
+            "Not were"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 249,
+        "question": "Choose the word that has a different pronunciation:",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "Wet",
+            "Chess",
+            "Yesterday",
+            "Pretty"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 250,
+        "question": "Choose the odd one out:",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "Playing",
+            "Learning",
+            "Writing",
+            "Evening"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 251,
+        "question": "Don't let your brother ___ the present.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "To see",
+            "Seeing",
+            "See",
+            "Sees"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 252,
+        "question": "How ___ do you study in the school library? - Every afternoon.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. Usually",
+            "B. Never",
+            "C. Sometimes",
+            "D. Often"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 253,
+        "question": "We are ___ work at the moment.",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. On",
+            "B. In",
+            "C. At",
+            "D. With"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
+    },
+    {
+        "id": 254,
+        "question": "What is Elena's date of birth?",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
+        "choices": [
+            "A. September 2nd",
+            "B. September and 2nd",
+            "C. 2nd and September",
+            "D. September 2"
+        ],
+        "correctAnswerIndex": 0,
+        "hint": ""
     }
 ]

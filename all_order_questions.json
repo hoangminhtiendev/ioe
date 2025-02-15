@@ -2,101 +2,3337 @@
     {
         "id": 1,
         "question": [
-            "i",
-            "want",
-            "some",
-            "coffee"
+            "The",
+            "balls",
+            "are",
+            "red."
         ],
-        "hint": "Just following general structure"
+        "hint": "The balls are red.",
+        "type-id": "order-1",
+        "grade": "school"
     },
     {
         "id": 2,
         "question": [
-            "the ",
-            "weather",
+            "This",
             "is",
-            "nice."
+            "a",
+            "brown box."
         ],
-        "hint": "Just following general structure"
+        "hint": "This is a brown box.",
+        "type-id": "order-2",
+        "grade": "province"
     },
     {
         "id": 3,
         "question": [
-            "studying ",
+            "This",
+            "boy",
             "is",
-            "always",
-            "good."
+            "Tu."
         ],
-        "hint": "Just following general structure"
+        "hint": "This boy is Tu.",
+        "type-id": "order-3",
+        "grade": "school"
     },
     {
         "id": 4,
         "question": [
-            "you",
-            "look",
-            "really",
-            "great."
+            "Look",
+            "at",
+            "the",
+            "library."
         ],
-        "hint": "Just following general structure"
+        "hint": "Look at the library.",
+        "type-id": "order-4",
+        "grade": "school"
     },
     {
         "id": 5,
         "question": [
-            "Tet",
-            "holiday",
-            "is",
-            "going to be ended."
+            "The",
+            "bed",
+            "is in",
+            "the bedroom."
         ],
-        "hint": "Just following general structure"
+        "hint": "The bed is in the bedroom.",
+        "type-id": "order-5",
+        "grade": "province"
     },
     {
         "id": 6,
         "question": [
-            "Saying",
-            "somethings",
-            "good",
-            "is interesting."
+            "I'm",
+            "fine,",
+            "thanks.",
+            "And you?"
         ],
-        "hint": "Just following general structure"
+        "hint": "I'm fine, thanks. And you?",
+        "type-id": "order-6",
+        "grade": "school"
     },
     {
         "id": 7,
         "question": [
-            "Coding",
-            "is",
-            "very",
-            "interesting."
+            "I",
+            "am",
+            "from",
+            "Vietnam."
         ],
-        "hint": "Just following general structure"
+        "hint": "I am from Vietnam.",
+        "type-id": "order-7",
+        "grade": "school"
     },
     {
         "id": 8,
         "question": [
-            "Apple",
+            "This",
             "is",
-            "better",
-            "than others."
+            "a",
+            "black cat."
         ],
-        "hint": "Just following general structure"
+        "hint": "This is a black cat.",
+        "type-id": "order-8",
+        "grade": "province"
     },
     {
         "id": 9,
         "question": [
-            "Green ",
-            "is",
-            "cooler than",
-            "red."
+            "It's",
+            "large",
+            "but",
+            "old."
         ],
-        "hint": "Just following general structure"
+        "hint": "It's large but old.",
+        "type-id": "order-9",
+        "grade": "school"
     },
     {
         "id": 10,
         "question": [
-            "Trump",
-            "is",
-            "the 47th",
-            "President."
+            "This",
+            "isn't",
+            "my",
+            "picture."
         ],
-        "hint": "Just following general structure"
+        "hint": "This isn't my picture.",
+        "type-id": "order-10",
+        "grade": "school"
+    },
+    {
+        "id": 11,
+        "question": [
+            "My",
+            "friends",
+            "are in",
+            "the computer room."
+        ],
+        "hint": "My friends are in the computer room.",
+        "type-id": "order-11",
+        "grade": "province"
+    },
+    {
+        "id": 12,
+        "question": [
+            "The",
+            "classroom",
+            "is new ",
+            "and big."
+        ],
+        "hint": "The classroom is new  and big.",
+        "type-id": "order-12",
+        "grade": "province"
+    },
+    {
+        "id": 13,
+        "question": [
+            "This",
+            "is a",
+            "new pupil, ",
+            "Lisa."
+        ],
+        "hint": "This is a new pupil,  Lisa.",
+        "type-id": "order-13",
+        "grade": "school"
+    },
+    {
+        "id": 14,
+        "question": [
+            "Hello,",
+            "nice",
+            "to meet",
+            "you, children."
+        ],
+        "hint": "Hello, nice to meet you, children.",
+        "type-id": "order-14",
+        "grade": "school"
+    },
+    {
+        "id": 15,
+        "question": [
+            "We",
+            "stand up",
+            "and close",
+            " the book."
+        ],
+        "hint": "We stand up and close  the book.",
+        "type-id": "order-15",
+        "grade": "province"
+    },
+    {
+        "id": 16,
+        "question": [
+            "Who",
+            "is",
+            "your",
+            "mother?"
+        ],
+        "hint": "Who is your mother?",
+        "type-id": "order-16",
+        "grade": "school"
+    },
+    {
+        "id": 17,
+        "question": [
+            "We",
+            "are",
+            "fine,",
+            "thank you."
+        ],
+        "hint": "We are fine, thank you.",
+        "type-id": "order-17",
+        "grade": "school"
+    },
+    {
+        "id": 18,
+        "question": [
+            "My",
+            "brother",
+            "is seven",
+            "years old."
+        ],
+        "hint": "My brother is seven years old.",
+        "type-id": "order-18",
+        "grade": "school"
+    },
+    {
+        "id": 19,
+        "question": [
+            "These",
+            "are",
+            "their",
+            "bags."
+        ],
+        "hint": "These are their bags.",
+        "type-id": "order-19",
+        "grade": "school"
+    },
+    {
+        "id": 20,
+        "question": [
+            "Peter ",
+            "and Bill",
+            "are",
+            "friends."
+        ],
+        "hint": "Peter  and Bill are friends.",
+        "type-id": "order-20",
+        "grade": "school"
+    },
+    {
+        "id": 21,
+        "question": [
+            "Nga",
+            "is",
+            "nine",
+            "years old"
+        ],
+        "hint": "Nga is nine years old",
+        "type-id": "order-21",
+        "grade": "school"
+    },
+    {
+        "id": 22,
+        "question": [
+            "We play",
+            "sports and",
+            "games",
+            " at break time."
+        ],
+        "hint": "We play sports and games  at break time.",
+        "type-id": "order-22",
+        "grade": "province"
+    },
+    {
+        "id": 23,
+        "question": [
+            "It's",
+            "glad",
+            "to see",
+            "you."
+        ],
+        "hint": "It's glad to see you.",
+        "type-id": "order-23",
+        "grade": "school"
+    },
+    {
+        "id": 24,
+        "question": [
+            "The",
+            "library",
+            "is old but",
+            "large."
+        ],
+        "hint": "The library is old but large.",
+        "type-id": "order-24",
+        "grade": "province"
+    },
+    {
+        "id": 25,
+        "question": [
+            "Is",
+            "that",
+            "your",
+            "pet?"
+        ],
+        "hint": "Is that your pet?",
+        "type-id": "order-25",
+        "grade": "school"
+    },
+    {
+        "id": 26,
+        "question": [
+            "Where",
+            "is ",
+            "your",
+            "book?"
+        ],
+        "hint": "Where is  your book?",
+        "type-id": "order-26",
+        "grade": "school"
+    },
+    {
+        "id": 27,
+        "question": [
+            "There",
+            "are",
+            "two",
+            "dolls."
+        ],
+        "hint": "There are two dolls.",
+        "type-id": "order-27",
+        "grade": "province"
+    },
+    {
+        "id": 28,
+        "question": [
+            "Is",
+            "your",
+            "pencil",
+            "green?"
+        ],
+        "hint": "Is your pencil green?",
+        "type-id": "order-28",
+        "grade": "school"
+    },
+    {
+        "id": 29,
+        "question": [
+            "Yes,",
+            "he",
+            "is",
+            "my friend."
+        ],
+        "hint": "Yes, he is my friend.",
+        "type-id": "order-29",
+        "grade": "school"
+    },
+    {
+        "id": 30,
+        "question": [
+            "What",
+            "are",
+            "these?",
+            "They're chairs."
+        ],
+        "hint": "What are these? They're chairs.",
+        "type-id": "order-30",
+        "grade": "school"
+    },
+    {
+        "id": 31,
+        "question": [
+            "Look",
+            "at",
+            "the",
+            "music room."
+        ],
+        "hint": "Look at the music room.",
+        "type-id": "order-31",
+        "grade": "school"
+    },
+    {
+        "id": 32,
+        "question": [
+            "I\u2019m",
+            "fine,",
+            "thank",
+            "you."
+        ],
+        "hint": "I\u2019m fine, thank you.",
+        "type-id": "order-32",
+        "grade": "school"
+    },
+    {
+        "id": 33,
+        "question": [
+            "Thank",
+            "you.",
+            "I am",
+            "fine."
+        ],
+        "hint": "Thank you. I am fine.",
+        "type-id": "order-33",
+        "grade": "school"
+    },
+    {
+        "id": 34,
+        "question": [
+            "That",
+            "is",
+            "an",
+            "eraser."
+        ],
+        "hint": "That is an eraser.",
+        "type-id": "order-34",
+        "grade": "school"
+    },
+    {
+        "id": 35,
+        "question": [
+            "Who",
+            "is",
+            "that",
+            "boy?"
+        ],
+        "hint": "Who is that boy?",
+        "type-id": "order-35",
+        "grade": "school"
+    },
+    {
+        "id": 36,
+        "question": [
+            "Is",
+            "your",
+            "school",
+            "big?"
+        ],
+        "hint": "Is your school big?",
+        "type-id": "order-36",
+        "grade": "school"
+    },
+    {
+        "id": 37,
+        "question": [
+            "Hello,",
+            "my",
+            "name\u2019s",
+            "Thu."
+        ],
+        "hint": "Hello, my name\u2019s Thu.",
+        "type-id": "order-37",
+        "grade": "school"
+    },
+    {
+        "id": 38,
+        "question": [
+            "Goodbye.",
+            "See",
+            "you",
+            "tomorrow."
+        ],
+        "hint": "Goodbye. See you tomorrow.",
+        "type-id": "order-38",
+        "grade": "school"
+    },
+    {
+        "id": 39,
+        "question": [
+            "Jenny",
+            "is",
+            "my",
+            "friend."
+        ],
+        "hint": "Jenny is my friend.",
+        "type-id": "order-39",
+        "grade": "school"
+    },
+    {
+        "id": 40,
+        "question": [
+            "Thank",
+            "you",
+            "very",
+            "much."
+        ],
+        "hint": "Thank you very much.",
+        "type-id": "order-40",
+        "grade": "school"
+    },
+    {
+        "id": 41,
+        "question": [
+            "That",
+            "is",
+            "my",
+            "bicycle."
+        ],
+        "hint": "That is my bicycle.",
+        "type-id": "order-41",
+        "grade": "school"
+    },
+    {
+        "id": 42,
+        "question": [
+            "Listen",
+            "to",
+            "your",
+            "friend."
+        ],
+        "hint": "Listen to your friend.",
+        "type-id": "order-42",
+        "grade": "school"
+    },
+    {
+        "id": 43,
+        "question": [
+            "Please",
+            "be",
+            "quiet,",
+            "students."
+        ],
+        "hint": "Please be quiet, students.",
+        "type-id": "order-43",
+        "grade": "province"
+    },
+    {
+        "id": 44,
+        "question": [
+            "Let\u2019s",
+            "make",
+            "a",
+            "circle."
+        ],
+        "hint": "Let\u2019s make a circle.",
+        "type-id": "order-44",
+        "grade": "province"
+    },
+    {
+        "id": 45,
+        "question": [
+            "Can",
+            "you",
+            "help",
+            "me?"
+        ],
+        "hint": "Can you help me?",
+        "type-id": "order-45",
+        "grade": "school"
+    },
+    {
+        "id": 46,
+        "question": [
+            "These",
+            "are",
+            "my",
+            "pens."
+        ],
+        "hint": "These are my pens.",
+        "type-id": "order-46",
+        "grade": "school"
+    },
+    {
+        "id": 47,
+        "question": [
+            "This",
+            "is",
+            "my",
+            "bedroom."
+        ],
+        "hint": "This is my bedroom.",
+        "type-id": "order-47",
+        "grade": "school"
+    },
+    {
+        "id": 48,
+        "question": [
+            "See",
+            "you",
+            "tomorrow,",
+            "Peter."
+        ],
+        "hint": "See you tomorrow, Peter.",
+        "type-id": "order-48",
+        "grade": "school"
+    },
+    {
+        "id": 49,
+        "question": [
+            "My",
+            "classroom",
+            "is",
+            "big."
+        ],
+        "hint": "My classroom is big.",
+        "type-id": "order-49",
+        "grade": "school"
+    },
+    {
+        "id": 50,
+        "question": [
+            "Is",
+            "it",
+            "a",
+            "desk?"
+        ],
+        "hint": "Is it a desk?",
+        "type-id": "order-50",
+        "grade": "school"
+    },
+    {
+        "id": 51,
+        "question": [
+            "He",
+            "is",
+            "my",
+            "friend, too."
+        ],
+        "hint": "He is my friend, too.",
+        "type-id": "order-51",
+        "grade": "school"
+    },
+    {
+        "id": 52,
+        "question": [
+            "Put",
+            "your",
+            "hand",
+            "down."
+        ],
+        "hint": "Put your hand down.",
+        "type-id": "order-52",
+        "grade": "school"
+    },
+    {
+        "id": 53,
+        "question": [
+            "Your",
+            "schoolbag",
+            "is",
+            "small."
+        ],
+        "hint": "Your schoolbag is small.",
+        "type-id": "order-53",
+        "grade": "school"
+    },
+    {
+        "id": 54,
+        "question": [
+            "Raise",
+            "your",
+            "hand,",
+            "children."
+        ],
+        "hint": "Raise your hand, children.",
+        "type-id": "order-54",
+        "grade": "school"
+    },
+    {
+        "id": 55,
+        "question": [
+            "Pick",
+            "up",
+            "your",
+            "pencil."
+        ],
+        "hint": "Pick up your pencil.",
+        "type-id": "order-55",
+        "grade": "province"
+    },
+    {
+        "id": 56,
+        "question": [
+            "What",
+            "is",
+            "his",
+            "name?"
+        ],
+        "hint": "What is his name?",
+        "type-id": "order-56",
+        "grade": "school"
+    },
+    {
+        "id": 57,
+        "question": [
+            "My",
+            "bag",
+            "is",
+            "pink and blue."
+        ],
+        "hint": "My bag is pink and blue.",
+        "type-id": "order-57",
+        "grade": "province"
+    },
+    {
+        "id": 58,
+        "question": [
+            "I\u2019m",
+            "seven",
+            "years",
+            "old."
+        ],
+        "hint": "I\u2019m seven years old.",
+        "type-id": "order-58",
+        "grade": "school"
+    },
+    {
+        "id": 59,
+        "question": [
+            "What",
+            "color",
+            "are",
+            "those pens?"
+        ],
+        "hint": "What color are those pens?",
+        "type-id": "order-59",
+        "grade": "province"
+    },
+    {
+        "id": 60,
+        "question": [
+            "This",
+            "is",
+            "my",
+            "brother."
+        ],
+        "hint": "This is my brother.",
+        "type-id": "order-60",
+        "grade": "school"
+    },
+    {
+        "id": 61,
+        "question": [
+            "These",
+            "are",
+            "my",
+            "cats."
+        ],
+        "hint": "These are my cats.",
+        "type-id": "order-61",
+        "grade": "school"
+    },
+    {
+        "id": 62,
+        "question": [
+            "Have",
+            "a",
+            "good",
+            "day."
+        ],
+        "hint": "Have a good day.",
+        "type-id": "order-62",
+        "grade": "province"
+    },
+    {
+        "id": 63,
+        "question": [
+            "The",
+            "children",
+            "are watching",
+            "a cartoon"
+        ],
+        "hint": "The children are watching a cartoon",
+        "type-id": "order-63",
+        "grade": "province"
+    },
+    {
+        "id": 64,
+        "question": [
+            "Can you",
+            "swim",
+            "or ",
+            "dive?"
+        ],
+        "hint": "Can you swim or  dive?",
+        "type-id": "order-64",
+        "grade": "city"
+    },
+    {
+        "id": 65,
+        "question": [
+            "This",
+            "isn\u2019t",
+            "my pencil",
+            "case."
+        ],
+        "hint": "This isn\u2019t my pencil case.",
+        "type-id": "order-65",
+        "grade": "school"
+    },
+    {
+        "id": 66,
+        "question": [
+            "Her",
+            "birthday",
+            "is next",
+            "Monday."
+        ],
+        "hint": "Her birthday is next Monday.",
+        "type-id": "order-66",
+        "grade": "city"
+    },
+    {
+        "id": 67,
+        "question": [
+            "Do",
+            "you go",
+            "to the",
+            "museum?"
+        ],
+        "hint": "Do you go to the museum?",
+        "type-id": "order-67",
+        "grade": "province"
+    },
+    {
+        "id": 68,
+        "question": [
+            "Does",
+            "Jane have",
+            "any",
+            "sisters?"
+        ],
+        "hint": "Does Jane have any sisters?",
+        "type-id": "order-68",
+        "grade": "city"
+    },
+    {
+        "id": 69,
+        "question": [
+            "This",
+            "bag is",
+            "very ",
+            "big."
+        ],
+        "hint": "This bag is very  big.",
+        "type-id": "order-69",
+        "grade": "school"
+    },
+    {
+        "id": 70,
+        "question": [
+            "Uncle",
+            "Roger is",
+            "a famous",
+            "footballer."
+        ],
+        "hint": "Uncle Roger is a famous footballer.",
+        "type-id": "order-70",
+        "grade": "province"
+    },
+    {
+        "id": 71,
+        "question": [
+            "Is",
+            "your ",
+            "room",
+            "big?"
+        ],
+        "hint": "Is your  room big?",
+        "type-id": "order-71",
+        "grade": "province"
+    },
+    {
+        "id": 72,
+        "question": [
+            "Where",
+            "do your",
+            "grandparents",
+            "live?"
+        ],
+        "hint": "Where do your grandparents live?",
+        "type-id": "order-72",
+        "grade": "city"
+    },
+    {
+        "id": 73,
+        "question": [
+            "He",
+            "never goes",
+            "fishing on",
+            "Sunday."
+        ],
+        "hint": "He never goes fishing on Sunday.",
+        "type-id": "order-73",
+        "grade": "province"
+    },
+    {
+        "id": 74,
+        "question": [
+            "What",
+            "color is",
+            "his ",
+            "bike?"
+        ],
+        "hint": "What color is his  bike?",
+        "type-id": "order-74",
+        "grade": "province"
+    },
+    {
+        "id": 75,
+        "question": [
+            "Nice",
+            "to meet",
+            "you,",
+            "Anna."
+        ],
+        "hint": "Nice to meet you, Anna.",
+        "type-id": "order-75",
+        "grade": "school"
+    },
+    {
+        "id": 76,
+        "question": [
+            "What",
+            "do you",
+            "usually do",
+            "on weekends?"
+        ],
+        "hint": "What do you usually do on weekends?",
+        "type-id": "order-76",
+        "grade": "city"
+    },
+    {
+        "id": 77,
+        "question": [
+            "The",
+            "cat is",
+            "sleeping under",
+            "the sofa."
+        ],
+        "hint": "The cat is sleeping under the sofa.",
+        "type-id": "order-77",
+        "grade": "city"
+    },
+    {
+        "id": 78,
+        "question": [
+            "What",
+            "color is",
+            "your ",
+            "T-shirt?"
+        ],
+        "hint": "What color is your  T-shirt?",
+        "type-id": "order-78",
+        "grade": "city"
+    },
+    {
+        "id": 79,
+        "question": [
+            "Is",
+            "there any",
+            "fence around",
+            "your house?"
+        ],
+        "hint": "Is there any fence around your house?",
+        "type-id": "order-79",
+        "grade": "province"
+    },
+    {
+        "id": 80,
+        "question": [
+            "What\u2019s",
+            "the weather",
+            "like in",
+            "Hanoi?"
+        ],
+        "hint": "What\u2019s the weather like in Hanoi?",
+        "type-id": "order-80",
+        "grade": "city"
+    },
+    {
+        "id": 81,
+        "question": [
+            "Don\u2019t",
+            "make too",
+            "much ",
+            "noise."
+        ],
+        "hint": "Don\u2019t make too much  noise.",
+        "type-id": "order-81",
+        "grade": "city"
+    },
+    {
+        "id": 82,
+        "question": [
+            "We",
+            "are walking",
+            "to the",
+            "zoo."
+        ],
+        "hint": "We are walking to the zoo.",
+        "type-id": "order-82",
+        "grade": "city"
+    },
+    {
+        "id": 83,
+        "question": [
+            "Do",
+            "you",
+            "like",
+            "football?"
+        ],
+        "hint": "Do you like football?",
+        "type-id": "order-83",
+        "grade": "city"
+    },
+    {
+        "id": 84,
+        "question": [
+            "My",
+            "mother is",
+            "a",
+            "nurse."
+        ],
+        "hint": "My mother is a nurse.",
+        "type-id": "order-84",
+        "grade": "province"
+    },
+    {
+        "id": 85,
+        "question": [
+            "Let\u2019s",
+            "color this",
+            "picture of",
+            "our school."
+        ],
+        "hint": "Let\u2019s color this picture of our school.",
+        "type-id": "order-85",
+        "grade": "province"
+    },
+    {
+        "id": 86,
+        "question": [
+            "I",
+            "don\u2019t have",
+            "any",
+            "sandwiches."
+        ],
+        "hint": "I don\u2019t have any sandwiches.",
+        "type-id": "order-86",
+        "grade": "province"
+    },
+    {
+        "id": 87,
+        "question": [
+            "How",
+            "many rooms",
+            "are there",
+            "in your house?"
+        ],
+        "hint": "How many rooms are there in your house?",
+        "type-id": "order-87",
+        "grade": "province"
+    },
+    {
+        "id": 88,
+        "question": [
+            "I",
+            "don\u2019t know",
+            "his email",
+            "address."
+        ],
+        "hint": "I don\u2019t know his email address.",
+        "type-id": "order-88",
+        "grade": "province"
+    },
+    {
+        "id": 89,
+        "question": [
+            "Where",
+            "is ",
+            "your",
+            "sister?"
+        ],
+        "hint": "Where is  your sister?",
+        "type-id": "order-89",
+        "grade": "school"
+    },
+    {
+        "id": 90,
+        "question": [
+            "How",
+            "old is",
+            "your",
+            "brother?"
+        ],
+        "hint": "How old is your brother?",
+        "type-id": "order-90",
+        "grade": "school"
+    },
+    {
+        "id": 91,
+        "question": [
+            "The",
+            "girl is",
+            "singing an",
+            "English song."
+        ],
+        "hint": "The girl is singing an English song.",
+        "type-id": "order-91",
+        "grade": "city"
+    },
+    {
+        "id": 92,
+        "question": [
+            "Where",
+            "are ",
+            "you",
+            "from?"
+        ],
+        "hint": "Where are  you from?",
+        "type-id": "order-92",
+        "grade": "school"
+    },
+    {
+        "id": 93,
+        "question": [
+            "James",
+            "has one",
+            "turtle and",
+            "two goldfish."
+        ],
+        "hint": "James has one turtle and two goldfish.",
+        "type-id": "order-93",
+        "grade": "province"
+    },
+    {
+        "id": 94,
+        "question": [
+            "I",
+            "don\u2019t have",
+            "Maths on",
+            "Monday."
+        ],
+        "hint": "I don\u2019t have Maths on Monday.",
+        "type-id": "order-94",
+        "grade": "province"
+    },
+    {
+        "id": 95,
+        "question": [
+            "What\u2019s",
+            "your ",
+            "full",
+            "name?"
+        ],
+        "hint": "What\u2019s your  full name?",
+        "type-id": "order-95",
+        "grade": "province"
+    },
+    {
+        "id": 96,
+        "question": [
+            "What",
+            "is your",
+            "brother\u2019s",
+            "name?"
+        ],
+        "hint": "What is your brother\u2019s name?",
+        "type-id": "order-96",
+        "grade": "city"
+    },
+    {
+        "id": 97,
+        "question": [
+            "Do",
+            "you have",
+            "any dogs",
+            "at home?"
+        ],
+        "hint": "Do you have any dogs at home?",
+        "type-id": "order-97",
+        "grade": "city"
+    },
+    {
+        "id": 98,
+        "question": [
+            "Don\u2019t",
+            "be late",
+            "for",
+            "school."
+        ],
+        "hint": "Don\u2019t be late for school.",
+        "type-id": "order-98",
+        "grade": "city"
+    },
+    {
+        "id": 99,
+        "question": [
+            "What",
+            "does Amy",
+            "do at",
+            "break time?"
+        ],
+        "hint": "What does Amy do at break time?",
+        "type-id": "order-99",
+        "grade": "province"
+    },
+    {
+        "id": 100,
+        "question": [
+            "He\u2019s",
+            "washing",
+            "his ",
+            "car."
+        ],
+        "hint": "He\u2019s washing his  car.",
+        "type-id": "order-100",
+        "grade": "city"
+    },
+    {
+        "id": 101,
+        "question": [
+            "What",
+            "are",
+            "you",
+            "doing?"
+        ],
+        "hint": "What are you doing?",
+        "type-id": "order-101",
+        "grade": "province"
+    },
+    {
+        "id": 102,
+        "question": [
+            "Let\u2019s",
+            "go camping",
+            "this ",
+            "weekend."
+        ],
+        "hint": "Let\u2019s go camping this  weekend.",
+        "type-id": "order-102",
+        "grade": "province"
+    },
+    {
+        "id": 103,
+        "question": [
+            "Does",
+            "he go",
+            "to school",
+            "by bus?"
+        ],
+        "hint": "Does he go to school by bus?",
+        "type-id": "order-103",
+        "grade": "province"
+    },
+    {
+        "id": 104,
+        "question": [
+            "She is",
+            "my",
+            "English",
+            "teacher"
+        ],
+        "hint": "She is my English teacher",
+        "type-id": "order-104",
+        "grade": "city"
+    },
+    {
+        "id": 105,
+        "question": [
+            "There",
+            "are twenty",
+            "boys in",
+            "my class."
+        ],
+        "hint": "There are twenty boys in my class.",
+        "type-id": "order-105",
+        "grade": "city"
+    },
+    {
+        "id": 106,
+        "question": [
+            "I",
+            "don\u2019t like",
+            "eating",
+            "tomatoes."
+        ],
+        "hint": "I don\u2019t like eating tomatoes.",
+        "type-id": "order-106",
+        "grade": "city"
+    },
+    {
+        "id": 107,
+        "question": [
+            "Minh",
+            "is a",
+            "very good",
+            "student."
+        ],
+        "hint": "Minh is a very good student.",
+        "type-id": "order-107",
+        "grade": "city"
+    },
+    {
+        "id": 108,
+        "question": [
+            "My",
+            "brother is",
+            "tall and",
+            "thin."
+        ],
+        "hint": "My brother is tall and thin.",
+        "type-id": "order-108",
+        "grade": "province"
+    },
+    {
+        "id": 109,
+        "question": [
+            "This",
+            "is my",
+            "new ",
+            "ruler."
+        ],
+        "hint": "This is my new  ruler.",
+        "type-id": "order-109",
+        "grade": "city"
+    },
+    {
+        "id": 110,
+        "question": [
+            "Where",
+            "do",
+            "your",
+            "grandparents live?"
+        ],
+        "hint": "Where do your grandparents live?",
+        "type-id": "order-110",
+        "grade": "city"
+    },
+    {
+        "id": 111,
+        "question": [
+            "What",
+            "are",
+            "you",
+            "doing?"
+        ],
+        "hint": "What are you doing?",
+        "type-id": "order-111",
+        "grade": "city"
+    },
+    {
+        "id": 112,
+        "question": [
+            "Where",
+            "is",
+            "your",
+            "sister?"
+        ],
+        "hint": "Where is your sister?",
+        "type-id": "order-112",
+        "grade": "city"
+    },
+    {
+        "id": 113,
+        "question": [
+            "Where",
+            "is",
+            "your",
+            "sister?"
+        ],
+        "hint": "The cat is sleeping  under the sofa.",
+        "type-id": "order-113",
+        "grade": "province"
+    },
+    {
+        "id": 114,
+        "question": [
+            "The cat",
+            "is sleeping ",
+            "under",
+            "the sofa."
+        ],
+        "hint": "I don\u2019t have Math  on Monday.",
+        "type-id": "order-114",
+        "grade": "province"
+    },
+    {
+        "id": 115,
+        "question": [
+            "Let\u2019s say",
+            "hello to",
+            "our",
+            "new classmate."
+        ],
+        "hint": "Let\u2019s say hello to our new classmate.",
+        "type-id": "order-115",
+        "grade": "city"
+    },
+    {
+        "id": 116,
+        "question": [
+            "Is there",
+            "a fence",
+            "around",
+            "your house?"
+        ],
+        "hint": "Is there a fence around your house?",
+        "type-id": "order-116",
+        "grade": "province"
+    },
+    {
+        "id": 117,
+        "question": [
+            "He ",
+            "never",
+            "goes fishing",
+            " on Sunday."
+        ],
+        "hint": "He  never goes fishing  on Sunday.",
+        "type-id": "order-117",
+        "grade": "city"
+    },
+    {
+        "id": 118,
+        "question": [
+            "My",
+            "mother",
+            "is",
+            "a nurse."
+        ],
+        "hint": "My mother is a nurse.",
+        "type-id": "order-118",
+        "grade": "city"
+    },
+    {
+        "id": 119,
+        "question": [
+            "What",
+            "color",
+            "is",
+            "his bike?"
+        ],
+        "hint": "What color is his bike?",
+        "type-id": "order-119",
+        "grade": "city"
+    },
+    {
+        "id": 120,
+        "question": [
+            "My",
+            "English teacher",
+            "is standing",
+            "near the door."
+        ],
+        "hint": "My English teacher is standing near the door.",
+        "type-id": "order-120",
+        "grade": "province"
+    },
+    {
+        "id": 121,
+        "question": [
+            "The girl",
+            "is singing",
+            "an English",
+            "song."
+        ],
+        "hint": "The girl is singing an English song.",
+        "type-id": "order-121",
+        "grade": "province"
+    },
+    {
+        "id": 122,
+        "question": [
+            "What\u2019s",
+            "the weather",
+            "like",
+            "in Hanoi?"
+        ],
+        "hint": "What\u2019s the weather like in Hanoi?",
+        "type-id": "order-122",
+        "grade": "city"
+    },
+    {
+        "id": 123,
+        "question": [
+            "Does",
+            "Jane",
+            "have",
+            "any sisters?"
+        ],
+        "hint": "Does Jane have any sisters?",
+        "type-id": "order-123",
+        "grade": "city"
+    },
+    {
+        "id": 124,
+        "question": [
+            "Minh",
+            "is a",
+            "very",
+            "good student."
+        ],
+        "hint": "Minh is a very good student.",
+        "type-id": "order-124",
+        "grade": "province"
+    },
+    {
+        "id": 125,
+        "question": [
+            "I don\u2019t",
+            "know",
+            "his",
+            "email address."
+        ],
+        "hint": "I don\u2019t know his email address.",
+        "type-id": "order-125",
+        "grade": "city"
+    },
+    {
+        "id": 126,
+        "question": [
+            "How",
+            "old",
+            "is your ",
+            "big brother?"
+        ],
+        "hint": "How old is your  big brother?",
+        "type-id": "order-126",
+        "grade": "city"
+    },
+    {
+        "id": 127,
+        "question": [
+            "Don\u2019t",
+            "make",
+            "too",
+            "much noise."
+        ],
+        "hint": "Don\u2019t make too much noise.",
+        "type-id": "order-127",
+        "grade": "province"
+    },
+    {
+        "id": 128,
+        "question": [
+            "Do",
+            "you",
+            "like",
+            "football?"
+        ],
+        "hint": "Do you like football?",
+        "type-id": "order-128",
+        "grade": "city"
+    },
+    {
+        "id": 129,
+        "question": [
+            "Nice",
+            "to",
+            "meet",
+            "you, Anna."
+        ],
+        "hint": "Nice to meet you, Anna.",
+        "type-id": "order-129",
+        "grade": "city"
+    },
+    {
+        "id": 130,
+        "question": [
+            "I",
+            "don\u2019t",
+            "like eating",
+            "tomatoes."
+        ],
+        "hint": "I don\u2019t like eating tomatoes.",
+        "type-id": "order-130",
+        "grade": "city"
+    },
+    {
+        "id": 131,
+        "question": [
+            "What does",
+            "Amy ",
+            "do at",
+            "break time?"
+        ],
+        "hint": "What does Amy  do at break time?",
+        "type-id": "order-131",
+        "grade": "province"
+    },
+    {
+        "id": 132,
+        "question": [
+            "Let\u2019s color",
+            "this picture",
+            " of",
+            "our school."
+        ],
+        "hint": "Let\u2019s color this picture  of our school.",
+        "type-id": "order-132",
+        "grade": "province"
+    },
+    {
+        "id": 133,
+        "question": [
+            "What",
+            "do you",
+            "usually do",
+            "on the weekends?"
+        ],
+        "hint": "What do you usually do on the weekends?",
+        "type-id": "order-133",
+        "grade": "province"
+    },
+    {
+        "id": 134,
+        "question": [
+            "Does",
+            "he",
+            "go to school",
+            "by bus?"
+        ],
+        "hint": "Does he go to school by bus?",
+        "type-id": "order-134",
+        "grade": "city"
+    },
+    {
+        "id": 135,
+        "question": [
+            "How many",
+            "rooms",
+            "are there",
+            "in your house?"
+        ],
+        "hint": "How many rooms are there in your house?",
+        "type-id": "order-135",
+        "grade": "city"
+    },
+    {
+        "id": 136,
+        "question": [
+            "Where",
+            "are",
+            "you",
+            "from?"
+        ],
+        "hint": "Where are you from?",
+        "type-id": "order-136",
+        "grade": "city"
+    },
+    {
+        "id": 137,
+        "question": [
+            "Let\u2019s",
+            "go",
+            "camping",
+            "this weekend."
+        ],
+        "hint": "Let\u2019s go camping this weekend.",
+        "type-id": "order-137",
+        "grade": "city"
+    },
+    {
+        "id": 138,
+        "question": [
+            "Close",
+            "the",
+            "windows,",
+            "please."
+        ],
+        "hint": "Close the windows, please.",
+        "type-id": "order-138",
+        "grade": "city"
+    },
+    {
+        "id": 139,
+        "question": [
+            "We",
+            "are",
+            "walking to",
+            "the zoo."
+        ],
+        "hint": "We are walking to the zoo.",
+        "type-id": "order-139",
+        "grade": "province"
+    },
+    {
+        "id": 140,
+        "question": [
+            "Do you",
+            "go to",
+            "the museum",
+            "after school?"
+        ],
+        "hint": "Do you go to the museum after school?",
+        "type-id": "order-140",
+        "grade": "province"
+    },
+    {
+        "id": 141,
+        "question": [
+            "I",
+            "don\u2019t",
+            "have any",
+            "sandwiches."
+        ],
+        "hint": "I don\u2019t have any sandwiches.",
+        "type-id": "order-141",
+        "grade": "city"
+    },
+    {
+        "id": 142,
+        "question": [
+            "Her",
+            "birthday",
+            "is",
+            "next Monday."
+        ],
+        "hint": "Her birthday is next Monday.",
+        "type-id": "order-142",
+        "grade": "province"
+    },
+    {
+        "id": 143,
+        "question": [
+            "This is",
+            "a",
+            "\tvery big",
+            "bag."
+        ],
+        "hint": "This is a \tvery big bag.",
+        "type-id": "order-143",
+        "grade": "city"
+    },
+    {
+        "id": 144,
+        "question": [
+            "This",
+            "is",
+            "my",
+            "new ruler."
+        ],
+        "hint": "This is my new ruler.",
+        "type-id": "order-144",
+        "grade": "city"
+    },
+    {
+        "id": 145,
+        "question": [
+            "It",
+            "isn\u2019t",
+            "my",
+            "pencil case."
+        ],
+        "hint": "It isn\u2019t my pencil case.",
+        "type-id": "order-145",
+        "grade": "city"
+    },
+    {
+        "id": 146,
+        "question": [
+            "What",
+            "color",
+            "is",
+            "your T-shirt?"
+        ],
+        "hint": "What color is your T-shirt?",
+        "type-id": "order-146",
+        "grade": "city"
+    },
+    {
+        "id": 147,
+        "question": [
+            "Can",
+            "you",
+            "swim",
+            "or dive?"
+        ],
+        "hint": "Can you swim or dive?",
+        "type-id": "order-147",
+        "grade": "province"
+    },
+    {
+        "id": 148,
+        "question": [
+            "The children",
+            "are watching",
+            "a cartoon",
+            "now."
+        ],
+        "hint": "The children are watching a cartoon now.",
+        "type-id": "order-148",
+        "grade": "province"
+    },
+    {
+        "id": 149,
+        "question": [
+            "Do you",
+            "have",
+            "any dogs",
+            "at home?"
+        ],
+        "hint": "Do you have any dogs at home?",
+        "type-id": "order-149",
+        "grade": "province"
+    },
+    {
+        "id": 150,
+        "question": [
+            "Uncle Roger",
+            "is a",
+            "famous",
+            "footballer."
+        ],
+        "hint": "Uncle Roger is a famous footballer.",
+        "type-id": "order-150",
+        "grade": "province"
+    },
+    {
+        "id": 151,
+        "question": [
+            "James has",
+            "one turtle",
+            "and ",
+            "two goldfish."
+        ],
+        "hint": "James has one turtle and  two goldfish.",
+        "type-id": "order-151",
+        "grade": "province"
+    },
+    {
+        "id": 153,
+        "question": [
+            "What\u2019s",
+            "your",
+            "brother\u2019s",
+            "name?"
+        ],
+        "hint": "What\u2019s your brother\u2019s name?",
+        "type-id": "order-153",
+        "grade": "city"
+    },
+    {
+        "id": 154,
+        "question": [
+            "There are",
+            "twenty",
+            "boys",
+            "in my class."
+        ],
+        "hint": "There are twenty boys in my class.",
+        "type-id": "order-154",
+        "grade": "province"
+    },
+    {
+        "id": 155,
+        "question": [
+            "Both my father",
+            "and my mother",
+            "are forty",
+            "years old."
+        ],
+        "hint": "Both my father and my mother are forty years old.",
+        "type-id": "order-155",
+        "grade": "province"
+    },
+    {
+        "id": 156,
+        "question": [
+            "Don\u2019t",
+            "be",
+            "late",
+            "for school."
+        ],
+        "hint": "Don\u2019t be late for school.",
+        "type-id": "order-156",
+        "grade": "province"
+    },
+    {
+        "id": 157,
+        "question": [
+            "This",
+            "is",
+            "Tim and",
+            "Jane."
+        ],
+        "hint": "This is Tim and Jane.",
+        "type-id": "order-157",
+        "grade": "school"
+    },
+    {
+        "id": 158,
+        "question": [
+            "This",
+            "is",
+            "a",
+            "doll."
+        ],
+        "hint": "This is a doll.",
+        "type-id": "order-158",
+        "grade": "school"
+    },
+    {
+        "id": 159,
+        "question": [
+            "Peter and",
+            "Mary",
+            "are at",
+            "the school gate."
+        ],
+        "hint": "Peter and Mary are at the school gate.",
+        "type-id": "order-159",
+        "grade": "province"
+    },
+    {
+        "id": 160,
+        "question": [
+            "This",
+            "is",
+            "my",
+            "teddy bear."
+        ],
+        "hint": "This is my teddy bear.",
+        "type-id": "order-160",
+        "grade": "province"
+    },
+    {
+        "id": 161,
+        "question": [
+            "I",
+            "am",
+            "hungry",
+            "now."
+        ],
+        "hint": "I am hungry now.",
+        "type-id": "order-161",
+        "grade": "city"
+    },
+    {
+        "id": 162,
+        "question": [
+            "It",
+            "is",
+            "a",
+            "chair."
+        ],
+        "hint": "It is a chair.",
+        "type-id": "order-162",
+        "grade": "school"
+    },
+    {
+        "id": 163,
+        "question": [
+            "This",
+            "is",
+            "my",
+            "book."
+        ],
+        "hint": "This is my book.",
+        "type-id": "order-163",
+        "grade": "school"
+    },
+    {
+        "id": 164,
+        "question": [
+            "What",
+            "is",
+            "your",
+            "name?"
+        ],
+        "hint": "What is your name?",
+        "type-id": "order-164",
+        "grade": "school"
+    },
+    {
+        "id": 165,
+        "question": [
+            "What\u2019s",
+            "your",
+            "friend\u2019s",
+            "name?"
+        ],
+        "hint": "What\u2019s your friend\u2019s name?",
+        "type-id": "order-165",
+        "grade": "school"
+    },
+    {
+        "id": 166,
+        "question": [
+            "Peter",
+            "wants",
+            "some",
+            "food."
+        ],
+        "hint": "Peter wants some food.",
+        "type-id": "order-166",
+        "grade": "province"
+    },
+    {
+        "id": 167,
+        "question": [
+            "My brother",
+            "doesn\u2019t",
+            "like",
+            "cats."
+        ],
+        "hint": "My brother doesn\u2019t like cats.",
+        "type-id": "order-167",
+        "grade": "province"
+    },
+    {
+        "id": 168,
+        "question": [
+            "Bye.",
+            "See",
+            "you",
+            "tomorrow!"
+        ],
+        "hint": "Bye. See you tomorrow!",
+        "type-id": "order-168",
+        "grade": "school"
+    },
+    {
+        "id": 169,
+        "question": [
+            "Write",
+            "a",
+            "postcard",
+            "to a pen friend."
+        ],
+        "hint": "Write a postcard to a pen friend.",
+        "type-id": "order-169",
+        "grade": "province"
+    },
+    {
+        "id": 170,
+        "question": [
+            "Let\u2019s",
+            "learn",
+            "English",
+            "."
+        ],
+        "hint": "Let\u2019s learn English .",
+        "type-id": "order-170",
+        "grade": "school"
+    },
+    {
+        "id": 171,
+        "question": [
+            "Complete",
+            "the",
+            "crossword",
+            "puzzle."
+        ],
+        "hint": "Complete the crossword puzzle.",
+        "type-id": "order-171",
+        "grade": "province"
+    },
+    {
+        "id": 172,
+        "question": [
+            "Good",
+            "morning,",
+            "teacher",
+            "."
+        ],
+        "hint": "Good morning, teacher .",
+        "type-id": "order-172",
+        "grade": "school"
+    },
+    {
+        "id": 173,
+        "question": [
+            "This",
+            "is",
+            "a",
+            "purple bag."
+        ],
+        "hint": "This is a purple bag.",
+        "type-id": "order-173",
+        "grade": "province"
+    },
+    {
+        "id": 174,
+        "question": [
+            "May",
+            "I",
+            "go",
+            "out?"
+        ],
+        "hint": "May I go out?",
+        "type-id": "order-174",
+        "grade": "city"
+    },
+    {
+        "id": 175,
+        "question": [
+            "I have",
+            "a book",
+            "in",
+            "my bag."
+        ],
+        "hint": "I have a book in my bag.",
+        "type-id": "order-175",
+        "grade": "city"
+    },
+    {
+        "id": 176,
+        "question": [
+            "My",
+            "name",
+            "is",
+            "Li Li."
+        ],
+        "hint": "My name is Li Li.",
+        "type-id": "order-176",
+        "grade": "school"
+    },
+    {
+        "id": 177,
+        "question": [
+            "It is",
+            "a",
+            "blue",
+            "book."
+        ],
+        "hint": "It is a blue book.",
+        "type-id": "order-177",
+        "grade": "city"
+    },
+    {
+        "id": 178,
+        "question": [
+            "It",
+            "is",
+            "a",
+            "bag."
+        ],
+        "hint": "It is a bag.",
+        "type-id": "order-178",
+        "grade": "school"
+    },
+    {
+        "id": 179,
+        "question": [
+            "This",
+            "is",
+            "a",
+            "red apple."
+        ],
+        "hint": "This is a red apple.",
+        "type-id": "order-179",
+        "grade": "city"
+    },
+    {
+        "id": 180,
+        "question": [
+            "We",
+            "want",
+            "some",
+            "water."
+        ],
+        "hint": "We want some water.",
+        "type-id": "order-180",
+        "grade": "city"
+    },
+    {
+        "id": 181,
+        "question": [
+            "Is",
+            "that",
+            "your",
+            "book?"
+        ],
+        "hint": "Is that your book?",
+        "type-id": "order-181",
+        "grade": "city"
+    },
+    {
+        "id": 182,
+        "question": [
+            "What",
+            "is",
+            "this?",
+            ""
+        ],
+        "hint": "What is this? ",
+        "type-id": "order-182",
+        "grade": "school"
+    },
+    {
+        "id": 183,
+        "question": [
+            "Look at",
+            "that",
+            "green",
+            "pen."
+        ],
+        "hint": "Look at that green pen.",
+        "type-id": "order-183",
+        "grade": "province"
+    },
+    {
+        "id": 184,
+        "question": [
+            "Put",
+            "away",
+            "your",
+            "book."
+        ],
+        "hint": "Put away your book.",
+        "type-id": "order-184",
+        "grade": "province"
+    },
+    {
+        "id": 185,
+        "question": [
+            "Please",
+            "repeat",
+            "after",
+            "me."
+        ],
+        "hint": "Please repeat after me.",
+        "type-id": "order-185",
+        "grade": "city"
+    },
+    {
+        "id": 186,
+        "question": [
+            "Look",
+            "at",
+            "the",
+            "board."
+        ],
+        "hint": "Look at the board.",
+        "type-id": "order-186",
+        "grade": "city"
+    },
+    {
+        "id": 187,
+        "question": [
+            "Hi,",
+            "Mary.",
+            "How",
+            "are you?"
+        ],
+        "hint": "Hi, Mary. How are you?",
+        "type-id": "order-187",
+        "grade": "school"
+    },
+    {
+        "id": 188,
+        "question": [
+            "I",
+            "am",
+            "fine,",
+            "thank you."
+        ],
+        "hint": "I am fine, thank you.",
+        "type-id": "order-188",
+        "grade": "school"
+    },
+    {
+        "id": 189,
+        "question": [
+            "Clean",
+            "your",
+            "teeth,",
+            "please."
+        ],
+        "hint": "Clean your teeth, please.",
+        "type-id": "order-189",
+        "grade": "city"
+    },
+    {
+        "id": 190,
+        "question": [
+            "This",
+            "is",
+            "my",
+            "classroom."
+        ],
+        "hint": "This is my classroom.",
+        "type-id": "order-190",
+        "grade": "city"
+    },
+    {
+        "id": 191,
+        "question": [
+            "She",
+            "is",
+            "my",
+            "teacher."
+        ],
+        "hint": "She is my teacher.",
+        "type-id": "order-191",
+        "grade": "city"
+    },
+    {
+        "id": 192,
+        "question": [
+            "That",
+            "is",
+            "a",
+            "brown cat."
+        ],
+        "hint": "That is a brown cat.",
+        "type-id": "order-192",
+        "grade": "city"
+    },
+    {
+        "id": 193,
+        "question": [
+            "What",
+            "colour",
+            "is",
+            "this?"
+        ],
+        "hint": "What colour is this?",
+        "type-id": "order-193",
+        "grade": "city"
+    },
+    {
+        "id": 194,
+        "question": [
+            "What",
+            "is",
+            "its",
+            "name?"
+        ],
+        "hint": "What is its name?",
+        "type-id": "order-194",
+        "grade": "school"
+    },
+    {
+        "id": 195,
+        "question": [
+            "Tom",
+            "is",
+            "my",
+            "friend."
+        ],
+        "hint": "Tom is my friend.",
+        "type-id": "order-195",
+        "grade": "school"
+    },
+    {
+        "id": 196,
+        "question": [
+            "Is",
+            "your",
+            "school",
+            "big?"
+        ],
+        "hint": "Is your school big?",
+        "type-id": "order-196",
+        "grade": "city"
+    },
+    {
+        "id": 197,
+        "question": [
+            "Give",
+            "me",
+            "the book,",
+            "please."
+        ],
+        "hint": "Give me the book, please.",
+        "type-id": "order-197",
+        "grade": "school"
+    },
+    {
+        "id": 198,
+        "question": [
+            "These",
+            "are",
+            "my",
+            "new friends."
+        ],
+        "hint": "These are my new friends.",
+        "type-id": "order-198",
+        "grade": "school"
+    },
+    {
+        "id": 199,
+        "question": [
+            "He",
+            "is",
+            "my friend,",
+            "too."
+        ],
+        "hint": "He is my friend, too.",
+        "type-id": "order-199",
+        "grade": "city"
+    },
+    {
+        "id": 200,
+        "question": [
+            "Put",
+            "down",
+            "your",
+            "hand."
+        ],
+        "hint": "Put down your hand.",
+        "type-id": "order-200",
+        "grade": "province"
+    },
+    {
+        "id": 202,
+        "question": [
+            "Do",
+            "you",
+            "want",
+            "some milk?"
+        ],
+        "hint": "Do you want some milk?",
+        "type-id": "order-202",
+        "grade": "province"
+    },
+    {
+        "id": 203,
+        "question": [
+            "This",
+            "is",
+            "my",
+            "new book."
+        ],
+        "hint": "This is my new book.",
+        "type-id": "order-203",
+        "grade": "city"
+    },
+    {
+        "id": 204,
+        "question": [
+            "May",
+            "I",
+            "go",
+            "out?"
+        ],
+        "hint": "May I go out?",
+        "type-id": "order-204",
+        "grade": "city"
+    },
+    {
+        "id": 205,
+        "question": [
+            "This",
+            "is",
+            "an",
+            "eraser."
+        ],
+        "hint": "This is an eraser.",
+        "type-id": "order-205",
+        "grade": "city"
+    },
+    {
+        "id": 206,
+        "question": [
+            "That",
+            "is",
+            "my",
+            "box."
+        ],
+        "hint": "That is my box.",
+        "type-id": "order-206",
+        "grade": "province"
+    },
+    {
+        "id": 207,
+        "question": [
+            "I",
+            "go to",
+            "school",
+            "every morning."
+        ],
+        "hint": "I go to school every morning.",
+        "type-id": "order-207",
+        "grade": "province"
+    },
+    {
+        "id": 208,
+        "question": [
+            "This",
+            "is",
+            "the way",
+            "we go to school."
+        ],
+        "hint": "This is the way we go to school.",
+        "type-id": "order-208",
+        "grade": "province"
+    },
+    {
+        "id": 209,
+        "question": [
+            "He",
+            "has",
+            "some",
+            "chalks."
+        ],
+        "hint": "He has some chalks.",
+        "type-id": "order-209",
+        "grade": "province"
+    },
+    {
+        "id": 210,
+        "question": [
+            "It",
+            "is",
+            "an",
+            "eraser."
+        ],
+        "hint": "It is an eraser.",
+        "type-id": "order-210",
+        "grade": "city"
+    },
+    {
+        "id": 211,
+        "question": [
+            "These",
+            "are",
+            "my",
+            "pens."
+        ],
+        "hint": "These are my pens.",
+        "type-id": "order-211",
+        "grade": "city"
+    },
+    {
+        "id": 212,
+        "question": [
+            "The",
+            "rabbit",
+            "is",
+            "white."
+        ],
+        "hint": "The rabbit is white.",
+        "type-id": "order-212",
+        "grade": "province"
+    },
+    {
+        "id": 213,
+        "question": [
+            "Sorry,",
+            "I",
+            "am",
+            "late."
+        ],
+        "hint": "Sorry, I am late.",
+        "type-id": "order-213",
+        "grade": "city"
+    },
+    {
+        "id": 214,
+        "question": [
+            "His",
+            "name",
+            "is",
+            "Peter."
+        ],
+        "hint": "His name is Peter.",
+        "type-id": "order-214",
+        "grade": "school"
+    },
+    {
+        "id": 215,
+        "question": [
+            "How",
+            "many",
+            "crayons",
+            "are there?"
+        ],
+        "hint": "How many crayons are there?",
+        "type-id": "order-215",
+        "grade": "city"
+    },
+    {
+        "id": 216,
+        "question": [
+            "Open",
+            "your",
+            "school bag,",
+            "Peter."
+        ],
+        "hint": "Open your school bag, Peter.",
+        "type-id": "order-216",
+        "grade": "city"
+    },
+    {
+        "id": 217,
+        "question": [
+            "This",
+            "is",
+            "my",
+            "friend, Linh."
+        ],
+        "hint": "This is my friend, Linh.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 218,
+        "question": [
+            "Is",
+            "the",
+            "window",
+            "new, too?"
+        ],
+        "hint": "Is the window new, too?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 219,
+        "question": [
+            "Linda",
+            "goes",
+            "to",
+            "school today."
+        ],
+        "hint": "Linda goes to school today.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 220,
+        "question": [
+            "They are",
+            "my",
+            "friends,",
+            "Binh and Nam."
+        ],
+        "hint": "They are my friends, Binh and Nam.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 221,
+        "question": [
+            "My friends",
+            "and I",
+            "sing a song",
+            " together."
+        ],
+        "hint": "My friends and I sing a song together.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 222,
+        "question": [
+            "Is",
+            "she",
+            "your",
+            "sister?"
+        ],
+        "hint": "Is she your sister?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 223,
+        "question": [
+            "Can",
+            "I",
+            "borrow",
+            "your pen?"
+        ],
+        "hint": "Can I borrow your pen?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 224,
+        "question": [
+            "Nam is",
+            "ten",
+            "years old,",
+            "too."
+        ],
+        "hint": "Nam is ten years old, too.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 225,
+        "question": [
+            "May",
+            "I",
+            "come in,",
+            "Ms. Hoa?"
+        ],
+        "hint": "May I come in, Ms. Hoa?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 226,
+        "question": [
+            "Are",
+            "they",
+            "his",
+            "new friends?"
+        ],
+        "hint": "Are they his new friends?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 227,
+        "question": [
+            "What",
+            "colour",
+            "is",
+            "your room?"
+        ],
+        "hint": "What colour is your room?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 228,
+        "question": [
+            "How do",
+            "you",
+            "spell",
+            "this name?"
+        ],
+        "hint": "How do you spell this name?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 229,
+        "question": [
+            "His",
+            "name",
+            "is",
+            "Quan."
+        ],
+        "hint": "His name is Quan.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 230,
+        "question": [
+            "It is",
+            "a",
+            "big",
+            "dog."
+        ],
+        "hint": "It is a big dog.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 231,
+        "question": [
+            "What colour",
+            "is your",
+            "pencil",
+            "sharpener?"
+        ],
+        "hint": "What colour is your pencil sharpener?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 232,
+        "question": [
+            "Is your",
+            "school",
+            "playground ",
+            "large?"
+        ],
+        "hint": "Is your school playground large?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 233,
+        "question": [
+            "How old",
+            "is",
+            "your ",
+            "friend?"
+        ],
+        "hint": "How old is your friend?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 234,
+        "question": [
+            "Five",
+            "pens",
+            "are",
+            "on the desk."
+        ],
+        "hint": "Five pens are on the desk.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 235,
+        "question": [
+            "Their",
+            "bags",
+            "are",
+            "yellow and green."
+        ],
+        "hint": "Their bags are yellow and green.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 236,
+        "question": [
+            "My",
+            "cats",
+            "are",
+            "yellow."
+        ],
+        "hint": "My cats are yellow.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 237,
+        "question": [
+            "I",
+            "go to",
+            "school",
+            "in the morning."
+        ],
+        "hint": "I go to school in the morning.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 238,
+        "question": [
+            "He is",
+            "not",
+            "in",
+            "the room."
+        ],
+        "hint": "He is not in the room.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 239,
+        "question": [
+            "I\u2019m",
+            "eight",
+            "years",
+            "old."
+        ],
+        "hint": "I\u2019m eight years old.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 240,
+        "question": [
+            "My school",
+            "is",
+            "new",
+            "and big."
+        ],
+        "hint": "My school is new and big.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 241,
+        "question": [
+            "I",
+            "am",
+            "eight",
+            "years old."
+        ],
+        "hint": "I am eight years old.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 242,
+        "question": [
+            "Are these",
+            "his",
+            "pens",
+            "and pencils?"
+        ],
+        "hint": "Are these his pens and pencils?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 243,
+        "question": [
+            "How do",
+            "you",
+            "spell",
+            "that name?"
+        ],
+        "hint": "How do you spell that name?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 244,
+        "question": [
+            "Close",
+            "your",
+            "book,",
+            "Nam."
+        ],
+        "hint": "Close your book, Nam.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 245,
+        "question": [
+            "They",
+            "aren\u2019t",
+            "in",
+            "the classroom."
+        ],
+        "hint": "They aren\u2019t in the classroom.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 246,
+        "question": [
+            "The",
+            "art room",
+            "is small",
+            "but new."
+        ],
+        "hint": "The art room is small but new.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 247,
+        "question": [
+            "These",
+            "are",
+            "my",
+            "short rulers."
+        ],
+        "hint": "These are my short rulers.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 248,
+        "question": [
+            "How are",
+            "you",
+            "today,",
+            "Mai and Phong?"
+        ],
+        "hint": "How are you today, Mai and Phong?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 249,
+        "question": [
+            "Is",
+            "your",
+            "school",
+            "library big?"
+        ],
+        "hint": "Is your school library big?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 250,
+        "question": [
+            "These are",
+            "my",
+            "notebooks",
+            "and pencils."
+        ],
+        "hint": "These are my notebooks and pencils.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 251,
+        "question": [
+            "The books",
+            "are",
+            "on",
+            "the bookcase."
+        ],
+        "hint": "The books are on the bookcase.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 252,
+        "question": [
+            "Open",
+            "your",
+            "book,",
+            "please!"
+        ],
+        "hint": "Open your book, please!",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 253,
+        "question": [
+            "This box",
+            "is",
+            "yellow",
+            "and pink."
+        ],
+        "hint": "This box is yellow and pink.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 254,
+        "question": [
+            "How",
+            "are",
+            "you",
+            "today?"
+        ],
+        "hint": "How are you today?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 255,
+        "question": [
+            "The book",
+            "is",
+            "on",
+            "the table."
+        ],
+        "hint": "The book is on the table.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 256,
+        "question": [
+            "Tony",
+            "is",
+            "sick",
+            "today."
+        ],
+        "hint": "Tony is sick today.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 257,
+        "question": [
+            "What",
+            "is",
+            "your",
+            "name?"
+        ],
+        "hint": "What\u2019s your name?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 258,
+        "question": [
+            "I and",
+            "my friend",
+            "play",
+            "badminton."
+        ],
+        "hint": "I play badminton.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 259,
+        "question": [
+            "I\u2019m",
+            "fine,",
+            "thanks.",
+            "And you?"
+        ],
+        "hint": "I\u2019m fine, thanks. And you?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 260,
+        "question": [
+            "I play",
+            "table tennis",
+            "in",
+            "playground."
+        ],
+        "hint": "I play table tennis in the playground.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 261,
+        "question": [
+            "He draws",
+            "pictures",
+            "in the",
+            "art room."
+        ],
+        "hint": "He draws pictures in the art room.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 262,
+        "question": [
+            "Hi.",
+            "My",
+            "name",
+            "is Linda."
+        ],
+        "hint": "Hi. My name is Linda.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 263,
+        "question": [
+            "These",
+            "are",
+            "two",
+            "little puppies."
+        ],
+        "hint": "These are two little puppies.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 264,
+        "question": [
+            "I",
+            "like",
+            "playing",
+            "football"
+        ],
+        "hint": "I like playing football.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 265,
+        "question": [
+            "What",
+            "colour",
+            "is",
+            "your new bag?"
+        ],
+        "hint": "What colour is your new bag?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 266,
+        "question": [
+            "My",
+            "school",
+            "garden",
+            "is large."
+        ],
+        "hint": "My school garden is large.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 267,
+        "question": [
+            "Be",
+            "quiet,",
+            "boys",
+            "!"
+        ],
+        "hint": "Be quiet, boys!",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 268,
+        "question": [
+            "My",
+            "rubber",
+            "is",
+            "small, and my ruler is short."
+        ],
+        "hint": "My rubber is small, and my ruler is short.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 269,
+        "question": [
+            "How",
+            "old",
+            "is",
+            "your teacher?"
+        ],
+        "hint": "How old is your teacher?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 270,
+        "question": [
+            "I",
+            "go",
+            "to",
+            "school with my friends."
+        ],
+        "hint": "I go to school with my friends.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 271,
+        "question": [
+            "Their",
+            "backpacks",
+            "are",
+            "brown."
+        ],
+        "hint": "Their backpacks are brown.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 272,
+        "question": [
+            "Is",
+            "that",
+            "your",
+            "pet?"
+        ],
+        "hint": "Is that your pet?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 273,
+        "question": [
+            "My",
+            "classroom",
+            "is",
+            "not large."
+        ],
+        "hint": "My classroom is not large.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 274,
+        "question": [
+            "How do",
+            "you",
+            "spell",
+            "her name?"
+        ],
+        "hint": "How do you spell her name?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 275,
+        "question": [
+            "May",
+            "I",
+            "ask you",
+            "a question?"
+        ],
+        "hint": "May I ask you a question?",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 276,
+        "question": [
+            "Those",
+            "aren\u2019t",
+            "his",
+            "books."
+        ],
+        "hint": "Those aren\u2019t his books.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 277,
+        "question": [
+            "This",
+            "is",
+            "a new ",
+            "pupil, Sarah."
+        ],
+        "hint": "This is a new pupil, Sarah.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 278,
+        "question": [
+            "Those",
+            "are",
+            "my",
+            "new friends."
+        ],
+        "hint": "Those are my new friends.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 279,
+        "question": [
+            "Peter",
+            "is",
+            "my",
+            "new friend."
+        ],
+        "hint": "Peter is my new friend.",
+        "type-id": NaN,
+        "grade": "School D1"
+    },
+    {
+        "id": 280,
+        "question": [
+            "Who",
+            "is",
+            "that",
+            "girl?"
+        ],
+        "hint": "Who\u2019s that girl?",
+        "type-id": NaN,
+        "grade": "School D1"
     }
 ]

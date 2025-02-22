@@ -10,7 +10,7 @@
             "C. a hospital",
             "D. a post office"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "A doctor works at _______. \u2192 B\u00e1c s\u0129 l\u00e0m vi\u1ec7c \u1edf _______.\n\nA. a school \u2192 m\u1ed9t ng\u00f4i tr\u01b0\u1eddng\nB. a farm \u2192 m\u1ed9t trang tr\u1ea1i\nC. a hospital \u2192 m\u1ed9t b\u1ec7nh vi\u1ec7n \u2705\nD. a post office \u2192 m\u1ed9t b\u01b0u \u0111i\u1ec7n"
     },
     {
@@ -24,7 +24,7 @@
             "C. February",
             "D. March"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Which is the second month of the year? \u2192 Th\u00e1ng th\u1ee9 hai trong n\u0103m l\u00e0 th\u00e1ng n\u00e0o?\n\nA. June \u2192 th\u00e1ng S\u00e1u\nB. September \u2192 th\u00e1ng Ch\u00edn\nC. February \u2192 th\u00e1ng Hai \u2705\nD. March \u2192 th\u00e1ng Ba"
     },
     {
@@ -38,7 +38,7 @@
             "C. It's an orange.",
             "D. It's a bridge."
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "Which animal is it? \u2192 \u0110\u00e2y l\u00e0 con v\u1eadt g\u00ec?\n\nA. It's an eraser. \u2192 \u0110\u00f3 l\u00e0 m\u1ed9t c\u1ee5c t\u1ea9y.\nB. It's a duck. \u2192 \u0110\u00f3 l\u00e0 m\u1ed9t con v\u1ecbt. \u2705\nC. It's an orange. \u2192 \u0110\u00f3 l\u00e0 m\u1ed9t qu\u1ea3 cam.\nD. It's a bridge. \u2192 \u0110\u00f3 l\u00e0 m\u1ed9t c\u00e2y c\u1ea7u."
     },
     {
@@ -52,7 +52,7 @@
             "C. zz",
             "D. rr"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Choose the letter(s) to make a correct word: pu_____le\n\u2192 Ch\u1ecdn ch\u1eef c\u00e1i \u0111\u1ec3 t\u1ea1o th\u00e0nh t\u1eeb \u0111\u00fang: pu_____le\n\nA. ss \u2192 puzzle (tr\u00f2 ch\u01a1i gh\u00e9p h\u00ecnh) \u2705\nB. aa \u2192 (kh\u00f4ng c\u00f3 ngh\u0129a)\nC. zz \u2192 (kh\u00f4ng c\u00f3 ngh\u0129a)\nD. rr \u2192 (kh\u00f4ng c\u00f3 ngh\u0129a)"
     },
     {
@@ -66,7 +66,7 @@
             "C. een",
             "D. eel"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "Choose the letter(s) to make a correct word: sch______yard\n\u2192 Ch\u1ecdn ch\u1eef c\u00e1i \u0111\u1ec3 t\u1ea1o th\u00e0nh t\u1eeb \u0111\u00fang: sch______yard\n\nA. oon \u2192 (kh\u00f4ng c\u00f3 ngh\u0129a)\nB. ool \u2192 schoolyard (s\u00e2n tr\u01b0\u1eddng) \u2705\nC. een \u2192 (kh\u00f4ng c\u00f3 ngh\u0129a)\nD. eel \u2192 (kh\u00f4ng c\u00f3 ngh\u0129a)"
     },
     {
@@ -80,7 +80,7 @@
             "C. Brush",
             "D. Wash"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "______ your teeth before you go to bed.\n\u2192 L\u00e0m g\u00ec v\u1edbi r\u0103ng tr\u01b0\u1edbc khi \u0111i ng\u1ee7?\n\nA. Read \u2192 \u0110\u1ecdc\nB. Practise \u2192 Luy\u1ec7n t\u1eadp\nC. Brush \u2192 \u0110\u00e1nh r\u0103ng \u2705\nD. Wash \u2192 R\u1eeda"
     },
     {
@@ -94,7 +94,7 @@
             "C. friends",
             "D. friend"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Tom and Lucy are my _________.\n\u2192 Tom v\u00e0 Lucy l\u00e0 ______ c\u1ee7a t\u00f4i.\n\nA. classmate \u2192 b\u1ea1n c\u00f9ng l\u1edbp (s\u1ed1 \u00edt)\nB. brother \u2192 anh/em trai\nC. friends \u2192 nh\u1eefng ng\u01b0\u1eddi b\u1ea1n \u2705\nD. friend \u2192 b\u1ea1n (s\u1ed1 \u00edt)"
     },
     {
@@ -108,7 +108,7 @@
             "C. Chair",
             "D. Shelf"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "Choose the odd one out. \u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\n\nA. Pizza \u2192 b\u00e1nh pizza \u2705\nB. Desk \u2192 b\u00e0n\nC. Chair \u2192 gh\u1ebf\nD. Shelf \u2192 k\u1ec7 s\u00e1ch"
     },
     {
@@ -122,7 +122,7 @@
             "C. packet",
             "D. box"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "He's wearing a ________ of red sandals.\n\u2192 Anh \u1ea5y \u0111ang \u0111i m\u1ed9t _______ \u0111\u00f4i d\u00e9p \u0111\u1ecf.\n\nA. pair \u2192 \u0111\u00f4i \u2705\nB. bar \u2192 thanh\nC. packet \u2192 g\u00f3i\nD. box \u2192 h\u1ed9p"
     },
     {
@@ -136,7 +136,7 @@
             "C. mother",
             "D. uncle"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "Choose the odd one out. \u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\n\nA. brother \u2192 anh trai/em trai\nB. teacher \u2192 gi\u00e1o vi\u00ean \u2705\nC. mother \u2192 m\u1eb9\nD. uncle \u2192 ch\u00fa/b\u00e1c"
     },
     {
@@ -150,7 +150,7 @@
             "C. short",
             "D. hungry"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "Minh is _____ . He wants something to eat.\n\u2192 Minh \u0111ang _____ . C\u1eadu \u1ea5y mu\u1ed1n \u0103n g\u00ec \u0111\u00f3.\n\nA. tall \u2192 cao\nB. thirsty \u2192 kh\u00e1t\nC. short \u2192 th\u1ea5p\nD. hungry \u2192 \u0111\u00f3i \u2705"
     },
     {
@@ -164,7 +164,7 @@
             "C. He",
             "D. My"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\n\nA. She \u2192 c\u00f4 \u1ea5y\nB. They \u2192 h\u1ecd\nC. He \u2192 anh \u1ea5y\nD. My \u2192 c\u1ee7a t\u00f4i \u2705\nGi\u1ea3i th\u00edch: \"My\" l\u00e0 t\u00ednh t\u1eeb s\u1edf h\u1eefu, c\u00f2n c\u00e1c t\u1eeb kh\u00e1c l\u00e0 \u0111\u1ea1i t\u1eeb nh\u00e2n x\u01b0ng."
     },
     {
@@ -178,7 +178,7 @@
             "C. What",
             "D. How"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\n\nA. Who \u2192 Ai\nB. That \u2192 \u0110\u00f3 \u2705\nC. What \u2192 C\u00e1i g\u00ec\nD. How \u2192 Nh\u01b0 th\u1ebf n\u00e0o\nGi\u1ea3i th\u00edch: \"Who\", \"What\" v\u00e0 \"How\" l\u00e0 t\u1eeb \u0111\u1ec3 h\u1ecfi, c\u00f2n \"That\" l\u00e0 \u0111\u1ea1i t\u1eeb ch\u1ec9 \u0111\u1ecbnh.\n"
     },
     {
@@ -192,7 +192,7 @@
             "C. Hi",
             "D. Spell"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\n\nA. Hello \u2192 Xin ch\u00e0o\nB. Good afternoon \u2192 Ch\u00e0o bu\u1ed5i chi\u1ec1u\nC. Hi \u2192 Xin ch\u00e0o\nD. Spell \u2192 \u0110\u00e1nh v\u1ea7n \u2705\nGi\u1ea3i th\u00edch: \"Spell\" kh\u00f4ng ph\u1ea3i l\u00e0 l\u1eddi ch\u00e0o, c\u00f2n c\u00e1c t\u1eeb kh\u00e1c l\u00e0 l\u1eddi ch\u00e0o."
     },
     {
@@ -206,7 +206,7 @@
             "C. Desk",
             "D. Book"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "Which CAN'T you find in your classroom?\n\u2192 B\u1ea1n kh\u00f4ng th\u1ec3 t\u00ecm th\u1ea5y v\u1eadt n\u00e0o trong l\u1edbp h\u1ecdc?\n\nA. Chalk \u2192 Ph\u1ea5n\nB. Bowl \u2192 C\u00e1i b\u00e1t \u2705\nC. Desk \u2192 B\u00e0n\nD. Book \u2192 S\u00e1ch"
     },
     {
@@ -220,7 +220,7 @@
             "C. at - at",
             "D. between \u2013 from"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "\u2192 Ch\u00fang t\u00f4i \u1edf tr\u01b0\u1eddng t\u1eeb 7 gi\u1edd \u0111\u1ebfn 11:30 m\u1ed7i s\u00e1ng.\n\nA. from \u2013 to \u2192 t\u1eeb \u2013 \u0111\u1ebfn \u2705\nB. from - in \u2192 t\u1eeb - trong\nC. at - at \u2192 v\u00e0o - v\u00e0o\nD. between \u2013 from \u2192 gi\u1eefa - t\u1eeb\nGi\u1ea3i th\u00edch: C\u1ea5u tr\u00fac \u0111\u00fang l\u00e0 \"from \u2026 to\" (t\u1eeb \u2026 \u0111\u1ebfn)."
     },
     {
@@ -234,7 +234,7 @@
             "C. cooks",
             "D. sister"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "\u2192 T\u1eeb/c\u1ee5m t\u1eeb n\u00e0o SAI trong c\u00e2u sau: \"M\u1eb9 v\u00e0 ch\u1ecb t\u00f4i n\u1ea5u b\u1eefa t\u1ed1i trong b\u1ebfp.\"\n\nA. in \u2192 trong\nB. the \u2192 m\u1ea1o t\u1eeb x\u00e1c \u0111\u1ecbnh\nC. cooks \u2192 n\u1ea5u (sai) \u2705\nD. sister \u2192 ch\u1ecb/em g\u00e1i\nGi\u1ea3i th\u00edch: \"My mother and my sister\" l\u00e0 ch\u1ee7 ng\u1eef s\u1ed1 nhi\u1ec1u, \u0111\u1ed9ng t\u1eeb ph\u1ea3i l\u00e0 \"cook\" (kh\u00f4ng c\u00f3 \"s\").\n"
     },
     {
@@ -248,7 +248,7 @@
             "C. Where",
             "D. What"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": " _______ is your dictionary like? \u2013 It\u2019s very thick.\n\u2192 T\u1eeb \u0111i\u1ec3n c\u1ee7a b\u1ea1n nh\u01b0 th\u1ebf n\u00e0o? - N\u00f3 r\u1ea5t d\u00e0y.\n\nA. When \u2192 Khi n\u00e0o\nB. Which \u2192 C\u00e1i n\u00e0o\nC. Where \u2192 \u1ede \u0111\u00e2u\nD. What \u2192 C\u00e1i g\u00ec \u2705\nGi\u1ea3i th\u00edch: C\u00e2u h\u1ecfi v\u1ec1 \u0111\u1eb7c \u0111i\u1ec3m c\u1ee7a v\u1eadt th\u00ec d\u00f9ng \"What \u2026 like?\"."
     },
     {
@@ -262,7 +262,7 @@
             "C. Sophie is my name.",
             "D. It\u2019s nice too meet you."
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "This is my friend, Sophie. - _______\n\u2192 \u0110\u00e2y l\u00e0 b\u1ea1n t\u00f4i, Sophie. - _______\n\nA. Nice to meet you, Sophie. \u2192 R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n, Sophie. \u2705\nB. I\u2019m fine. \u2192 T\u00f4i kh\u1ecfe.\nC. Sophie is my name. \u2192 Sophie l\u00e0 t\u00ean t\u00f4i.\nD. It\u2019s nice too meet you. \u2192 (L\u1ed7i sai ch\u00ednh t\u1ea3: \"too\" thay v\u00ec \"to\")\nGi\u1ea3i th\u00edch: C\u00e2u ch\u00e0o \u0111\u00e1p l\u1ea1i th\u00edch h\u1ee3p l\u00e0 \"Nice to meet you\".\n"
     },
     {
@@ -276,7 +276,7 @@
             "C. is",
             "D. do"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "What _______ the boys doing at the moment?\n\u2192 Nh\u1eefng c\u1eadu b\u00e9 \u0111ang l\u00e0m g\u00ec v\u00e0o l\u00fac n\u00e0y?\n\nA. does\nB. are \u2705\nC. is\nD. do\nGi\u1ea3i th\u00edch: \"the boys\" l\u00e0 s\u1ed1 nhi\u1ec1u, n\u00ean d\u00f9ng \"are\""
     },
     {
@@ -290,7 +290,7 @@
             "C. are",
             "D. is"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "What ________ that? \u2013 It\u2019s a pencil sharpener.\n\u2192 C\u00e1i \u0111\u00f3 l\u00e0 g\u00ec? - N\u00f3 l\u00e0 m\u1ed9t c\u00e1i g\u1ecdt b\u00fat ch\u00ec.\n\nA. has\nB. have\nC. are\nD. is \u2705\nGi\u1ea3i th\u00edch: \"That\" l\u00e0 s\u1ed1 \u00edt, n\u00ean d\u00f9ng \"is\"."
     },
     {
@@ -304,7 +304,7 @@
             "C. I can",
             "D. I can't"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Can you dance, Emily? \u2013 Yes, _______.\n\u2192 B\u1ea1n c\u00f3 th\u1ec3 nh\u1ea3y m\u00faa kh\u00f4ng, Emily? - C\u00f3, _______.\n\nA. I do\nB. I don't\nC. I can \u2705\nD. I can't\nGi\u1ea3i th\u00edch: \"Can you \u2026?\" \u2192 \"Yes, I can\" l\u00e0 c\u00e2u tr\u1ea3 l\u1eddi \u0111\u00fang."
     },
     {
@@ -318,7 +318,7 @@
             "C. A. Yes, I can.",
             "D. B. No, I can't."
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "Excuse me. Can I sit here? - ______.\n\u2192 Xin l\u1ed7i. T\u00f4i c\u00f3 th\u1ec3 ng\u1ed3i \u0111\u00e2y kh\u00f4ng? - ______.\n\nA. Here you are. \u2192 \u0110\u00e2y n\u00e0y.\nB. Sure. \u2192 \u0110\u01b0\u1ee3c ch\u1ee9. \u2705\nC. Yes, I can. \u2192 V\u00e2ng, t\u00f4i c\u00f3 th\u1ec3.\nD. No, I can't. \u2192 Kh\u00f4ng, t\u00f4i kh\u00f4ng th\u1ec3.\nGi\u1ea3i th\u00edch: C\u00e2u tr\u1ea3 l\u1eddi l\u1ecbch s\u1ef1 l\u00e0 \"Sure\"."
     },
     {
@@ -332,7 +332,7 @@
             "C. but",
             "D. not"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "I like bears ______ they\u2019re very cute.\n\u2192 T\u00f4i th\u00edch g\u1ea5u ______ ch\u00fang r\u1ea5t d\u1ec5 th\u01b0\u01a1ng.\n\nA. so \u2192 v\u00ec v\u1eady\nB. because \u2192 b\u1edfi v\u00ec \u2705\nC. but \u2192 nh\u01b0ng\nD. not \u2192 kh\u00f4ng\nGi\u1ea3i th\u00edch: \"Because\" d\u00f9ng \u0111\u1ec3 ch\u1ec9 l\u00fd do.\n"
     },
     {
@@ -346,7 +346,7 @@
             "C. I'm nine.",
             "D. I have three."
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "Do you have any blue pens?\n\u2192 B\u1ea1n c\u00f3 c\u00e2y b\u00fat n\u00e0o m\u00e0u xanh kh\u00f4ng?\n\nA. I don\u2019t like that color. \u2192 T\u00f4i kh\u00f4ng th\u00edch m\u00e0u \u0111\u00f3.\nB. They are not mine. \u2192 Ch\u00fang kh\u00f4ng ph\u1ea3i c\u1ee7a t\u00f4i.\nC. I'm nine. \u2192 T\u00f4i ch\u00edn tu\u1ed5i.\nD. I have three. \u2192 T\u00f4i c\u00f3 ba c\u00e2y. \u2705\nGi\u1ea3i th\u00edch: C\u00e2u h\u1ecfi y\u00eau c\u1ea7u s\u1ed1 l\u01b0\u1ee3ng, n\u00ean c\u00e2u tr\u1ea3 l\u1eddi \u0111\u00fang l\u00e0 \"I have three\".\n"
     },
     {
@@ -360,7 +360,7 @@
             "C. much",
             "D. a lot"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": " I can\u2019t go out now. I have too________ homework to do.\n\u2192 T\u00f4i kh\u00f4ng th\u1ec3 ra ngo\u00e0i b\u00e2y gi\u1edd. T\u00f4i c\u00f3 qu\u00e1 ______ b\u00e0i t\u1eadp v\u1ec1 nh\u00e0 ph\u1ea3i l\u00e0m.\n\nA. very\nB. many\nC. much \u2705\nD. a lot\nGi\u1ea3i th\u00edch: \"Homework\" l\u00e0 danh t\u1eeb kh\u00f4ng \u0111\u1ebfm \u0111\u01b0\u1ee3c, n\u00ean d\u00f9ng \"much\"."
     },
     {
@@ -374,7 +374,7 @@
             "C. they is",
             "D. it is"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "Is this your eraser? - Yes,_____.\n\u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i l\u00e0 c\u1ee5c t\u1ea9y c\u1ee7a b\u1ea1n kh\u00f4ng? - V\u00e2ng, _____.\n\nA. they are\nB. it isn't\nC. they is\nD. it is \u2705\nGi\u1ea3i th\u00edch: \"Eraser\" l\u00e0 danh t\u1eeb s\u1ed1 \u00edt, n\u00ean d\u00f9ng \"it is\"."
     },
     {
@@ -388,7 +388,7 @@
             "C. Her",
             "D. He"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "That\u2019s Miss Hien. ________ is my English teacher.\n\u2192 \u0110\u00f3 l\u00e0 c\u00f4 Hi\u1ec1n. ______ l\u00e0 gi\u00e1o vi\u00ean ti\u1ebfng Anh c\u1ee7a t\u00f4i.\n\nA. She \u2192 C\u00f4 \u1ea5y \u2705\nB. It \u2192 N\u00f3\nC. Her \u2192 C\u00f4 \u1ea5y (sai ng\u1eef ph\u00e1p)\nD. He \u2192 Anh \u1ea5y\nGi\u1ea3i th\u00edch: \"She\" l\u00e0 \u0111\u1ea1i t\u1eeb ph\u00f9 h\u1ee3p thay th\u1ebf cho \"Miss Hien\"."
     },
     {
@@ -402,7 +402,7 @@
             "C. Not",
             "D. It"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": " Is this a goldfish? - _________, it isn\u2019t.\n\u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i l\u00e0 m\u1ed9t con c\u00e1 v\u00e0ng kh\u00f4ng? - ________, n\u00f3 kh\u00f4ng ph\u1ea3i.\n\nA. Yes\nB. No \u2705\nC. Not\nD. It\nGi\u1ea3i th\u00edch: C\u00e2u tr\u1ea3 l\u1eddi ph\u1ee7 \u0111\u1ecbnh \u0111\u00fang l\u00e0 \"No, it isn\u2019t\"."
     },
     {
@@ -416,7 +416,7 @@
             "C. next",
             "D. in front"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Emma's house is ________ to my house.\n\u2192 Nh\u00e0 c\u1ee7a Emma ________ nh\u00e0 t\u00f4i.\n\nA. behind \u2192 ph\u00eda sau\nB. near \u2192 g\u1ea7n\nC. next \u2192 b\u00ean c\u1ea1nh \u2705\nD. in front \u2192 ph\u00eda tr\u01b0\u1edbc\nGi\u1ea3i th\u00edch: \"Next to\" c\u00f3 ngh\u0129a l\u00e0 \"b\u00ean c\u1ea1nh\", ph\u00f9 h\u1ee3p v\u1edbi ng\u1eef c\u1ea3nh."
     },
     {
@@ -430,7 +430,7 @@
             "C. is she",
             "D. are they"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "What subjects _______ have on Monday?\n\u2192 H\u1ecd c\u00f3 nh\u1eefng m\u00f4n h\u1ecdc n\u00e0o v\u00e0o th\u1ee9 Hai?\n\nA. are you \u2192 B\u1ea1n c\u00f3 ph\u1ea3i...\nB. do they \u2705 \u2192 H\u1ecd c\u00f3...\nC. is she \u2192 C\u00f4 \u1ea5y c\u00f3...\nD. are they \u2192 H\u1ecd c\u00f3 ph\u1ea3i...\nGi\u1ea3i th\u00edch: Ch\u1ee7 ng\u1eef \"they\" (h\u1ecd) d\u00f9ng v\u1edbi \"do\" trong c\u00e2u h\u1ecfi hi\u1ec7n t\u1ea1i \u0111\u01a1n.\n"
     },
     {
@@ -444,7 +444,7 @@
             "C. No, I don't.",
             "D. Good idea."
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "Let's play basketball. -________.\n\u2192 Ch\u00fang ta h\u00e3y ch\u01a1i b\u00f3ng r\u1ed5 \u0111i. - ________.\n\nA. Yes, I do. \u2192 V\u00e2ng, t\u00f4i c\u00f3.\nB. No, it isn't. \u2192 Kh\u00f4ng, n\u00f3 kh\u00f4ng ph\u1ea3i.\nC. No, I don't. \u2192 Kh\u00f4ng, t\u00f4i kh\u00f4ng.\nD. Good idea. \u2705 \u2192 \u00dd ki\u1ebfn hay \u0111\u1ea5y.\nGi\u1ea3i th\u00edch: \"Good idea\" l\u00e0 c\u00e2u tr\u1ea3 l\u1eddi ph\u00f9 h\u1ee3p khi \u0111\u1ed3ng \u00fd v\u1edbi \u0111\u1ec1 xu\u1ea5t."
     },
     {
@@ -458,7 +458,7 @@
             "C. are - They're",
             "D. are - It's"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "What color ________ your pens? - ______blue and black.\n\u2192 Nh\u1eefng c\u00e2y b\u00fat c\u1ee7a b\u1ea1n c\u00f3 m\u00e0u g\u00ec? - ______ m\u00e0u xanh v\u00e0 \u0111en.\n\nA. is - They're \u2192 L\u00e0 - Ch\u00fang l\u00e0...\nB. is - It's \u2192 L\u00e0 - N\u00f3 l\u00e0...\nC. are - They're \u2705 \u2192 L\u00e0 - Ch\u00fang l\u00e0...\nD. are - It's \u2192 L\u00e0 - N\u00f3 l\u00e0...\nGi\u1ea3i th\u00edch: \"Pens\" (s\u1ed1 nhi\u1ec1u) d\u00f9ng \"are\", c\u00e2u tr\u1ea3 l\u1eddi c\u0169ng l\u00e0 \"They're\"."
     },
     {
@@ -472,7 +472,7 @@
             "C. it",
             "D. the"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "This is ________ apple.\n\u2192 \u0110\u00e2y l\u00e0 m\u1ed9t qu\u1ea3 t\u00e1o.\n\nA. a \u2192 m\u1ed9t\nB. an \u2705 \u2192 m\u1ed9t (d\u00f9ng tr\u01b0\u1edbc nguy\u00ean \u00e2m)\nC. it \u2192 n\u00f3\nD. the \u2192 c\u00e1i\nGi\u1ea3i th\u00edch: \"Apple\" b\u1eaft \u0111\u1ea7u b\u1eb1ng nguy\u00ean \u00e2m \"a\" n\u00ean d\u00f9ng \"an\"."
     },
     {
@@ -486,7 +486,7 @@
             "C. do",
             "D. is"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "When ________ your birthday, Chris?\n\u2192 Sinh nh\u1eadt c\u1ee7a b\u1ea1n l\u00e0 khi n\u00e0o, Chris?\n\nA. does \u2192 c\u00f3 ph\u1ea3i... kh\u00f4ng?\nB. are \u2192 l\u00e0... (s\u1ed1 nhi\u1ec1u)\nC. do \u2192 c\u00f3 ph\u1ea3i... kh\u00f4ng?\nD. is \u2705 \u2192 l\u00e0...\nGi\u1ea3i th\u00edch: \"Your birthday\" l\u00e0 danh t\u1eeb s\u1ed1 \u00edt n\u00ean d\u00f9ng \"is\"."
     },
     {
@@ -500,7 +500,7 @@
             "C. finishs",
             "D. finish"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "Uncle Brian ________ work at 5:30 every day.\n\u2192 Ch\u00fa Brian k\u1ebft th\u00fac c\u00f4ng vi\u1ec7c l\u00fac 5:30 m\u1ed7i ng\u00e0y.\n\nA. finishes \u2705 \u2192 k\u1ebft th\u00fac\nB. finishing \u2192 \u0111ang k\u1ebft th\u00fac\nC. finishs \u2192 (sai ch\u00ednh t\u1ea3)\nD. finish \u2192 k\u1ebft th\u00fac (d\u1ea1ng nguy\u00ean th\u1ec3)\nGi\u1ea3i th\u00edch: \"Uncle Brian\" l\u00e0 s\u1ed1 \u00edt, \u0111\u1ed9ng t\u1eeb th\u00eam \"es\" (finishes).\n"
     },
     {
@@ -514,7 +514,7 @@
             "C. at",
             "D. of"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "The parrot is in front ______ the bookcase.\n\u2192 Con v\u1eb9t \u1edf ph\u00eda tr\u01b0\u1edbc gi\u00e1 s\u00e1ch.\n\nA. from \u2192 t\u1eeb\nB. to \u2192 \u0111\u1ebfn\nC. at \u2192 t\u1ea1i\nD. of \u2705 \u2192 c\u1ee7a\nGi\u1ea3i th\u00edch: \"In front of\" l\u00e0 c\u1ee5m t\u1eeb c\u1ed1 \u0111\u1ecbnh (\u1edf ph\u00eda tr\u01b0\u1edbc)."
     },
     {
@@ -528,7 +528,7 @@
             "C. is he",
             "D. does you"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "What time ______ get up at the weekend?\n\u2192 B\u1ea1n d\u1eady l\u00fac m\u1ea5y gi\u1edd v\u00e0o cu\u1ed1i tu\u1ea7n?\n\nA. do you \u2705 \u2192 b\u1ea1n c\u00f3...\nB. do she \u2192 c\u00f4 \u1ea5y c\u00f3...\nC. is he \u2192 anh \u1ea5y l\u00e0...\nD. does you \u2192 b\u1ea1n c\u00f3 ph\u1ea3i... (sai ng\u1eef ph\u00e1p)\nGi\u1ea3i th\u00edch: \"You\" \u0111i v\u1edbi \"do\" trong c\u00e2u h\u1ecfi hi\u1ec7n t\u1ea1i \u0111\u01a1n.\n"
     },
     {
@@ -542,7 +542,7 @@
             "C. Taking",
             "D. Take"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "________ out your notebooks, please.\n\u2192 L\u1ea5y v\u1edf ra n\u00e0o.\n\nA. Takes \u2192 l\u1ea5y (sai d\u1ea1ng)\nB. To take \u2192 l\u1ea5y (d\u1ea1ng nguy\u00ean th\u1ec3)\nC. Taking \u2192 \u0111ang l\u1ea5y\nD. Take \u2705 \u2192 l\u1ea5y\nGi\u1ea3i th\u00edch: C\u00e2u m\u1ec7nh l\u1ec7nh d\u00f9ng \u0111\u1ed9ng t\u1eeb nguy\u00ean th\u1ec3 \"Take\".\n"
     },
     {
@@ -556,7 +556,7 @@
             "C. Why",
             "D. Where"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "_____ do you have Maths? - On Mondays and Thursdays.\n\u2192 B\u1ea1n c\u00f3 m\u00f4n To\u00e1n v\u00e0o khi n\u00e0o? - V\u00e0o th\u1ee9 Hai v\u00e0 th\u1ee9 N\u0103m.\n\nA. When \u2705 \u2192 Khi n\u00e0o\nB. What \u2192 C\u00e1i g\u00ec\nC. Why \u2192 T\u1ea1i sao\nD. Where \u2192 \u1ede \u0111\u00e2u\nGi\u1ea3i th\u00edch: \"When\" d\u00f9ng \u0111\u1ec3 h\u1ecfi v\u1ec1 th\u1eddi gian.\n"
     },
     {
@@ -570,7 +570,7 @@
             "C. isn't",
             "D. aren't"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Is that your brother Louis? - No, it _______.\n\u2192 \u0110\u00f3 c\u00f3 ph\u1ea3i l\u00e0 anh trai b\u1ea1n, Louis kh\u00f4ng? - Kh\u00f4ng, n\u00f3 kh\u00f4ng ph\u1ea3i.\n\nA. not \u2192 kh\u00f4ng (sai ng\u1eef ph\u00e1p)\nB. is \u2192 l\u00e0\nC. isn't \u2705 \u2192 kh\u00f4ng ph\u1ea3i\nD. aren't \u2192 kh\u00f4ng ph\u1ea3i (s\u1ed1 nhi\u1ec1u)\nGi\u1ea3i th\u00edch: \"Is\" ph\u1ee7 \u0111\u1ecbnh th\u00e0nh \"isn't\".\n"
     },
     {
@@ -584,7 +584,7 @@
             "C. See you later",
             "D. Nice to meet you, too"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "Nice to meet you. - _____________.\n\u2192 R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n. - ___________.\n\nA. Goodbye \u2192 T\u1ea1m bi\u1ec7t\nB. Good afternoon \u2192 Ch\u00e0o bu\u1ed5i chi\u1ec1u\nC. See you later \u2192 H\u1eb9n g\u1eb7p l\u1ea1i\nD. Nice to meet you, too \u2705 \u2192 T\u00f4i c\u0169ng r\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n.\nGi\u1ea3i th\u00edch: C\u00e2u \u0111\u00e1p l\u1ea1i ph\u00f9 h\u1ee3p l\u00e0 \"Nice to meet you, too\"."
     },
     {
@@ -598,7 +598,7 @@
             "C. is",
             "D. can"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "Those chairs ________ all new.\n\u2192 Nh\u1eefng c\u00e1i gh\u1ebf \u0111\u00f3 \u0111\u1ec1u m\u1edbi.\n\nA. are \u2705 \u2192 l\u00e0 (s\u1ed1 nhi\u1ec1u)\nB. to be \u2192 l\u00e0 (d\u1ea1ng nguy\u00ean th\u1ec3)\nC. is \u2192 l\u00e0 (s\u1ed1 \u00edt)\nD. can \u2192 c\u00f3 th\u1ec3\nGi\u1ea3i th\u00edch: \"Chairs\" l\u00e0 s\u1ed1 nhi\u1ec1u, d\u00f9ng \"are\".\n"
     },
     {
@@ -612,7 +612,7 @@
             "C. in",
             "D. at"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "Where are my dolls? - They are ________ the floor.\n\u2192 Nh\u1eefng con b\u00fap b\u00ea c\u1ee7a t\u00f4i \u0111\u00e2u? - Ch\u00fang \u1edf ______ s\u00e0n nh\u00e0.\n\nA. under \u2705 \u2192 d\u01b0\u1edbi\nB. on \u2192 tr\u00ean\nC. in \u2192 trong\nD. at \u2192 t\u1ea1i\nGi\u1ea3i th\u00edch: \"Under the floor\" ngh\u0129a l\u00e0 \"d\u01b0\u1edbi s\u00e0n nh\u00e0\".\n"
     },
     {
@@ -626,7 +626,7 @@
             "C. Where",
             "D. How"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "________ are you, Alex? \u2013 I\u2019m fine. Thanks.\n\u2192 B\u1ea1n th\u1ebf n\u00e0o, Alex? - T\u00f4i kh\u1ecfe. C\u1ea3m \u01a1n.\n\nA. What \u2192 C\u00e1i g\u00ec\nB. Who \u2192 Ai\nC. Where \u2192 \u1ede \u0111\u00e2u\nD. How \u2705 \u2192 Nh\u01b0 th\u1ebf n\u00e0o\nGi\u1ea3i th\u00edch: H\u1ecfi v\u1ec1 s\u1ee9c kh\u1ecfe d\u00f9ng \"How are you?\"."
     },
     {
@@ -640,7 +640,7 @@
             "C. you",
             "D. her"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "This ___ a house.\n\u2192 \u0110\u00e2y l\u00e0 m\u1ed9t ng\u00f4i nh\u00e0.\n\nA. are \u2192 l\u00e0 (d\u00f9ng cho s\u1ed1 nhi\u1ec1u)\nB. is \u2705 \u2192 l\u00e0 (d\u00f9ng cho s\u1ed1 \u00edt)\nC. you \u2192 b\u1ea1n\n\nGi\u1ea3i th\u00edch: Ch\u1ee7 ng\u1eef \"This\" l\u00e0 s\u1ed1 \u00edt, n\u00ean ta d\u00f9ng \"is\"."
     },
     {
@@ -654,7 +654,7 @@
             "C. is",
             "D. you"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": " I ___ Andy.\n\u2192 T\u00f4i l\u00e0 Andy.\n\nA. are \u2192 l\u00e0 (d\u00f9ng cho \"you/we/they\")\nB. am \u2705 \u2192 l\u00e0 (d\u00f9ng cho \"I\")\nC. is \u2192 l\u00e0 (d\u00f9ng cho \"he/she/it\")\n\nGi\u1ea3i th\u00edch: Ch\u1ee7 ng\u1eef \"I\" lu\u00f4n \u0111i v\u1edbi \"am\"."
     },
     {
@@ -668,7 +668,7 @@
             "C. are",
             "D. am"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "You ___ Long.\n\u2192 B\u1ea1n l\u00e0 Long.\n\nA. is \u2192 l\u00e0 (d\u00f9ng cho \"he/she/it\")\nB. be \u2192 l\u00e0 (d\u1ea1ng nguy\u00ean th\u1ec3)\nC. are \u2705 \u2192 l\u00e0 (d\u00f9ng cho \"you\")\n\nGi\u1ea3i th\u00edch: Ch\u1ee7 ng\u1eef \"You\" lu\u00f4n \u0111i v\u1edbi \"are\"."
     },
     {
@@ -682,7 +682,7 @@
             "C. you",
             "D. he"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "This ___ a desk.\n\u2192 \u0110\u00e2y l\u00e0 m\u1ed9t c\u00e1i b\u00e0n.\n\nA. is \u2705 \u2192 l\u00e0 (d\u00f9ng cho s\u1ed1 \u00edt)\nB. are \u2192 l\u00e0 (d\u00f9ng cho s\u1ed1 nhi\u1ec1u)\nC. you \u2192 b\u1ea1n\n\nGi\u1ea3i th\u00edch: Ch\u1ee7 ng\u1eef \"This\" l\u00e0 s\u1ed1 \u00edt, n\u00ean d\u00f9ng \"is\"."
     },
     {
@@ -696,7 +696,7 @@
             "C. are",
             "D. he"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "She ___ Mary.\n\u2192 C\u00f4 \u1ea5y l\u00e0 Mary.\n\nA. am \u2192 l\u00e0 (ch\u1ec9 d\u00f9ng v\u1edbi \"I\")\nB. is \u2705 \u2192 l\u00e0 (d\u00f9ng cho \"he/she/it\")\nC. are \u2192 l\u00e0 (d\u00f9ng cho \"you/we/they\")\n\nGi\u1ea3i th\u00edch: Ch\u1ee7 ng\u1eef \"She\" lu\u00f4n \u0111i v\u1edbi \"is\"."
     },
     {
@@ -710,7 +710,7 @@
             "C. and",
             "D. end"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": " This is ___ ruler.\n\u2192 \u0110\u00e2y l\u00e0 m\u1ed9t c\u00e2y th\u01b0\u1edbc.\n\nA. a \u2705 \u2192 m\u1ed9t (d\u00f9ng tr\u01b0\u1edbc danh t\u1eeb s\u1ed1 \u00edt b\u1eaft \u0111\u1ea7u b\u1eb1ng ph\u1ee5 \u00e2m)\nB. an \u2192 m\u1ed9t (d\u00f9ng tr\u01b0\u1edbc danh t\u1eeb b\u1eaft \u0111\u1ea7u b\u1eb1ng nguy\u00ean \u00e2m)\nC. and \u2192 v\u00e0\n\nGi\u1ea3i th\u00edch: \"ruler\" b\u1eaft \u0111\u1ea7u b\u1eb1ng ph\u1ee5 \u00e2m \"r\", n\u00ean d\u00f9ng \"a\"."
     },
     {
@@ -724,7 +724,7 @@
             "C. I\u2019m",
             "D. I"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": ". Hello, ___ Sean.\n\u2192 Xin ch\u00e0o, t\u00f4i l\u00e0 Sean.\n\nA. you \u2192 b\u1ea1n\nB. am \u2192 l\u00e0 (ch\u1ec9 d\u00f9ng v\u1edbi \"I\")\nC. I\u2019m \u2705 \u2192 t\u00f4i l\u00e0\n\nGi\u1ea3i th\u00edch: \"I\u2019m\" l\u00e0 d\u1ea1ng vi\u1ebft t\u1eaft c\u1ee7a \"I am\".\n\n"
     },
     {
@@ -738,7 +738,7 @@
             "C. you",
             "D. her"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "What\u2019s ___ name?\n\u2192 T\u00ean c\u1ee7a c\u00f4 \u1ea5y l\u00e0 g\u00ec?\n\nA. she \u2192 c\u00f4 \u1ea5y\nB. he \u2192 anh \u1ea5y\nC. you \u2192 b\u1ea1n\nD. her \u2705 \u2192 c\u1ee7a c\u00f4 \u1ea5y\n\nGi\u1ea3i th\u00edch: \"her\" l\u00e0 t\u00ednh t\u1eeb s\u1edf h\u1eefu c\u1ee7a \"she\"."
     },
     {
@@ -752,7 +752,7 @@
             "C. me\u2019s",
             "D. you\u2019s"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": " This isn\u2019t ___ bag.\n\u2192 \u0110\u00e2y kh\u00f4ng ph\u1ea3i l\u00e0 t\u00fai c\u1ee7a anh \u1ea5y.\n\nA. he\u2019s \u2192 sai (kh\u00f4ng t\u1ed3n t\u1ea1i \"he\u2019s\" \u1edf d\u1ea1ng s\u1edf h\u1eefu)\nB. his \u2705 \u2192 c\u1ee7a anh \u1ea5y\nC. me\u2019s \u2192 sai (kh\u00f4ng t\u1ed3n t\u1ea1i \"me\u2019s\")\n\nGi\u1ea3i th\u00edch: \"his\" l\u00e0 t\u00ednh t\u1eeb s\u1edf h\u1eefu c\u1ee7a \"he\"."
     },
     {
@@ -766,7 +766,7 @@
             "C. r",
             "D. q"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Good mo___ning, Peter.\n\u2192 Ch\u00e0o bu\u1ed5i s\u00e1ng, Peter.\n\nA. w \u2192 sai\nB. t \u2192 sai\nC. r \u2705 \u2192 \u0111\u00fang (morning)\n\nGi\u1ea3i th\u00edch: \"morning\" \u0111\u01b0\u1ee3c vi\u1ebft \u0111\u00fang ch\u00ednh t\u1ea3 v\u1edbi ch\u1eef \"r\"."
     },
     {
@@ -780,7 +780,7 @@
             "C. b",
             "D. c"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 B. k (look) \u2192 nh\u00ecn\nGi\u1ea3i th\u00edch: \"Look at\" c\u00f3 ngh\u0129a l\u00e0 \"nh\u00ecn v\u00e0o\".\nLook at the dog. \u2192 Nh\u00ecn con ch\u00f3 k\u00eca."
     },
     {
@@ -794,7 +794,7 @@
             "C. u",
             "D. q"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "\u2705 A. o (song) \u2192 b\u00e0i h\u00e1t\nGi\u1ea3i th\u00edch: \"Song\" c\u00f3 ngh\u0129a l\u00e0 \"b\u00e0i h\u00e1t\".\nSing a song. \u2192 H\u00e1t m\u1ed9t b\u00e0i h\u00e1t."
     },
     {
@@ -808,7 +808,7 @@
             "C. w",
             "D. q"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "\u2705 C. w (who) \u2192 ai\nGi\u1ea3i th\u00edch: \"Who\" d\u00f9ng \u0111\u1ec3 h\u1ecfi v\u1ec1 ng\u01b0\u1eddi.\nWho is she? \u2192 C\u00f4 \u1ea5y l\u00e0 ai?"
     },
     {
@@ -822,7 +822,7 @@
             "C. y",
             "D. a"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "\u2705 C. y (my) \u2192 c\u1ee7a t\u00f4i\nGi\u1ea3i th\u00edch: \"My\" l\u00e0 t\u00ednh t\u1eeb s\u1edf h\u1eefu, ch\u1ec9 \"c\u1ee7a t\u00f4i\".\nThis is my school. \u2192 \u0110\u00e2y l\u00e0 tr\u01b0\u1eddng h\u1ecdc c\u1ee7a t\u00f4i."
     },
     {
@@ -836,7 +836,7 @@
             "C. a",
             "D. o"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "\u2705 D. o (old) \u2192 bao nhi\u00eau tu\u1ed5i\nGi\u1ea3i th\u00edch: \"How old\" d\u00f9ng \u0111\u1ec3 h\u1ecfi tu\u1ed5i.\nHow old are you? \u2192 B\u1ea1n bao nhi\u00eau tu\u1ed5i?"
     },
     {
@@ -850,7 +850,7 @@
             "C. n",
             "D. r"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "\u2705 C. n (open) \u2192 m\u1edf\nGi\u1ea3i th\u00edch: \"Open\" c\u00f3 ngh\u0129a l\u00e0 \"m\u1edf\".\nOpen the book, please. \u2192 M\u1edf s\u00e1ch ra, l\u00e0m \u01a1n."
     },
     {
@@ -864,7 +864,7 @@
             "C. a",
             "D. t"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 D. s (his) \u2192 c\u1ee7a anh \u1ea5y\nGi\u1ea3i th\u00edch: \"His\" l\u00e0 t\u00ednh t\u1eeb s\u1edf h\u1eefu, ch\u1ec9 \"c\u1ee7a anh \u1ea5y\".\nHis name is Peter. \u2192 T\u00ean c\u1ee7a anh \u1ea5y l\u00e0 Peter."
     },
     {
@@ -878,7 +878,7 @@
             "C. he",
             "D. you"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "\u2705 D. you (you) \u2192 b\u1ea1n\nGi\u1ea3i th\u00edch: \"Nice to meet you\" l\u00e0 m\u1ed9t c\u00e2u ch\u00e0o ph\u1ed5 bi\u1ebfn.\nNice to meet you! \u2192 R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n!"
     },
     {
@@ -892,7 +892,7 @@
             "C. game",
             "D. name\u2019s"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 B. name (name) \u2192 t\u00ean\nGi\u1ea3i th\u00edch: \"Name\" c\u00f3 ngh\u0129a l\u00e0 \"t\u00ean\".\nMy name is Jenny. \u2192 T\u00ean t\u00f4i l\u00e0 Jenny."
     },
     {
@@ -906,7 +906,7 @@
             "C. ten",
             "D. sing"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 B. books \u2192 s\u00e1ch\nGi\u1ea3i th\u00edch: \"Books\" l\u00e0 danh t\u1eeb s\u1ed1 nhi\u1ec1u c\u1ee7a \"book\".\nDo you like books? \u2192 B\u1ea1n c\u00f3 th\u00edch s\u00e1ch kh\u00f4ng?"
     },
     {
@@ -920,7 +920,7 @@
             "C. in",
             "D. on"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 B. up \u2192 l\u00ean\nGi\u1ea3i th\u00edch: \"Stand up\" ngh\u0129a l\u00e0 \"\u0111\u1ee9ng l\u00ean\".\nStand up, please. \u2192 \u0110\u1ee9ng l\u00ean, l\u00e0m \u01a1n."
     },
     {
@@ -934,7 +934,7 @@
             "C. in",
             "D. on"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "\u2705 A. down \u2192 xu\u1ed1ng\nGi\u1ea3i th\u00edch: \"Sit down\" ngh\u0129a l\u00e0 \"ng\u1ed3i xu\u1ed1ng\".\nSit down, please. \u2192 Ng\u1ed3i xu\u1ed1ng, l\u00e0m \u01a1n."
     },
     {
@@ -948,7 +948,7 @@
             "C. she",
             "D. has"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "\u2705 D. has \u2192 c\u00f3\nGi\u1ea3i th\u00edch: \"Has\" l\u00e0 d\u1ea1ng chia c\u1ee7a \"have\" d\u00f9ng v\u1edbi ch\u1ee7 ng\u1eef s\u1ed1 \u00edt.\nAlice has a cat. \u2192 Alice c\u00f3 m\u1ed9t con m\u00e8o."
     },
     {
@@ -962,7 +962,7 @@
             "C. Goodbye",
             "D. Good night"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "\u2705 A. Nice to meet you \u2192 R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n\nGi\u1ea3i th\u00edch: \"Nice to meet you\" l\u00e0 m\u1ed9t c\u00e1ch ch\u00e0o h\u1ecfi.\nNice to meet you, Bob. \u2192 R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n, Bob."
     },
     {
@@ -976,7 +976,7 @@
             "C. Good morning",
             "D. Good evening"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 B. See you later (See you later) \u2192 H\u1eb9n g\u1eb7p l\u1ea1i\nGi\u1ea3i th\u00edch: \"See you later\" ngh\u0129a l\u00e0 \"h\u1eb9n g\u1eb7p l\u1ea1i\".\nGoodbye! See you later! \u2192 T\u1ea1m bi\u1ec7t! H\u1eb9n g\u1eb7p l\u1ea1i!"
     },
     {
@@ -990,7 +990,7 @@
             "C. You \u2013 me",
             "D. He \u2013 she"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "\u2705 A. Nice \u2013 meet \nNice to meet you, Nam. \u2192 R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n, Nam.\nGi\u1ea3i th\u00edch: \"Nice to meet you\" l\u00e0 m\u1ed9t c\u00e2u ch\u00e0o ph\u1ed5 bi\u1ebfn."
     },
     {
@@ -1004,7 +1004,7 @@
             "C. How\u2019s",
             "D. Why\u2019s"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 B. What\u2019s \u2192 L\u00e0 g\u00ec?\nGi\u1ea3i th\u00edch: \"What\u2019s your name?\" d\u00f9ng \u0111\u1ec3 h\u1ecfi t\u00ean ai \u0111\u00f3.\nWhat\u2019s your name? \u2192 T\u00ean b\u1ea1n l\u00e0 g\u00ec?"
     },
     {
@@ -1018,7 +1018,7 @@
             "C. How\u2019s",
             "D. What\u2019s"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 B. How \u2192 Nh\u01b0 th\u1ebf n\u00e0o\nGi\u1ea3i th\u00edch: \"How are you?\" l\u00e0 c\u00e2u h\u1ecfi th\u0103m s\u1ee9c kh\u1ecfe ph\u1ed5 bi\u1ebfn.\nHow are you? \u2192 B\u1ea1n kh\u1ecfe kh\u00f4ng?"
     },
     {
@@ -1032,7 +1032,7 @@
             "C. good",
             "D. bye"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 B. thanks \u2192 c\u1ea3m \u01a1n\nGi\u1ea3i th\u00edch: \"Thanks\" l\u00e0 c\u00e1ch n\u00f3i ng\u1eafn g\u1ecdn c\u1ee7a \"Thank you\".\nI\u2019m fine, thanks. \u2192 T\u00f4i kh\u1ecfe, c\u1ea3m \u01a1n."
     },
     {
@@ -1046,7 +1046,7 @@
             "C. And",
             "D. Bye"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 B. And you ? \u2192 C\u00f2n b\u1ea1n?\nGi\u1ea3i th\u00edch: \"And you?\" d\u00f9ng \u0111\u1ec3 h\u1ecfi l\u1ea1i v\u1ec1 t\u00ecnh tr\u1ea1ng c\u1ee7a ng\u01b0\u1eddi kh\u00e1c.\nI\u2019m fine, thank you. And you? \u2192 T\u00f4i kh\u1ecfe, c\u1ea3m \u01a1n. C\u00f2n b\u1ea1n?"
     },
     {
@@ -1060,7 +1060,7 @@
             "C. be",
             "D. and"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 B. is \u2192 l\u00e0\nGi\u1ea3i th\u00edch: \"Name is\" d\u00f9ng \u0111\u1ec3 gi\u1edbi thi\u1ec7u t\u00ean.\nHi, my name is Nam. \u2192 Xin ch\u00e0o, t\u00f4i t\u00ean l\u00e0 Nam."
     },
     {
@@ -1074,7 +1074,7 @@
             "C. me",
             "D. hello"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "\u2705 C. me \u2192 t\u00f4i\nGi\u1ea3i th\u00edch: \"Me\" l\u00e0 \u0111\u1ea1i t\u1eeb t\u00e2n ng\u1eef, ch\u1ec9 b\u1ea3n th\u00e2n ng\u01b0\u1eddi n\u00f3i.\nPlay with me! \u2192 Ch\u01a1i v\u1edbi t\u00f4i!"
     },
     {
@@ -1088,7 +1088,7 @@
             "C. He",
             "D. She"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "\u2705 B. Are \u2192 c\u00f3 ph\u1ea3i l\u00e0\nGi\u1ea3i th\u00edch: \"Are you...?\" l\u00e0 m\u1eabu c\u00e2u h\u1ecfi.\nAre you Lan? \u2192 B\u1ea1n c\u00f3 ph\u1ea3i l\u00e0 Lan kh\u00f4ng?"
     },
     {
@@ -1102,7 +1102,7 @@
             "C. x",
             "D. b"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 B. w (flower) \u2192 b\u00f4ng hoa\nThis is a flower. \u2192 \u0110\u00e2y l\u00e0 m\u1ed9t b\u00f4ng hoa."
     },
     {
@@ -1116,7 +1116,7 @@
             "C. i",
             "D. a"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "\u2705 A. o (How) \u2192 nh\u01b0 th\u1ebf n\u00e0o\nGi\u1ea3i th\u00edch: \"How\" \u0111\u01b0\u1ee3c d\u00f9ng \u0111\u1ec3 h\u1ecfi v\u1ec1 tr\u1ea1ng th\u00e1i c\u1ee7a ai \u0111\u00f3.\nHow are you? \u2192 B\u1ea1n kh\u1ecfe kh\u00f4ng?"
     },
     {
@@ -1130,7 +1130,7 @@
             "C. it",
             "D. if"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "\u2705 A. in (fine) \u2192 kh\u1ecfe\nI\u2019m fine, thank you. \u2192 T\u00f4i kh\u1ecfe, c\u1ea3m \u01a1n\n"
     },
     {
@@ -1144,7 +1144,7 @@
             "C. u",
             "D. a"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 B. e (See) \u2192 g\u1eb7p\nSee you later. \u2192 H\u1eb9n g\u1eb7p l\u1ea1i."
     },
     {
@@ -1158,7 +1158,7 @@
             "C. yo",
             "D. yi"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "\u2705 C. yo (you) \u2192 b\u1ea1n\nHow are you? Fine, thanks. \u2192 B\u1ea1n kh\u1ecfe kh\u00f4ng? T\u00f4i kh\u1ecfe, c\u1ea3m \u01a1n."
     },
     {
@@ -1172,7 +1172,7 @@
             "C. T",
             "D. U"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 B. W (What) \u2192 c\u00e1i g\u00ec\nWhat\u2019s his name? \u2192 T\u00ean anh \u1ea5y l\u00e0 g\u00ec?"
     },
     {
@@ -1186,7 +1186,7 @@
             "C. oa",
             "D. oo"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "\u2705 D. oo (too) \u2192 c\u0169ng v\u1eady\nNice to meet you, too \u2192 C\u0169ng vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n."
     },
     {
@@ -1200,7 +1200,7 @@
             "C. t",
             "D. q"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 C. r (Write) \u2192 vi\u1ebft\nWrite your name \u2192 Vi\u1ebft t\u00ean c\u1ee7a b\u1ea1n."
     },
     {
@@ -1214,7 +1214,7 @@
             "C. e",
             "D. i"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 B. o (colour) \u2192 m\u00e0u s\u1eafc\nWhat colour is this? \u2192 M\u00e0u n\u00e0y l\u00e0 m\u00e0u g\u00ec?"
     },
     {
@@ -1228,7 +1228,7 @@
             "C. for",
             "D. come"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "\u2705 A. meet \u2192 g\u1eb7p\nNice to meet you, too \u2192 R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n."
     },
     {
@@ -1242,7 +1242,7 @@
             "C. good",
             "D. you"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "\u2705 C. good \u2192 t\u1ed1t\nGood morning \u2192 Ch\u00e0o bu\u1ed5i s\u00e1ng."
     },
     {
@@ -1256,7 +1256,7 @@
             "C. his",
             "D. she"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "\u2705 C. his \u2192 c\u1ee7a anh \u1ea5y\nGi\u1ea3i th\u00edch: \"His\" l\u00e0 t\u00ednh t\u1eeb s\u1edf h\u1eefu.\nWhat is his name? \u2192 T\u00ean c\u1ee7a anh \u1ea5y l\u00e0 g\u00ec?"
     },
     {
@@ -1270,7 +1270,7 @@
             "C. that",
             "D. hi"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 B. is \u2192 l\u00e0\nWhat colour is this? \u2192 \u0110\u00e2y l\u00e0 m\u00e0u g\u00ec"
     },
     {
@@ -1284,7 +1284,7 @@
             "C. me",
             "D. I"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 B. is \u2192 l\u00e0\nGi\u1ea3i th\u00edch: \"She\" l\u00e0 ng\u00f4i th\u1ee9 ba s\u1ed1 \u00edt, n\u00ean \u0111\u1ed9ng t\u1eeb \"to be\" ph\u00f9 h\u1ee3p l\u00e0 \"is\".\nShe is my friend \u2192 C\u00f4 \u1ea5y l\u00e0 b\u1ea1n c\u1ee7a t\u00f4i."
     },
     {
@@ -1298,7 +1298,7 @@
             "C. No, it is",
             "D. Yes, it isn\u2019t"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 B. No, it isn\u2019t \u2192 Kh\u00f4ng ph\u1ea3i\nGi\u1ea3i th\u00edch: C\u00e2u h\u1ecfi Yes/No c\u1ea7n c\u00e2u tr\u1ea3 l\u1eddi ph\u1ee7 \u0111\u1ecbnh ph\u00f9 h\u1ee3p.\nNo, it isn\u2019t \u2192 Kh\u00f4ng, n\u00f3 kh\u00f4ng ph\u1ea3i."
     },
     {
@@ -1312,7 +1312,7 @@
             "C. it",
             "D. my"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "\u2705 D. my \u2192 c\u1ee7a t\u00f4i\nGi\u1ea3i th\u00edch: \"my\" l\u00e0 t\u00ednh t\u1eeb s\u1edf h\u1eefu, d\u00f9ng \u0111\u1ec3 ch\u1ec9 quy\u1ec1n s\u1edf h\u1eefu.\nThis is my chair \u2192 \u0110\u00e2y l\u00e0 c\u00e1i gh\u1ebf c\u1ee7a t\u00f4i."
     },
     {
@@ -1326,7 +1326,7 @@
             "C. she",
             "D. they"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 B. me \u2192 t\u00f4i\nGi\u1ea3i th\u00edch: \"me\" l\u00e0 t\u00e2n ng\u1eef, ch\u1ec9 ng\u01b0\u1eddi nh\u1eadn h\u00e0nh \u0111\u1ed9ng.\nGive me an eraser, please! \u2192 L\u00e0m \u01a1n \u0111\u01b0a t\u00f4i m\u1ed9t c\u1ee5c t\u1ea9y!"
     },
     {
@@ -1340,7 +1340,7 @@
             "C. I",
             "D. she"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 B. me \u2192 t\u00f4i\nGi\u1ea3i th\u00edch: \"Sing with me\" c\u00f3 ngh\u0129a l\u00e0 \"h\u00e1t c\u00f9ng t\u00f4i\".\nLet\u2019s sing with me! \u2192 H\u00e3y h\u00e1t c\u00f9ng t\u00f4i!"
     },
     {
@@ -1354,7 +1354,7 @@
             "C. in",
             "D. on"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 B. up \u2192 d\u1eady\nGi\u1ea3i th\u00edch: \"Stand up\" l\u00e0 c\u1ee5m t\u1eeb c\u1ed1 \u0111\u1ecbnh c\u00f3 ngh\u0129a \"\u0111\u1ee9ng d\u1eady\".\nLet\u2019s stand up! \u2192 H\u00e3y \u0111\u1ee9ng d\u1eady!"
     },
     {
@@ -1368,7 +1368,7 @@
             "C. o",
             "D. a"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "\u2705 C. o (Who) \u2192 ai\nGi\u1ea3i th\u00edch: \"Who\" d\u00f9ng \u0111\u1ec3 h\u1ecfi v\u1ec1 danh t\u00ednh c\u1ee7a ai \u0111\u00f3.\nWho is that? \u2013 That\u2019s Tom. \u2192 \u0110\u00f3 l\u00e0 ai? \u2013 \u0110\u00f3 l\u00e0 Tom."
     },
     {
@@ -1382,7 +1382,7 @@
             "C. y",
             "D. r"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "\u2705 A. e (There) \u2192 c\u00f3\nGi\u1ea3i th\u00edch: \"There are\" d\u00f9ng \u0111\u1ec3 ch\u1ec9 s\u1ef1 t\u1ed3n t\u1ea1i c\u1ee7a nhi\u1ec1u v\u1eadt/ng\u01b0\u1eddi \u1edf m\u1ed9t n\u01a1i n\u00e0o \u0111\u00f3.\nThere are some books on the table \u2192 C\u00f3 v\u00e0i quy\u1ec3n s\u00e1ch tr\u00ean b\u00e0n."
     },
     {
@@ -1396,7 +1396,7 @@
             "C. w",
             "D. n"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "\u2705 C. w (brown)\u2192 n\u00e2u\nThis kite is brown. \u2192 C\u00e1i di\u1ec1u n\u00e0y m\u00e0u n\u00e2u."
     },
     {
@@ -1410,7 +1410,7 @@
             "C. a",
             "D. e"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "\u2705 C. a (many) \u2192 nhi\u1ec1u\nhow many \u2192 bao nhi\u00eau\nHow many pets do you have? \u2192 B\u1ea1n c\u00f3 bao nhi\u00eau th\u00fa c\u01b0ng?"
     },
     {
@@ -1424,7 +1424,7 @@
             "C. i",
             "D. e"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "\u2705 C. is \u2192 l\u00e0\nWhat colour is this? \u2192 C\u00e1i n\u00e0y m\u00e0u g\u00ec?"
     },
     {
@@ -1438,7 +1438,7 @@
             "C. stand",
             "D. sit"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "\u2705 B. sing \u2192 h\u00e1t\nGi\u1ea3i th\u00edch: \"Sing a song\" ngh\u0129a l\u00e0 \"h\u00e1t m\u1ed9t b\u00e0i h\u00e1t\".\nLet\u2019s sing a song. \u2192 H\u00e3y h\u00e1t m\u1ed9t b\u00e0i h\u00e1t."
     },
     {
@@ -1452,7 +1452,7 @@
             "C. Wash",
             "D. study"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "\u2705 C. Wash \u2192 r\u1eeda\nGi\u1ea3i th\u00edch: \"Wash your hand\" c\u00f3 ngh\u0129a l\u00e0 \"r\u1eeda tay c\u1ee7a b\u1ea1n\".\nWash your hand, please. \u2192 L\u00e0m \u01a1n r\u1eeda tay c\u1ee7a b\u1ea1n."
     },
     {
@@ -1466,7 +1466,7 @@
             "C. How",
             "D. When"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "\u2705 C. How \u2192 nh\u01b0 th\u1ebf n\u00e0o\nHow are you? \u2013 I\u2019m fine, thanks. \u2192 B\u1ea1n c\u00f3 kh\u1ecfe kh\u00f4ng? \u2013 T\u00f4i kh\u1ecfe, c\u1ea3m \u01a1n."
     },
     {
@@ -1480,7 +1480,7 @@
             "C. Where",
             "D. What"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "\u2705 D. What \u2192 c\u00e1i g\u00ec\nWhat is that? \u2013 It\u2019s a pen. \u2192 \u0110\u00f3 l\u00e0 g\u00ec? \u2013 \u0110\u00f3 l\u00e0 m\u1ed9t c\u00e2y b\u00fat."
     },
     {
@@ -1494,7 +1494,7 @@
             "C. See you later",
             "D. Hi, nice to meet you"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "\u2705 C. See you later \u2192 h\u1eb9n g\u1eb7p l\u1ea1i\nGoodbye. See you later! \u2192 T\u1ea1m bi\u1ec7t. H\u1eb9n g\u1eb7p l\u1ea1i!"
     },
     {
@@ -1508,7 +1508,7 @@
             "C. My name\u2019s Alan",
             "D. Alan, this is my pen."
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "\u2705 A. Good morning, Alan \u2192 Ch\u00e0o bu\u1ed5i s\u00e1ng, Alan.\nGi\u1ea3i th\u00edch: Khi ai \u0111\u00f3 ch\u00e0o \"Good morning\", ta c\u0169ng \u0111\u00e1p l\u1ea1i b\u1eb1ng \"Good morning\"."
     },
     {
@@ -1522,7 +1522,7 @@
             "C. Is this black",
             "D. This is blue"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "\u2705 A. What colour is this \u2192 c\u00e1i n\u00e0y m\u00e0u g\u00ec\nGi\u1ea3i th\u00edch: \u0110\u00e2y l\u00e0 c\u00e2u h\u1ecfi v\u1ec1 m\u00e0u s\u1eafc c\u1ee7a m\u1ed9t v\u1eadt.\nWhat colour is this? \u2013 It\u2019s black. \u2192 C\u00e1i n\u00e0y m\u00e0u g\u00ec? \u2013 N\u00f3 m\u00e0u \u0111en."
     },
     {
@@ -1536,7 +1536,7 @@
             "C. name",
             "D. Nam"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "\u2705 C. name \u2192 t\u00ean\nGi\u1ea3i th\u00edch: \"My name is Jean\" l\u00e0 c\u00e1ch gi\u1edbi thi\u1ec7u t\u00ean c\u1ee7a b\u1ea3n th\u00e2n.\nMy name is Jean. \u2192 T\u00ean t\u00f4i l\u00e0 Jean."
     },
     {
@@ -1550,7 +1550,7 @@
             "C. Not",
             "D. no"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "Is that a pen?\n\ud83d\udd39 C\u00e1ch ch\u1ecdn \u0111\u00e1p \u00e1n:\nN\u1ebfu \u0111\u00fang th\u00ec ch\u1ecdn Yes, it is\nN\u1ebfu sai th\u00ec ch\u1ecdn No, it isn\u2019t\n\u2705 \u0110\u00e1p \u00e1n: B. yes, it is (v\u00ec c\u00e2u h\u1ecfi d\u00f9ng Is that a pen? th\u00ec c\u00e2u tr\u1ea3 l\u1eddi \u0111\u00fang theo m\u1eabu Yes, it is ho\u1eb7c No, it isn\u2019t)"
     },
     {
@@ -1564,7 +1564,7 @@
             "C. She my friend",
             "D. He\u2019s Tom"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "Who is he? ___!\n\u2192 Anh \u1ea5y l\u00e0 ai? ___!\n\nA. She is Mary \u2192 C\u00f4 \u1ea5y l\u00e0 Mary\nB. He my friend \u2192 Anh \u1ea5y b\u1ea1n t\u00f4i (sai ng\u1eef ph\u00e1p)\nC. She my friend \u2192 C\u00f4 \u1ea5y b\u1ea1n t\u00f4i (sai ch\u1ee7 ng\u1eef)\nD. He\u2019s Tom \u2705 \u2192 Anh \u1ea5y l\u00e0 Tom\n\nGi\u1ea3i th\u00edch:\nC\u00e2u h\u1ecfi \u201cWho is he?\u201d (Anh \u1ea5y l\u00e0 ai?) y\u00eau c\u1ea7u m\u1ed9t c\u00e2u tr\u1ea3 l\u1eddi c\u00f3 ch\u1ee7 ng\u1eef \u201cHe\u201d v\u00e0 \u0111\u1ed9ng t\u1eeb \u201cis\u201d, n\u00ean \u201cHe\u2019s Tom\u201d l\u00e0 l\u1ef1a ch\u1ecdn \u0111\u00fang."
     },
     {
@@ -1578,7 +1578,7 @@
             "C. am",
             "D. this"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "These ___ my books.\n\u2192 \u0110\u00e2y ___ nh\u1eefng quy\u1ec3n s\u00e1ch c\u1ee7a t\u00f4i.\n\nA. are \u2705 \u2192 l\u00e0\nB. is \u2192 l\u00e0 (sai v\u00ec \"is\" d\u00f9ng cho s\u1ed1 \u00edt)\nC. am \u2192 l\u00e0 (sai v\u00ec \"am\" ch\u1ec9 \u0111i v\u1edbi \"I\")\nD. this \u2192 c\u00e1i n\u00e0y (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\nCh\u1ee7 ng\u1eef \u201cThese\u201d (Nh\u1eefng c\u00e1i n\u00e0y) l\u00e0 s\u1ed1 nhi\u1ec1u, n\u00ean \u0111\u1ed9ng t\u1eeb ph\u1ea3i l\u00e0 \u201care\u201d, kh\u00f4ng th\u1ec3 d\u00f9ng \u201cis\u201d (d\u00f9ng cho s\u1ed1 \u00edt). V\u00ec v\u1eady, \"These are my books.\" l\u00e0 c\u00e2u \u0111\u00fang."
     },
     {
@@ -1592,7 +1592,7 @@
             "C. is",
             "D. this"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "How ___ you? \u2013 Fine, thanks.\n\u2192 B\u1ea1n ___ th\u1ebf n\u00e0o? \u2013 T\u1ed1t, c\u1ea3m \u01a1n.\n\nA. are \u2705 \u2192 l\u00e0\nB. am \u2192 l\u00e0 (sai v\u00ec \"am\" ch\u1ec9 \u0111i v\u1edbi \"I\")\nC. is \u2192 l\u00e0 (sai v\u00ec \"is\" ch\u1ec9 \u0111i v\u1edbi ch\u1ee7 ng\u1eef s\u1ed1 \u00edt nh\u01b0 \"he/she/it\")\nD. this \u2192 c\u00e1i n\u00e0y (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\nC\u00e2u h\u1ecfi \"How are you?\" l\u00e0 m\u1ed9t c\u00e2u ch\u00e0o h\u1ecfi th\u00f4ng d\u1ee5ng, ch\u1ee7 ng\u1eef \"you\" \u0111i v\u1edbi \u0111\u1ed9ng t\u1eeb \"are\", n\u00ean \"How are you?\" l\u00e0 c\u00e2u \u0111\u00fang.\n\n"
     },
     {
@@ -1606,7 +1606,7 @@
             "C. goodbye",
             "D. is"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "It ___ a ball.\n\u2192 N\u00f3 ___ m\u1ed9t qu\u1ea3 b\u00f3ng.\n\nA. are \u2192 l\u00e0 (sai v\u00ec \"are\" d\u00f9ng cho s\u1ed1 nhi\u1ec1u)\nB. hi \u2192 xin ch\u00e0o (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. goodbye \u2192 t\u1ea1m bi\u1ec7t (kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. is \u2705 \u2192 l\u00e0\n\nGi\u1ea3i th\u00edch:\nCh\u1ee7 ng\u1eef \u201cIt\u201d (N\u00f3) l\u00e0 s\u1ed1 \u00edt, n\u00ean \u0111\u1ed9ng t\u1eeb ph\u00f9 h\u1ee3p l\u00e0 \"is\", v\u00ec v\u1eady c\u00e2u \u0111\u00fang l\u00e0 \"It is a ball.\"\n\n"
     },
     {
@@ -1620,7 +1620,7 @@
             "C. it",
             "D. the"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "___ this a pencil? \u2013 No, it isn\u2019t.\n\u2192 ___ \u0111\u00e2y c\u00f3 ph\u1ea3i l\u00e0 m\u1ed9t c\u00e2y b\u00fat ch\u00ec kh\u00f4ng? \u2013 Kh\u00f4ng, n\u00f3 kh\u00f4ng ph\u1ea3i.\n\nA. are \u2192 l\u00e0 (sai v\u00ec \"are\" d\u00f9ng cho s\u1ed1 nhi\u1ec1u)\nB. is \u2705 \u2192 l\u00e0\nC. it \u2192 n\u00f3 (kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. the \u2192 c\u00e1i (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\nC\u00e2u h\u1ecfi d\u1ea1ng \"Is this \u2026?\" \u0111\u01b0\u1ee3c d\u00f9ng khi h\u1ecfi v\u1ec1 m\u1ed9t v\u1eadt \u1edf g\u1ea7n. V\u00ec \"this\" l\u00e0 s\u1ed1 \u00edt, n\u00ean \u0111\u1ed9ng t\u1eeb ph\u00f9 h\u1ee3p l\u00e0 \"is\". Do \u0111\u00f3, c\u00e2u \u0111\u00fang l\u00e0 \"Is this a pencil?\""
     },
     {
@@ -1634,7 +1634,7 @@
             "C. she\u2019s",
             "D. they"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "This is ___ desk.\n\u2192 \u0110\u00e2y l\u00e0 ___ b\u00e0n c\u1ee7a t\u00f4i.\n\nA. my \u2705 \u2192 c\u1ee7a t\u00f4i\nB. my\u2019s \u2192 (sai ng\u1eef ph\u00e1p, kh\u00f4ng c\u00f3 t\u1eeb n\u00e0y)\nC. she\u2019s \u2192 c\u1ee7a c\u00f4 \u1ea5y (sai ng\u1eef ph\u00e1p)\nD. they \u2192 h\u1ecd (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\nT\u00ednh t\u1eeb s\u1edf h\u1eefu \"my\" \u0111\u01b0\u1ee3c d\u00f9ng \u0111\u1ec3 ch\u1ec9 quy\u1ec1n s\u1edf h\u1eefu, \u0111\u1ee9ng tr\u01b0\u1edbc danh t\u1eeb \"desk\". V\u00ec v\u1eady, c\u00e2u \u0111\u00fang l\u00e0 \"This is my desk.\"\n"
     },
     {
@@ -1648,7 +1648,7 @@
             "C. the",
             "D. am"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "This is Sam. He ___ my friend.\n\u2192 \u0110\u00e2y l\u00e0 Sam. Anh \u1ea5y ___ b\u1ea1n t\u00f4i.\n\nA. is \u2705 \u2192 l\u00e0\nB. are \u2192 l\u00e0 (sai v\u00ec \"are\" \u0111i v\u1edbi ch\u1ee7 ng\u1eef s\u1ed1 nhi\u1ec1u)\nC. the \u2192 (kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. am \u2192 l\u00e0 (sai v\u00ec \"am\" ch\u1ec9 \u0111i v\u1edbi \"I\")\n\nGi\u1ea3i th\u00edch:\nCh\u1ee7 ng\u1eef \"He\" l\u00e0 s\u1ed1 \u00edt, n\u00ean \u0111\u1ed9ng t\u1eeb ph\u00f9 h\u1ee3p l\u00e0 \"is\". V\u00ec v\u1eady, c\u00e2u \u0111\u00fang l\u00e0 \"He is my friend.\"\n"
     },
     {
@@ -1662,7 +1662,7 @@
             "C. student",
             "D. she"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Alice is a ___ at Oxford Primary School.\n\u2192 Alice l\u00e0 m\u1ed9t ___ \u1edf Tr\u01b0\u1eddng Ti\u1ec3u h\u1ecdc Oxford.\n\nA. boy \u2192 c\u1eadu b\u00e9 (sai v\u00ec Alice l\u00e0 con g\u00e1i)\nB. toy \u2192 \u0111\u1ed3 ch\u01a1i (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. student \u2705 \u2192 h\u1ecdc sinh\nD. she \u2192 c\u00f4 \u1ea5y (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\nAlice l\u00e0 m\u1ed9t ng\u01b0\u1eddi h\u1ecdc sinh, danh t\u1eeb ph\u00f9 h\u1ee3p l\u00e0 \"student\". V\u00ec v\u1eady, c\u00e2u \u0111\u00fang l\u00e0 \"Alice is a student at Oxford Primary School.\""
     },
     {
@@ -1676,7 +1676,7 @@
             "C. \u201cYou\u201d",
             "D. \u201cHe\u201d"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "Let\u2019s say ___ to the teacher.\n\u2192 H\u00e3y n\u00f3i ___ v\u1edbi gi\u00e1o vi\u00ean.\n\nA. \u201cHello!\u201d \u2705 \u2192 \u201cXin ch\u00e0o!\u201d\nB. \u201cGood\u201d \u2192 \u201cT\u1ed1t\u201d (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. \u201cYou\u201d \u2192 \u201cB\u1ea1n\u201d (kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. \u201cHe\u201d \u2192 \u201cAnh \u1ea5y\u201d (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\nC\u00e2u m\u1ec7nh l\u1ec7nh \"Let's say \u2026\" (H\u00e3y n\u00f3i \u2026) d\u00f9ng \u0111\u1ec3 \u0111\u1ec1 ngh\u1ecb ch\u00e0o gi\u00e1o vi\u00ean. T\u1eeb ph\u00f9 h\u1ee3p l\u00e0 \"Hello!\" (Xin ch\u00e0o!). V\u00ec v\u1eady, c\u00e2u \u0111\u00fang l\u00e0 \"Let\u2019s say \u2018Hello!\u2019 to the teacher.\"\n"
     },
     {
@@ -1690,7 +1690,7 @@
             "C. He is Peter",
             "D. He is my friend"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "What\u2019s his name? ___!\n\u2192 T\u00ean c\u1ee7a c\u1eadu \u1ea5y l\u00e0 g\u00ec? ___!\n\nA. My name\u2019s Peter \u2192 T\u00ean t\u00f4i l\u00e0 Peter (kh\u00f4ng ph\u00f9 h\u1ee3p)\nB. See you later \u2192 H\u1eb9n g\u1eb7p l\u1ea1i (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. He is Peter \u2705 \u2192 C\u1eadu \u1ea5y l\u00e0 Peter\nD. He is my friend \u2192 C\u1eadu \u1ea5y l\u00e0 b\u1ea1n t\u00f4i (ch\u01b0a tr\u1ea3 l\u1eddi tr\u1ef1c ti\u1ebfp c\u00e2u h\u1ecfi)\n\nGi\u1ea3i th\u00edch:\nC\u00e2u h\u1ecfi \"What\u2019s his name?\" (T\u00ean c\u1ee7a c\u1eadu \u1ea5y l\u00e0 g\u00ec?) y\u00eau c\u1ea7u m\u1ed9t c\u00e2u tr\u1ea3 l\u1eddi c\u00f3 ch\u1ee9a t\u00ean c\u1ee7a ng\u01b0\u1eddi \u0111\u00f3. C\u00e2u tr\u1ea3 l\u1eddi \u0111\u00fang l\u00e0 \"He is Peter.\""
     },
     {
@@ -1704,7 +1704,7 @@
             "C. It\u2019s an doll",
             "D. This is Mary"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "What is this? ___!\n\u2192 \u0110\u00e2y l\u00e0 c\u00e1i g\u00ec? ___!\n\nA. My name is Andy \u2192 T\u00ean t\u00f4i l\u00e0 Andy (kh\u00f4ng ph\u00f9 h\u1ee3p)\nB. It is a doll \u2705 \u2192 N\u00f3 l\u00e0 m\u1ed9t con b\u00fap b\u00ea\nC. It\u2019s an doll \u2192 N\u00f3 l\u00e0 m\u1ed9t con b\u00fap b\u00ea (sai v\u00ec \u201can\u201d kh\u00f4ng \u0111i v\u1edbi \u201cdoll\u201d)\nD. This is Mary \u2192 \u0110\u00e2y l\u00e0 Mary (kh\u00f4ng tr\u1ea3 l\u1eddi \u0111\u00fang c\u00e2u h\u1ecfi)\n\nGi\u1ea3i th\u00edch:\nC\u00e2u h\u1ecfi \"What is this?\" y\u00eau c\u1ea7u m\u1ed9t c\u00e2u tr\u1ea3 l\u1eddi m\u00f4 t\u1ea3 v\u1eadt \u0111\u01b0\u1ee3c h\u1ecfi \u0111\u1ebfn. \"It is a doll.\" l\u00e0 c\u00e2u tr\u1ea3 l\u1eddi \u0111\u00fang v\u00ec \"a doll\" (m\u1ed9t con b\u00fap b\u00ea) l\u00e0 m\u1ed9t v\u1eadt c\u1ee5 th\u1ec3.\n"
     },
     {
@@ -1718,7 +1718,7 @@
             "C. that",
             "D. it"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "What ___ is this? It\u2019s green.\n\u2192 ___ n\u00e0y m\u00e0u g\u00ec? N\u00f3 c\u00f3 m\u00e0u xanh l\u00e1 c\u00e2y.\n\nA. is \u2192 l\u00e0 (kh\u00f4ng ph\u00f9 h\u1ee3p)\nB. this \u2192 c\u00e1i n\u00e0y (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. that \u2192 c\u00e1i \u0111\u00f3 (kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. it \u2705 \u2192 n\u00f3\n\nGi\u1ea3i th\u00edch:\nC\u00e2u h\u1ecfi \"What color is this?\" (C\u00e1i n\u00e0y m\u00e0u g\u00ec?) \u0111\u01b0\u1ee3c d\u00f9ng \u0111\u1ec3 h\u1ecfi v\u1ec1 m\u00e0u s\u1eafc c\u1ee7a m\u1ed9t v\u1eadt. T\u1eeb th\u00edch h\u1ee3p \u0111i\u1ec1n v\u00e0o ch\u1ed7 tr\u1ed1ng l\u00e0 \"color\", nh\u01b0ng trong c\u00e1c l\u1ef1a ch\u1ecdn ch\u1ec9 c\u00f3 \"it\" l\u00e0 ph\u00f9 h\u1ee3p \u0111\u1ec3 gh\u00e9p v\u1edbi \"What\". V\u00ec v\u1eady, c\u00e2u \u0111\u00fang l\u00e0 \"What color is this?\""
     },
     {
@@ -1732,7 +1732,7 @@
             "C. Goodbye",
             "D. Nice to meet you"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "___, students. See you tomorrow.\n\u2192 ___, c\u00e1c h\u1ecdc sinh. H\u1eb9n g\u1eb7p l\u1ea1i v\u00e0o ng\u00e0y mai.\n\nA. Good morning \u2192 Ch\u00e0o bu\u1ed5i s\u00e1ng (kh\u00f4ng ph\u00f9 h\u1ee3p v\u1edbi ng\u1eef c\u1ea3nh t\u1ea1m bi\u1ec7t)\nB. Good night \u2192 Ch\u00fac ng\u1ee7 ngon (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. Goodbye \u2705 \u2192 T\u1ea1m bi\u1ec7t\nD. Nice to meet you \u2192 R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\nV\u00ec c\u00e2u ti\u1ebfp theo \"See you tomorrow.\" (H\u1eb9n g\u1eb7p l\u1ea1i ng\u00e0y mai) l\u00e0 m\u1ed9t c\u00e1ch t\u1ea1m bi\u1ec7t, t\u1eeb ph\u00f9 h\u1ee3p nh\u1ea5t \u0111\u1ec3 \u0111i\u1ec1n v\u00e0o ch\u1ed7 tr\u1ed1ng l\u00e0 \"Goodbye\".\n"
     },
     {
@@ -1746,7 +1746,7 @@
             "C. Yes",
             "D. No\u2019s"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Is this a pencil box? - ___, it is.\n\u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i l\u00e0 m\u1ed9t h\u1ed9p b\u00fat ch\u00ec kh\u00f4ng? - ___, \u0111\u00fang v\u1eady.\n\nA. No \u2192 Kh\u00f4ng (kh\u00f4ng ph\u00f9 h\u1ee3p v\u00ec c\u00e2u tr\u1ea3 l\u1eddi l\u00e0 \"c\u00f3\")\nB. not \u2192 Kh\u00f4ng (sai ng\u1eef ph\u00e1p)\nC. Yes \u2705 \u2192 C\u00f3\nD. No\u2019s \u2192 Kh\u00f4ng (kh\u00f4ng ph\u1ea3i m\u1ed9t t\u1eeb \u0111\u00fang)\n\nGi\u1ea3i th\u00edch:\nC\u00e2u h\u1ecfi \"Is this a pencil box?\" l\u00e0 c\u00e2u h\u1ecfi Yes/No. V\u00ec c\u00e2u tr\u1ea3 l\u1eddi x\u00e1c nh\u1eadn, n\u00ean t\u1eeb ph\u00f9 h\u1ee3p nh\u1ea5t l\u00e0 \"Yes, it is.\""
     },
     {
@@ -1760,7 +1760,7 @@
             "C. cassette",
             "D. cassettes"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "How many cassettes? - One ___.\n\u2192 C\u00f3 bao nhi\u00eau b\u0103ng cassette? - M\u1ed9t ___.\n\nA. a cassette \u2192 m\u1ed9t c\u00e1i b\u0103ng cassette (sai v\u00ec \"One\" \u0111\u00e3 mang ngh\u0129a \"m\u1ed9t\")\nB. two cassettes \u2192 hai b\u0103ng cassette (sai v\u00ec kh\u00f4ng kh\u1edbp s\u1ed1 l\u01b0\u1ee3ng)\nC. cassette \u2192 b\u0103ng cassette (thi\u1ebfu m\u1ea1o t\u1eeb)\nD. cassette \u2705 \u2192 b\u0103ng cassette\n\nGi\u1ea3i th\u00edch:\nKhi tr\u1ea3 l\u1eddi c\u00e2u h\u1ecfi \"How many \u2026?\", ta ch\u1ec9 c\u1ea7n \u0111\u01b0a ra s\u1ed1 l\u01b0\u1ee3ng v\u00e0 danh t\u1eeb. V\u1edbi s\u1ed1 \"One\", ta kh\u00f4ng c\u1ea7n th\u00eam m\u1ea1o t\u1eeb \"a\" n\u1eefa. V\u00ec v\u1eady, c\u00e2u \u0111\u00fang l\u00e0 \"One cassette.\""
     },
     {
@@ -1774,7 +1774,7 @@
             "C. No",
             "D. Not"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Is that a pen? - ___, it isn\u2019t.\n\u2192 \u0110\u00f3 c\u00f3 ph\u1ea3i l\u00e0 m\u1ed9t c\u00e2y b\u00fat kh\u00f4ng? - ___, n\u00f3 kh\u00f4ng ph\u1ea3i.\n\nA. Yes \u2192 C\u00f3 (kh\u00f4ng ph\u00f9 h\u1ee3p)\nB. Yes, it is \u2192 C\u00f3, \u0111\u00fang v\u1eady (kh\u00f4ng ph\u00f9 h\u1ee3p v\u00ec c\u00e2u tr\u1ea3 l\u1eddi l\u00e0 \"kh\u00f4ng\")\nC. No \u2705 \u2192 Kh\u00f4ng\nD. Not \u2192 Kh\u00f4ng (sai ng\u1eef ph\u00e1p)\n\nGi\u1ea3i th\u00edch:\nC\u00e2u h\u1ecfi \"Is that a pen?\" l\u00e0 c\u00e2u h\u1ecfi Yes/No. V\u00ec c\u00e2u tr\u1ea3 l\u1eddi ph\u1ee7 \u0111\u1ecbnh, n\u00ean t\u1eeb ph\u00f9 h\u1ee3p l\u00e0 \"No, it isn\u2019t.\""
     },
     {
@@ -1788,7 +1788,7 @@
             "C. this",
             "D. am"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "He is ___ farmer.\n\u2192 Anh \u1ea5y l\u00e0 m\u1ed9t ng\u01b0\u1eddi n\u00f4ng d\u00e2n.\n\nA. an \u2192 m\u1ed9t (sai v\u00ec \"farmer\" b\u1eaft \u0111\u1ea7u b\u1eb1ng ph\u1ee5 \u00e2m, n\u00ean kh\u00f4ng d\u00f9ng \"an\")\nB. a \u2705 \u2192 m\u1ed9t\nC. this \u2192 c\u00e1i n\u00e0y (kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. am \u2192 l\u00e0 (sai v\u00ec \"am\" ch\u1ec9 \u0111i v\u1edbi \"I\")\n\nGi\u1ea3i th\u00edch:\nM\u1ea1o t\u1eeb \"a\" \u0111\u01b0\u1ee3c d\u00f9ng tr\u01b0\u1edbc danh t\u1eeb \u0111\u1ebfm \u0111\u01b0\u1ee3c s\u1ed1 \u00edt b\u1eaft \u0111\u1ea7u b\u1eb1ng m\u1ed9t ph\u1ee5 \u00e2m. V\u00ec \"farmer\" b\u1eaft \u0111\u1ea7u b\u1eb1ng ph\u1ee5 \u00e2m \"f\", n\u00ean ta d\u00f9ng \"a farmer\" thay v\u00ec \"an farmer\". V\u00ec v\u1eady, c\u00e2u \u0111\u00fang l\u00e0 \"He is a farmer.\"\n"
     },
     {
@@ -1802,7 +1802,7 @@
             "C. Good morning",
             "D. Fine, thanks"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Good morning, teacher. - ___!\n\u2192 Ch\u00e0o bu\u1ed5i s\u00e1ng, th\u1ea7y/c\u00f4 gi\u00e1o. - ___!\n\nA. Goodbye \u2192 T\u1ea1m bi\u1ec7t (kh\u00f4ng ph\u00f9 h\u1ee3p)\nB. See you later \u2192 H\u1eb9n g\u1eb7p l\u1ea1i (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. Good morning \u2705 \u2192 Ch\u00e0o bu\u1ed5i s\u00e1ng\nD. Fine, thanks \u2192 Kh\u1ecfe, c\u1ea3m \u01a1n (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\nC\u00e2u \"Good morning, teacher.\" l\u00e0 l\u1eddi ch\u00e0o v\u00e0o bu\u1ed5i s\u00e1ng, n\u00ean c\u00e2u tr\u1ea3 l\u1eddi ph\u00f9 h\u1ee3p nh\u1ea5t c\u0169ng l\u00e0 \"Good morning!\" \u0111\u1ec3 \u0111\u00e1p l\u1ea1i.\n"
     },
     {
@@ -1816,7 +1816,7 @@
             "C. says",
             "D. to say"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "Let\u2019s ___ goodbye to Miss White.\n\u2192 H\u00e3y ___ t\u1ea1m bi\u1ec7t c\u00f4 White.\n\nA. say\u2019s \u2192 Sai v\u00ec kh\u00f4ng c\u00f3 d\u1ea1ng \u201csay\u2019s\u201d\nB. say \u2705 \u2192 N\u00f3i\nC. says \u2192 Sai v\u00ec \u201csays\u201d d\u00f9ng cho ng\u00f4i th\u1ee9 ba s\u1ed1 \u00edt\nD. to say \u2192 Sai v\u00ec \u201cto say\u201d kh\u00f4ng ph\u00f9 h\u1ee3p v\u1edbi c\u1ea5u tr\u00fac c\u00e2u\n\nGi\u1ea3i th\u00edch:\nC\u1ea5u tr\u00fac \"Let\u2019s + \u0111\u1ed9ng t\u1eeb nguy\u00ean m\u1eabu\" (H\u00e3y l\u00e0m g\u00ec \u0111\u00f3) y\u00eau c\u1ea7u \u0111\u1ed9ng t\u1eeb nguy\u00ean m\u1eabu. V\u00ec v\u1eady, c\u00e2u \u0111\u00fang l\u00e0 \"Let\u2019s say goodbye to Miss White.\"\n"
     },
     {
@@ -1830,7 +1830,7 @@
             "C. Yes, it isn\u2019t",
             "D. yes, she i"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "Is your classroom big? ___!\n\u2192 L\u1edbp h\u1ecdc c\u1ee7a b\u1ea1n c\u00f3 l\u1edbn kh\u00f4ng? ___!\n\nA. Yes, it is \u2705 \u2192 C\u00f3, n\u00f3 l\u1edbn.\nB. No, it is \u2192 Sai v\u00ec thi\u1ebfu \u201cnot\u201d\nC. Yes, it isn\u2019t \u2192 Sai v\u00ec \u201cYes\u201d kh\u00f4ng th\u1ec3 \u0111i c\u00f9ng \u201cisn\u2019t\u201d\nD. Yes, she is \u2192 Sai v\u00ec \u201cshe\u201d kh\u00f4ng ph\u00f9 h\u1ee3p v\u1edbi \u201cclassroom\u201d\n\nGi\u1ea3i th\u00edch:\nC\u00e2u h\u1ecfi \u201cIs your classroom big?\u201d l\u00e0 c\u00e2u h\u1ecfi Yes/No, c\u00e2u tr\u1ea3 l\u1eddi ph\u00f9 h\u1ee3p l\u00e0 \"Yes, it is.\""
     },
     {
@@ -1844,7 +1844,7 @@
             "C. in",
             "D. for"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "Listen ___ the teacher.\n\u2192 L\u1eafng nghe gi\u00e1o vi\u00ean.\n\nA. to \u2705 \u2192 Nghe\nB. on \u2192 Tr\u00ean (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. in \u2192 Trong (kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. for \u2192 Cho (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\nC\u1ea5u tr\u00fac \"Listen to someone\" (L\u1eafng nghe ai \u0111\u00f3) l\u00e0 \u0111\u00fang ng\u1eef ph\u00e1p. V\u00ec v\u1eady, c\u00e2u \u0111\u00fang l\u00e0 \"Listen to the teacher.\""
     },
     {
@@ -1858,7 +1858,7 @@
             "C. it\u2019s",
             "D. his"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "Is ___ a chair? \u2013 Yes, it is.\n\u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i l\u00e0 m\u1ed9t c\u00e1i gh\u1ebf kh\u00f4ng? \u2013 \u0110\u00fang v\u1eady.\n\nA. are \u2192 Sai v\u00ec \"are\" kh\u00f4ng \u0111i v\u1edbi s\u1ed1 \u00edt\nB. it \u2705 \u2192 N\u00f3\nC. it\u2019s \u2192 Sai v\u00ec kh\u00f4ng c\u1ea7n vi\u1ebft t\u1eaft trong c\u00e2u h\u1ecfi\nD. his \u2192 Sai v\u00ec \"his\" l\u00e0 \u0111\u1ea1i t\u1eeb s\u1edf h\u1eefu\n\nGi\u1ea3i th\u00edch:\nC\u00e2u h\u1ecfi \"Is it a chair?\" l\u00e0 d\u1ea1ng \u0111\u00fang v\u00ec \"it\" \u0111\u01b0\u1ee3c d\u00f9ng \u0111\u1ec3 ch\u1ec9 m\u1ed9t \u0111\u1ed3 v\u1eadt.\n"
     },
     {
@@ -1872,7 +1872,7 @@
             "C. read",
             "D. read to"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Mary goes to the school library to ___ books.\n\u2192 Mary \u0111\u1ebfn th\u01b0 vi\u1ec7n tr\u01b0\u1eddng \u0111\u1ec3 ___ s\u00e1ch.\n\nA. read\u2019s \u2192 Sai v\u00ec kh\u00f4ng c\u00f3 d\u1ea1ng \"read\u2019s\"\nB. reads \u2192 Sai v\u00ec sau \u201cto\u201d ph\u1ea3i d\u00f9ng \u0111\u1ed9ng t\u1eeb nguy\u00ean m\u1eabu\nC. read \u2705 \u2192 \u0110\u1ecdc\nD. read to \u2192 Sai v\u00ec \u201cread to\u201d kh\u00f4ng ph\u00f9 h\u1ee3p trong tr\u01b0\u1eddng h\u1ee3p n\u00e0y\n\nGi\u1ea3i th\u00edch:\nC\u1ea5u tr\u00fac \"to + \u0111\u1ed9ng t\u1eeb nguy\u00ean m\u1eabu\" (\u0111\u1ec3 l\u00e0m g\u00ec \u0111\u00f3) y\u00eau c\u1ea7u \u0111\u1ed9ng t\u1eeb nguy\u00ean m\u1eabu. V\u00ec v\u1eady, c\u00e2u \u0111\u00fang l\u00e0 \"Mary goes to the school library to read books.\""
     },
     {
@@ -1886,7 +1886,7 @@
             "C. Who",
             "D. Where"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "___ is that? \u2013 That\u2019s Mary. She\u2019s my friend.\n\u2192 ___ \u0111\u00f3 l\u00e0 ai? \u2013 \u0110\u00f3 l\u00e0 Mary. C\u00f4 \u1ea5y l\u00e0 b\u1ea1n t\u00f4i.\n\nA. How \u2192 Nh\u01b0 th\u1ebf n\u00e0o (kh\u00f4ng ph\u00f9 h\u1ee3p)\nB. When \u2192 Khi n\u00e0o (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. Who \u2705 \u2192 Ai\nD. Where \u2192 \u1ede \u0111\u00e2u (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\nC\u00e2u h\u1ecfi v\u1ec1 danh t\u00ednh c\u1ee7a m\u1ed9t ng\u01b0\u1eddi d\u00f9ng t\u1eeb \"Who\". V\u00ec v\u1eady, c\u00e2u \u0111\u00fang l\u00e0 \"Who is that?\""
     },
     {
@@ -1900,7 +1900,7 @@
             "C. library",
             "D. gym"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "The _____ is very big.\n\u2192 _____ r\u1ea5t l\u1edbn.\n\nA. computer room \u2192 Ph\u00f2ng m\u00e1y t\u00ednh\nB. playground \u2705 \u2192 S\u00e2n ch\u01a1i\nC. library \u2192 Th\u01b0 vi\u1ec7n\nD. gym \u2192 Ph\u00f2ng t\u1eadp th\u1ec3 d\u1ee5c"
     },
     {
@@ -1914,7 +1914,7 @@
             "C. nose",
             "D. ears"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Touch your _____!\n\u2192 Ch\u1ea1m v\u00e0o _____ c\u1ee7a b\u1ea1n!\n\nA. hand \u2192 Tay\nB. hair \u2192 T\u00f3c\nC. nose \u2705 \u2192 M\u0169i\nD. ears \u2192 Tai\n"
     },
     {
@@ -1928,7 +1928,7 @@
             "C. cake",
             "D. book"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "I have a/an _____.\n\u2192 T\u00f4i c\u00f3 m\u1ed9t _____.\n\nA. notebook \u2192 S\u1ed5 tay\nB. orange \u2192 Qu\u1ea3 cam\nC. cake \u2192 B\u00e1nh ng\u1ecdt\nD. book \u2705 \u2192 Quy\u1ec3n s\u00e1ch"
     },
     {
@@ -1942,7 +1942,7 @@
             "C. book",
             "D. chocolate"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "I have a/an _____.\n\u2192 T\u00f4i c\u00f3 m\u1ed9t _____.\n\nA. ruler \u2705 \u2192 Th\u01b0\u1edbc k\u1ebb\nB. candy \u2192 K\u1eb9o\nC. book \u2192 Quy\u1ec3n s\u00e1ch\nD. chocolate \u2192 S\u00f4 c\u00f4 la"
     },
     {
@@ -1956,7 +1956,7 @@
             "C. pink",
             "D. red"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "What colour is this?\n\u2192 M\u00e0u n\u00e0y l\u00e0 m\u00e0u g\u00ec?\n\nA. orange \u2192 Cam\nB. white \u2192 Tr\u1eafng\nC. pink \u2705 \u2192 H\u1ed3ng\nD. red \u2192 \u0110\u1ecf"
     },
     {
@@ -1970,7 +1970,7 @@
             "C. computer room",
             "D. art room"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Let's go to the _____.\n\u2192 H\u00e3y \u0111\u1ebfn _____.\n\nA. music room \u2192 Ph\u00f2ng \u00e2m nh\u1ea1c\nB. playground \u2192 S\u00e2n ch\u01a1i\nC. computer room \u2705 \u2192 Ph\u00f2ng m\u00e1y t\u00ednh\nD. art room \u2192 Ph\u00f2ng m\u1ef9 thu\u1eadt"
     },
     {
@@ -1984,7 +1984,7 @@
             "C. computer room",
             "D. art room"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "The _____ is large.\n\u2192 _____ th\u00ec r\u1ed9ng.\n\nA. music room \u2705 \u2192 Ph\u00f2ng \u00e2m nh\u1ea1c\nB. playground \u2192 S\u00e2n ch\u01a1i\nC. computer room \u2192 Ph\u00f2ng m\u00e1y t\u00ednh\nD. art room \u2192 Ph\u00f2ng m\u1ef9 thu\u1eadt"
     },
     {
@@ -1998,7 +1998,7 @@
             "C. red",
             "D. pink"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "That is a _____ pen.\n\u2192 \u0110\u00f3 l\u00e0 m\u1ed9t c\u00e2y b\u00fat _____.\n\nA. green \u2705 \u2192 Xanh l\u00e1\nB. blue \u2192 Xanh d\u01b0\u01a1ng\nC. red \u2192 \u0110\u1ecf\nD. pink \u2192 H\u1ed3ng"
     },
     {
@@ -2012,7 +2012,7 @@
             "C. lamps",
             "D. bikes"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "What are those? - Those are_____.\n\u2192 Nh\u1eefng c\u00e1i \u0111\u00f3 l\u00e0 g\u00ec? - Ch\u00fang l\u00e0 _____.\n\nA. kites \u2705 \u2192 Nh\u1eefng con di\u1ec1u\nB. candy \u2192 K\u1eb9o\nC. lamps \u2192 \u0110\u00e8n\nD. bikes \u2192 Xe \u0111\u1ea1p\n"
     },
     {
@@ -2026,7 +2026,7 @@
             "C. red",
             "D. pink"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "That is a _____ doll.\n\u2192 \u0110\u00f3 l\u00e0 m\u1ed9t con b\u00fap b\u00ea _____.\n\nA. yellow \u2192 V\u00e0ng\nB. blue \u2192 Xanh d\u01b0\u01a1ng\nC. red \u2192 \u0110\u1ecf\nD. pink \u2705 \u2192 H\u1ed3ng\n"
     },
     {
@@ -2040,7 +2040,7 @@
             "C. living room",
             "D. kitchen"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "The _____ is new.\n\u2192 _____ th\u00ec m\u1edbi.\n\nA. bedroom \u2192 Ph\u00f2ng ng\u1ee7\nB. bathroom \u2192 Ph\u00f2ng t\u1eafm\nC. living room \u2705 \u2192 Ph\u00f2ng kh\u00e1ch\nD. kitchen \u2192 Nh\u00e0 b\u1ebfp"
     },
     {
@@ -2054,7 +2054,7 @@
             "C. 10",
             "D. 8"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "The girl is _____ years old.\n\u2192 C\u00f4 b\u00e9 _____ tu\u1ed5i.\n\nA. 9 \u2705 \nB. 6\nC. 10\nD. 8 \n\n\n\n\n\n\n"
     },
     {
@@ -2068,7 +2068,7 @@
             "C. She's ten years old",
             "D. She's nine years old"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "How old is Eva?\n\u2192 Eva bao nhi\u00eau tu\u1ed5i?\n\nA. She's seven years old \u2192 C\u00f4 \u1ea5y b\u1ea3y tu\u1ed5i\nB. She's eight years old \u2705 \u2192 C\u00f4 \u1ea5y t\u00e1m tu\u1ed5i\nC. She's ten years old \u2192 C\u00f4 \u1ea5y m\u01b0\u1eddi tu\u1ed5i\nD. She's nine years old \u2192 C\u00f4 \u1ea5y ch\u00edn tu\u1ed5i"
     },
     {
@@ -2082,7 +2082,7 @@
             "C. bean",
             "D. great"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "Choose the word that has the underlined letters pronounced differently.\n\u2192 Ch\u1ecdn t\u1eeb c\u00f3 ph\u1ea7n g\u1ea1ch ch\u00e2n ph\u00e1t \u00e2m kh\u00e1c.\n\nA. teacher \u2192 /t\u0283/\nB. clean \u2192 /i:/\nC. bean \u2192 /i:/\nD. great \u2705 \u2192 /e\u026a/\n\nGi\u1ea3i th\u00edch:\nC\u00e1c t\u1eeb \"clean\" v\u00e0 \"bean\" c\u00f3 \u00e2m /i:/, trong khi \"great\" c\u00f3 \u00e2m /e\u026a/, ph\u00e1t \u00e2m kh\u00e1c bi\u1ec7t."
     },
     {
@@ -2096,7 +2096,7 @@
             "C. ruler",
             "D. brother"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Choose the word that has the underlined letters pronounced differently.\n\u2192 Ch\u1ecdn t\u1eeb c\u00f3 ph\u1ea7n g\u1ea1ch ch\u00e2n ph\u00e1t \u00e2m kh\u00e1c.\n\nA. sister \u2192 /s\u026a/\nB. pencil \u2192 /s\u026a/\nC. ruler \u2705 \u2192 /ru:/\nD. brother \u2192 /\u00f0\u0259/\n\nGi\u1ea3i th\u00edch:\nC\u00e1c t\u1eeb \"sister\", \"pencil\", \"brother\" c\u00f3 \u00e2m /\u026a/, c\u00f2n \"ruler\" c\u00f3 \u00e2m /u:/, ph\u00e1t \u00e2m kh\u00e1c bi\u1ec7t."
     },
     {
@@ -2110,7 +2110,7 @@
             "C. thank",
             "D. those"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Choose the word that has the underlined letters pronounced differently.\n\u2192 Ch\u1ecdn t\u1eeb c\u00f3 ph\u1ea7n g\u1ea1ch ch\u00e2n ph\u00e1t \u00e2m kh\u00e1c.\n\nA. these \u2192 /\u00f0/\nB. this \u2192 /\u00f0/\nC. thank \u2705 \u2192 /\u03b8/\nD. those \u2192 /\u00f0/\n\nGi\u1ea3i th\u00edch:\nC\u00e1c t\u1eeb \"these\", \"this\", \"those\" c\u00f3 \u00e2m /\u00f0/, trong khi \"thank\" c\u00f3 \u00e2m /\u03b8/, ph\u00e1t \u00e2m kh\u00e1c bi\u1ec7t.\n"
     },
     {
@@ -2124,7 +2124,7 @@
             "C. ten",
             "D. they"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "Find the word that has the underlined part pronounced differently from the others.\n\u2192 T\u00ecm t\u1eeb c\u00f3 ph\u1ea7n g\u1ea1ch ch\u00e2n ph\u00e1t \u00e2m kh\u00e1c.\n\nA. pencil \u2192 /p/\nB. pen \u2192 /p/\nC. ten \u2192 /t/\nD. they \u2705 \u2192 /\u00f0/\n\nGi\u1ea3i th\u00edch:\nBa t\u1eeb \"pencil\", \"pen\", \"ten\" c\u00f3 \u00e2m /p/ ho\u1eb7c /t/, trong khi \"they\" c\u00f3 \u00e2m /\u00f0/, ph\u00e1t \u00e2m kh\u00e1c bi\u1ec7t."
     },
     {
@@ -2138,7 +2138,7 @@
             "C. say",
             "D. ball"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "Find the word that has the underlined part pronounced differently from the others.\n\u2192 T\u00ecm t\u1eeb c\u00f3 ph\u1ea7n g\u1ea1ch ch\u00e2n ph\u00e1t \u00e2m kh\u00e1c.\n\nA. day \u2192 /de\u026a/\nB. paper \u2192 /\u02c8pe\u026a.p\u0259r/\nC. say \u2192 /se\u026a/\nD. ball \u2705 \u2192 /b\u0254\u02d0l/\n\nGi\u1ea3i th\u00edch:\nBa t\u1eeb \"day\", \"paper\", \"say\" c\u00f3 \u00e2m /e\u026a/, trong khi \"ball\" c\u00f3 \u00e2m /\u0254\u02d0/, ph\u00e1t \u00e2m kh\u00e1c bi\u1ec7t.\n"
     },
     {
@@ -2152,7 +2152,7 @@
             "C. bed",
             "D. table"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Which word has the underlined part pronounced like the letter \"e\" in \"red\"?\n\u2192 T\u1eeb n\u00e0o c\u00f3 ph\u1ea7n g\u1ea1ch ch\u00e2n ph\u00e1t \u00e2m gi\u1ed1ng ch\u1eef \"e\" trong \"red\"?\n\nA. listen \u2192 /\u02c8l\u026as.\u0259n/\nB. quiet \u2192 /\u02c8kwa\u026a.\u0259t/\nC. bed \u2705 \u2192 /bed/\nD. table \u2192 /\u02c8te\u026a.b\u0259l/\n\nGi\u1ea3i th\u00edch:\nCh\u1eef \"e\" trong \"red\" ph\u00e1t \u00e2m l\u00e0 /e/, gi\u1ed1ng nh\u01b0 trong \"bed\". C\u00e1c t\u1eeb kh\u00e1c c\u00f3 \u00e2m kh\u00e1c nhau.\n"
     },
     {
@@ -2166,7 +2166,7 @@
             "C. table",
             "D. eraser"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "Find the word that has the underlined part pronounced differently from the others.\n\u2192 T\u00ecm t\u1eeb c\u00f3 ph\u1ea7n g\u1ea1ch ch\u00e2n ph\u00e1t \u00e2m kh\u00e1c.\n\nA. father \u2705 \u2192 /\u02c8f\u0251\u02d0.\u00f0\u0259r/\nB. play \u2192 /ple\u026a/\nC. table \u2192 /\u02c8te\u026a.b\u0259l/\nD. eraser \u2192 /\u026a\u02c8re\u026a.z\u0259r/\n\nGi\u1ea3i th\u00edch:\nBa t\u1eeb \"play\", \"table\", \"eraser\" c\u00f3 \u00e2m /e\u026a/, trong khi \"father\" c\u00f3 \u00e2m /\u0251\u02d0/, ph\u00e1t \u00e2m kh\u00e1c bi\u1ec7t.\n"
     },
     {
@@ -2180,7 +2180,7 @@
             "C. Book",
             "D. Ruler"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\n\nA. Pencil \u2192 B\u00fat ch\u00ec\nB. Black \u2705 \u2192 M\u00e0u \u0111en\nC. Book \u2192 S\u00e1ch\nD. Ruler \u2192 Th\u01b0\u1edbc k\u1ebb\n\nGi\u1ea3i th\u00edch:\nBa t\u1eeb \"Pencil\", \"Book\", \"Ruler\" l\u00e0 \u0111\u1ed3 v\u1eadt h\u1ecdc t\u1eadp, c\u00f2n \"Black\" l\u00e0 m\u00e0u s\u1eafc."
     },
     {
@@ -2194,7 +2194,7 @@
             "C. Three",
             "D. Two"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\n\nA. One \u2192 S\u1ed1 m\u1ed9t\nB. Year \u2705 \u2192 N\u0103m\nC. Three \u2192 S\u1ed1 ba\nD. Two \u2192 S\u1ed1 hai\n\nGi\u1ea3i th\u00edch:\n\"One\", \"Three\", \"Two\" l\u00e0 s\u1ed1 \u0111\u1ebfm, c\u00f2n \"Year\" l\u00e0 \u0111\u01a1n v\u1ecb th\u1eddi gian."
     },
     {
@@ -2208,7 +2208,7 @@
             "C. I",
             "D. she"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\n\nA. You \u2192 B\u1ea1n\nB. Hi \u2705 \u2192 Xin ch\u00e0o\nC. I \u2192 T\u00f4i\nD. She \u2192 C\u00f4 \u1ea5y\n\nGi\u1ea3i th\u00edch:\n\"You\", \"I\", \"She\" l\u00e0 \u0111\u1ea1i t\u1eeb nh\u00e2n x\u01b0ng, c\u00f2n \"Hi\" l\u00e0 l\u1eddi ch\u00e0o."
     },
     {
@@ -2222,7 +2222,7 @@
             "C. skate",
             "D. run"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\n\nA. Time \u2705 \u2192 Th\u1eddi gian\nB. Play \u2192 Ch\u01a1i\nC. Skate \u2192 Tr\u01b0\u1ee3t patin\nD. Run \u2192 Ch\u1ea1y\n\nGi\u1ea3i th\u00edch:\n\"Play\", \"Skate\", \"Run\" l\u00e0 \u0111\u1ed9ng t\u1eeb ch\u1ec9 h\u00e0nh \u0111\u1ed9ng, c\u00f2n \"Time\" l\u00e0 danh t\u1eeb ch\u1ec9 th\u1eddi gian."
     },
     {
@@ -2236,7 +2236,7 @@
             "C. three",
             "D. ten"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\n\nA. Book \u2192 S\u00e1ch\nB. Eleven \u2705 \u2192 S\u1ed1 m\u01b0\u1eddi m\u1ed9t\nC. Three \u2192 S\u1ed1 ba\nD. Ten \u2192 S\u1ed1 m\u01b0\u1eddi\n\nGi\u1ea3i th\u00edch:\n\"Eleven\", \"Three\", \"Ten\" l\u00e0 s\u1ed1 \u0111\u1ebfm, c\u00f2n \"Book\" l\u00e0 \u0111\u1ed3 v\u1eadt.\n\n"
     },
     {
@@ -2250,7 +2250,7 @@
             "C. big",
             "D. young"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\n\nA. Out \u2705 \u2192 Ra ngo\u00e0i\nB. Short \u2192 Ng\u1eafn\nC. Big \u2192 To\nD. Young \u2192 Tr\u1ebb\n\nGi\u1ea3i th\u00edch:\n\"Short\", \"Big\", \"Young\" l\u00e0 t\u00ednh t\u1eeb ch\u1ec9 \u0111\u1eb7c \u0111i\u1ec3m, c\u00f2n \"Out\" l\u00e0 tr\u1ea1ng t\u1eeb ch\u1ec9 v\u1ecb tr\u00ed."
     },
     {
@@ -2264,7 +2264,7 @@
             "C. Yellow",
             "D. Orange"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\n\nA. Pupil \u2192 H\u1ecdc sinh\nB. Blue \u2705 \u2192 M\u00e0u xanh\nC. Yellow \u2192 M\u00e0u v\u00e0ng\nD. Orange \u2192 M\u00e0u cam\n\nGi\u1ea3i th\u00edch:\n\"Blue\", \"Yellow\", \"Orange\" l\u00e0 m\u00e0u s\u1eafc, c\u00f2n \"Pupil\" l\u00e0 danh t\u1eeb ch\u1ec9 ng\u01b0\u1eddi."
     },
     {
@@ -2278,7 +2278,7 @@
             "C. eraser",
             "D. purple"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\n\nA. Pencil \u2192 B\u00fat ch\u00ec\nB. Ruler \u2192 Th\u01b0\u1edbc k\u1ebb\nC. Eraser \u2192 C\u1ee5c t\u1ea9y\nD. Purple \u2705 \u2192 M\u00e0u t\u00edm\n\nGi\u1ea3i th\u00edch:\n\"Pencil\", \"Ruler\", \"Eraser\" l\u00e0 \u0111\u1ed3 d\u00f9ng h\u1ecdc t\u1eadp, c\u00f2n \"Purple\" l\u00e0 m\u00e0u s\u1eafc."
     },
     {
@@ -2292,7 +2292,7 @@
             "C. Hi",
             "D. Good morning"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\n\nA. What \u2705 \u2192 C\u00e1i g\u00ec\nB. Hello \u2192 Xin ch\u00e0o\nC. Hi \u2192 Xin ch\u00e0o\nD. Good morning \u2192 Ch\u00e0o bu\u1ed5i s\u00e1ng\n\nGi\u1ea3i th\u00edch:\n\"Hello\", \"Hi\", \"Good morning\" l\u00e0 l\u1eddi ch\u00e0o, c\u00f2n \"What\" l\u00e0 t\u1eeb \u0111\u1ec3 h\u1ecfi.\n\n"
     },
     {
@@ -2306,7 +2306,7 @@
             "C. name",
             "D. school"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\n\nA. Library \u2192 Th\u01b0 vi\u1ec7n\nB. Classroom \u2192 L\u1edbp h\u1ecdc\nC. Name \u2705 \u2192 T\u00ean\nD. School \u2192 Tr\u01b0\u1eddng h\u1ecdc\n\nGi\u1ea3i th\u00edch:\n\"Library\", \"Classroom\", \"School\" l\u00e0 \u0111\u1ecba \u0111i\u1ec3m, c\u00f2n \"Name\" l\u00e0 danh t\u1eeb ch\u1ec9 t\u00ean."
     },
     {
@@ -2320,7 +2320,7 @@
             "C. he",
             "D. you"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\n\nA. She \u2192 C\u00f4 \u1ea5y\nB. My \u2705 \u2192 C\u1ee7a t\u00f4i\nC. He \u2192 Anh \u1ea5y\nD. You \u2192 B\u1ea1n\n\nGi\u1ea3i th\u00edch:\n\"She\", \"He\", \"You\" l\u00e0 \u0111\u1ea1i t\u1eeb nh\u00e2n x\u01b0ng, c\u00f2n \"My\" l\u00e0 t\u00ednh t\u1eeb s\u1edf h\u1eefu."
     },
     {
@@ -2334,7 +2334,7 @@
             "C. has",
             "D. things"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Choose the incorrect word(s) in the following sentences.\n\u2192 Ch\u1ecdn t\u1eeb sai trong c\u00e1c c\u00e2u sau.\nDo you has any school things?\n\nA. you \u2192 b\u1ea1n\nB. school \u2192 tr\u01b0\u1eddng h\u1ecdc\nC. has \u2705 \u2192 have\nD. things \u2192 \u0111\u1ed3 v\u1eadt\n\nGi\u1ea3i th\u00edch:\nD\u00f9ng \"Do\" th\u00ec \u0111\u1ed9ng t\u1eeb theo sau ph\u1ea3i \u1edf d\u1ea1ng nguy\u00ean m\u1eabu (have), kh\u00f4ng ph\u1ea3i \"has\"."
     },
     {
@@ -2348,7 +2348,7 @@
             "C. classroom",
             "D. isn't"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "Choose the incorrect word(s) in the following sentences.\n\u2192 Ch\u1ecdn t\u1eeb sai trong c\u00e1c c\u00e2u sau.\nLong and Hoa isn't in the classroom. They are in the art room.\n\nA. They \u2192 h\u1ecd\nB. are \u2192 th\u00ec/l\u00e0/\u1edf\nC. classroom \u2192 l\u1edbp h\u1ecdc\nD. isn't \u2705 \u2192 aren\u2019t\n\nGi\u1ea3i th\u00edch:\nCh\u1ee7 ng\u1eef \"Long and Hoa\" l\u00e0 s\u1ed1 nhi\u1ec1u, n\u00ean \u0111\u1ed9ng t\u1eeb \"to be\" ph\u1ea3i l\u00e0 \"aren't\", kh\u00f4ng ph\u1ea3i \"isn't\"."
     },
     {
@@ -2362,7 +2362,7 @@
             "C. It",
             "D. room"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "Choose the incorrect word(s) in the following sentences.\n\u2192 Ch\u1ecdn t\u1eeb sai trong c\u00e1c c\u00e2u sau. Is the living room big? - No, It is big.\nIs the living room big? - No, It is big.\n\nA. the \u2192 m\u1ea1o t\u1eeb \"the\"\nB. No \u2192 kh\u00f4ng\nC. It \u2705 \u2192 It isn\u2019t\nD. room \u2192 ph\u00f2ng\n\nGi\u1ea3i th\u00edch:\nC\u00e2u ph\u1ee7 \u0111\u1ecbnh \u0111\u00fang ph\u1ea3i l\u00e0 \"No, it isn\u2019t\", kh\u00f4ng th\u1ec3 d\u00f9ng \"No, it is big\" v\u00ec n\u00f3 m\u00e2u thu\u1eabn v\u1edbi c\u00e2u h\u1ecfi."
     },
     {
@@ -2376,7 +2376,7 @@
             "C. A friends",
             "D. A friend"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "Peter and Tony are my ____.\n\u2192 Peter v\u00e0 Tony l\u00e0 ____ c\u1ee7a t\u00f4i.\n\nA. Friend \u2192 b\u1ea1n (s\u1ed1 \u00edt, kh\u00f4ng ph\u00f9 h\u1ee3p)\nB. Friends \u2705 \u2192 nh\u1eefng ng\u01b0\u1eddi b\u1ea1n (s\u1ed1 nhi\u1ec1u, ph\u00f9 h\u1ee3p)\nC. A friends \u2192 sai ng\u1eef ph\u00e1p (kh\u00f4ng th\u1ec3 d\u00f9ng \"a\" v\u1edbi danh t\u1eeb s\u1ed1 nhi\u1ec1u)\nD. A friend \u2192 m\u1ed9t ng\u01b0\u1eddi b\u1ea1n (s\u1ed1 \u00edt, kh\u00f4ng ph\u00f9 h\u1ee3p v\u00ec c\u00f3 hai ng\u01b0\u1eddi)\n\nGi\u1ea3i th\u00edch:\n\"Peter and Tony\" l\u00e0 hai ng\u01b0\u1eddi (s\u1ed1 nhi\u1ec1u), n\u00ean danh t\u1eeb c\u0169ng ph\u1ea3i \u1edf d\u1ea1ng s\u1ed1 nhi\u1ec1u \u2192 \"friends\"."
     },
     {
@@ -2390,7 +2390,7 @@
             "C. White",
             "D. Pink"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Her old car is a ____ Honda.\n\u2192 Chi\u1ebfc xe c\u0169 c\u1ee7a c\u00f4 \u1ea5y l\u00e0 m\u1ed9t chi\u1ebfc Honda ____.\n\nA. Red \u2192 m\u00e0u \u0111\u1ecf\nB. Black \u2192 m\u00e0u \u0111en\nC. White \u2192 m\u00e0u tr\u1eafng\nD. Pink \u2705 \u2192 m\u00e0u h\u1ed3ng"
     },
     {
@@ -2404,7 +2404,7 @@
             "C. How old are you?",
             "D. What colour is it?"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "A: _________ B: - I\u2019m Peter.\n\nA. How are you? \u2192 B\u1ea1n kh\u1ecfe kh\u00f4ng?\nB. What\u2019s your name? \u2192 T\u00ean b\u1ea1n l\u00e0 g\u00ec?\nC. How old are you? \u2192 B\u1ea1n bao nhi\u00eau tu\u1ed5i?\nD. What colour is it? \u2192 N\u00f3 c\u00f3 m\u00e0u g\u00ec?\n\nGi\u1ea3i th\u00edch:\nC\u00e2u h\u1ecfi ph\u00f9 h\u1ee3p nh\u1ea5t v\u1edbi c\u00e2u tr\u1ea3 l\u1eddi \"I\u2019m Peter\" l\u00e0 \"What\u2019s your name?\""
     },
     {
@@ -2418,7 +2418,7 @@
             "C. Which",
             "D. When"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "_____ old are you?\n\nA. How \u2705 \u2192 nh\u01b0 th\u1ebf n\u00e0o\nB. What \u2192 c\u00e1i g\u00ec\nC. Which \u2192 c\u00e1i n\u00e0o\nD. When \u2192 khi n\u00e0o\n\nGi\u1ea3i th\u00edch:\nC\u00e2u h\u1ecfi v\u1ec1 tu\u1ed5i ph\u1ea3i d\u00f9ng \"How old are you?\""
     },
     {
@@ -2432,7 +2432,7 @@
             "C. Bag",
             "D. Class"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "My ____ is Tony.\n\u2192 ____ c\u1ee7a t\u00f4i l\u00e0 Tony.\n\nA. School \u2192 tr\u01b0\u1eddng h\u1ecdc (sai v\u00ec kh\u00f4ng ph\u00f9 h\u1ee3p v\u1edbi ngh\u0129a)\nB. Friend \u2705 \u2192 b\u1ea1n b\u00e8 (\u0111\u00fang v\u00ec Tony l\u00e0 m\u1ed9t ng\u01b0\u1eddi b\u1ea1n)\nC. Bag \u2192 c\u1eb7p s\u00e1ch (sai v\u00ec kh\u00f4ng li\u00ean quan)\nD. Class \u2192 l\u1edbp h\u1ecdc (sai v\u00ec kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\nTony l\u00e0 m\u1ed9t ng\u01b0\u1eddi, n\u00ean ph\u1ea3i d\u00f9ng \"friend\" thay v\u00ec c\u00e1c danh t\u1eeb kh\u00e1c."
     },
     {
@@ -2446,7 +2446,7 @@
             "C. U",
             "D. A"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "How do you sp_ll your name?\n\u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n t\u00ean c\u1ee7a m\u00ecnh nh\u01b0 th\u1ebf n\u00e0o?\n\nA. E \u2705 \u2192 \u0111\u00fang v\u00ec \"spell\" c\u00f3 ngh\u0129a l\u00e0 \u0111\u00e1nh v\u1ea7n\nB. O \u2192 kh\u00f4ng ph\u00f9 h\u1ee3p\nC. U \u2192 kh\u00f4ng ph\u00f9 h\u1ee3p\nD. A  \u2192  kh\u00f4ng ph\u00f9 h\u1ee3p"
     },
     {
@@ -2460,7 +2460,7 @@
             "C. Come",
             "D. Came"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "May I ___ in?\n\u2192 T\u00f4i c\u00f3 th\u1ec3 ___ v\u00e0o kh\u00f4ng?\n\nA. Coming \u2192 \u0111ang \u0111\u1ebfn (sai v\u00ec \"May I\" c\u1ea7n \u0111\u1ed9ng t\u1eeb nguy\u00ean m\u1eabu)\nB. To come \u2192 \u0111\u1ebfn (sai v\u00ec kh\u00f4ng c\u1ea7n \"to\")\nC. Come \u2705 \u2192 \u0111\u1ebfn (\u0111\u00fang v\u00ec \"May I\" + \u0111\u1ed9ng t\u1eeb nguy\u00ean m\u1eabu)\nD. Came \u2192 \u0111\u00e3 \u0111\u1ebfn (sai v\u00ec th\u00ec qu\u00e1 kh\u1ee9)\n\nGi\u1ea3i th\u00edch:\nC\u1ea5u tr\u00fac \u0111\u00fang: \"May I come in?\""
     },
     {
@@ -2474,7 +2474,7 @@
             "C. Chicken",
             "D. Dog"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "That is a ____.\n\u2192 \u0110\u00f3 l\u00e0 m\u1ed9t con ____.\n\nA. Pig \u2192 con heo\nB. Cat \u2192 con m\u00e8o \nC. Chicken \u2192 con g\u00e0\nD. Dog \u2192 con ch\u00f3 "
     },
     {
@@ -2488,7 +2488,7 @@
             "C. E",
             "D. I"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "I s_ng a song.\n\u2192 T\u00f4i \u0111\u00e3 h\u00e1t m\u1ed9t b\u00e0i h\u00e1t.\n\nA. O \u2192 kh\u00f4ng ph\u00f9 h\u1ee3p\nB. A \u2192 kh\u00f4ng ph\u00f9 h\u1ee3p\nC. E \u2192 kh\u00f4ng ph\u00f9 h\u1ee3p\nD. I \u2705 \u2192 \u0111\u00fang v\u00ec \"sing\" c\u00f3 ngh\u0129a l\u00e0 h\u00e1t."
     },
     {
@@ -2502,7 +2502,7 @@
             "C. E",
             "D. U"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "Choose the letter(s) to make a correct word: H_S\n\u2192 Ch\u1ecdn ch\u1eef c\u00e1i \u0111\u1ec3 t\u1ea1o t\u1eeb \u0111\u00fang: H_S\n\nA. O \u2192 HOS (kh\u00f4ng \u0111\u00fang t\u1eeb v\u1ef1ng)\nB. I \u2192 HIS \u2705 (\u0111\u00fang v\u00ec \"his\" c\u00f3 ngh\u0129a l\u00e0 \"c\u1ee7a anh \u1ea5y\")\nC. E \u2192 HES (kh\u00f4ng \u0111\u00fang t\u1eeb v\u1ef1ng)\nD. U \u2192 HUS (kh\u00f4ng \u0111\u00fang t\u1eeb v\u1ef1ng)"
     },
     {
@@ -2516,7 +2516,7 @@
             "C. Don\u2019t",
             "D. Being"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "___ talk in class, boys!\n\u2192 ___ n\u00f3i chuy\u1ec7n trong l\u1edbp, c\u00e1c b\u1ea1n nam!\n\nA. Do \u2192 l\u00e0m (kh\u00f4ng ph\u00f9 h\u1ee3p)\nB. Be \u2192 h\u00e3y (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. Don\u2019t \u2705 \u2192 \u0111\u1eebng (\u0111\u00fang v\u00ec \u0111\u00e2y l\u00e0 c\u00e2u c\u1ea5m)\nD. Being \u2192 \u0111ang l\u00e0 (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\nC\u00e2u \u0111\u00fang l\u00e0 \"Don\u2019t talk in class, boys!\""
     },
     {
@@ -2530,7 +2530,7 @@
             "C. Is \u2013 is",
             "D. Are \u2013 are"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "My pencil case ___ pink and my pencils __ yellow.\n\u2192 H\u1ed9p b\u00fat c\u1ee7a t\u00f4i m\u00e0u h\u1ed3ng v\u00e0 b\u00fat ch\u00ec c\u1ee7a t\u00f4i m\u00e0u v\u00e0ng.\n\nA. Are - is \u2192 sai v\u00ec \"pencil case\" l\u00e0 s\u1ed1 \u00edt\nB. Is \u2013 are \u2705 \u2192 \u0111\u00fang v\u00ec \"pencil case\" (s\u1ed1 \u00edt) \u0111i v\u1edbi \"is\" v\u00e0 \"pencils\" (s\u1ed1 nhi\u1ec1u) \u0111i v\u1edbi \"are\"\nC. Is \u2013 is \u2192 sai v\u00ec \"pencils\" l\u00e0 s\u1ed1 nhi\u1ec1u, kh\u00f4ng th\u1ec3 \u0111i v\u1edbi \"is\"\nD. Are \u2013 are \u2192 sai v\u00ec \"pencil case\" l\u00e0 s\u1ed1 \u00edt, kh\u00f4ng th\u1ec3 d\u00f9ng \"are\""
     },
     {
@@ -2544,7 +2544,7 @@
             "C. No, you can\u2019t.",
             "D. Sorry, sir."
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "Be quiet, boy! \u2013 B: ____\n\u2192 Im l\u1eb7ng n\u00e0o, c\u1eadu b\u00e9! \u2013 B: ____\n\nA. Thank you. \u2192 c\u1ea3m \u01a1n (kh\u00f4ng ph\u00f9 h\u1ee3p)\nB. Yes, please. \u2192 v\u00e2ng, l\u00e0m \u01a1n (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. No, you can\u2019t. \u2192 kh\u00f4ng, b\u1ea1n kh\u00f4ng th\u1ec3 (kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. Sorry, sir. \u2705 \u2192 xin l\u1ed7i th\u1ea7y (\u0111\u00fang v\u00ec \u0111\u00e2y l\u00e0 ph\u1ea3n h\u1ed3i ph\u00f9 h\u1ee3p)"
     },
     {
@@ -2558,7 +2558,7 @@
             "C. Red",
             "D. White"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "Hoa has a green book, a red book, and a ___ book.\n\u2192 Hoa c\u00f3 m\u1ed9t quy\u1ec3n s\u00e1ch m\u00e0u xanh l\u00e1, m\u1ed9t quy\u1ec3n m\u00e0u \u0111\u1ecf v\u00e0 m\u1ed9t quy\u1ec3n m\u00e0u ___.\n\nA. Yellow \u2705 \u2192 v\u00e0ng\nB. Green \u2192 xanh l\u00e1 \nC. Red \u2192 \u0111\u1ecf \nD. White \u2192 tr\u1eafng"
     },
     {
@@ -2572,7 +2572,7 @@
             "C. At",
             "D. Of"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "The pencils are ___ my pencil case.\n\u2192 Nh\u1eefng c\u00e2y b\u00fat ch\u00ec n\u1eb1m ___ h\u1ed9p b\u00fat c\u1ee7a t\u00f4i.\n\nA. In \u2705 \u2192 trong (\u0111\u00fang v\u00ec b\u00fat ch\u00ec n\u1eb1m trong h\u1ed9p)\nB. On \u2192 tr\u00ean (sai v\u00ec kh\u00f4ng h\u1ee3p l\u00fd)\nC. At \u2192 t\u1ea1i (sai v\u00ec kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. Of \u2192 c\u1ee7a (sai v\u1ec1 ng\u1eef ngh\u0129a)"
     },
     {
@@ -2586,7 +2586,7 @@
             "C. He",
             "D. His"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "How do you spell ___ name?\n\u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n t\u00ean c\u1ee7a ___ nh\u01b0 th\u1ebf n\u00e0o?\n\nA. You \u2192 b\u1ea1n (kh\u00f4ng ph\u00f9 h\u1ee3p)\nB. She \u2192 c\u00f4 \u1ea5y (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. He \u2192 anh \u1ea5y (kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. His \u2705 \u2192 c\u1ee7a anh \u1ea5y (\u0111\u00fang v\u00ec c\u1ea7n t\u00ednh t\u1eeb s\u1edf h\u1eefu"
     },
     {
@@ -2600,7 +2600,7 @@
             "C. She",
             "D. I"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "___ friend is Bobby.\n\u2192 ___ b\u1ea1n l\u00e0 Bobby.\n\nA. My \u2705 \u2192 c\u1ee7a t\u00f4i (\u0111\u00fang v\u00ec \"my friend\")\nB. He \u2192 anh \u1ea5y (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. She \u2192 c\u00f4 \u1ea5y (kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. I \u2192 t\u00f4i (kh\u00f4ng ph\u00f9 h\u1ee3p)"
     },
     {
@@ -2614,7 +2614,7 @@
             "C. Are \u2013 they are",
             "D. Are \u2013 they aren\u2019t"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "___ those your parents? \u2013 Yes, _____\n\u2192 ___ kia c\u00f3 ph\u1ea3i l\u00e0 b\u1ed1 m\u1eb9 c\u1ee7a b\u1ea1n kh\u00f4ng? \u2013 V\u00e2ng, ___.\n\nA. Is \u2013 he is \u2192 sai v\u00ec \"parents\" l\u00e0 s\u1ed1 nhi\u1ec1u\nB. Is \u2013 she is \u2192 sai v\u00ec \"parents\" l\u00e0 s\u1ed1 nhi\u1ec1u\nC. Are \u2013 they are \u2705 \u2192 \u0111\u00fang v\u00ec \"parents\" l\u00e0 s\u1ed1 nhi\u1ec1u\nD. Are \u2013 they aren\u2019t \u2192 c\u0169ng c\u00f3 th\u1ec3 \u0111\u00fang n\u1ebfu c\u00e2u tr\u1ea3 l\u1eddi l\u00e0 \"Kh\u00f4ng\""
     },
     {
@@ -2628,7 +2628,7 @@
             "C. How colour",
             "D. What colour"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "____ are they? \u2013 They are black.\n\u2192 ____ ch\u00fang l\u00e0 g\u00ec? \u2013 Ch\u00fang m\u00e0u \u0111en.\n\nA. What \u2192 c\u00e1i g\u00ec (kh\u00f4ng ph\u00f9 h\u1ee3p)\nB. What\u2019s colour \u2192 sai ng\u1eef ph\u00e1p\nC. How colour \u2192 sai ng\u1eef ph\u00e1p\nD. What colour \u2705 \u2192 \u0111\u00fang v\u00ec h\u1ecfi v\u1ec1 m\u00e0u s\u1eafc"
     },
     {
@@ -2642,7 +2642,7 @@
             "C. Is",
             "D. Your"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Choose the incorrect word(s) in the following sentence:\nWhat colour is your school bags?\nA. What \u2192 c\u00e1i g\u00ec (\u0111\u00fang)\nB. Colour \u2192 m\u00e0u s\u1eafc (\u0111\u00fang)\nC. Is \u2705 \u2192 Are (sai v\u00ec \"bags\" l\u00e0 s\u1ed1 nhi\u1ec1u)\nD. Your \u2192 c\u1ee7a b\u1ea1n (\u0111\u00fang)"
     },
     {
@@ -2656,7 +2656,7 @@
             "C. Six",
             "D. Seven"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "___ APPLES\n\u2192 ___ QU\u1ea2 T\u00c1O \n\nA. Four \u2192 4 \nB. Five \u2192 5 \nC. Six \u2705 \u2192 6 \nD. Seven \u2192 7"
     },
     {
@@ -2670,7 +2670,7 @@
             "C. G",
             "D. D"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "Choose the letter(s) to make a correct word: S_ALL\n\u2192 Ch\u1ecdn ch\u1eef c\u00e1i \u0111\u1ec3 t\u1ea1o t\u1eeb \u0111\u00fang: S_ALL\n\nA. M \u2192 SMALL \u2705 (\u0111\u00fang v\u00ec \"small\" c\u00f3 ngh\u0129a l\u00e0 \"nh\u1ecf\")\nB. N \u2192 SNALL (kh\u00f4ng \u0111\u00fang t\u1eeb v\u1ef1ng)\nC. G \u2192 SGALL (kh\u00f4ng \u0111\u00fang t\u1eeb v\u1ef1ng)\nD. D \u2192 SDALL (kh\u00f4ng \u0111\u00fang t\u1eeb v\u1ef1ng)"
     },
     {
@@ -2684,7 +2684,7 @@
             "C. White",
             "D. Blue"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "This is a ___ house.\n\u2192 \u0110\u00e2y l\u00e0 m\u1ed9t ng\u00f4i nh\u00e0 ___.\n\nA. Pink \u2192 h\u1ed3ng\nB. Yellow \u2705 \u2192 v\u00e0ng \nC. White \u2192 tr\u1eafng\nD. Blue \u2192 xanh d\u01b0\u01a1ng"
     },
     {
@@ -2698,7 +2698,7 @@
             "C. How old are you?",
             "D. What colour is it?"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "A: _______ B: I\u2019m ten.\n\u2192 A: _______ B: T\u00f4i 10 tu\u1ed5i.\n\nA. How are you? \u2192 B\u1ea1n kh\u1ecfe kh\u00f4ng? (sai v\u00ec kh\u00f4ng ph\u00f9 h\u1ee3p v\u1edbi c\u00e2u tr\u1ea3 l\u1eddi)\nB. What\u2019s your name? \u2192 T\u00ean b\u1ea1n l\u00e0 g\u00ec? (sai v\u00ec kh\u00f4ng li\u00ean quan \u0111\u1ebfn tu\u1ed5i)\nC. How old are you? \u2705 \u2192 B\u1ea1n bao nhi\u00eau tu\u1ed5i? (\u0111\u00fang v\u00ec ph\u00f9 h\u1ee3p v\u1edbi c\u00e2u tr\u1ea3 l\u1eddi)\nD. What colour is it? \u2192 N\u00f3 m\u00e0u g\u00ec? (sai v\u00ec kh\u00f4ng li\u00ean quan)"
     },
     {
@@ -2712,7 +2712,7 @@
             "C. Draw",
             "D. Meet"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "They ___ pictures in the room.\n\u2192 H\u1ecd ___ tranh trong ph\u00f2ng.\n\nA. Clean \u2192 lau d\u1ecdn (sai v\u00ec kh\u00f4ng ph\u00f9 h\u1ee3p)\nB. Sing \u2192 h\u00e1t (sai v\u00ec kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. Draw \u2705 \u2192 v\u1ebd (\u0111\u00fang v\u00ec \"draw pictures\" ngh\u0129a l\u00e0 \"v\u1ebd tranh\")\nD. Meet \u2192 g\u1eb7p g\u1ee1 (sai v\u00ec kh\u00f4ng ph\u00f9 h\u1ee3p)"
     },
     {
@@ -2726,7 +2726,7 @@
             "C. Yes, it is.",
             "D. Yes, it isn\u2019t."
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Is that a blue pencil case? - ______ (image of a blue pencil case)\n\u2192 \u0110\u00f3 c\u00f3 ph\u1ea3i l\u00e0 m\u1ed9t h\u1ed9p b\u00fat m\u00e0u xanh kh\u00f4ng?\n\nA. Yes, its is. \u2192 sai (vi\u1ebft sai \"its\" thay v\u00ec \"it\u2019s\")\nB. Yes, it\u2019s is. \u2192 sai (d\u01b0 \"is\")\nC. Yes, it is. \u2705 \u2192 \u0111\u00fang (c\u1ea5u tr\u00fac chu\u1ea9n)\nD. Yes, it isn\u2019t. \u2192 sai v\u00ec kh\u00f4ng h\u1ee3p l\u00fd (Yes + kh\u1eb3ng \u0111\u1ecbnh)"
     },
     {
@@ -2740,7 +2740,7 @@
             "C. Yes, you may.",
             "D. Yes, please."
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "May I go out?\n\u2192 T\u00f4i c\u00f3 th\u1ec3 ra ngo\u00e0i kh\u00f4ng?\n\nA. Yes, you can. \u2705 \u2192 \u0111\u00fang\nB. Yes, you do. \u2192 sai v\u00ec kh\u00f4ng ph\u00f9 h\u1ee3p\nC. Yes, you may. \u2705 \u2192 \u0111\u00fang (c\u0169ng c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng \"may\")\nD. Yes, please. \u2192 sai v\u00ec kh\u00f4ng ph\u00f9 h\u1ee3p"
     },
     {
@@ -2754,7 +2754,7 @@
             "C. Bye",
             "D. See you later"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "__, I\u2019m Linda. Nice to meet you.\n\u2192 __, t\u00f4i l\u00e0 Linda. R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n.\n\nA. Hi \u2705 \u2192 \u0111\u00fang\nB. Goodbye \u2192 sai v\u00ec kh\u00f4ng h\u1ee3p ng\u1eef c\u1ea3nh\nC. Bye \u2192 sai v\u00ec kh\u00f4ng h\u1ee3p ng\u1eef c\u1ea3nh\nD. See you later \u2192 sai v\u00ec kh\u00f4ng h\u1ee3p ng\u1eef c\u1ea3nh"
     },
     {
@@ -2768,7 +2768,7 @@
             "C. These are my school bag.",
             "D. Those are my school bag."
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "Choose the correct sentence:\nA. They are my school bags. \u2705 \u2192 \u0111\u00fang (s\u1ed1 nhi\u1ec1u)\nB. They are my school bag. \u2192 sai (s\u1ed1 nhi\u1ec1u nh\u01b0ng danh t\u1eeb l\u00e0 s\u1ed1 \u00edt)\nC. These are my school bag. \u2192 sai v\u00ec \"these\" c\u1ea7n \u0111i v\u1edbi danh t\u1eeb s\u1ed1 nhi\u1ec1u\nD. Those are my school bag. \u2192 sai v\u00ec \"those\" c\u1ea7n \u0111i v\u1edbi danh t\u1eeb s\u1ed1 nhi\u1ec1u"
     },
     {
@@ -2782,7 +2782,7 @@
             "C. Name\u2019re",
             "D. Name are"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "What\u2019s your name? \u2013 My ___ Hoa.\n\u2192 T\u00ean b\u1ea1n l\u00e0 g\u00ec? \u2013 T\u00ean t\u00f4i l\u00e0 Hoa.\n\nA. Name \u2192 sai\nB. Name\u2019s \u2705 \u2192 \u0111\u00fang (r\u00fat g\u1ecdn c\u1ee7a \"name is\")\nC. Name\u2019re \u2192 sai\nD. Name are \u2192 sai"
     },
     {
@@ -2796,7 +2796,7 @@
             "C. Music room",
             "D. Art room"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "We draw pictures in the ____.\n\u2192 Ch\u00fang t\u00f4i v\u1ebd tranh trong ____.\n\nA. Gym \u2192 ph\u00f2ng th\u1ec3 d\u1ee5c (sai)\nB. Computer room \u2192 ph\u00f2ng m\u00e1y t\u00ednh (sai)\nC. Music room \u2192 ph\u00f2ng \u00e2m nh\u1ea1c (sai)\nD. Art room \u2705 \u2192 \u0111\u00fang (ph\u00f2ng m\u1ef9 thu\u1eadt)"
     },
     {
@@ -2810,7 +2810,7 @@
             "C. Is",
             "D. It\u2019s"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "This __ his book.\n\u2192 \u0110\u00e2y __ s\u00e1ch c\u1ee7a anh \u1ea5y.\n\nA. It \u2192 sai\nB. Its \u2192 sai\nC. Is \u2705 \u2192 \u0111\u00fang\nD. It\u2019s \u2192 sai\n\nGi\u1ea3i th\u00edch: \"This is\" l\u00e0 c\u1ea5u tr\u00fac \u0111\u00fang khi ch\u1ec9 \u0111\u1ecbnh m\u1ed9t v\u1eadt."
     },
     {
@@ -2824,7 +2824,7 @@
             "C. Its",
             "D. Am"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "These ___ my backpacks.\n\u2192 Nh\u1eefng c\u00e1i n\u00e0y ___ ba l\u00f4 c\u1ee7a t\u00f4i.\n\nA. Are \u2705 \u2192 \u0111\u00fang\nB. Is \u2192 sai v\u00ec s\u1ed1 nhi\u1ec1u\nC. Its \u2192 sai\nD. Am \u2192 sai\n\nGi\u1ea3i th\u00edch: \"These\" \u0111i v\u1edbi \"are\" v\u00ec \"backpacks\" l\u00e0 danh t\u1eeb s\u1ed1 nhi\u1ec1u."
     },
     {
@@ -2838,7 +2838,7 @@
             "C. I",
             "D. O"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "1. Choose the letter(s) to make a correct word: P_NCIL CASE\n\u2192 Ch\u1ecdn ch\u1eef c\u00e1i \u0111\u1ec3 t\u1ea1o th\u00e0nh t\u1eeb \u0111\u00fang: P_NCIL CASE\n\nA. E \u2192 Kh\u00f4ng ph\u00f9 h\u1ee3p\nB. A \u2192 Kh\u00f4ng ph\u00f9 h\u1ee3p\nC. I \u2705 \u2192 \u0110\u00fang (PENCIL CASE): H\u1ed9p b\u00fat ch\u00ec\nD. O \u2192 Kh\u00f4ng ph\u00f9 h\u1ee3p"
     },
     {
@@ -2852,7 +2852,7 @@
             "C. Who",
             "D. Which"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "___ are you? \u2013 I\u2019m fine.\n\u2192 ___ b\u1ea1n th\u1ebf n\u00e0o? \u2013 T\u00f4i kh\u1ecfe.\n\nA. How old \u2192 B\u1ea1n bao nhi\u00eau tu\u1ed5i? (Kh\u00f4ng ph\u00f9 h\u1ee3p)\nB. How \u2705 \u2192 \u0110\u00fang (How are you?)\nC. Who \u2192 Ai? (Kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. Which \u2192 C\u00e1i n\u00e0o? (Kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch: \"How are you?\" l\u00e0 c\u00e2u ch\u00e0o h\u1ecfi th\u00f4ng d\u1ee5ng."
     },
     {
@@ -2866,7 +2866,7 @@
             "C. Classroom",
             "D. Rulers"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "3. Choose the odd one out:\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i\n\nA. Pencils \u2192 B\u00fat ch\u00ec\nB. Pencil sharpeners \u2192 G\u1ecdt b\u00fat ch\u00ec\nC. Classroom \u2705 \u2192 \u0110\u00fang (ph\u00f2ng h\u1ecdc, kh\u00f4ng ph\u1ea3i \u0111\u1ed3 d\u00f9ng h\u1ecdc t\u1eadp)\nD. Rulers \u2192 Th\u01b0\u1edbc k\u1ebb\n\nGi\u1ea3i th\u00edch: \"Classroom\" l\u00e0 m\u1ed9t \u0111\u1ecba \u0111i\u1ec3m, c\u00f2n c\u00e1c t\u1eeb kh\u00e1c l\u00e0 d\u1ee5ng c\u1ee5 h\u1ecdc t\u1eadp."
     },
     {
@@ -2880,7 +2880,7 @@
             "C. Its",
             "D. It\u2019s"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": " Is this your ruler? \u2013 No, ___ isn\u2019t.\n\u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i th\u01b0\u1edbc k\u1ebb c\u1ee7a b\u1ea1n kh\u00f4ng? \u2013 Kh\u00f4ng, ___ ph\u1ea3i.\n\nA. It \u2705 \u2192 l\u00e0 (\u0111\u00fang v\u00ec \"it\" d\u00f9ng \u0111\u1ec3 thay th\u1ebf danh t\u1eeb s\u1ed1 \u00edt \"ruler\")\nB. That \u2192 c\u00e1i \u0111\u00f3 (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. Its \u2192 c\u1ee7a n\u00f3 (kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. It\u2019s \u2192 n\u00f3 l\u00e0 (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\nC\u00e2u tr\u1ea3 l\u1eddi \u0111\u00fang l\u00e0 \"No, it isn\u2019t.\" v\u00ec \"it\" \u0111\u1ea1i di\u1ec7n cho danh t\u1eeb \"ruler\" \u1edf c\u00e2u h\u1ecfi."
     },
     {
@@ -2894,7 +2894,7 @@
             "C. Thank you.",
             "D. See you later."
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "How old are you? - _____\n\u2192 B\u1ea1n bao nhi\u00eau tu\u1ed5i? - _____\n\nA. I\u2019m eight. \u2705 \u2192 T\u00f4i 8 tu\u1ed5i. (\u0111\u00fang v\u00ec tr\u1ea3 l\u1eddi cho c\u00e2u h\u1ecfi v\u1ec1 tu\u1ed5i)\nB. I\u2019m fine. \u2192 T\u00f4i kh\u1ecfe. (sai v\u00ec kh\u00f4ng li\u00ean quan \u0111\u1ebfn tu\u1ed5i)\nC. Thank you. \u2192 C\u1ea3m \u01a1n b\u1ea1n. (kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. See you later. \u2192 H\u1eb9n g\u1eb7p l\u1ea1i. (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\nC\u00e2u \"How old are you?\" h\u1ecfi v\u1ec1 tu\u1ed5i, n\u00ean c\u00e2u tr\u1ea3 l\u1eddi \u0111\u00fang l\u00e0 \"I\u2019m eight.\""
     },
     {
@@ -2908,7 +2908,7 @@
             "C. Five",
             "D. This"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": " Is your room ___? \u2013 No, it isn\u2019t.\n\u2192 Ph\u00f2ng c\u1ee7a b\u1ea1n c\u00f3 ___ kh\u00f4ng? \u2013 Kh\u00f4ng, n\u00f3 kh\u00f4ng ph\u1ea3i.\n\nA. Large \u2705 \u2192 r\u1ed9ng (\u0111\u00fang v\u00ec ph\u00f9 h\u1ee3p v\u1edbi c\u00e2u h\u1ecfi v\u1ec1 k\u00edch th\u01b0\u1edbc)\nB. That \u2192 c\u00e1i \u0111\u00f3 (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. Five \u2192 s\u1ed1 n\u0103m (kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. This \u2192 c\u00e1i n\u00e0y (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\nC\u00e2u h\u1ecfi h\u1ecfi v\u1ec1 k\u00edch th\u01b0\u1edbc c\u1ee7a ph\u00f2ng, n\u00ean t\u1eeb \u0111\u00fang l\u00e0 \"large\" (r\u1ed9ng)."
     },
     {
@@ -2922,7 +2922,7 @@
             "C. Look",
             "D. Sing"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "They ___ a song in the classroom.\n\u2192 H\u1ecd ___ m\u1ed9t b\u00e0i h\u00e1t trong l\u1edbp.\n\nA. Point \u2192 ch\u1ec9 v\u00e0o (kh\u00f4ng ph\u00f9 h\u1ee3p)\nB. Read \u2192 \u0111\u1ecdc (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. Look \u2192 nh\u00ecn (kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. Sing \u2705 \u2192 h\u00e1t (\u0111\u00fang v\u00ec \"sing a song\" ngh\u0129a l\u00e0 \"h\u00e1t m\u1ed9t b\u00e0i h\u00e1t\")\n\nGi\u1ea3i th\u00edch:\nH\u00e0nh \u0111\u1ed9ng ph\u00f9 h\u1ee3p v\u1edbi \"a song\" l\u00e0 \"sing\" (h\u00e1t)."
     },
     {
@@ -2936,7 +2936,7 @@
             "C. Our",
             "D. Him"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": " Choose the odd one out:\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i\n\nA. My \u2192 c\u1ee7a t\u00f4i\nB. Your \u2192 c\u1ee7a b\u1ea1n\nC. Our \u2192 c\u1ee7a ch\u00fang ta\nD. Him \u2705 \u2192 anh \u1ea5y (sai v\u00ec \u0111\u00e2y l\u00e0 \u0111\u1ea1i t\u1eeb nh\u00e2n x\u01b0ng, c\u00e1c t\u1eeb kh\u00e1c l\u00e0 t\u00ednh t\u1eeb s\u1edf h\u1eefu)\n\nGi\u1ea3i th\u00edch:\n\"My, your, our\" l\u00e0 t\u00ednh t\u1eeb s\u1edf h\u1eefu, c\u00f2n \"him\" l\u00e0 \u0111\u1ea1i t\u1eeb t\u00e2n ng\u1eef."
     },
     {
@@ -2950,7 +2950,7 @@
             "C. These is my pen.",
             "D. This are my pens."
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": " Choose the correct sentence:\n\u2192 Ch\u1ecdn c\u00e2u \u0111\u00fang\n\nA. This is my pens. \u2192 Sai (v\u00ec \"pens\" l\u00e0 s\u1ed1 nhi\u1ec1u, kh\u00f4ng \u0111i v\u1edbi \"this is\")\nB. They are my pens. \u2705 \u2192 \u0110\u00fang (v\u00ec \"they\" d\u00f9ng cho danh t\u1eeb s\u1ed1 nhi\u1ec1u)\nC. These is my pen. \u2192 Sai (v\u00ec \"these\" d\u00f9ng cho s\u1ed1 nhi\u1ec1u nh\u01b0ng \"is\" ch\u1ec9 \u0111i v\u1edbi s\u1ed1 \u00edt)\nD. This are my pens. \u2192 Sai (v\u00ec \"this\" d\u00f9ng cho s\u1ed1 \u00edt, kh\u00f4ng th\u1ec3 \u0111i v\u1edbi \"are\")\n\nGi\u1ea3i th\u00edch:\nC\u00e2u \u0111\u00fang l\u00e0 \"They are my pens.\" v\u00ec ch\u1ee7 ng\u1eef \"they\" ph\u00f9 h\u1ee3p v\u1edbi \u0111\u1ed9ng t\u1eeb \"are\"."
     },
     {
@@ -2964,7 +2964,7 @@
             "C. Le",
             "D. Me"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": " My classroom is lar___.\n\u2192 L\u1edbp h\u1ecdc c\u1ee7a t\u00f4i ___ r\u1ed9ng.\n\nA. Ne \u2192 kh\u00f4ng ph\u00f9 h\u1ee3p\nB. Ge \u2705\u2192 \u0111\u00fang (Large: R\u1ed9ng)\nC. Le \u2705 \u2192 \nD. Me \u2192 kh\u00f4ng ph\u00f9 h\u1ee3p"
     },
     {
@@ -2978,7 +2978,7 @@
             "C. Small",
             "D. Large"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": " Choose the odd one out:\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i\n\nA. Rubber \u2192 c\u1ee5c t\u1ea9y\nB. Big \u2705 \u2192 l\u1edbn (t\u00ednh t\u1eeb, kh\u00f4ng ph\u1ea3i \u0111\u1ed3 v\u1eadt)\nC. Small \u2192 nh\u1ecf (t\u00ednh t\u1eeb)\nD. Large \u2192 r\u1ed9ng (t\u00ednh t\u1eeb)\n\nGi\u1ea3i th\u00edch:\n\"Rubber\" l\u00e0 danh t\u1eeb, c\u00f2n c\u00e1c t\u1eeb kh\u00e1c l\u00e0 t\u00ednh t\u1eeb mi\u00eau t\u1ea3 k\u00edch th\u01b0\u1edbc."
     },
     {
@@ -2992,7 +2992,7 @@
             "C. Pencil case",
             "D. Pencil sharpener"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "Choose the correct answer: What is this? \u2013 It\u2019s a ___\n\u2192 Ch\u1ecdn c\u00e2u tr\u1ea3 l\u1eddi \u0111\u00fang: \u0110\u00e2y l\u00e0 g\u00ec? \u2013 N\u00f3 l\u00e0 m\u1ed9t ___\n\nA. Pen \u2192 b\u00fat m\u1ef1c\nB. Pencil \u2192 b\u00fat ch\u00ec \nC. Pencil case \u2192 h\u1ed9p b\u00fat\nD. Pencil sharpener \u2705 \u2192 g\u1ecdt b\u00fat ch\u00ec"
     },
     {
@@ -3006,7 +3006,7 @@
             "C. School ",
             "D. Keep silent!"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Choose the odd one out:\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i\n\nA. Be quiet! \u2192 im l\u1eb7ng!\nB. Don\u2019t talk! \u2192 \u0111\u1eebng n\u00f3i chuy\u1ec7n!\nC. School \u2705 \u2192 tr\u01b0\u1eddng h\u1ecdc (kh\u00e1c v\u1edbi c\u00e1c c\u00e2u m\u1ec7nh l\u1ec7nh)\nD. Keep silent! \u2192 gi\u1eef im l\u1eb7ng!\n\nGi\u1ea3i th\u00edch:\n\"School\" l\u00e0 danh t\u1eeb, c\u00f2n c\u00e1c t\u1eeb kh\u00e1c l\u00e0 c\u00e2u m\u1ec7nh l\u1ec7nh y\u00eau c\u1ea7u gi\u1eef im l\u1eb7ng."
     },
     {
@@ -3020,7 +3020,7 @@
             "C. Table ",
             "D. Gym"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Choose the odd one out:\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i\n\nA. Computer room \u2192 ph\u00f2ng m\u00e1y t\u00ednh\nB. Music room \u2192 ph\u00f2ng \u00e2m nh\u1ea1c\nC. Table \u2705 \u2192 b\u00e0n (kh\u00f4ng ph\u1ea3i ph\u00f2ng)\nD. Gym \u2192 ph\u00f2ng th\u1ec3 d\u1ee5c\n\nGi\u1ea3i th\u00edch:\nC\u00e1c \u0111\u00e1p \u00e1n A, B, D \u0111\u1ec1u l\u00e0 ph\u00f2ng trong tr\u01b0\u1eddng h\u1ecdc, c\u00f2n \"Table\" l\u00e0 m\u1ed9t \u0111\u1ed3 v\u1eadt, kh\u00f4ng ph\u1ea3i ph\u00f2ng."
     },
     {
@@ -3034,7 +3034,7 @@
             "C. Of",
             "D. In"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": " I\u2019m ___ class 3A.\n\u2192 T\u00f4i \u0111ang h\u1ecdc l\u1edbp 3A.\n\nA. On \u2192 tr\u00ean (kh\u00f4ng ph\u00f9 h\u1ee3p)\nB. At \u2192 t\u1ea1i (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. Of \u2192 c\u1ee7a (kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. In \u2705 \u2192 trong (\u0111\u00fang v\u00ec \"in class\" c\u00f3 ngh\u0129a l\u00e0 \"trong l\u1edbp h\u1ecdc\")\n\nGi\u1ea3i th\u00edch:\nC\u1ee5m t\u1eeb \u0111\u00fang l\u00e0 \"in class\", d\u00f9ng \u0111\u1ec3 n\u00f3i v\u1ec1 l\u1edbp h\u1ecdc."
     },
     {
@@ -3048,7 +3048,7 @@
             "C. It is small.",
             "D. It is big."
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "Choose the correct response: What colour is your pen?\n\u2192 Ch\u1ecdn c\u00e2u tr\u1ea3 l\u1eddi \u0111\u00fang: C\u00e2y b\u00fat c\u1ee7a b\u1ea1n m\u00e0u g\u00ec?\n\nA. It\u2019s blue. \u2705 \u2192 N\u00f3 m\u00e0u xanh. (\u0111\u00fang)\nB. It\u2019s long. \u2192 N\u00f3 d\u00e0i. (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. It is small. \u2192 N\u00f3 nh\u1ecf. (kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. It is big. \u2192 N\u00f3 l\u1edbn. (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\nC\u00e2u h\u1ecfi v\u1ec1 m\u00e0u s\u1eafc c\u1ea7n tr\u1ea3 l\u1eddi b\u1eb1ng m\u00e0u s\u1eafc, n\u00ean \u0111\u00e1p \u00e1n \u0111\u00fang l\u00e0 \"It\u2019s blue.\""
     },
     {
@@ -3062,7 +3062,7 @@
             "C. But",
             "D. In"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "The computer room is small ___ new.\n\u2192 Ph\u00f2ng m\u00e1y t\u00ednh nh\u1ecf nh\u01b0ng m\u1edbi.\n\nA. And \u2192 v\u00e0 (kh\u00f4ng ph\u00f9 h\u1ee3p v\u00ec kh\u00f4ng di\u1ec5n t\u1ea3 s\u1ef1 \u0111\u1ed1i l\u1eadp)\nB. With \u2192 v\u1edbi (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. But \u2705 \u2192 nh\u01b0ng (\u0111\u00fang v\u00ec di\u1ec5n t\u1ea3 s\u1ef1 \u0111\u1ed1i l\u1eadp gi\u1eefa \"small\" v\u00e0 \"new\")\nD. In \u2192 trong (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\nT\u1eeb n\u1ed1i \"but\" \u0111\u01b0\u1ee3c d\u00f9ng \u0111\u1ec3 ch\u1ec9 s\u1ef1 t\u01b0\u01a1ng ph\u1ea3n gi\u1eefa \"small\" (nh\u1ecf) v\u00e0 \"new\" (m\u1edbi)."
     },
     {
@@ -3076,7 +3076,7 @@
             "C. M",
             "D. Z"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "Choose the correct letter to complete the word: NI_E\n\u2192 Ch\u1ecdn ch\u1eef c\u00e1i \u0111\u00fang \u0111\u1ec3 ho\u00e0n th\u00e0nh t\u1eeb: NI_E\n\nA. V \u2192 kh\u00f4ng ph\u00f9 h\u1ee3p\nB. C \u2705 \u2192 NICE (\u0111\u00fang, \"nice\" c\u00f3 ngh\u0129a l\u00e0 t\u1ed1t, \u0111\u1eb9p)\nC. M \u2192 kh\u00f4ng ph\u00f9 h\u1ee3p\nD. Z \u2192 kh\u00f4ng ph\u00f9 h\u1ee3p"
     },
     {
@@ -3090,7 +3090,7 @@
             "C. Family",
             "D. Full"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": " Is your ____ name Le Kim Dong?\n\u2192 T\u00ean ____ c\u1ee7a b\u1ea1n l\u00e0 L\u00ea Kim \u0110\u00f4ng ph\u1ea3i kh\u00f4ng?\n\nA. Middle \u2192 \u0111\u1ec7m (kh\u00f4ng ph\u00f9 h\u1ee3p)\nB. First \u2192 t\u00ean ri\u00eang (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. Family \u2192 h\u1ecd (kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. Full \u2705 \u2192 \u0111\u1ea7y \u0111\u1ee7 (\u0111\u00fang v\u00ec t\u00ean Le Kim Dong l\u00e0 t\u00ean \u0111\u1ea7y \u0111\u1ee7)"
     },
     {
@@ -3104,7 +3104,7 @@
             "C. Answering",
             "D. Saying"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Linda is calling and Emma is ___ the telephone.\n\u2192 Linda \u0111ang g\u1ecdi \u0111i\u1ec7n v\u00e0 Emma \u0111ang ___ \u0111i\u1ec7n tho\u1ea1i.\n\nA. Speaking \u2192 n\u00f3i (kh\u00f4ng ph\u00f9 h\u1ee3p)\nB. Telling \u2192 k\u1ec3 (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. Answering \u2705 \u2192 tr\u1ea3 l\u1eddi (\u0111\u00fang v\u00ec \"answer the telephone\" c\u00f3 ngh\u0129a l\u00e0 b\u1eaft m\u00e1y)\nD. Saying \u2192 n\u00f3i (kh\u00f4ng ph\u00f9 h\u1ee3p)"
     },
     {
@@ -3118,7 +3118,7 @@
             "C. Singer",
             "D. Violin"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": " Choose the odd one out:\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i\n\nA. Piano \u2192 \u0111\u00e0n piano\nB. Guitar \u2192 \u0111\u00e0n guitar\nC. Singer \u2705 \u2192 ca s\u0129 (kh\u00e1c v\u1edbi c\u00e1c nh\u1ea1c c\u1ee5)\nD. Violin \u2192 \u0111\u00e0n violin\n\nGi\u1ea3i th\u00edch:\n\"C\u00e1c \u0111\u00e1p \u00e1n A, B, D \u0111\u1ec1u l\u00e0 nh\u1ea1c c\u1ee5, c\u00f2n \"Singer\" l\u00e0 m\u1ed9t ng\u01b0\u1eddi.\""
     },
     {
@@ -3132,7 +3132,7 @@
             "C. Beautiful",
             "D. Like"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "Red is my ___ colour.\n\u2192 M\u00e0u \u0111\u1ecf l\u00e0 m\u00e0u ___ c\u1ee7a t\u00f4i.\n\nA. Favourite \u2705 \u2192 y\u00eau th\u00edch (\u0111\u00fang)\nB. Interesting \u2192 th\u00fa v\u1ecb (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. Beautiful \u2192 \u0111\u1eb9p (kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. Like \u2192 th\u00edch (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\nC\u1ee5m t\u1eeb \"favourite colour\" c\u00f3 ngh\u0129a l\u00e0 m\u00e0u y\u00eau th\u00edch."
     },
     {
@@ -3146,7 +3146,7 @@
             "C. I\u2019d love to",
             "D. I want"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": " Would you like to play basketball?\n\u2192 B\u1ea1n c\u00f3 mu\u1ed1n ch\u01a1i b\u00f3ng r\u1ed5 kh\u00f4ng?\n\nA. I like \u2192 T\u00f4i th\u00edch (kh\u00f4ng ph\u00f9 h\u1ee3p)\nB. I love it \u2192 T\u00f4i y\u00eau th\u00edch n\u00f3 (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. I\u2019d love to. \u2705 \u2192 T\u00f4i r\u1ea5t mu\u1ed1n. (\u0111\u00fang)\nD. I want \u2192 T\u00f4i mu\u1ed1n (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\nC\u00e2u tr\u1ea3 l\u1eddi l\u1ecbch s\u1ef1 cho l\u1eddi m\u1eddi l\u00e0 \"I\u2019d love to.\""
     },
     {
@@ -3160,7 +3160,7 @@
             "C. Yes, I can.",
             "D. I\u2019m sure"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "Choose the correct response: Excuse me. Can I sit here?\n\u2192 Xin l\u1ed7i, t\u00f4i c\u00f3 th\u1ec3 ng\u1ed3i \u0111\u00e2y kh\u00f4ng?\n\nA. Sure! \u2705 \u2192 Ch\u1eafc ch\u1eafn r\u1ed3i! (\u0111\u00fang)\nB. Here you are! \u2192 \u0110\u00e2y c\u1ee7a b\u1ea1n! (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. Yes, I can. \u2192 C\u00f3, t\u00f4i c\u00f3 th\u1ec3. (kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. I\u2019m sure. \u2192 T\u00f4i ch\u1eafc ch\u1eafn. (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\nC\u00e2u tr\u1ea3 l\u1eddi \u0111\u00fang trong t\u00ecnh hu\u1ed1ng n\u00e0y l\u00e0 \"Sure!\""
     },
     {
@@ -3174,7 +3174,7 @@
             "C. In",
             "D. At"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "I'd like to send this letter ___ China.\n\u2192 T\u00f4i mu\u1ed1n g\u1eedi l\u00e1 th\u01b0 n\u00e0y ___ Trung Qu\u1ed1c.\n\nA. To \u2705 \u2192 \u0111\u1ebfn (\u0111\u00fang)\nB. On \u2192 tr\u00ean (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. In \u2192 trong (kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. At \u2192 t\u1ea1i (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\nC\u1ee5m t\u1eeb \u0111\u00fang l\u00e0 \"send a letter to somewhere\" (g\u1eedi th\u01b0 \u0111\u1ebfn \u0111\u00e2u \u0111\u00f3)."
     },
     {
@@ -3188,7 +3188,7 @@
             "C. Weren\u2019t",
             "D. Not were"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Ann and her brother ___ at home yesterday.\n\u2192 Ann v\u00e0 anh trai c\u00f4 \u1ea5y \u0111\u00e3 ___ \u1edf nh\u00e0 h\u00f4m qua.\n\nA. Didn\u2019t are \u2192 sai (c\u1ea5u tr\u00fac sai)\nB. Wasn\u2019t \u2192 sai (d\u00f9ng cho s\u1ed1 \u00edt)\nC. Weren\u2019t \u2705 \u2192 \u0111\u00fang (d\u00f9ng cho ch\u1ee7 ng\u1eef s\u1ed1 nhi\u1ec1u)\nD. Not were \u2192 sai (c\u1ea5u tr\u00fac sai)\n\nGi\u1ea3i th\u00edch:\nD\u00f9ng \"weren\u2019t\" v\u00ec ch\u1ee7 ng\u1eef l\u00e0 s\u1ed1 nhi\u1ec1u (Ann and her brother)."
     },
     {
@@ -3202,7 +3202,7 @@
             "C. Yesterday",
             "D. Pretty"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "Choose the word that has a different pronunciation:\n\u2192 Ch\u1ecdn t\u1eeb c\u00f3 c\u00e1ch ph\u00e1t \u00e2m kh\u00e1c\n\nA. Wet \u2192 /wet/ (adj) \u01b0\u1edbt\nB. Chess \u2192 /\u02a7es/ (n) c\u1edd vua\nC. Yesterday \u2192 /\u02c8jest\u0259rde\u026a/ (adv) h\u00f4m qua\nD. Pretty \u2705 \u2192 /\u02c8pr\u026ati/ (adj) xinh \u0111\u1eb9p (c\u00f3 ph\u00e1t \u00e2m kh\u00e1c)\n\nGi\u1ea3i th\u00edch:\nT\u1eeb \"Pretty\" c\u00f3 nguy\u00ean \u00e2m /\u026a/, trong khi c\u00e1c t\u1eeb c\u00f2n l\u1ea1i c\u00f3 nguy\u00ean \u00e2m /e/ ho\u1eb7c /\u00e6/."
     },
     {
@@ -3216,7 +3216,7 @@
             "C. Writing",
             "D. Evening"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "Choose the odd one out:\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i\n\nA. Playing \u2192 ch\u01a1i\nB. Learning \u2192 h\u1ecdc\nC. Writing \u2192 vi\u1ebft\nD. Evening \u2705 \u2192 bu\u1ed5i t\u1ed1i (kh\u00f4ng ph\u1ea3i \u0111\u1ed9ng t\u1eeb)\n\nGi\u1ea3i th\u00edch:\nBa \u0111\u00e1p \u00e1n \u0111\u1ea7u l\u00e0 \u0111\u1ed9ng t\u1eeb, c\u00f2n \"Evening\" l\u00e0 danh t\u1eeb ch\u1ec9 th\u1eddi gian."
     },
     {
@@ -3230,7 +3230,7 @@
             "C. See",
             "D. Sees"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "Don't let your brother ___ the present.\n\u2192 \u0110\u1eebng \u0111\u1ec3 anh trai b\u1ea1n ___ m\u00f3n qu\u00e0.\n\nA. To see \u2192 th\u1ea5y (sai v\u00ec sau \"let\" d\u00f9ng \u0111\u1ed9ng t\u1eeb nguy\u00ean m\u1eabu)\nB. Seeing \u2192 nh\u00ecn th\u1ea5y (sai v\u00ec kh\u00f4ng ph\u00f9 h\u1ee3p ng\u1eef ph\u00e1p)\nC. See \u2705 \u2192 nh\u00ecn th\u1ea5y (\u0111\u00fang v\u00ec sau \"let\" ph\u1ea3i l\u00e0 \u0111\u1ed9ng t\u1eeb nguy\u00ean m\u1eabu)\nD. Sees \u2192 nh\u00ecn th\u1ea5y (sai v\u00ec ch\u1ee7 ng\u1eef kh\u00f4ng ph\u1ea3i ng\u00f4i th\u1ee9 ba s\u1ed1 \u00edt)\n\nGi\u1ea3i th\u00edch:\nC\u1ea5u tr\u00fac \"Let + t\u00e2n ng\u1eef + \u0111\u1ed9ng t\u1eeb nguy\u00ean m\u1eabu\" l\u00e0 \u0111\u00fang."
     },
     {
@@ -3244,7 +3244,7 @@
             "C. Sometimes",
             "D. Often"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": " How ___ do you study in the school library? - Every afternoon.\n\u2192 B\u1ea1n h\u1ecdc \u1edf th\u01b0 vi\u1ec7n tr\u01b0\u1eddng ___ th\u1ebf n\u00e0o? - M\u1ed7i bu\u1ed5i chi\u1ec1u.\n\nA. Usually \u2192 th\u01b0\u1eddng xuy\u00ean\nB. Never \u2192 kh\u00f4ng bao gi\u1edd\nC. Sometimes \u2192 th\u1ec9nh tho\u1ea3ng\nD. Often \u2705 \u2192 th\u01b0\u1eddng xuy\u00ean (ph\u00f9 h\u1ee3p v\u1edbi c\u00e2u tr\u1ea3 l\u1eddi \"Every afternoon\")\n\nGi\u1ea3i th\u00edch:\nC\u00e2u h\u1ecfi \"How often?\" d\u00f9ng \u0111\u1ec3 h\u1ecfi v\u1ec1 t\u1ea7n su\u1ea5t c\u1ee7a m\u1ed9t h\u00e0nh \u0111\u1ed9ng."
     },
     {
@@ -3258,7 +3258,7 @@
             "C. At",
             "D. With"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "We are ___ work at the moment.\n\u2192 Ch\u00fang t\u00f4i \u0111ang l\u00e0m vi\u1ec7c v\u00e0o l\u00fac n\u00e0y.\n\nA. On \u2192 tr\u00ean (kh\u00f4ng ph\u00f9 h\u1ee3p)\nB. In \u2192 trong (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. At \u2705 \u2192 t\u1ea1i (\u0111\u00fang v\u00ec \"at work\" c\u00f3 ngh\u0129a l\u00e0 \"\u0111ang l\u00e0m vi\u1ec7c\")\nD. With \u2192 v\u1edbi (kh\u00f4ng ph\u00f9 h\u1ee3p)"
     },
     {
@@ -3272,7 +3272,7 @@
             "C. 2nd and September",
             "D. September 2"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "What is Elena's date of birth?\n\u2192 Ng\u00e0y sinh c\u1ee7a Elena l\u00e0 g\u00ec?\n\nA. September 2nd \u2705 \u2192 ng\u00e0y 2 th\u00e1ng 9 (\u0111\u00fang \u0111\u1ecbnh d\u1ea1ng ng\u00e0y sinh)\nB. September and 2nd \u2192 sai (th\u1eeba \"and\")\nC. 2nd and September \u2192 sai (th\u1ee9 t\u1ef1 sai)\nD. September 2 \u2192 sai (thi\u1ebfu \"nd\")\n\nGi\u1ea3i th\u00edch:\n\u0110\u1ecbnh d\u1ea1ng chu\u1ea9n c\u1ee7a ng\u00e0y sinh l\u00e0 \"Month + Ordinal Number\" (Th\u00e1ng + s\u1ed1 th\u1ee9 t\u1ef1)."
     },
     {
@@ -3286,7 +3286,7 @@
             "C. Cupboards \u2013 are",
             "D. Cupboards \u2013 is"
         ],
-        "correctAnswerIndex": 3.0,
+        "correctAnswerIndex": 3,
         "hint": "How many ____ are there in the room? \u2013 There _______ one cupboard.\n\u2192 C\u00f3 bao nhi\u00eau ____ trong ph\u00f2ng? \u2013 C\u00f3 m\u1ed9t c\u00e1i t\u1ee7.\n\nA. Cupboard - is  \u2192 t\u1ee7 - c\u00f3\nB. Cupboard \u2013 are \u2192 t\u1ee7 - c\u00f3 \nC. Cupboards \u2013 are \u2192 t\u1ee7 - c\u00f3\nD. Cupboards \u2705 \u2013 is \u2192 t\u1ee7 - c\u00f3\n\nGi\u1ea3i th\u00edch:\n\"How many\" d\u00f9ng \u0111\u1ec3 h\u1ecfi s\u1ed1 l\u01b0\u1ee3ng, n\u00ean danh t\u1eeb \u0111i sau ph\u1ea3i \u1edf d\u1ea1ng s\u1ed1 nhi\u1ec1u.\nDo \u0111\u00f3, danh t\u1eeb c\u1ea7n \u0111i\u1ec1n v\u00e0o ch\u1ed7 tr\u1ed1ng l\u00e0 Cupboards (s\u1ed1 nhi\u1ec1u).\n\"There _______ one cupboard.\"\n\"One cupboard\" l\u00e0 danh t\u1eeb s\u1ed1 \u00edt, n\u00ean \u0111\u1ed9ng t\u1eeb ph\u1ea3i l\u00e0 \"is\" (There is one cupboard)."
     },
     {
@@ -3300,7 +3300,7 @@
             "C. LF",
             "D. EV"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "TWE___E\n\u2192 \u0110i\u1ec1n ch\u1eef c\u00e1i \u0111\u00fang v\u00e0o t\u1eeb TWE___E\n\nA. LV \u2705 \u2192 TWELVE (\u0111\u00fang, \"twelve\" l\u00e0 s\u1ed1 12)\nB. L \u2192 kh\u00f4ng ph\u00f9 h\u1ee3p\nC. LF \u2192 kh\u00f4ng ph\u00f9 h\u1ee3p\nD. EV \u2192 kh\u00f4ng ph\u00f9 h\u1ee3p"
     },
     {
@@ -3314,7 +3314,7 @@
             "C. Lion",
             "D. Zebra"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\n\nPh\u00e2n t\u00edch c\u00e1c \u0111\u00e1p \u00e1n:\nA. Tiger \u2192 Con h\u1ed5 (\u0111\u1ed9ng v\u1eadt s\u1ed1ng tr\u00ean c\u1ea1n)\nB. Goldfish \u2705 \u2192 C\u00e1 v\u00e0ng (\u0111\u1ed9ng v\u1eadt s\u1ed1ng d\u01b0\u1edbi n\u01b0\u1edbc)\nC. Lion \u2192 S\u01b0 t\u1eed (\u0111\u1ed9ng v\u1eadt s\u1ed1ng tr\u00ean c\u1ea1n)\nD. Zebra \u2192 Ng\u1ef1a v\u1eb1n (\u0111\u1ed9ng v\u1eadt s\u1ed1ng tr\u00ean c\u1ea1n)"
     },
     {
@@ -3328,7 +3328,7 @@
             "C. Is read",
             "D. Are read"
         ],
-        "correctAnswerIndex": 1.0,
+        "correctAnswerIndex": 1,
         "hint": "My grandmother ______ newspaper in the afternoon.\n\u2192 B\u00e0 t\u00f4i ___ b\u00e1o v\u00e0o bu\u1ed5i chi\u1ec1u.\n\nA. Read \u2192 \u0111\u1ecdc (sai th\u00ec)\nB. Reads \u2705 \u2192 \u0111\u1ecdc (\u0111\u00fang th\u00ec hi\u1ec7n t\u1ea1i \u0111\u01a1n)\nC. Is read \u2192 b\u1ecb \u0111\u1ecdc (sai th\u1ec3 b\u1ecb \u0111\u1ed9ng)\nD. Are read \u2192 b\u1ecb \u0111\u1ecdc (sai th\u00ec v\u00e0 s\u1ed1)\n\nGi\u1ea3i th\u00edch:\nC\u00e2u d\u00f9ng th\u00ec hi\u1ec7n t\u1ea1i \u0111\u01a1n, ch\u1ee7 ng\u1eef s\u1ed1 \u00edt n\u00ean \u0111\u1ed9ng t\u1eeb \"reads\" \u0111\u00fang."
     },
     {
@@ -3342,7 +3342,7 @@
             "C. My sister",
             "D. My son"
         ],
-        "correctAnswerIndex": 2.0,
+        "correctAnswerIndex": 2,
         "hint": "The girl in the photo is _________.\n\u2192 C\u00f4 g\u00e1i trong b\u1ee9c \u1ea3nh l\u00e0 ______.\n\nA. My uncle \u2192 ch\u00fa/b\u00e1c c\u1ee7a t\u00f4i (kh\u00f4ng ph\u00f9 h\u1ee3p)\nB. My brother \u2192 anh trai c\u1ee7a t\u00f4i (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. My sister \u2705 \u2192 ch\u1ecb/em g\u00e1i c\u1ee7a t\u00f4i (\u0111\u00fang)\nD. My son \u2192 con trai c\u1ee7a t\u00f4i (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\nGi\u1ea3i th\u00edch:\n\"Girl\" ch\u1ec9 n\u1eef, n\u00ean \"My sister\" l\u00e0 \u0111\u00fang."
     },
     {
@@ -3356,7 +3356,7 @@
             "C. The afternoon",
             "D. The night"
         ],
-        "correctAnswerIndex": 0.0,
+        "correctAnswerIndex": 0,
         "hint": "You have breakfast in ________.\n\u2192 B\u1ea1n \u0103n s\u00e1ng v\u00e0o ______.\n\nA. The morning \u2705 \u2192 bu\u1ed5i s\u00e1ng (\u0111\u00fang)\nB. The evening \u2192 bu\u1ed5i t\u1ed1i (sai)\nC. The afternoon \u2192 bu\u1ed5i chi\u1ec1u (sai)\nD. The night \u2192 ban \u0111\u00eam (sai)"
     },
     {
@@ -3370,7 +3370,7 @@
             "C. Teddies bears",
             "D. Teddy bears"
         ],
-        "correctAnswerIndex": NaN,
+        "correctAnswerIndex": 0,
         "hint": "I can see two _________ in the picture.\n\u2192 T\u00f4i c\u00f3 th\u1ec3 th\u1ea5y hai __________ trong b\u1ee9c tranh.\n\nA. Teddy bear \u2192 G\u1ea5u b\u00f4ng (sai v\u00ec danh t\u1eeb s\u1ed1 \u00edt)\nB. Teddys bear \u2192 Sai v\u00ec \"teddys\" kh\u00f4ng \u0111\u00fang ng\u1eef ph\u00e1p\nC. Teddies bears \u2192 Sai v\u00ec c\u00f3 c\u1ea3 \"teddies\" (s\u1ed1 nhi\u1ec1u) v\u00e0 \"bears\" (s\u1ed1 nhi\u1ec1u)\nD. Teddy bears \u2705 \u2192 G\u1ea5u b\u00f4ng (\u0111\u00fang v\u00ec \"teddy bear\" \u1edf d\u1ea1ng s\u1ed1 nhi\u1ec1u l\u00e0 \"teddy bears\")"
     },
     {
@@ -3384,7 +3384,7 @@
             "C. Goldfish",
             "D. Kite"
         ],
-        "correctAnswerIndex": NaN,
+        "correctAnswerIndex": 0,
         "hint": "Which word has the underlined part pronounced differently from the letter \u2018I\u2019 in \u201cSHIP\u201d?\n\u2192 T\u1eeb n\u00e0o c\u00f3 ph\u1ea7n g\u1ea1ch ch\u00e2n ph\u00e1t \u00e2m kh\u00e1c v\u1edbi ch\u1eef \"I\" trong t\u1eeb \"SHIP\"?\n\nA. Windy \u2192 /\u02c8w\u026andi/ (gi\u00f3 nhi\u1ec1u) (\u00c2m /\u026a/ gi\u1ed1ng v\u1edbi \u00e2m trong t\u1eeb \"ship\" /\u0283\u026ap/)\nB. Picture \u2192 /\u02c8p\u026akt\u0283\u0259r/ (b\u1ee9c tranh, b\u1ee9c \u1ea3nh) (\u00c2m /\u026a/ gi\u1ed1ng v\u1edbi \u00e2m trong t\u1eeb \"ship\" /\u0283\u026ap/)\nC. Goldfish \u2192 /\u02c8\u0261o\u028aldf\u026a\u0283/ (c\u00e1 v\u00e0ng) (\u00c2m /\u026a/ gi\u1ed1ng v\u1edbi \u00e2m trong t\u1eeb \"ship\" /\u0283\u026ap/)\nD. Kite \u2705 \u2192 /ka\u026at/ (c\u00e1nh di\u1ec1u) (\u00c2m /a\u026a/ l\u00e0 nguy\u00ean \u00e2m \u0111\u00f4i, kh\u00e1c v\u1edbi \u00e2m /\u026a/ trong \"ship\")"
     },
     {
@@ -3398,7 +3398,7 @@
             "C. That",
             "D. Where"
         ],
-        "correctAnswerIndex": NaN,
+        "correctAnswerIndex": 0,
         "hint": "The opposite of HERE is ______.\n\u2192 T\u1eeb tr\u00e1i ngh\u0129a v\u1edbi \"\u1ede \u0110\u00c2Y\" l\u00e0 ______.\n\nA. There \u2705 \u2192 \u1ede \u0111\u00f3 (\u0111\u1ed1i l\u1eadp v\u1edbi \"here\" - \u1edf \u0111\u00e2y)\nB. This \u2192 C\u00e1i n\u00e0y (kh\u00f4ng ph\u1ea3i t\u1eeb tr\u00e1i ngh\u0129a)\nC. That \u2192 C\u00e1i kia (kh\u00f4ng ph\u1ea3i tr\u00e1i ngh\u0129a ho\u00e0n to\u00e0n)\nD. Where \u2192 \u1ede \u0111\u00e2u (kh\u00f4ng ph\u1ea3i t\u1eeb tr\u00e1i ngh\u0129a)"
     },
     {
@@ -3412,7 +3412,7 @@
             "C. TI",
             "D. TE"
         ],
-        "correctAnswerIndex": NaN,
+        "correctAnswerIndex": 0,
         "hint": "EIGH___\n\u2192 \u0110i\u1ec1n ch\u1eef c\u00f2n thi\u1ebfu \u0111\u1ec3 t\u1ea1o th\u00e0nh m\u1ed9t t\u1eeb ho\u00e0n ch\u1ec9nh.\n\nA. TTY \u2192 Kh\u00f4ng t\u1ea1o th\u00e0nh t\u1eeb \u0111\u00fang\nB. TY \u2705 \u2192 EIGHTY (t\u00e1m m\u01b0\u01a1i)\nC. TI \u2192 Kh\u00f4ng t\u1ea1o th\u00e0nh t\u1eeb \u0111\u00fang\nD. TE \u2192 Kh\u00f4ng t\u1ea1o th\u00e0nh t\u1eeb \u0111\u00fang"
     },
     {
@@ -3426,7 +3426,7 @@
             "C. A",
             "D. The"
         ],
-        "correctAnswerIndex": NaN,
+        "correctAnswerIndex": 0,
         "hint": "Is there _______ milk in the bottle?\n\u2192 C\u00f3 _______ s\u1eefa trong chai kh\u00f4ng?\n\nA. Some (m\u1ed9t \u00edt, m\u1ed9t s\u1ed1) \u2192 Th\u01b0\u1eddng d\u00f9ng trong c\u00e2u kh\u1eb3ng \u0111\u1ecbnh.\nB. Any \u2705 (b\u1ea5t k\u1ef3, m\u1ed9t ch\u00fat n\u00e0o \u0111\u00f3) \u2192 D\u00f9ng trong c\u00e2u h\u1ecfi v\u00e0 c\u00e2u ph\u1ee7 \u0111\u1ecbnh.\nC. A (m\u1ed9t, m\u1ed9t c\u00e1i, m\u1ed9t chi\u1ebfc) \u2192 \u274c Milk l\u00e0 danh t\u1eeb kh\u00f4ng \u0111\u1ebfm \u0111\u01b0\u1ee3c, kh\u00f4ng th\u1ec3 d\u00f9ng v\u1edbi \"a\".\nD. The (c\u00e1i, nh\u1eefng, \u0111\u00f3) \u2192 \u274c Kh\u00f4ng ph\u00f9 h\u1ee3p v\u00ec \"milk\" \u1edf \u0111\u00e2y kh\u00f4ng ph\u1ea3i l\u00e0 m\u1ed9t danh t\u1eeb x\u00e1c \u0111\u1ecbnh (kh\u00f4ng n\u00f3i \u0111\u1ebfn lo\u1ea1i s\u1eefa c\u1ee5 th\u1ec3 n\u00e0o)."
     },
     {
@@ -3440,7 +3440,7 @@
             "C. Or",
             "D. But"
         ],
-        "correctAnswerIndex": NaN,
+        "correctAnswerIndex": 0,
         "hint": "There are two boys _____ three girls in the music room.\n\u2192 C\u00f3 hai c\u1eadu b\u00e9 _____ ba c\u00f4 g\u00e1i trong ph\u00f2ng \u00e2m nh\u1ea1c.\n\nA. And \u2705 \u2192 \"V\u00e0\" (ph\u00f9 h\u1ee3p \u0111\u1ec3 n\u1ed1i hai danh t\u1eeb)\nB. With \u2192 \"V\u1edbi\" (kh\u00f4ng ph\u00f9 h\u1ee3p)\nC. Or \u2192 \"Ho\u1eb7c\" (kh\u00f4ng ph\u00f9 h\u1ee3p)\nD. But \u2192 \"Nh\u01b0ng\" (kh\u00f4ng ph\u00f9 h\u1ee3p)"
     },
     {
@@ -3454,7 +3454,7 @@
             "C. Little",
             "D. Much"
         ],
-        "correctAnswerIndex": NaN,
+        "correctAnswerIndex": 0,
         "hint": "The pond is _____ small.\n\u2192 C\u00e1i ao _____ nh\u1ecf.\n\nA. Very \u2705 \u2192 R\u1ea5t (c\u00f3 th\u1ec3 d\u00f9ng v\u1edbi t\u00ednh t\u1eeb \"small\")\nB. Too \u2192 Qu\u00e1 (mang ngh\u0129a ti\u00eau c\u1ef1c, kh\u00f4ng ph\u00f9 h\u1ee3p trong tr\u01b0\u1eddng h\u1ee3p n\u00e0y)\nC. Little \u2192 Nh\u1ecf (t\u00ednh t\u1eeb, nh\u01b0ng kh\u00f4ng ph\u00f9 h\u1ee3p v\u1edbi c\u1ea5u tr\u00fac c\u00e2u n\u00e0y)\nD. Much \u2192 Th\u01b0\u1eddng \u0111i v\u1edbi danh t\u1eeb kh\u00f4ng \u0111\u1ebfm \u0111\u01b0\u1ee3c, kh\u00f4ng ph\u00f9 h\u1ee3p v\u1edbi t\u00ednh t\u1eeb \"small\"."
     },
     {
@@ -3468,7 +3468,7 @@
             "C. TE",
             "D. TI"
         ],
-        "correctAnswerIndex": NaN,
+        "correctAnswerIndex": 0,
         "hint": "PU__ING\n\u2192 \u0110i\u1ec1n ch\u1eef c\u00f2n thi\u1ebfu \u0111\u1ec3 t\u1ea1o th\u00e0nh m\u1ed9t t\u1eeb ho\u00e0n ch\u1ec9nh.\n\nA. T \u2192 Kh\u00f4ng t\u1ea1o th\u00e0nh t\u1eeb \u0111\u00fang\nB. TT \u2705 \u2192 PUTTING (\u0111\u1eb7t, \u0111\u1ec3)\nC. TE \u2192 Kh\u00f4ng t\u1ea1o th\u00e0nh t\u1eeb \u0111\u00fang\nD. TI \u2192 Kh\u00f4ng t\u1ea1o th\u00e0nh t\u1eeb \u0111\u00fang"
     },
     {
@@ -3482,7 +3482,7 @@
             "C. How are weather in Hanoi today?",
             "D. What does the weather like in Hanoi today?"
         ],
-        "correctAnswerIndex": NaN,
+        "correctAnswerIndex": 0,
         "hint": "____-It\u2019s sunny in Hanoi today.\n\u2192 ______ - H\u00f4m nay tr\u1eddi n\u1eafng \u1edf H\u00e0 N\u1ed9i.\n\nA. Is it sunny in Hanoi today? \u2192 \u0110\u00e2y l\u00e0 c\u00e2u h\u1ecfi Yes/No, kh\u00f4ng ph\u00f9 h\u1ee3p v\u1edbi c\u00e2u tr\u1ea3 l\u1eddi.\nB. What\u2019s the weather like in Hanoi today? \u2705 \u2192 \u0110\u00fang v\u00ec h\u1ecfi v\u1ec1 th\u1eddi ti\u1ebft.\nC. How are weather in Hanoi today? \u2192 Sai ng\u1eef ph\u00e1p! \"Weather\" l\u00e0 danh t\u1eeb kh\u00f4ng \u0111\u1ebfm \u0111\u01b0\u1ee3c, n\u00ean kh\u00f4ng d\u00f9ng \"are\"\nD. What does the weather like in Hanoi today? \u2192 Sai v\u00ec c\u1ea5u tr\u00fac sai \"What does\" kh\u00f4ng \u0111i v\u1edbi \"like\"."
     },
     {
@@ -3496,7 +3496,7 @@
             "C. Him",
             "D. I"
         ],
-        "correctAnswerIndex": NaN,
+        "correctAnswerIndex": 0,
         "hint": "Quang and _____ friend are ten years old.\n\u2192 Quang v\u00e0 _____ b\u1ea1n c\u1ee7a c\u1eadu \u1ea5y \u0111\u1ec1u 10 tu\u1ed5i.\n\nA. He (C\u1eadu \u1ea5y) \u2192 Kh\u00f4ng \u0111\u00fang v\u00ec \"He\" l\u00e0 \u0111\u1ea1i t\u1eeb ch\u1ee7 ng\u1eef, kh\u00f4ng th\u1ec3 \u0111\u1ee9ng tr\u01b0\u1edbc danh t\u1eeb \"friend\".\nB. His (C\u1ee7a c\u1eadu \u1ea5y) \u2705 \u2192 \u0110\u00fang v\u00ec \"His\" l\u00e0 t\u00ednh t\u1eeb s\u1edf h\u1eefu, \u0111\u1ee9ng tr\u01b0\u1edbc danh t\u1eeb \"friend\" \u0111\u1ec3 ch\u1ec9 s\u1ef1 s\u1edf h\u1eefu.\nC. Him (C\u1eadu \u1ea5y - t\u00e2n ng\u1eef) \u2192 Sai v\u00ec \"Him\" kh\u00f4ng th\u1ec3 \u0111\u1ee9ng tr\u01b0\u1edbc danh t\u1eeb.\nD. I (T\u00f4i) \u2192 Kh\u00f4ng ph\u00f9 h\u1ee3p v\u1edbi ng\u1eef c\u1ea3nh."
     },
     {
@@ -3510,7 +3510,7 @@
             "C. Her",
             "D. Their"
         ],
-        "correctAnswerIndex": NaN,
+        "correctAnswerIndex": 0,
         "hint": "I have a rabbit. ____ name is Bim.\n\u2192 T\u00f4i c\u00f3 m\u1ed9t con th\u1ecf. ____ t\u00ean l\u00e0 Bim.\n\nA. She (C\u00f4 \u1ea5y) \u2192 \"Rabbit\" l\u00e0 \u0111\u1ed9ng v\u1eadt, kh\u00f4ng d\u00f9ng \"She\" tr\u1eeb khi r\u00f5 gi\u1edbi t\u00ednh.\nB. It (N\u00f3) \u2705 \u2192 D\u00f9ng \"It\" \u0111\u1ec3 ch\u1ec9 \u0111\u1ed9ng v\u1eadt (tr\u1eeb khi ta bi\u1ebft r\u00f5 gi\u1edbi t\u00ednh).\nC. Her (C\u1ee7a c\u00f4 \u1ea5y) \u2192 \"Her\" l\u00e0 t\u00ednh t\u1eeb s\u1edf h\u1eefu nh\u01b0ng kh\u00f4ng ph\u00f9 h\u1ee3p v\u1edbi \"rabbit\".\nD. Their (C\u1ee7a h\u1ecd) \u2192 Kh\u00f4ng ph\u00f9 h\u1ee3p v\u00ec ch\u1ec9 c\u00f3 m\u1ed9t con th\u1ecf"
     },
     {
@@ -3524,7 +3524,7 @@
             "C. Are",
             "D. Does"
         ],
-        "correctAnswerIndex": NaN,
+        "correctAnswerIndex": 0,
         "hint": "Where _____ Phong? \u2013 In the yard.\n\u2192 Phong \u1edf \u0111\u00e2u? \u2013 \u1ede trong s\u00e2n.\n\nPh\u00e2n t\u00edch c\u00e1c \u0111\u00e1p \u00e1n:\nA. Am (T\u00f4i l\u00e0/\u1edf) \u2192 \"Am\" ch\u1ec9 d\u00f9ng v\u1edbi \"I\".\nB. Is (L\u00e0/\u1edf - s\u1ed1 \u00edt) \u2705 \u2192 \"Phong\" l\u00e0 s\u1ed1 \u00edt n\u00ean d\u00f9ng \"Is\".\nC. Are (L\u00e0/\u1edf - s\u1ed1 nhi\u1ec1u) \u2192 Sai v\u00ec \"Phong\" l\u00e0 s\u1ed1 \u00edt.\nD. Does (Tr\u1ee3 \u0111\u1ed9ng t\u1eeb) \u2192 Kh\u00f4ng ph\u00f9 h\u1ee3p trong c\u00e2u h\u1ecfi v\u1ecb tr\u00ed."
     },
     {
@@ -3538,7 +3538,7 @@
             "C. Are there",
             "D. Are their"
         ],
-        "correctAnswerIndex": NaN,
+        "correctAnswerIndex": 0,
         "hint": "How many giraffes _____ in the photo? \u2013 There are 4.\n\u2192 C\u00f3 bao nhi\u00eau con h\u01b0\u01a1u cao c\u1ed5 trong b\u1ee9c \u1ea3nh? \u2013 C\u00f3 4 con.\n\nPh\u00e2n t\u00edch c\u00e1c \u0111\u00e1p \u00e1n:\nA. There is (C\u00f3 \u2013 s\u1ed1 \u00edt) \u2192 Sai v\u00ec \"giraffes\" l\u00e0 s\u1ed1 nhi\u1ec1u.\nB. Is there (C\u00f3 \u2013 s\u1ed1 \u00edt) \u2192 Sai v\u00ec \"giraffes\" l\u00e0 s\u1ed1 nhi\u1ec1u.\nC. Are there (C\u00f3 \u2013 s\u1ed1 nhi\u1ec1u) \u2705 \u2192 \u0110\u00fang v\u00ec \"giraffes\" l\u00e0 s\u1ed1 nhi\u1ec1u.\nD. Are their (Sai ng\u1eef ph\u00e1p) \u2192 \"Their\" kh\u00f4ng li\u00ean quan."
     },
     {
@@ -3552,7 +3552,7 @@
             "C. Window",
             "D. Desk"
         ],
-        "correctAnswerIndex": NaN,
+        "correctAnswerIndex": 0,
         "hint": "Choose the odd one out\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\n\nPh\u00e2n t\u00edch c\u00e1c \u0111\u00e1p \u00e1n:\nA. Chair \u2192 Gh\u1ebf (\u0111\u1ed3 n\u1ed9i th\u1ea5t)\nB. Table \u2192 B\u00e0n (\u0111\u1ed3 n\u1ed9i th\u1ea5t)\nC. Window \u2705 \u2192 C\u1eeda s\u1ed5 (kh\u00f4ng ph\u1ea3i \u0111\u1ed3 n\u1ed9i th\u1ea5t)\nD. Desk \u2192 B\u00e0n l\u00e0m vi\u1ec7c (\u0111\u1ed3 n\u1ed9i th\u1ea5t)"
     },
     {
@@ -3566,7 +3566,7 @@
             "C. Seat",
             "D. Peach"
         ],
-        "correctAnswerIndex": NaN,
+        "correctAnswerIndex": 0,
         "hint": "Which word has the underlined part pronounced differently from the letter \u2018EA\u2019 in \u201cBEACH\u201d?\n\u2192 T\u1eeb n\u00e0o c\u00f3 ph\u1ea7n g\u1ea1ch ch\u00e2n ph\u00e1t \u00e2m kh\u00e1c v\u1edbi ch\u1eef \u2018EA\u2019 trong t\u1eeb \u201cBEACH\u201d (/bi\u02d0\u02a7/)?\n\nPh\u00e2n t\u00edch c\u00e1c \u0111\u00e1p \u00e1n:\nA. Head \u2705 \u2192 /hed/ (ph\u00e1t \u00e2m l\u00e0 /e/, kh\u00e1c v\u1edbi /i\u02d0/ trong \"beach\")\nB. Leave \u2192 /li\u02d0v/ (ph\u00e1t \u00e2m l\u00e0 /i\u02d0/, gi\u1ed1ng \"beach\")\nC. Seat \u2192 /si\u02d0t/ (ph\u00e1t \u00e2m l\u00e0 /i\u02d0/, gi\u1ed1ng \"beach\")\nD. Peach \u2192 /pi\u02d0\u02a7/ (ph\u00e1t \u00e2m l\u00e0 /i\u02d0/, gi\u1ed1ng \"beach\")"
     },
     {
@@ -3580,7 +3580,7 @@
             "C. Likes",
             "D. He likes"
         ],
-        "correctAnswerIndex": NaN,
+        "correctAnswerIndex": 0,
         "hint": "Choose the incorrect word(s) in the following sentence:\nWhat pets does Tom likes? \u2013 He likes parrots.\n\u2192 T\u1eeb n\u00e0o sai trong c\u00e2u sau: \"What pets does Tom likes?\" - \"He likes parrots.\"?\n\nA. Pets \u2192 \u0110\u00fang, v\u00ec \"pets\" ph\u00f9 h\u1ee3p v\u1edbi c\u00e2u h\u1ecfi.\nB. Does \u2192 \u0110\u00fang, v\u00ec tr\u1ee3 \u0111\u1ed9ng t\u1eeb \"does\" \u0111\u01b0\u1ee3c d\u00f9ng cho ng\u00f4i th\u1ee9 ba s\u1ed1 \u00edt.\nC. Likes \u2705 \u2192 Sai, v\u00ec sau \"does\" ta ph\u1ea3i d\u00f9ng \u0111\u1ed9ng t\u1eeb nguy\u00ean th\u1ec3 \"like\" thay v\u00ec \"likes\".\nD. He likes \u2192 \u0110\u00fang, v\u00ec trong c\u00e2u tr\u1ea3 l\u1eddi \"He likes parrots.\", \u0111\u1ed9ng t\u1eeb \"likes\" chia \u0111\u00fang theo ch\u1ee7 ng\u1eef \"He\"."
     },
     {
@@ -3594,7 +3594,7 @@
             "C. Central",
             "D. East"
         ],
-        "correctAnswerIndex": NaN,
+        "correctAnswerIndex": 0,
         "hint": "Kien Giang is in ______ Vietnam.\n\u2192 Ki\u00ean Giang thu\u1ed9c mi\u1ec1n n\u00e0o c\u1ee7a Vi\u1ec7t Nam?\n\nA. North \u2192 Mi\u1ec1n B\u1eafc (sai, v\u00ec Ki\u00ean Giang kh\u00f4ng thu\u1ed9c mi\u1ec1n B\u1eafc).\nB. South \u2705 \u2192 Mi\u1ec1n Nam (\u0111\u00fang, v\u00ec Ki\u00ean Giang n\u1eb1m \u1edf mi\u1ec1n Nam Vi\u1ec7t Nam).\nC. Central \u2192 Mi\u1ec1n Trung (sai, v\u00ec Ki\u00ean Giang kh\u00f4ng thu\u1ed9c mi\u1ec1n Trung).\nD. East \u2192 Mi\u1ec1n \u0110\u00f4ng (sai, v\u00ec Ki\u00ean Giang thu\u1ed9c mi\u1ec1n T\u00e2y Nam B\u1ed9, kh\u00f4ng ph\u1ea3i mi\u1ec1n \u0110\u00f4ng)."
     },
     {
@@ -3608,7 +3608,7 @@
             "C. Photo",
             "D. Door"
         ],
-        "correctAnswerIndex": NaN,
+        "correctAnswerIndex": 0,
         "hint": "Choose the odd one out\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\n\nA. Map \u2192 B\u1ea3n \u0111\u1ed3 (v\u1eadt trang tr\u00ed ho\u1eb7c c\u00f4ng c\u1ee5 ch\u1ec9 \u0111\u01b0\u1eddng).\nB. Poster \u2192 \u00c1p ph\u00edch (v\u1eadt trang tr\u00ed).\nC. Photo \u2192 \u1ea2nh ch\u1ee5p (v\u1eadt trang tr\u00ed).\nD. Door \u2705 \u2192 C\u1eeda ra v\u00e0o (kh\u00f4ng ph\u1ea3i v\u1eadt trang tr\u00ed nh\u01b0 c\u00e1c t\u1eeb kh\u00e1c)."
     },
     {
@@ -3622,7 +3622,7 @@
             "C. Have",
             "D. Has"
         ],
-        "correctAnswerIndex": NaN,
+        "correctAnswerIndex": 0,
         "hint": "____ you have any sisters?\n\u2192 B\u1ea1n c\u00f3 ch\u1ecb/em g\u00e1i n\u00e0o kh\u00f4ng?\n\nA. Do \u2705 \u2192 \u0110\u00fang, d\u00f9ng v\u1edbi \"you\" (ng\u00f4i th\u1ee9 hai).\nB. Does \u2192 Sai, v\u00ec \"does\" d\u00f9ng cho ng\u00f4i th\u1ee9 ba s\u1ed1 \u00edt (he/she/it).\nC. Have \u2192 Sai, v\u00ec c\u1ea7n tr\u1ee3 \u0111\u1ed9ng t\u1eeb \"do\" \u0111i k\u00e8m.\nD. Has \u2192 Sai, v\u00ec \"has\" ch\u1ec9 d\u00f9ng v\u1edbi ng\u00f4i th\u1ee9 ba s\u1ed1 \u00edt, v\u00e0 kh\u00f4ng \u0111i v\u1edbi \"you\"."
     },
     {
@@ -3636,7 +3636,7 @@
             "C. Paper robot",
             "D. Paper plane"
         ],
-        "correctAnswerIndex": NaN,
+        "correctAnswerIndex": 0,
         "hint": "She\u2019s making a _______.\n\u2192 C\u00f4 \u1ea5y \u0111ang l\u00e0m m\u1ed9t c\u00e1i g\u00ec \u0111\u00f3 b\u1eb1ng gi\u1ea5y.\n\nA. Paper flower \u2192 Hoa gi\u1ea5y.\nB. Paper boat \u2192 Thuy\u1ec1n gi\u1ea5y.\nC. Paper robot \u2192 Robot gi\u1ea5y.\nD. Paper plane \u2705 \u2192 M\u00e1y bay gi\u1ea5y."
     },
     {
@@ -3650,8 +3650,8 @@
             "C. Some",
             "D. Any"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 262,
@@ -3664,8 +3664,8 @@
             "C. Has",
             "D. Is have"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 263,
@@ -3678,8 +3678,8 @@
             "C. Kitchen",
             "D. Garden"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 264,
@@ -3692,8 +3692,8 @@
             "C. In the living room",
             "D. In the kitchen"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 265,
@@ -3706,8 +3706,8 @@
             "C. Group",
             "D. Pack"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 266,
@@ -3720,8 +3720,8 @@
             "C. Dogs",
             "D. Horses"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 267,
@@ -3734,8 +3734,8 @@
             "C. Take",
             "D. Want"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 268,
@@ -3748,8 +3748,8 @@
             "C. Very",
             "D. From"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 269,
@@ -3762,8 +3762,8 @@
             "C. Drive",
             "D. Run"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 270,
@@ -3776,8 +3776,8 @@
             "C. Sister",
             "D. Aunt"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 271,
@@ -3790,8 +3790,8 @@
             "C. Where",
             "D. Which"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 272,
@@ -3804,8 +3804,8 @@
             "C. Above",
             "D. Near"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 273,
@@ -3818,8 +3818,8 @@
             "C. Above",
             "D. In front of"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 274,
@@ -3832,8 +3832,8 @@
             "C. Jump",
             "D. Catch"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 275,
@@ -3846,8 +3846,8 @@
             "C. Above",
             "D. Party"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 276,
@@ -3860,8 +3860,8 @@
             "C. to",
             "D. on"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 277,
@@ -3874,8 +3874,8 @@
             "C. He",
             "D. He\u2019s"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 278,
@@ -3888,8 +3888,8 @@
             "C. It\u2019s nice to meet you",
             "D. She is my friend, too"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 279,
@@ -3902,8 +3902,8 @@
             "C. See you",
             "D. Bye"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 280,
@@ -3916,8 +3916,8 @@
             "C. What",
             "D. Which"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 281,
@@ -3930,8 +3930,8 @@
             "C. He",
             "D. He\u2019s"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 282,
@@ -3944,8 +3944,8 @@
             "C. Who",
             "D. Where"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 283,
@@ -3958,8 +3958,8 @@
             "C. Has",
             "D. Am"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 284,
@@ -3972,8 +3972,8 @@
             "C. Under",
             "D. On"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 285,
@@ -3986,8 +3986,8 @@
             "C. Her",
             "D. It"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 286,
@@ -4000,8 +4000,8 @@
             "C. She\u2019s Mary",
             "D. My name is Mary"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 287,
@@ -4014,8 +4014,8 @@
             "C. Is skating",
             "D. Skate"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 288,
@@ -4028,8 +4028,8 @@
             "C. Fine, thanks",
             "D. Sure"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 289,
@@ -4042,8 +4042,8 @@
             "C. This/ it\u2019s",
             "D. These/ they\u2019re"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 290,
@@ -4056,8 +4056,8 @@
             "C. They are my dogs",
             "D. It is Nam"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 291,
@@ -4070,8 +4070,8 @@
             "C. Sing",
             "D. The sing"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 292,
@@ -4084,8 +4084,8 @@
             "C. Sunny",
             "D. Weather"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 293,
@@ -4098,8 +4098,8 @@
             "C. Windy",
             "D. Cloud"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 294,
@@ -4112,8 +4112,8 @@
             "C. This",
             "D. This is"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 295,
@@ -4126,8 +4126,8 @@
             "C. Who is she",
             "D. May I go out"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 296,
@@ -4140,8 +4140,8 @@
             "C. After",
             "D. In"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 297,
@@ -4154,8 +4154,8 @@
             "C. Sit",
             "D. Stand"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 298,
@@ -4168,8 +4168,8 @@
             "C. How",
             "D. When"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 299,
@@ -4182,8 +4182,8 @@
             "C. Yes, they are",
             "D. Yes, we can"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     },
     {
         "id": 300,
@@ -4196,7 +4196,7 @@
             "C. Eight",
             "D. Ten"
         ],
-        "correctAnswerIndex": NaN,
-        "hint": NaN
+        "correctAnswerIndex": 0,
+        "hint": 0
     }
 ]

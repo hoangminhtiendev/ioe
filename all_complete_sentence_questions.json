@@ -10,7 +10,7 @@
     {
         "id": 2,
         "sentence": "We have ______ apples",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/five.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/fiveapples.png",
         "audioUrl": "",
         "answer": "five",
         "hint": "Five \u2192 n\u0103m\nWe have five apples. \u2192 Ch\u00fang t\u00f4i c\u00f3 n\u0103m qu\u1ea3 t\u00e1o.."
@@ -100,7 +100,7 @@
         "sentence": "My son likes playing ______ his free time.",
         "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/basketball.png",
         "audioUrl": "",
-        "answer": "badminton",
+        "answer": "basketball",
         "hint": "In \u2192 trong\nMy son likes playing basketball in his free time. \u2192 Con trai t\u00f4i th\u00edch ch\u01a1i b\u00f3ng r\u1ed5 trong th\u1eddi gian r\u1ea3nh."
     },
     {
@@ -306,7 +306,7 @@
     {
         "id": 39,
         "sentence": "PE_____",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/audioofpeacock.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/peacock.png",
         "audioUrl": "",
         "answer": "ACOCK",
         "hint": "PEACOCK \u2192 con c\u00f4ng"
@@ -1620,7 +1620,7 @@
         "sentence": "Unscramble this word: \u201cERBBRU\u201d \u2192 \u201cRUBB___\u201d.",
         "imageUrl": "",
         "audioUrl": "",
-        "answer": "er",
+        "answer": "ER",
         "hint": "Rubber \u2192 c\u1ee5c t\u1ea9y"
     },
     {
@@ -1628,7 +1628,7 @@
         "sentence": "Unscramble this word: \u201cAERSRE\u201d \u2192 \u201cERAS___\u201d.",
         "imageUrl": "",
         "audioUrl": "",
-        "answer": "er",
+        "answer": "ER",
         "hint": "Eraser \u2192 c\u1ee5c t\u1ea9y"
     },
     {

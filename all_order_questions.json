@@ -352,16 +352,6 @@
     {
         "id": 36,
         "question": [
-            "Is",
-            "your",
-            "school",
-            "big?"
-        ],
-        "hint": "Is your school big? \u2192 Tr\u01b0\u1eddng c\u1ee7a b\u1ea1n c\u00f3 l\u1edbn kh\u00f4ng?"
-    },
-    {
-        "id": 37,
-        "question": [
             "Hello,",
             "my",
             "name\u2019s",
@@ -370,7 +360,7 @@
         "hint": "Hello, my name\u2019s Thu. \u2192 Xin ch\u00e0o, t\u00ean t\u00f4i l\u00e0 Thu."
     },
     {
-        "id": 38,
+        "id": 37,
         "question": [
             "Goodbye.",
             "See",
@@ -380,7 +370,7 @@
         "hint": "Goodbye. See you tomorrow. \u2192 T\u1ea1m bi\u1ec7t. H\u1eb9n g\u1eb7p l\u1ea1i b\u1ea1n ng\u00e0y mai."
     },
     {
-        "id": 39,
+        "id": 38,
         "question": [
             "Jenny",
             "is",
@@ -390,7 +380,7 @@
         "hint": "Jenny is my friend. \u2192 Jenny l\u00e0 b\u1ea1n c\u1ee7a t\u00f4i."
     },
     {
-        "id": 40,
+        "id": 39,
         "question": [
             "Thank",
             "you",
@@ -400,7 +390,7 @@
         "hint": "Thank you very much. \u2192 C\u1ea3m \u01a1n b\u1ea1n r\u1ea5t nhi\u1ec1u."
     },
     {
-        "id": 41,
+        "id": 40,
         "question": [
             "That",
             "is",
@@ -410,7 +400,7 @@
         "hint": "That is my bicycle. \u2192 \u0110\u00f3 l\u00e0 chi\u1ebfc xe \u0111\u1ea1p c\u1ee7a t\u00f4i."
     },
     {
-        "id": 42,
+        "id": 41,
         "question": [
             "Listen",
             "to",
@@ -420,7 +410,7 @@
         "hint": "Listen to your friend. \u2192 Nghe b\u1ea1n c\u1ee7a b\u1ea1n."
     },
     {
-        "id": 43,
+        "id": 42,
         "question": [
             "Please",
             "be",
@@ -430,7 +420,7 @@
         "hint": "Please be quiet, students. \u2192 C\u00e1c em im l\u1eb7ng nh\u00e9."
     },
     {
-        "id": 44,
+        "id": 43,
         "question": [
             "Let\u2019s",
             "make",
@@ -440,7 +430,7 @@
         "hint": "Let\u2019s make a circle. \u2192 H\u00e3y t\u1ea1o th\u00e0nh m\u1ed9t v\u00f2ng tr\u00f2n."
     },
     {
-        "id": 45,
+        "id": 44,
         "question": [
             "Can",
             "you",
@@ -450,17 +440,7 @@
         "hint": "Can you help me? \u2192 B\u1ea1n c\u00f3 th\u1ec3 gi\u00fap t\u00f4i kh\u00f4ng?"
     },
     {
-        "id": 46,
-        "question": [
-            "These",
-            "are",
-            "my",
-            "pens."
-        ],
-        "hint": "These are my pens. \u2192 \u0110\u00e2y l\u00e0 nh\u1eefng c\u00e2y b\u00fat c\u1ee7a t\u00f4i."
-    },
-    {
-        "id": 47,
+        "id": 45,
         "question": [
             "This",
             "is",
@@ -470,7 +450,7 @@
         "hint": "This is my bedroom. \u2192 \u0110\u00e2y l\u00e0 ph\u00f2ng ng\u1ee7 c\u1ee7a t\u00f4i."
     },
     {
-        "id": 48,
+        "id": 46,
         "question": [
             "See",
             "you",
@@ -480,7 +460,7 @@
         "hint": "See you tomorrow, Peter. \u2192 H\u1eb9n g\u1eb7p l\u1ea1i ng\u00e0y mai, Peter."
     },
     {
-        "id": 49,
+        "id": 47,
         "question": [
             "My",
             "classroom",
@@ -490,7 +470,7 @@
         "hint": "My classroom is big. \u2192 L\u1edbp h\u1ecdc c\u1ee7a t\u00f4i l\u1edbn."
     },
     {
-        "id": 50,
+        "id": 48,
         "question": [
             "Is",
             "it",
@@ -500,7 +480,7 @@
         "hint": "Is it a desk? \u2192 N\u00f3 c\u00f3 ph\u1ea3i l\u00e0 c\u00e1i b\u00e0n kh\u00f4ng?"
     },
     {
-        "id": 51,
+        "id": 49,
         "question": [
             "He",
             "is",
@@ -510,7 +490,7 @@
         "hint": "He is my friend, too. \u2192 Anh \u1ea5y c\u0169ng l\u00e0 b\u1ea1n t\u00f4i."
     },
     {
-        "id": 52,
+        "id": 50,
         "question": [
             "Put",
             "your",
@@ -520,7 +500,7 @@
         "hint": "Put your hand down. \u2192 H\u1ea1 tay xu\u1ed1ng."
     },
     {
-        "id": 53,
+        "id": 51,
         "question": [
             "Your",
             "schoolbag",
@@ -530,7 +510,7 @@
         "hint": "Your schoolbag is small. \u2192 C\u1eb7p s\u00e1ch c\u1ee7a b\u1ea1n nh\u1ecf."
     },
     {
-        "id": 54,
+        "id": 52,
         "question": [
             "Raise",
             "your",
@@ -540,7 +520,7 @@
         "hint": "Raise your hand, children. \u2192 C\u00e1c em gi\u01a1 tay l\u00ean."
     },
     {
-        "id": 55,
+        "id": 53,
         "question": [
             "Pick",
             "up",
@@ -550,7 +530,7 @@
         "hint": "Pick up your pencil. \u2192 Nh\u1eb7t b\u00fat ch\u00ec c\u1ee7a b\u1ea1n l\u00ean."
     },
     {
-        "id": 56,
+        "id": 54,
         "question": [
             "What",
             "is",
@@ -560,7 +540,7 @@
         "hint": "What is his name? \u2192 T\u00ean c\u1ee7a anh \u1ea5y l\u00e0 g\u00ec?"
     },
     {
-        "id": 57,
+        "id": 55,
         "question": [
             "My",
             "bag",
@@ -570,7 +550,7 @@
         "hint": "My bag is pink and blue. \u2192 C\u1eb7p s\u00e1ch c\u1ee7a t\u00f4i m\u00e0u h\u1ed3ng v\u00e0 xanh."
     },
     {
-        "id": 58,
+        "id": 56,
         "question": [
             "I\u2019m",
             "seven",
@@ -580,7 +560,7 @@
         "hint": "I\u2019m seven years old. \u2192 T\u00f4i b\u1ea3y tu\u1ed5i."
     },
     {
-        "id": 59,
+        "id": 57,
         "question": [
             "What",
             "color",
@@ -590,7 +570,7 @@
         "hint": "What color are those pens? \u2192 Nh\u1eefng c\u00e2y b\u00fat \u0111\u00f3 m\u00e0u g\u00ec?"
     },
     {
-        "id": 60,
+        "id": 58,
         "question": [
             "This",
             "is",
@@ -600,7 +580,7 @@
         "hint": "This is my brother. \u2192 \u0110\u00e2y l\u00e0 anh trai t\u00f4i."
     },
     {
-        "id": 61,
+        "id": 59,
         "question": [
             "These",
             "are",
@@ -610,7 +590,7 @@
         "hint": "These are my cats. \u2192 \u0110\u00e2y l\u00e0 nh\u1eefng con m\u00e8o c\u1ee7a t\u00f4i."
     },
     {
-        "id": 62,
+        "id": 60,
         "question": [
             "Have",
             "a",
@@ -620,7 +600,7 @@
         "hint": "Have a good day. \u2192 Ch\u00fac b\u1ea1n m\u1ed9t ng\u00e0y t\u1ed1t l\u00e0nh."
     },
     {
-        "id": 63,
+        "id": 61,
         "question": [
             "The",
             "children",
@@ -630,7 +610,7 @@
         "hint": "The children are watching a cartoon. \u2192 C\u00e1c em \u0111ang xem ho\u1ea1t h\u00ecnh."
     },
     {
-        "id": 64,
+        "id": 62,
         "question": [
             "Can you",
             "swim",
@@ -640,7 +620,7 @@
         "hint": "Can you swim or dive? \u2192 B\u1ea1n c\u00f3 th\u1ec3 b\u01a1i hay l\u1eb7n kh\u00f4ng?"
     },
     {
-        "id": 65,
+        "id": 63,
         "question": [
             "This",
             "isn\u2019t",
@@ -650,7 +630,7 @@
         "hint": "This isn\u2019t my pencil case. \u2192 \u0110\u00e2y kh\u00f4ng ph\u1ea3i l\u00e0 h\u1ed9p b\u00fat c\u1ee7a t\u00f4i."
     },
     {
-        "id": 66,
+        "id": 64,
         "question": [
             "Her",
             "birthday",
@@ -660,7 +640,7 @@
         "hint": "Her birthday is next Monday. \u2192 Sinh nh\u1eadt c\u00f4 \u1ea5y v\u00e0o th\u1ee9 Hai t\u1edbi."
     },
     {
-        "id": 67,
+        "id": 65,
         "question": [
             "Do",
             "you go",
@@ -670,17 +650,7 @@
         "hint": "Do you go to the museum? \u2192 B\u1ea1n c\u00f3 \u0111i b\u1ea3o t\u00e0ng kh\u00f4ng?"
     },
     {
-        "id": 68,
-        "question": [
-            "Does",
-            "Jane have",
-            "any",
-            "sisters?"
-        ],
-        "hint": "Does Jane have any sisters? \u2192 Jane c\u00f3 ch\u1ecb em g\u00e1i kh\u00f4ng?"
-    },
-    {
-        "id": 69,
+        "id": 66,
         "question": [
             "This",
             "bag is",
@@ -690,17 +660,7 @@
         "hint": "This bag is very big. \u2192 C\u00e1i t\u00fai n\u00e0y r\u1ea5t l\u1edbn."
     },
     {
-        "id": 70,
-        "question": [
-            "Uncle",
-            "Roger is",
-            "a famous",
-            "footballer."
-        ],
-        "hint": "Uncle Roger is a famous footballer. \u2192 Ch\u00fa Roger l\u00e0 m\u1ed9t c\u1ea7u th\u1ee7 b\u00f3ng \u0111\u00e1 n\u1ed5i ti\u1ebfng."
-    },
-    {
-        "id": 71,
+        "id": 67,
         "question": [
             "Is",
             "your ",
@@ -710,7 +670,7 @@
         "hint": "Is your room big? \u2192 Ph\u00f2ng c\u1ee7a b\u1ea1n c\u00f3 l\u1edbn kh\u00f4ng?"
     },
     {
-        "id": 72,
+        "id": 68,
         "question": [
             "Where",
             "do your",
@@ -720,7 +680,7 @@
         "hint": "Where do your grandparents live? \u2192 \u00d4ng b\u00e0 c\u1ee7a b\u1ea1n s\u1ed1ng \u1edf \u0111\u00e2u?"
     },
     {
-        "id": 73,
+        "id": 69,
         "question": [
             "He",
             "never goes",
@@ -730,7 +690,7 @@
         "hint": "He never goes fishing on Sunday. \u2192 Anh \u1ea5y kh\u00f4ng bao gi\u1edd \u0111i c\u00e2u c\u00e1 v\u00e0o Ch\u1ee7 Nh\u1eadt."
     },
     {
-        "id": 74,
+        "id": 70,
         "question": [
             "What",
             "color is",
@@ -740,7 +700,7 @@
         "hint": "What color is his bike? \u2192 Xe \u0111\u1ea1p c\u1ee7a anh \u1ea5y m\u00e0u g\u00ec?"
     },
     {
-        "id": 75,
+        "id": 71,
         "question": [
             "Nice",
             "to meet",
@@ -750,7 +710,7 @@
         "hint": "Nice to meet you, Anna. \u2192 R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n, Anna."
     },
     {
-        "id": 76,
+        "id": 72,
         "question": [
             "What",
             "do you",
@@ -760,7 +720,7 @@
         "hint": "What do you usually do on weekends? \u2192 B\u1ea1n th\u01b0\u1eddng l\u00e0m g\u00ec v\u00e0o cu\u1ed1i tu\u1ea7n?"
     },
     {
-        "id": 77,
+        "id": 73,
         "question": [
             "The",
             "cat is",
@@ -770,7 +730,7 @@
         "hint": "The cat is sleeping under the sofa. \u2192 Con m\u00e8o \u0111ang ng\u1ee7 d\u01b0\u1edbi gh\u1ebf sofa."
     },
     {
-        "id": 78,
+        "id": 74,
         "question": [
             "What",
             "color is",
@@ -780,7 +740,7 @@
         "hint": "What color is your T-shirt? \u2192 \u00c1o ph\u00f4ng c\u1ee7a b\u1ea1n m\u00e0u g\u00ec?"
     },
     {
-        "id": 79,
+        "id": 75,
         "question": [
             "Is",
             "there any",
@@ -790,7 +750,7 @@
         "hint": "Is there any fence around your house? \u2192 C\u00f3 h\u00e0ng r\u00e0o n\u00e0o quanh nh\u00e0 b\u1ea1n kh\u00f4ng?"
     },
     {
-        "id": 80,
+        "id": 76,
         "question": [
             "What\u2019s",
             "the weather",
@@ -800,7 +760,7 @@
         "hint": "What\u2019s the weather like in Hanoi? \u2192 Th\u1eddi ti\u1ebft \u1edf H\u00e0 N\u1ed9i th\u1ebf n\u00e0o?"
     },
     {
-        "id": 81,
+        "id": 77,
         "question": [
             "Don\u2019t",
             "make too",
@@ -810,27 +770,7 @@
         "hint": "Don\u2019t make too much noise. \u2192 \u0110\u1eebng l\u00e0m \u1ed3n qu\u00e1."
     },
     {
-        "id": 82,
-        "question": [
-            "We",
-            "are walking",
-            "to the",
-            "zoo."
-        ],
-        "hint": "We are walking to the zoo. \u2192 Ch\u00fang t\u00f4i \u0111ang \u0111i b\u1ed9 \u0111\u1ebfn s\u1edf th\u00fa."
-    },
-    {
-        "id": 83,
-        "question": [
-            "Do",
-            "you",
-            "like",
-            "football?"
-        ],
-        "hint": "Do you like football? \u2192 B\u1ea1n c\u00f3 th\u00edch b\u00f3ng \u0111\u00e1 kh\u00f4ng?"
-    },
-    {
-        "id": 84,
+        "id": 78,
         "question": [
             "My",
             "mother is",
@@ -840,7 +780,7 @@
         "hint": "My mother is a nurse. \u2192 M\u1eb9 t\u00f4i l\u00e0 m\u1ed9t y t\u00e1."
     },
     {
-        "id": 85,
+        "id": 79,
         "question": [
             "Let\u2019s",
             "color this",
@@ -850,7 +790,7 @@
         "hint": "Let\u2019s color this picture of our school. \u2192 H\u00e3y t\u00f4 m\u00e0u b\u1ee9c tranh n\u00e0y c\u1ee7a tr\u01b0\u1eddng ch\u00fang ta."
     },
     {
-        "id": 86,
+        "id": 80,
         "question": [
             "I",
             "don\u2019t have",
@@ -860,7 +800,7 @@
         "hint": "I don\u2019t have any sandwiches. \u2192 T\u00f4i kh\u00f4ng c\u00f3 b\u00e1nh m\u00ec k\u1eb9p."
     },
     {
-        "id": 87,
+        "id": 81,
         "question": [
             "How",
             "many rooms",
@@ -870,7 +810,7 @@
         "hint": "How many rooms are there in your house? \u2192 Nh\u00e0 b\u1ea1n c\u00f3 bao nhi\u00eau ph\u00f2ng?"
     },
     {
-        "id": 88,
+        "id": 82,
         "question": [
             "I",
             "don\u2019t know",
@@ -880,7 +820,7 @@
         "hint": "I don\u2019t know his email address. \u2192 T\u00f4i kh\u00f4ng bi\u1ebft \u0111\u1ecba ch\u1ec9 email c\u1ee7a anh \u1ea5y."
     },
     {
-        "id": 89,
+        "id": 83,
         "question": [
             "Where",
             "is ",
@@ -890,7 +830,7 @@
         "hint": "Where is your sister? \u2192 Ch\u1ecb c\u1ee7a b\u1ea1n \u0111\u00e2u?"
     },
     {
-        "id": 90,
+        "id": 84,
         "question": [
             "How",
             "old is",
@@ -900,17 +840,7 @@
         "hint": "How old is your brother? \u2192 Anh trai c\u1ee7a b\u1ea1n bao nhi\u00eau tu\u1ed5i?"
     },
     {
-        "id": 91,
-        "question": [
-            "The",
-            "girl is",
-            "singing an",
-            "English song."
-        ],
-        "hint": "The girl is singing an English song. \u2192 C\u00f4 g\u00e1i \u0111ang h\u00e1t m\u1ed9t b\u00e0i h\u00e1t ti\u1ebfng Anh."
-    },
-    {
-        "id": 92,
+        "id": 85,
         "question": [
             "Where",
             "are ",
@@ -920,17 +850,7 @@
         "hint": "Where are you from? \u2192 B\u1ea1n \u0111\u1ebfn t\u1eeb \u0111\u00e2u?"
     },
     {
-        "id": 93,
-        "question": [
-            "James",
-            "has one",
-            "turtle and",
-            "two goldfish."
-        ],
-        "hint": "James has one turtle and two goldfish. \u2192 James c\u00f3 m\u1ed9t con r\u00f9a v\u00e0 hai con c\u00e1 v\u00e0ng."
-    },
-    {
-        "id": 94,
+        "id": 86,
         "question": [
             "I",
             "don\u2019t have",
@@ -940,7 +860,7 @@
         "hint": "I don\u2019t have Maths on Monday. \u2192 T\u00f4i kh\u00f4ng c\u00f3 m\u00f4n To\u00e1n v\u00e0o th\u1ee9 Hai."
     },
     {
-        "id": 95,
+        "id": 87,
         "question": [
             "What\u2019s",
             "your ",
@@ -950,7 +870,7 @@
         "hint": "What\u2019s your full name? \u2192 T\u00ean \u0111\u1ea7y \u0111\u1ee7 c\u1ee7a b\u1ea1n l\u00e0 g\u00ec?"
     },
     {
-        "id": 96,
+        "id": 88,
         "question": [
             "What",
             "is your",
@@ -960,17 +880,7 @@
         "hint": "What is your brother\u2019s name? \u2192 T\u00ean anh trai c\u1ee7a b\u1ea1n l\u00e0 g\u00ec?"
     },
     {
-        "id": 97,
-        "question": [
-            "Do",
-            "you have",
-            "any dogs",
-            "at home?"
-        ],
-        "hint": "Do you have any dogs at home? \u2192 B\u1ea1n c\u00f3 nu\u00f4i ch\u00f3 \u1edf nh\u00e0 kh\u00f4ng?"
-    },
-    {
-        "id": 98,
+        "id": 89,
         "question": [
             "Don\u2019t",
             "be late",
@@ -980,7 +890,7 @@
         "hint": "Don\u2019t be late for school. \u2192 \u0110\u1eebng \u0111i h\u1ecdc mu\u1ed9n."
     },
     {
-        "id": 99,
+        "id": 90,
         "question": [
             "What",
             "does Amy",
@@ -990,7 +900,7 @@
         "hint": "What does Amy do at break time? \u2192 Amy l\u00e0m g\u00ec trong gi\u1edd ngh\u1ec9?"
     },
     {
-        "id": 100,
+        "id": 91,
         "question": [
             "He\u2019s",
             "washing",
@@ -1000,17 +910,7 @@
         "hint": "He\u2019s washing his car. \u2192 Anh \u1ea5y \u0111ang r\u1eeda xe \u00f4 t\u00f4 "
     },
     {
-        "id": 101,
-        "question": [
-            "What",
-            "are",
-            "you",
-            "doing?"
-        ],
-        "hint": "What are you doing? \u2192 B\u1ea1n \u0111ang l\u00e0m g\u00ec?"
-    },
-    {
-        "id": 102,
+        "id": 92,
         "question": [
             "Let\u2019s",
             "go camping",
@@ -1020,7 +920,7 @@
         "hint": "Let\u2019s go camping this weekend. \u2192 Ch\u00fang ta h\u00e3y \u0111i c\u1eafm tr\u1ea1i cu\u1ed1i tu\u1ea7n n\u00e0y."
     },
     {
-        "id": 103,
+        "id": 93,
         "question": [
             "Does",
             "he go",
@@ -1030,7 +930,7 @@
         "hint": "Does he go to school by bus? \u2192 Anh \u1ea5y c\u00f3 \u0111i h\u1ecdc b\u1eb1ng xe bu\u00fdt kh\u00f4ng?"
     },
     {
-        "id": 104,
+        "id": 94,
         "question": [
             "She is",
             "my",
@@ -1040,17 +940,7 @@
         "hint": "She is my English teacher. \u2192 C\u00f4 \u1ea5y l\u00e0 gi\u00e1o vi\u00ean ti\u1ebfng Anh c\u1ee7a t\u00f4i."
     },
     {
-        "id": 105,
-        "question": [
-            "There",
-            "are twenty",
-            "boys in",
-            "my class."
-        ],
-        "hint": "There are twenty boys in my class. \u2192 L\u1edbp h\u1ecdc c\u1ee7a t\u00f4i c\u00f3 hai m\u01b0\u01a1i b\u1ea1n trai."
-    },
-    {
-        "id": 106,
+        "id": 95,
         "question": [
             "I",
             "don\u2019t like",
@@ -1060,17 +950,7 @@
         "hint": "I don\u2019t like eating tomatoes. \u2192 T\u00f4i kh\u00f4ng th\u00edch \u0103n c\u00e0 chua."
     },
     {
-        "id": 107,
-        "question": [
-            "Minh",
-            "is a",
-            "very good",
-            "student."
-        ],
-        "hint": "Minh is a very good student. \u2192 Minh l\u00e0 m\u1ed9t h\u1ecdc sinh r\u1ea5t gi\u1ecfi."
-    },
-    {
-        "id": 108,
+        "id": 96,
         "question": [
             "My",
             "brother is",
@@ -1080,7 +960,7 @@
         "hint": "My brother is tall and thin. \u2192 Anh trai t\u00f4i cao v\u00e0 g\u1ea7y."
     },
     {
-        "id": 109,
+        "id": 97,
         "question": [
             "This",
             "is my",
@@ -1090,17 +970,7 @@
         "hint": "This is my new ruler. \u2192 \u0110\u00e2y l\u00e0 c\u00e2y th\u01b0\u1edbc m\u1edbi c\u1ee7a t\u00f4i."
     },
     {
-        "id": 110,
-        "question": [
-            "Where",
-            "do",
-            "your",
-            "grandparents live?"
-        ],
-        "hint": "Where do your grandparents live? \u2192 \u00d4ng b\u00e0 c\u1ee7a b\u1ea1n s\u1ed1ng \u1edf \u0111\u00e2u?"
-    },
-    {
-        "id": 111,
+        "id": 98,
         "question": [
             "What",
             "are",
@@ -1110,7 +980,7 @@
         "hint": "What are you doing? \u2192 B\u1ea1n \u0111ang l\u00e0m g\u00ec?"
     },
     {
-        "id": 112,
+        "id": 99,
         "question": [
             "Where",
             "is",
@@ -1120,27 +990,17 @@
         "hint": "Where is your sister? \u2192 Em g\u00e1i c\u1ee7a b\u1ea1n \u1edf \u0111\u00e2u?"
     },
     {
-        "id": 113,
+        "id": 100,
         "question": [
-            "Where",
-            "is",
-            "your",
-            "sister?"
+            "I",
+            "don\u2019t",
+            "have Math",
+            " on Monday."
         ],
-        "hint": "Where is your sister? \u2192 Em g\u00e1i c\u1ee7a b\u1ea1n \u1edf \u0111\u00e2u?"
+        "hint": "I don't have Math on Monday. \u2192T\u00f4i kh\u00f4ng c\u00f3 m\u00f4n To\u00e1n v\u00e0o th\u1ee9 Hai."
     },
     {
-        "id": 114,
-        "question": [
-            "The cat",
-            "is sleeping ",
-            "under",
-            "the sofa."
-        ],
-        "hint": "The cat is sleeping under the sofa. \u2192 Con m\u00e8o \u0111ang ng\u1ee7 d\u01b0\u1edbi gh\u1ebf sofa."
-    },
-    {
-        "id": 115,
+        "id": 101,
         "question": [
             "Let\u2019s say",
             "hello to",
@@ -1150,7 +1010,7 @@
         "hint": "Let\u2019s say hello to our new classmate. \u2192 Ch\u00fang ta h\u00e3y ch\u00e0o b\u1ea1n h\u1ecdc m\u1edbi c\u1ee7a ch\u00fang ta."
     },
     {
-        "id": 116,
+        "id": 102,
         "question": [
             "Is there",
             "a fence",
@@ -1160,17 +1020,7 @@
         "hint": "Is there a fence around your house? \u2192 C\u00f3 h\u00e0ng r\u00e0o quanh nh\u00e0 b\u1ea1n kh\u00f4ng?"
     },
     {
-        "id": 117,
-        "question": [
-            "He ",
-            "never",
-            "goes fishing",
-            " on Sunday."
-        ],
-        "hint": "He never goes fishing on Sunday. \u2192 Anh \u1ea5y kh\u00f4ng bao gi\u1edd \u0111i c\u00e2u c\u00e1 v\u00e0o Ch\u1ee7 Nh\u1eadt."
-    },
-    {
-        "id": 118,
+        "id": 103,
         "question": [
             "My",
             "mother",
@@ -1180,17 +1030,7 @@
         "hint": "My mother is a nurse. \u2192 M\u1eb9 t\u00f4i l\u00e0 y t\u00e1."
     },
     {
-        "id": 119,
-        "question": [
-            "What",
-            "color",
-            "is",
-            "his bike?"
-        ],
-        "hint": "What color is his bike? \u2192 Xe \u0111\u1ea1p c\u1ee7a anh \u1ea5y m\u00e0u g\u00ec?"
-    },
-    {
-        "id": 120,
+        "id": 104,
         "question": [
             "My",
             "English teacher",
@@ -1200,7 +1040,7 @@
         "hint": "My English teacher is standing near the door. \u2192 C\u00f4 gi\u00e1o ti\u1ebfng Anh c\u1ee7a t\u00f4i \u0111ang \u0111\u1ee9ng g\u1ea7n c\u1eeda."
     },
     {
-        "id": 121,
+        "id": 105,
         "question": [
             "The girl",
             "is singing",
@@ -1210,7 +1050,7 @@
         "hint": "The girl is singing an English song. \u2192 C\u00f4 g\u00e1i \u0111ang h\u00e1t m\u1ed9t b\u00e0i h\u00e1t ti\u1ebfng Anh."
     },
     {
-        "id": 122,
+        "id": 106,
         "question": [
             "What\u2019s",
             "the weather",
@@ -1220,7 +1060,7 @@
         "hint": "What\u2019s the weather like in Hanoi? \u2192 Th\u1eddi ti\u1ebft \u1edf H\u00e0 N\u1ed9i nh\u01b0 th\u1ebf n\u00e0o?"
     },
     {
-        "id": 123,
+        "id": 107,
         "question": [
             "Does",
             "Jane",
@@ -1230,7 +1070,7 @@
         "hint": "Does Jane have any sisters? \u2192 Jane c\u00f3 ch\u1ecb em g\u00e1i kh\u00f4ng?"
     },
     {
-        "id": 124,
+        "id": 108,
         "question": [
             "Minh",
             "is a",
@@ -1240,17 +1080,7 @@
         "hint": "Minh is a very good student. \u2192 Minh l\u00e0 m\u1ed9t h\u1ecdc sinh r\u1ea5t gi\u1ecfi."
     },
     {
-        "id": 125,
-        "question": [
-            "I don\u2019t",
-            "know",
-            "his",
-            "email address."
-        ],
-        "hint": "I don\u2019t know his email address. \u2192 T\u00f4i kh\u00f4ng bi\u1ebft \u0111\u1ecba ch\u1ec9 email c\u1ee7a anh \u1ea5y."
-    },
-    {
-        "id": 126,
+        "id": 109,
         "question": [
             "How",
             "old",
@@ -1260,7 +1090,7 @@
         "hint": "How old is your big brother? \u2192 Anh trai l\u1edbn c\u1ee7a b\u1ea1n bao nhi\u00eau tu\u1ed5i?"
     },
     {
-        "id": 127,
+        "id": 110,
         "question": [
             "Don\u2019t",
             "make",
@@ -1270,7 +1100,7 @@
         "hint": "Don\u2019t make too much noise. \u2192 \u0110\u1eebng g\u00e2y \u1ed3n qu\u00e1."
     },
     {
-        "id": 128,
+        "id": 111,
         "question": [
             "Do",
             "you",
@@ -1280,27 +1110,7 @@
         "hint": "Do you like football? \u2192 B\u1ea1n c\u00f3 th\u00edch b\u00f3ng \u0111\u00e1 kh\u00f4ng?"
     },
     {
-        "id": 129,
-        "question": [
-            "Nice",
-            "to",
-            "meet",
-            "you, Anna."
-        ],
-        "hint": "Nice to meet you, Anna. \u2192 R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n, Anna."
-    },
-    {
-        "id": 130,
-        "question": [
-            "I",
-            "don\u2019t",
-            "like eating",
-            "tomatoes."
-        ],
-        "hint": "I don\u2019t like eating tomatoes. \u2192 T\u00f4i kh\u00f4ng th\u00edch \u0103n c\u00e0 chua."
-    },
-    {
-        "id": 131,
+        "id": 112,
         "question": [
             "What does",
             "Amy ",
@@ -1310,7 +1120,7 @@
         "hint": "What does Amy do at break time? \u2192 Amy l\u00e0m g\u00ec v\u00e0o gi\u1edd gi\u1ea3i lao?"
     },
     {
-        "id": 132,
+        "id": 113,
         "question": [
             "Let\u2019s color",
             "this picture",
@@ -1320,7 +1130,7 @@
         "hint": "Let\u2019s color this picture of our school. \u2192 Ch\u00fang ta h\u00e3y t\u00f4 m\u00e0u b\u1ee9c tranh tr\u01b0\u1eddng h\u1ecdc c\u1ee7a ch\u00fang ta."
     },
     {
-        "id": 133,
+        "id": 114,
         "question": [
             "What",
             "do you",
@@ -1330,47 +1140,7 @@
         "hint": "What do you usually do on the weekends? \u2192 B\u1ea1n th\u01b0\u1eddng l\u00e0m g\u00ec v\u00e0o cu\u1ed1i tu\u1ea7n?"
     },
     {
-        "id": 134,
-        "question": [
-            "Does",
-            "he",
-            "go to school",
-            "by bus?"
-        ],
-        "hint": "Does he go to school by bus? \u2192 Anh \u1ea5y c\u00f3 \u0111i h\u1ecdc b\u1eb1ng xe bu\u00fdt kh\u00f4ng?"
-    },
-    {
-        "id": 135,
-        "question": [
-            "How many",
-            "rooms",
-            "are there",
-            "in your house?"
-        ],
-        "hint": "How many rooms are there in your house? \u2192 Nh\u00e0 b\u1ea1n c\u00f3 bao nhi\u00eau ph\u00f2ng?"
-    },
-    {
-        "id": 136,
-        "question": [
-            "Where",
-            "are",
-            "you",
-            "from?"
-        ],
-        "hint": "Where are you from? \u2192 B\u1ea1n \u0111\u1ebfn t\u1eeb \u0111\u00e2u?"
-    },
-    {
-        "id": 137,
-        "question": [
-            "Let\u2019s",
-            "go",
-            "camping",
-            "this weekend."
-        ],
-        "hint": "Let\u2019s go camping this weekend. \u2192 Ch\u00fang ta h\u00e3y \u0111i c\u1eafm tr\u1ea1i cu\u1ed1i tu\u1ea7n n\u00e0y."
-    },
-    {
-        "id": 138,
+        "id": 115,
         "question": [
             "Close",
             "the",
@@ -1380,7 +1150,7 @@
         "hint": "Close the windows, please. \u2192 L\u00e0m \u01a1n \u0111\u00f3ng c\u1eeda s\u1ed5 l\u1ea1i."
     },
     {
-        "id": 139,
+        "id": 116,
         "question": [
             "We",
             "are",
@@ -1390,7 +1160,7 @@
         "hint": "We are walking to the zoo. \u2192 Ch\u00fang t\u00f4i \u0111ang \u0111i b\u1ed9 \u0111\u1ebfn s\u1edf th\u00fa."
     },
     {
-        "id": 140,
+        "id": 117,
         "question": [
             "Do you",
             "go to",
@@ -1400,7 +1170,7 @@
         "hint": "Do you go to the museum after school? \u2192 B\u1ea1n c\u00f3 \u0111i \u0111\u1ebfn b\u1ea3o t\u00e0ng sau gi\u1edd h\u1ecdc kh\u00f4ng?"
     },
     {
-        "id": 141,
+        "id": 118,
         "question": [
             "I",
             "don\u2019t",
@@ -1410,7 +1180,7 @@
         "hint": "I don\u2019t have any sandwiches. \u2192 T\u00f4i kh\u00f4ng c\u00f3 b\u1ea5t k\u1ef3 chi\u1ebfc b\u00e1nh m\u00ec k\u1eb9p n\u00e0o."
     },
     {
-        "id": 142,
+        "id": 119,
         "question": [
             "Her",
             "birthday",
@@ -1420,7 +1190,7 @@
         "hint": "Her birthday is next Monday. \u2192 Sinh nh\u1eadt c\u00f4 \u1ea5y l\u00e0 v\u00e0o th\u1ee9 Hai tu\u1ea7n sau."
     },
     {
-        "id": 143,
+        "id": 120,
         "question": [
             "This is",
             "a",
@@ -1430,17 +1200,7 @@
         "hint": "\"This is a very big bag.\" \u2192 \u0110\u00e2y l\u00e0 m\u1ed9t chi\u1ebfc t\u00fai r\u1ea5t l\u1edbn."
     },
     {
-        "id": 144,
-        "question": [
-            "This",
-            "is",
-            "my",
-            "new ruler."
-        ],
-        "hint": "This is my new ruler. \u2192 \u0110\u00e2y l\u00e0 c\u00e2y th\u01b0\u1edbc m\u1edbi c\u1ee7a t\u00f4i."
-    },
-    {
-        "id": 145,
+        "id": 121,
         "question": [
             "It",
             "isn\u2019t",
@@ -1450,7 +1210,7 @@
         "hint": "It isn\u2019t my pencil case. \u2192 N\u00f3 kh\u00f4ng ph\u1ea3i l\u00e0 h\u1ed9p b\u00fat c\u1ee7a t\u00f4i."
     },
     {
-        "id": 146,
+        "id": 122,
         "question": [
             "What",
             "color",
@@ -1460,7 +1220,7 @@
         "hint": "What color is your T-shirt? \u2192 \u00c1o thun c\u1ee7a b\u1ea1n m\u00e0u g\u00ec?"
     },
     {
-        "id": 147,
+        "id": 123,
         "question": [
             "Can",
             "you",
@@ -1470,7 +1230,7 @@
         "hint": "Can you swim or dive? \u2192 B\u1ea1n c\u00f3 th\u1ec3 b\u01a1i ho\u1eb7c l\u1eb7n kh\u00f4ng?"
     },
     {
-        "id": 148,
+        "id": 124,
         "question": [
             "The children",
             "are watching",
@@ -1480,7 +1240,7 @@
         "hint": "The children are watching a cartoon now. \u2192 Nh\u1eefng \u0111\u1ee9a tr\u1ebb \u0111ang xem ho\u1ea1t h\u00ecnh b\u00e2y gi\u1edd."
     },
     {
-        "id": 149,
+        "id": 125,
         "question": [
             "Do you",
             "have",
@@ -1490,7 +1250,7 @@
         "hint": "Do you have any dogs at home? \u2192 B\u1ea1n c\u00f3 nu\u00f4i ch\u00f3 \u1edf nh\u00e0 kh\u00f4ng?"
     },
     {
-        "id": 150,
+        "id": 126,
         "question": [
             "Uncle Roger",
             "is a",
@@ -1500,7 +1260,7 @@
         "hint": "Uncle Roger is a famous footballer. \u2192 Ch\u00fa Roger l\u00e0 m\u1ed9t c\u1ea7u th\u1ee7 b\u00f3ng \u0111\u00e1 n\u1ed5i ti\u1ebfng."
     },
     {
-        "id": 151,
+        "id": 127,
         "question": [
             "James has",
             "one turtle",
@@ -1510,7 +1270,7 @@
         "hint": "James has one turtle and two goldfish. \u2192 James c\u00f3 m\u1ed9t con r\u00f9a v\u00e0 hai con c\u00e1 v\u00e0ng."
     },
     {
-        "id": 152,
+        "id": 128,
         "question": [
             "What\u2019s",
             "your",
@@ -1520,7 +1280,7 @@
         "hint": "What\u2019s your brother\u2019s name? \u2192 T\u00ean anh trai c\u1ee7a b\u1ea1n l\u00e0 g\u00ec?"
     },
     {
-        "id": 153,
+        "id": 129,
         "question": [
             "There are",
             "twenty",
@@ -1530,7 +1290,7 @@
         "hint": "There are twenty boys in my class. \u2192 L\u1edbp h\u1ecdc c\u1ee7a t\u00f4i c\u00f3 hai m\u01b0\u01a1i b\u1ea1n trai."
     },
     {
-        "id": 154,
+        "id": 130,
         "question": [
             "Both my father",
             "and my mother",
@@ -1540,7 +1300,7 @@
         "hint": "Both my father and my mother are forty years old. \u2192 C\u1ea3 ba m\u1eb9 t\u00f4i \u0111\u1ec1u 40 tu\u1ed5i."
     },
     {
-        "id": 155,
+        "id": 131,
         "question": [
             "Don\u2019t",
             "be",
@@ -1550,7 +1310,7 @@
         "hint": "Don\u2019t be late for school. \u2192 \u0110\u1eebng \u0111\u1ebfn tr\u01b0\u1eddng mu\u1ed9n."
     },
     {
-        "id": 156,
+        "id": 132,
         "question": [
             "This",
             "is",
@@ -1560,7 +1320,7 @@
         "hint": "This is Tim and Jane. \u2192 \u0110\u00e2y l\u00e0 Tim v\u00e0 Jane."
     },
     {
-        "id": 157,
+        "id": 133,
         "question": [
             "This",
             "is",
@@ -1570,7 +1330,7 @@
         "hint": "This is a doll. \u2192 \u0110\u00e2y l\u00e0 m\u1ed9t con b\u00fap b\u00ea."
     },
     {
-        "id": 158,
+        "id": 134,
         "question": [
             "Peter and",
             "Mary",
@@ -1580,7 +1340,7 @@
         "hint": "Peter and Mary are at the school gate. \u2192 Peter v\u00e0 Mary \u0111ang \u1edf c\u1ed5ng tr\u01b0\u1eddng."
     },
     {
-        "id": 159,
+        "id": 135,
         "question": [
             "This",
             "is",
@@ -1590,7 +1350,7 @@
         "hint": "This is my teddy bear. \u2192 \u0110\u00e2y l\u00e0 g\u1ea5u b\u00f4ng c\u1ee7a t\u00f4i."
     },
     {
-        "id": 160,
+        "id": 136,
         "question": [
             "I",
             "am",
@@ -1600,7 +1360,7 @@
         "hint": "I am hungry now. \u2192 T\u00f4i \u0111ang \u0111\u00f3i."
     },
     {
-        "id": 161,
+        "id": 137,
         "question": [
             "It",
             "is",
@@ -1610,7 +1370,7 @@
         "hint": "It is a chair. \u2192 N\u00f3 l\u00e0 m\u1ed9t chi\u1ebfc gh\u1ebf."
     },
     {
-        "id": 162,
+        "id": 138,
         "question": [
             "This",
             "is",
@@ -1620,7 +1380,7 @@
         "hint": "This is my book. \u2192 \u0110\u00e2y l\u00e0 cu\u1ed1n s\u00e1ch c\u1ee7a t\u00f4i."
     },
     {
-        "id": 163,
+        "id": 139,
         "question": [
             "What",
             "is",
@@ -1630,7 +1390,7 @@
         "hint": "What is your name? \u2192 T\u00ean b\u1ea1n l\u00e0 g\u00ec?"
     },
     {
-        "id": 164,
+        "id": 140,
         "question": [
             "What\u2019s",
             "your",
@@ -1640,7 +1400,7 @@
         "hint": "What\u2019s your friend\u2019s name? \u2192 T\u00ean b\u1ea1n c\u1ee7a b\u1ea1n l\u00e0 g\u00ec?"
     },
     {
-        "id": 165,
+        "id": 141,
         "question": [
             "Peter",
             "wants",
@@ -1650,7 +1410,7 @@
         "hint": "Peter wants some food. \u2192 Peter mu\u1ed1n \u0103n g\u00ec \u0111\u00f3."
     },
     {
-        "id": 166,
+        "id": 142,
         "question": [
             "My brother",
             "doesn\u2019t",
@@ -1660,7 +1420,7 @@
         "hint": "My brother doesn\u2019t like cats. \u2192 Anh trai t\u00f4i kh\u00f4ng th\u00edch m\u00e8o."
     },
     {
-        "id": 167,
+        "id": 143,
         "question": [
             "Bye.",
             "See",
@@ -1670,7 +1430,7 @@
         "hint": "Bye. See you tomorrow! \u2192 T\u1ea1m bi\u1ec7t. H\u1eb9n g\u1eb7p l\u1ea1i ng\u00e0y mai!"
     },
     {
-        "id": 168,
+        "id": 144,
         "question": [
             "Write",
             "a",
@@ -1680,17 +1440,17 @@
         "hint": "Write a postcard to a pen friend. \u2192 Vi\u1ebft m\u1ed9t b\u01b0u thi\u1ebfp cho b\u1ea1n th\u01b0."
     },
     {
-        "id": 169,
+        "id": 145,
         "question": [
-            "Let\u2019s",
+            "Let",
+            "us",
             "learn",
-            "English",
-            "."
+            "English"
         ],
         "hint": "Let\u2019s learn English. \u2192 Ch\u00fang ta h\u00e3y h\u1ecdc ti\u1ebfng Anh."
     },
     {
-        "id": 170,
+        "id": 146,
         "question": [
             "Complete",
             "the",
@@ -1700,17 +1460,17 @@
         "hint": "Complete the crossword puzzle. \u2192 Ho\u00e0n th\u00e0nh \u00f4 ch\u1eef."
     },
     {
-        "id": 171,
+        "id": 147,
         "question": [
             "Good",
             "morning,",
             "teacher",
-            "."
+            "!"
         ],
         "hint": "Good morning, teacher. \u2192 Ch\u00e0o bu\u1ed5i s\u00e1ng, th\u1ea7y c\u00f4."
     },
     {
-        "id": 172,
+        "id": 148,
         "question": [
             "This",
             "is",
@@ -1720,7 +1480,7 @@
         "hint": "This is a purple bag. \u2192 \u0110\u00e2y l\u00e0 m\u1ed9t chi\u1ebfc t\u00fai m\u00e0u t\u00edm."
     },
     {
-        "id": 173,
+        "id": 149,
         "question": [
             "May",
             "I",
@@ -1730,7 +1490,7 @@
         "hint": "May I go out? \u2192 T\u00f4i c\u00f3 th\u1ec3 ra ngo\u00e0i kh\u00f4ng?"
     },
     {
-        "id": 174,
+        "id": 150,
         "question": [
             "I have",
             "a book",
@@ -1740,7 +1500,7 @@
         "hint": "I have a book in my bag. \u2192 T\u00f4i c\u00f3 m\u1ed9t cu\u1ed1n s\u00e1ch trong t\u00fai."
     },
     {
-        "id": 175,
+        "id": 151,
         "question": [
             "My",
             "name",
@@ -1750,7 +1510,7 @@
         "hint": "My name is Li Li. \u2192 T\u00ean t\u00f4i l\u00e0 Li Li."
     },
     {
-        "id": 176,
+        "id": 152,
         "question": [
             "It is",
             "a",
@@ -1760,7 +1520,7 @@
         "hint": "It is a blue book. \u2192 \u0110\u00e2y l\u00e0 m\u1ed9t cu\u1ed1n s\u00e1ch m\u00e0u xanh."
     },
     {
-        "id": 177,
+        "id": 153,
         "question": [
             "It",
             "is",
@@ -1770,7 +1530,7 @@
         "hint": "It is a bag. \u2192 N\u00f3 l\u00e0 m\u1ed9t chi\u1ebfc t\u00fai."
     },
     {
-        "id": 178,
+        "id": 154,
         "question": [
             "This",
             "is",
@@ -1780,7 +1540,7 @@
         "hint": "This is a red apple. \u2192 \u0110\u00e2y l\u00e0 m\u1ed9t qu\u1ea3 t\u00e1o \u0111\u1ecf."
     },
     {
-        "id": 179,
+        "id": 155,
         "question": [
             "We",
             "want",
@@ -1790,7 +1550,7 @@
         "hint": "We want some water. \u2192 Ch\u00fang t\u00f4i mu\u1ed1n m\u1ed9t \u00edt n\u01b0\u1edbc."
     },
     {
-        "id": 180,
+        "id": 156,
         "question": [
             "Is",
             "that",
@@ -1800,17 +1560,17 @@
         "hint": "Is that your book? \u2192 \u0110\u00f3 c\u00f3 ph\u1ea3i cu\u1ed1n s\u00e1ch c\u1ee7a b\u1ea1n kh\u00f4ng?"
     },
     {
-        "id": 181,
+        "id": 157,
         "question": [
             "What",
             "is",
             "this?",
-            ""
+            "Mai"
         ],
         "hint": "What is this? \u2192 \u0110\u00e2y l\u00e0 c\u00e1i g\u00ec?"
     },
     {
-        "id": 182,
+        "id": 158,
         "question": [
             "Look at",
             "that",
@@ -1820,7 +1580,7 @@
         "hint": "Look at that green pen. \u2192 Nh\u00ecn c\u00e2y b\u00fat m\u1ef1c xanh l\u00e1 kia."
     },
     {
-        "id": 183,
+        "id": 159,
         "question": [
             "Put",
             "away",
@@ -1830,7 +1590,7 @@
         "hint": "Put away your book. \u2192 C\u1ea5t cu\u1ed1n s\u00e1ch c\u1ee7a b\u1ea1n \u0111i."
     },
     {
-        "id": 184,
+        "id": 160,
         "question": [
             "Please",
             "repeat",
@@ -1840,7 +1600,7 @@
         "hint": "Please repeat after me. \u2192 L\u00e0m \u01a1n l\u1eb7p l\u1ea1i sau t\u00f4i."
     },
     {
-        "id": 185,
+        "id": 161,
         "question": [
             "Look",
             "at",
@@ -1850,7 +1610,7 @@
         "hint": "Look at the board. \u2192 Nh\u00ecn v\u00e0o b\u1ea3ng."
     },
     {
-        "id": 186,
+        "id": 162,
         "question": [
             "Hi,",
             "Mary.",
@@ -1860,7 +1620,7 @@
         "hint": "Hi, Mary. How are you? \u2192 Ch\u00e0o Mary. B\u1ea1n kh\u1ecfe kh\u00f4ng?"
     },
     {
-        "id": 187,
+        "id": 163,
         "question": [
             "I",
             "am",
@@ -1870,7 +1630,7 @@
         "hint": "I am fine, thank you. \u2192 T\u00f4i kh\u1ecfe, c\u1ea3m \u01a1n b\u1ea1n."
     },
     {
-        "id": 188,
+        "id": 164,
         "question": [
             "Clean",
             "your",
@@ -1880,7 +1640,7 @@
         "hint": "Clean your teeth, please. \u2192 L\u00e0m \u01a1n \u0111\u00e1nh r\u0103ng \u0111i."
     },
     {
-        "id": 189,
+        "id": 165,
         "question": [
             "This",
             "is",
@@ -1890,7 +1650,7 @@
         "hint": "This is my classroom. \u2192 \u0110\u00e2y l\u00e0 l\u1edbp h\u1ecdc c\u1ee7a t\u00f4i."
     },
     {
-        "id": 190,
+        "id": 166,
         "question": [
             "She",
             "is",
@@ -1900,7 +1660,7 @@
         "hint": "She is my teacher. \u2192 C\u00f4 \u1ea5y l\u00e0 gi\u00e1o vi\u00ean c\u1ee7a t\u00f4i."
     },
     {
-        "id": 191,
+        "id": 167,
         "question": [
             "That",
             "is",
@@ -1910,7 +1670,7 @@
         "hint": "That is a brown cat. \u2192 \u0110\u00f3 l\u00e0 m\u1ed9t con m\u00e8o n\u00e2u."
     },
     {
-        "id": 192,
+        "id": 168,
         "question": [
             "What",
             "colour",
@@ -1920,7 +1680,7 @@
         "hint": "What color is this? \u2192 C\u00e1i n\u00e0y m\u00e0u g\u00ec?"
     },
     {
-        "id": 193,
+        "id": 169,
         "question": [
             "What",
             "is",
@@ -1930,7 +1690,7 @@
         "hint": "What is its name? \u2192 T\u00ean n\u00f3 l\u00e0 g\u00ec?"
     },
     {
-        "id": 194,
+        "id": 170,
         "question": [
             "Tom",
             "is",
@@ -1940,7 +1700,7 @@
         "hint": "Tom is my friend. \u2192 Tom l\u00e0 b\u1ea1n c\u1ee7a t\u00f4i."
     },
     {
-        "id": 195,
+        "id": 171,
         "question": [
             "Is",
             "your",
@@ -1950,7 +1710,7 @@
         "hint": "Is your school big? \u2192 Tr\u01b0\u1eddng c\u1ee7a b\u1ea1n c\u00f3 l\u1edbn kh\u00f4ng?"
     },
     {
-        "id": 196,
+        "id": 172,
         "question": [
             "Give",
             "me",
@@ -1960,7 +1720,7 @@
         "hint": "Give me the book, please. \u2192 L\u00e0m \u01a1n \u0111\u01b0a t\u00f4i cu\u1ed1n s\u00e1ch."
     },
     {
-        "id": 197,
+        "id": 173,
         "question": [
             "These",
             "are",
@@ -1970,7 +1730,7 @@
         "hint": "These are my new friends. \u2192 \u0110\u00e2y l\u00e0 nh\u1eefng ng\u01b0\u1eddi b\u1ea1n m\u1edbi c\u1ee7a t\u00f4i."
     },
     {
-        "id": 198,
+        "id": 174,
         "question": [
             "He",
             "is",
@@ -1980,7 +1740,7 @@
         "hint": "He is my friend, too. \u2192 Anh \u1ea5y c\u0169ng l\u00e0 b\u1ea1n c\u1ee7a t\u00f4i."
     },
     {
-        "id": 199,
+        "id": 175,
         "question": [
             "Put",
             "down",
@@ -1990,7 +1750,7 @@
         "hint": "Put down your hand. \u2192 H\u1ea1 tay c\u1ee7a b\u1ea1n xu\u1ed1ng."
     },
     {
-        "id": 200,
+        "id": 176,
         "question": [
             "Do",
             "you",
@@ -2000,7 +1760,7 @@
         "hint": "Do you want some milk? \u2192 B\u1ea1n c\u00f3 mu\u1ed1n m\u1ed9t \u00edt s\u1eefa kh\u00f4ng?"
     },
     {
-        "id": 201,
+        "id": 177,
         "question": [
             "This",
             "is",
@@ -2010,17 +1770,7 @@
         "hint": "This is my new book. \u2192 \u0110\u00e2y l\u00e0 cu\u1ed1n s\u00e1ch m\u1edbi c\u1ee7a t\u00f4i."
     },
     {
-        "id": 202,
-        "question": [
-            "May",
-            "I",
-            "go",
-            "out?"
-        ],
-        "hint": "May I go out? \u2192 T\u00f4i c\u00f3 th\u1ec3 ra ngo\u00e0i kh\u00f4ng?"
-    },
-    {
-        "id": 203,
+        "id": 178,
         "question": [
             "This",
             "is",
@@ -2030,7 +1780,7 @@
         "hint": "This is an eraser. \u2192 \u0110\u00e2y l\u00e0 m\u1ed9t c\u1ee5c t\u1ea9y."
     },
     {
-        "id": 204,
+        "id": 179,
         "question": [
             "That",
             "is",
@@ -2040,7 +1790,7 @@
         "hint": "That is my box. \u2192 \u0110\u00f3 l\u00e0 c\u00e1i h\u1ed9p c\u1ee7a t\u00f4i."
     },
     {
-        "id": 205,
+        "id": 180,
         "question": [
             "I",
             "go to",
@@ -2050,17 +1800,7 @@
         "hint": "I go to school every morning. \u2192 T\u00f4i \u0111i h\u1ecdc m\u1ed7i s\u00e1ng."
     },
     {
-        "id": 206,
-        "question": [
-            "This",
-            "is",
-            "the way",
-            "we go to school."
-        ],
-        "hint": "This is the way we go to school. \u2192 \u0110\u00e2y l\u00e0 con \u0111\u01b0\u1eddng ch\u00fang t\u00f4i \u0111i h\u1ecdc."
-    },
-    {
-        "id": 207,
+        "id": 181,
         "question": [
             "He",
             "has",
@@ -2070,7 +1810,7 @@
         "hint": "He has some chalks. \u2192 Anh \u1ea5y c\u00f3 m\u1ed9t \u00edt ph\u1ea5n."
     },
     {
-        "id": 208,
+        "id": 182,
         "question": [
             "It",
             "is",
@@ -2080,7 +1820,7 @@
         "hint": "It is an eraser. \u2192 N\u00f3 l\u00e0 m\u1ed9t c\u1ee5c t\u1ea9y."
     },
     {
-        "id": 209,
+        "id": 183,
         "question": [
             "These",
             "are",
@@ -2090,7 +1830,7 @@
         "hint": "These are my pens. \u2192 \u0110\u00e2y l\u00e0 nh\u1eefng c\u00e2y b\u00fat c\u1ee7a t\u00f4i."
     },
     {
-        "id": 210,
+        "id": 184,
         "question": [
             "The",
             "rabbit",
@@ -2100,7 +1840,7 @@
         "hint": "The rabbit is white. \u2192 Con th\u1ecf m\u00e0u tr\u1eafng."
     },
     {
-        "id": 211,
+        "id": 185,
         "question": [
             "Sorry,",
             "I",
@@ -2110,7 +1850,7 @@
         "hint": "Sorry, I am late. \u2192 Xin l\u1ed7i, t\u00f4i \u0111\u1ebfn mu\u1ed9n."
     },
     {
-        "id": 212,
+        "id": 186,
         "question": [
             "His",
             "name",
@@ -2120,7 +1860,7 @@
         "hint": "His name is Peter. \u2192 T\u00ean anh \u1ea5y l\u00e0 Peter."
     },
     {
-        "id": 213,
+        "id": 187,
         "question": [
             "How",
             "many",
@@ -2130,7 +1870,7 @@
         "hint": "How many crayons are there? \u2192 C\u00f3 bao nhi\u00eau c\u00e2y b\u00fat s\u00e1p?"
     },
     {
-        "id": 214,
+        "id": 188,
         "question": [
             "Open",
             "your",
@@ -2140,7 +1880,7 @@
         "hint": "Open your school bag, Peter. \u2192 M\u1edf c\u1eb7p s\u00e1ch c\u1ee7a b\u1ea1n ra, Peter."
     },
     {
-        "id": 215,
+        "id": 189,
         "question": [
             "This",
             "is",
@@ -2150,7 +1890,7 @@
         "hint": "This is my friend, Linh. \u2192 \u0110\u00e2y l\u00e0 b\u1ea1n t\u00f4i, Linh."
     },
     {
-        "id": 216,
+        "id": 190,
         "question": [
             "Is",
             "the",
@@ -2160,7 +1900,7 @@
         "hint": "Is the window new, too? \u2192 C\u1eeda s\u1ed5 c\u0169ng m\u1edbi sao?"
     },
     {
-        "id": 217,
+        "id": 191,
         "question": [
             "Linda",
             "goes",
@@ -2170,7 +1910,7 @@
         "hint": "Linda goes to school today. \u2192 Linda \u0111i h\u1ecdc h\u00f4m nay."
     },
     {
-        "id": 218,
+        "id": 192,
         "question": [
             "They are",
             "my",
@@ -2180,7 +1920,7 @@
         "hint": "They are my friends, Binh and Nam. \u2192 H\u1ecd l\u00e0 b\u1ea1n t\u00f4i, B\u00ednh v\u00e0 Nam."
     },
     {
-        "id": 219,
+        "id": 193,
         "question": [
             "My friends",
             "and I",
@@ -2190,7 +1930,7 @@
         "hint": "My friends and I sing a song together. \u2192 B\u1ea1n t\u00f4i v\u00e0 t\u00f4i h\u00e1t m\u1ed9t b\u00e0i h\u00e1t c\u00f9ng nhau."
     },
     {
-        "id": 220,
+        "id": 194,
         "question": [
             "Is",
             "she",
@@ -2200,7 +1940,7 @@
         "hint": "Is she your sister? \u2192 C\u00f4 \u1ea5y l\u00e0 ch\u1ecb/em g\u00e1i c\u1ee7a b\u1ea1n sao?"
     },
     {
-        "id": 221,
+        "id": 195,
         "question": [
             "Can",
             "I",
@@ -2210,7 +1950,7 @@
         "hint": "Can I borrow your pen? \u2192 T\u00f4i c\u00f3 th\u1ec3 m\u01b0\u1ee3n b\u00fat c\u1ee7a b\u1ea1n kh\u00f4ng?"
     },
     {
-        "id": 222,
+        "id": 196,
         "question": [
             "Nam is",
             "ten",
@@ -2220,7 +1960,7 @@
         "hint": "Nam is ten years old, too. \u2192 Nam c\u0169ng m\u01b0\u1eddi tu\u1ed5i."
     },
     {
-        "id": 223,
+        "id": 197,
         "question": [
             "May",
             "I",
@@ -2230,7 +1970,7 @@
         "hint": "May I come in, Ms. Hoa? \u2192 T\u00f4i c\u00f3 th\u1ec3 v\u00e0o kh\u00f4ng, c\u00f4 Hoa?"
     },
     {
-        "id": 224,
+        "id": 198,
         "question": [
             "Are",
             "they",
@@ -2240,7 +1980,7 @@
         "hint": "Are they his new friends? \u2192 H\u1ecd l\u00e0 nh\u1eefng ng\u01b0\u1eddi b\u1ea1n m\u1edbi c\u1ee7a anh \u1ea5y ph\u1ea3i kh\u00f4ng?"
     },
     {
-        "id": 225,
+        "id": 199,
         "question": [
             "What",
             "colour",
@@ -2250,7 +1990,7 @@
         "hint": "What colour is your room? \u2192 Ph\u00f2ng c\u1ee7a b\u1ea1n m\u00e0u g\u00ec?"
     },
     {
-        "id": 226,
+        "id": 200,
         "question": [
             "How do",
             "you",
@@ -2260,7 +2000,7 @@
         "hint": "How do you spell this name? \u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n t\u00ean n\u00e0y nh\u01b0 th\u1ebf n\u00e0o?"
     },
     {
-        "id": 227,
+        "id": 201,
         "question": [
             "His",
             "name",
@@ -2270,7 +2010,7 @@
         "hint": "His name is Quan. \u2192 T\u00ean anh \u1ea5y l\u00e0 Qu\u00e2n."
     },
     {
-        "id": 228,
+        "id": 202,
         "question": [
             "It is",
             "a",
@@ -2280,7 +2020,7 @@
         "hint": "It is a big dog. \u2192 N\u00f3 l\u00e0 m\u1ed9t con ch\u00f3 l\u1edbn."
     },
     {
-        "id": 229,
+        "id": 203,
         "question": [
             "What colour",
             "is your",
@@ -2290,7 +2030,7 @@
         "hint": "What colour is your pencil sharpener? \u2192 C\u00e1i g\u1ecdt b\u00fat ch\u00ec c\u1ee7a b\u1ea1n m\u00e0u g\u00ec?"
     },
     {
-        "id": 230,
+        "id": 204,
         "question": [
             "Is your",
             "school",
@@ -2300,7 +2040,7 @@
         "hint": "Is your school playground large? \u2192 S\u00e2n ch\u01a1i c\u1ee7a tr\u01b0\u1eddng b\u1ea1n c\u00f3 r\u1ed9ng kh\u00f4ng?"
     },
     {
-        "id": 231,
+        "id": 205,
         "question": [
             "How old",
             "is",
@@ -2310,7 +2050,7 @@
         "hint": "How old is your friend? \u2192 B\u1ea1n c\u1ee7a b\u1ea1n bao nhi\u00eau tu\u1ed5i?"
     },
     {
-        "id": 232,
+        "id": 206,
         "question": [
             "Five",
             "pens",
@@ -2320,7 +2060,7 @@
         "hint": "Five pens are on the desk. \u2192 N\u0103m c\u00e2y b\u00fat \u1edf tr\u00ean b\u00e0n."
     },
     {
-        "id": 233,
+        "id": 207,
         "question": [
             "Their",
             "bags",
@@ -2330,7 +2070,7 @@
         "hint": "Their bags are yellow and green. \u2192 C\u1eb7p c\u1ee7a h\u1ecd m\u00e0u v\u00e0ng v\u00e0 xanh."
     },
     {
-        "id": 234,
+        "id": 208,
         "question": [
             "My",
             "cats",
@@ -2340,7 +2080,7 @@
         "hint": "My cats are yellow. \u2192 Nh\u1eefng con m\u00e8o c\u1ee7a t\u00f4i m\u00e0u v\u00e0ng."
     },
     {
-        "id": 235,
+        "id": 209,
         "question": [
             "I",
             "go to",
@@ -2350,7 +2090,7 @@
         "hint": "I go to school in the morning. \u2192 T\u00f4i \u0111i h\u1ecdc v\u00e0o bu\u1ed5i s\u00e1ng."
     },
     {
-        "id": 236,
+        "id": 210,
         "question": [
             "He is",
             "not",
@@ -2360,7 +2100,7 @@
         "hint": "He is not in the room. \u2192 Anh \u1ea5y kh\u00f4ng c\u00f3 trong ph\u00f2ng."
     },
     {
-        "id": 237,
+        "id": 211,
         "question": [
             "I\u2019m",
             "eight",
@@ -2370,7 +2110,7 @@
         "hint": "I\u2019m eight years old. \u2192 T\u00f4i t\u00e1m tu\u1ed5i."
     },
     {
-        "id": 238,
+        "id": 212,
         "question": [
             "My school",
             "is",
@@ -2380,17 +2120,7 @@
         "hint": "My school is new and big. \u2192 Tr\u01b0\u1eddng c\u1ee7a t\u00f4i m\u1edbi v\u00e0 l\u1edbn."
     },
     {
-        "id": 239,
-        "question": [
-            "I",
-            "am",
-            "eight",
-            "years old."
-        ],
-        "hint": "I am eight years old. \u2192 T\u00f4i t\u00e1m tu\u1ed5i."
-    },
-    {
-        "id": 240,
+        "id": 213,
         "question": [
             "Are these",
             "his",
@@ -2400,7 +2130,7 @@
         "hint": "Are these his pens and pencils? \u2192 \u0110\u00e2y l\u00e0 b\u00fat v\u00e0 b\u00fat ch\u00ec c\u1ee7a anh \u1ea5y ph\u1ea3i kh\u00f4ng?"
     },
     {
-        "id": 241,
+        "id": 214,
         "question": [
             "How do",
             "you",
@@ -2410,7 +2140,7 @@
         "hint": "How do you spell that name? \u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n t\u00ean \u0111\u00f3 nh\u01b0 th\u1ebf n\u00e0o?"
     },
     {
-        "id": 242,
+        "id": 215,
         "question": [
             "Close",
             "your",
@@ -2420,7 +2150,7 @@
         "hint": "Close your book, Nam. \u2192 \u0110\u00f3ng s\u00e1ch l\u1ea1i, Nam."
     },
     {
-        "id": 243,
+        "id": 216,
         "question": [
             "They",
             "aren\u2019t",
@@ -2430,17 +2160,17 @@
         "hint": "They aren\u2019t in the classroom. \u2192 H\u1ecd kh\u00f4ng c\u00f3 trong l\u1edbp h\u1ecdc."
     },
     {
-        "id": 244,
+        "id": 217,
         "question": [
             "The",
             "art room",
-            "is small",
+            "play",
             "but new."
         ],
         "hint": "The art room is small but new. \u2192 Ph\u00f2ng ngh\u1ec7 thu\u1eadt nh\u1ecf nh\u01b0ng m\u1edbi."
     },
     {
-        "id": 245,
+        "id": 218,
         "question": [
             "These",
             "are",
@@ -2450,7 +2180,7 @@
         "hint": "These are my short rulers. \u2192 \u0110\u00e2y l\u00e0 nh\u1eefng c\u00e1i th\u01b0\u1edbc ng\u1eafn c\u1ee7a t\u00f4i."
     },
     {
-        "id": 246,
+        "id": 219,
         "question": [
             "How are",
             "you",
@@ -2460,7 +2190,7 @@
         "hint": "How are you today, Mai and Phong? \u2192 H\u00f4m nay Mai v\u00e0 Phong th\u1ebf n\u00e0o?"
     },
     {
-        "id": 247,
+        "id": 220,
         "question": [
             "Is",
             "your",
@@ -2470,7 +2200,7 @@
         "hint": "Is your school library big? \u2192 Th\u01b0 vi\u1ec7n c\u1ee7a tr\u01b0\u1eddng b\u1ea1n c\u00f3 l\u1edbn kh\u00f4ng?"
     },
     {
-        "id": 248,
+        "id": 221,
         "question": [
             "These are",
             "my",
@@ -2480,7 +2210,7 @@
         "hint": "These are my notebooks and pencils. \u2192 \u0110\u00e2y l\u00e0 v\u1edf v\u00e0 b\u00fat ch\u00ec c\u1ee7a t\u00f4i."
     },
     {
-        "id": 249,
+        "id": 222,
         "question": [
             "The books",
             "are",
@@ -2490,7 +2220,7 @@
         "hint": "The books are on the bookcase. \u2192 Nh\u1eefng cu\u1ed1n s\u00e1ch \u1edf tr\u00ean k\u1ec7 s\u00e1ch."
     },
     {
-        "id": 250,
+        "id": 223,
         "question": [
             "Open",
             "your",
@@ -2500,7 +2230,7 @@
         "hint": "Open your book, please! \u2192 M\u1edf s\u00e1ch c\u1ee7a b\u1ea1n ra, l\u00e0m \u01a1n!"
     },
     {
-        "id": 251,
+        "id": 224,
         "question": [
             "This box",
             "is",
@@ -2510,7 +2240,7 @@
         "hint": "This box is yellow and pink. \u2192 H\u1ed9p n\u00e0y m\u00e0u v\u00e0ng v\u00e0 h\u1ed3ng."
     },
     {
-        "id": 252,
+        "id": 225,
         "question": [
             "How",
             "are",
@@ -2520,7 +2250,7 @@
         "hint": "How are you today? \u2192 H\u00f4m nay b\u1ea1n th\u1ebf n\u00e0o?"
     },
     {
-        "id": 253,
+        "id": 226,
         "question": [
             "The book",
             "is",
@@ -2530,7 +2260,7 @@
         "hint": "The book is on the table. \u2192 Cu\u1ed1n s\u00e1ch \u1edf tr\u00ean b\u00e0n."
     },
     {
-        "id": 254,
+        "id": 227,
         "question": [
             "Tony",
             "is",
@@ -2540,7 +2270,7 @@
         "hint": "Tony is sick today. \u2192 Tony b\u1ecb \u1ed1m h\u00f4m nay."
     },
     {
-        "id": 255,
+        "id": 228,
         "question": [
             "What",
             "is",
@@ -2550,7 +2280,7 @@
         "hint": "What\u2019s your name? \u2192 T\u00ean b\u1ea1n l\u00e0 g\u00ec?"
     },
     {
-        "id": 256,
+        "id": 229,
         "question": [
             "I and",
             "my friend",
@@ -2560,7 +2290,7 @@
         "hint": "I play badminton. \u2192 T\u00f4i ch\u01a1i c\u1ea7u l\u00f4ng."
     },
     {
-        "id": 257,
+        "id": 230,
         "question": [
             "I\u2019m",
             "fine,",
@@ -2570,7 +2300,7 @@
         "hint": "I\u2019m fine, thanks. And you? \u2192 T\u00f4i kh\u1ecfe, c\u1ea3m \u01a1n. C\u00f2n b\u1ea1n?"
     },
     {
-        "id": 258,
+        "id": 231,
         "question": [
             "I play",
             "table tennis",
@@ -2580,7 +2310,7 @@
         "hint": "I play table tennis in the playground. \u2192 T\u00f4i ch\u01a1i b\u00f3ng b\u00e0n \u1edf s\u00e2n ch\u01a1i."
     },
     {
-        "id": 259,
+        "id": 232,
         "question": [
             "He draws",
             "pictures",
@@ -2590,7 +2320,7 @@
         "hint": "He draws pictures in the art room. \u2192 Anh \u1ea5y v\u1ebd tranh trong ph\u00f2ng ngh\u1ec7 thu\u1eadt."
     },
     {
-        "id": 260,
+        "id": 233,
         "question": [
             "Hi.",
             "My",
@@ -2600,7 +2330,7 @@
         "hint": "Hi. My name is Linda. \u2192 Ch\u00e0o. T\u00ean t\u00f4i l\u00e0 Linda."
     },
     {
-        "id": 261,
+        "id": 234,
         "question": [
             "These",
             "are",
@@ -2610,7 +2340,7 @@
         "hint": "These are two little puppies. \u2192 \u0110\u00e2y l\u00e0 hai ch\u00fa c\u00fan con."
     },
     {
-        "id": 262,
+        "id": 235,
         "question": [
             "I",
             "like",
@@ -2620,7 +2350,7 @@
         "hint": "I like playing football. \u2192 T\u00f4i th\u00edch ch\u01a1i b\u00f3ng \u0111\u00e1."
     },
     {
-        "id": 263,
+        "id": 236,
         "question": [
             "What",
             "colour",
@@ -2630,7 +2360,7 @@
         "hint": "What colour is your new bag? \u2192 C\u00e1i t\u00fai m\u1edbi c\u1ee7a b\u1ea1n m\u00e0u g\u00ec?"
     },
     {
-        "id": 264,
+        "id": 237,
         "question": [
             "My",
             "school",
@@ -2640,7 +2370,7 @@
         "hint": "My school garden is large. \u2192 V\u01b0\u1eddn tr\u01b0\u1eddng c\u1ee7a t\u00f4i r\u1ea5t l\u1edbn."
     },
     {
-        "id": 265,
+        "id": 238,
         "question": [
             "Be",
             "quiet,",
@@ -2650,7 +2380,7 @@
         "hint": "Be quiet, boys! \u2192 Im l\u1eb7ng, c\u00e1c c\u1eadu!"
     },
     {
-        "id": 266,
+        "id": 239,
         "question": [
             "My",
             "rubber",
@@ -2660,7 +2390,7 @@
         "hint": "My rubber is small, and my ruler is short. \u2192 C\u1ee5c t\u1ea9y c\u1ee7a t\u00f4i nh\u1ecf, v\u00e0 c\u00e2y th\u01b0\u1edbc c\u1ee7a t\u00f4i ng\u1eafn."
     },
     {
-        "id": 267,
+        "id": 240,
         "question": [
             "How",
             "old",
@@ -2670,7 +2400,7 @@
         "hint": "How old is your teacher? \u2192 C\u00f4 gi\u00e1o c\u1ee7a b\u1ea1n bao nhi\u00eau tu\u1ed5i?"
     },
     {
-        "id": 268,
+        "id": 241,
         "question": [
             "I",
             "go",
@@ -2680,7 +2410,7 @@
         "hint": "I go to school with my friends. \u2192 T\u00f4i \u0111i h\u1ecdc v\u1edbi b\u1ea1n b\u00e8 c\u1ee7a t\u00f4i."
     },
     {
-        "id": 269,
+        "id": 242,
         "question": [
             "Their",
             "backpacks",
@@ -2690,7 +2420,7 @@
         "hint": "Their backpacks are brown. \u2192 C\u1eb7p c\u1ee7a h\u1ecd m\u00e0u n\u00e2u."
     },
     {
-        "id": 270,
+        "id": 243,
         "question": [
             "Is",
             "that",
@@ -2700,7 +2430,7 @@
         "hint": "Is that your pet? \u2192 \u0110\u00f3 c\u00f3 ph\u1ea3i th\u00fa c\u01b0ng c\u1ee7a b\u1ea1n kh\u00f4ng?"
     },
     {
-        "id": 271,
+        "id": 244,
         "question": [
             "My",
             "classroom",
@@ -2710,7 +2440,7 @@
         "hint": "My classroom is not large. \u2192 L\u1edbp h\u1ecdc c\u1ee7a t\u00f4i kh\u00f4ng l\u1edbn."
     },
     {
-        "id": 272,
+        "id": 245,
         "question": [
             "How do",
             "you",
@@ -2720,7 +2450,7 @@
         "hint": "How do you spell her name? \u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n t\u00ean c\u00f4 \u1ea5y nh\u01b0 th\u1ebf n\u00e0o?"
     },
     {
-        "id": 273,
+        "id": 246,
         "question": [
             "May",
             "I",
@@ -2730,7 +2460,7 @@
         "hint": "May I ask you a question? \u2192 T\u00f4i c\u00f3 th\u1ec3 h\u1ecfi b\u1ea1n m\u1ed9t c\u00e2u h\u1ecfi kh\u00f4ng?"
     },
     {
-        "id": 274,
+        "id": 247,
         "question": [
             "Those",
             "aren\u2019t",
@@ -2740,7 +2470,17 @@
         "hint": "Those aren\u2019t his books. \u2192 Nh\u1eefng cu\u1ed1n s\u00e1ch \u0111\u00f3 kh\u00f4ng ph\u1ea3i c\u1ee7a anh \u1ea5y."
     },
     {
-        "id": 275,
+        "id": 248,
+        "question": [
+            "I",
+            "am",
+            "ten",
+            "years old."
+        ],
+        "hint": "I am ten years old. \u2192 T\u00f4i m\u01b0\u1eddi tu\u1ed5i."
+    },
+    {
+        "id": 249,
         "question": [
             "This",
             "is",
@@ -2750,7 +2490,7 @@
         "hint": "This is a new pupil, Sarah. \u2192 \u0110\u00e2y l\u00e0 m\u1ed9t h\u1ecdc sinh m\u1edbi, Sarah."
     },
     {
-        "id": 276,
+        "id": 250,
         "question": [
             "Those",
             "are",
@@ -2760,7 +2500,7 @@
         "hint": "Those are my new friends. \u2192 Nh\u1eefng ng\u01b0\u1eddi \u0111\u00f3 l\u00e0 b\u1ea1n m\u1edbi c\u1ee7a t\u00f4i."
     },
     {
-        "id": 277,
+        "id": 251,
         "question": [
             "Peter",
             "is",
@@ -2770,7 +2510,7 @@
         "hint": "Peter is my new friend. \u2192 Peter l\u00e0 b\u1ea1n m\u1edbi c\u1ee7a t\u00f4i."
     },
     {
-        "id": 278,
+        "id": 252,
         "question": [
             "Who",
             "is",
@@ -2778,5 +2518,485 @@
             "girl?"
         ],
         "hint": "Who\u2019s that girl? \u2192 C\u00f4 g\u00e1i \u0111\u00f3 l\u00e0 ai?"
+    },
+    {
+        "id": 253,
+        "question": [
+            "Mary",
+            "is",
+            "my friend,",
+            "too."
+        ],
+        "hint": "Mary is my friend, too. \u2192 Mary c\u0169ng l\u00e0 b\u1ea1n c\u1ee7a t\u00f4i."
+    },
+    {
+        "id": 254,
+        "question": [
+            "There are",
+            "two ",
+            "pencils",
+            "in my bag."
+        ],
+        "hint": "There are two pencils in my bag. \u2192 C\u00f3 hai c\u00e2y b\u00fat ch\u00ec trong c\u1eb7p c\u1ee7a t\u00f4i."
+    },
+    {
+        "id": 255,
+        "question": [
+            "Look",
+            "at the",
+            "blackboard,",
+            "please."
+        ],
+        "hint": "Look at the blackboard, please. \u2192 H\u00e3y nh\u00ecn l\u00ean b\u1ea3ng \u0111en."
+    },
+    {
+        "id": 256,
+        "question": [
+            "These",
+            "crayons",
+            "are",
+            "red."
+        ],
+        "hint": "These crayons are red. \u2192 Nh\u1eefng c\u00e2y b\u00fat m\u00e0u n\u00e0y c\u00f3 m\u00e0u \u0111\u1ecf."
+    },
+    {
+        "id": 257,
+        "question": [
+            "There are",
+            "twenty-four",
+            "hours",
+            "in a day."
+        ],
+        "hint": "There are twenty-four hours in a day. \u2192 C\u00f3 hai m\u01b0\u01a1i b\u1ed1n gi\u1edd trong m\u1ed9t ng\u00e0y."
+    },
+    {
+        "id": 258,
+        "question": [
+            "Let\u2019s",
+            "draw",
+            "a picture",
+            "on the wall."
+        ],
+        "hint": "Let\u2019s draw a picture on the wall. \u2192 H\u00e3y v\u1ebd m\u1ed9t b\u1ee9c tranh l\u00ean t\u01b0\u1eddng."
+    },
+    {
+        "id": 259,
+        "question": [
+            "Your",
+            "brother\u2019s",
+            "ball is",
+            "at the desk."
+        ],
+        "hint": "Your brother\u2019s ball is at the desk. \u2192 Qu\u1ea3 b\u00f3ng c\u1ee7a anh trai b\u1ea1n \u1edf tr\u00ean b\u00e0n."
+    },
+    {
+        "id": 260,
+        "question": [
+            "This",
+            "is",
+            "my father\u2019s",
+            "car."
+        ],
+        "hint": "This is my father\u2019s car. \u2192 \u0110\u00e2y l\u00e0 xe c\u1ee7a b\u1ed1 t\u00f4i."
+    },
+    {
+        "id": 261,
+        "question": [
+            "These",
+            "are",
+            "my father\u2019s",
+            "new jeans."
+        ],
+        "hint": "These are my father\u2019s new jeans. \u2192 \u0110\u00e2y l\u00e0 qu\u1ea7n jean m\u1edbi c\u1ee7a b\u1ed1 t\u00f4i."
+    },
+    {
+        "id": 262,
+        "question": [
+            "Hi,",
+            "it\u2019s nice",
+            "to see you.",
+            "I\u2019m Jane."
+        ],
+        "hint": "Hi, it\u2019s nice to see you. I\u2019m Jane. \u2192 Xin ch\u00e0o, r\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n. T\u00f4i l\u00e0 Jane."
+    },
+    {
+        "id": 263,
+        "question": [
+            "I",
+            "don\u2019t like",
+            "reading",
+            "books."
+        ],
+        "hint": "I don\u2019t like reading books. \u2192 T\u00f4i kh\u00f4ng th\u00edch \u0111\u1ecdc s\u00e1ch."
+    },
+    {
+        "id": 264,
+        "question": [
+            "What",
+            "colour are",
+            "those ",
+            "pens?"
+        ],
+        "hint": "What colour are those pens? \u2192 Nh\u1eefng c\u00e2y b\u00fat \u0111\u00f3 c\u00f3 m\u00e0u g\u00ec?"
+    },
+    {
+        "id": 265,
+        "question": [
+            "This is ",
+            "my mother. ",
+            "She is",
+            " young and fat."
+        ],
+        "hint": "This is my mother. She is young and fat. \u2192 \u0110\u00e2y l\u00e0 m\u1eb9 t\u00f4i. B\u00e0 \u1ea5y tr\u1ebb v\u00e0 m\u1eadp."
+    },
+    {
+        "id": 266,
+        "question": [
+            "Copy",
+            "down ",
+            "the",
+            "words."
+        ],
+        "hint": "Copy down the words. \u2192 Ch\u00e9p l\u1ea1i nh\u1eefng t\u1eeb n\u00e0y."
+    },
+    {
+        "id": 267,
+        "question": [
+            "It\u2019s",
+            "nice to",
+            "meet ",
+            "you."
+        ],
+        "hint": "It\u2019s nice to meet you. \u2192 R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n."
+    },
+    {
+        "id": 268,
+        "question": [
+            "Mary\u2019s",
+            "little",
+            "sister is",
+            "learning English."
+        ],
+        "hint": "Mary\u2019s little sister is learning English in her bedroom. \u2192 Em g\u00e1i c\u1ee7a Mary \u0111ang h\u1ecdc ti\u1ebfng Anh trong ph\u00f2ng ng\u1ee7."
+    },
+    {
+        "id": 269,
+        "question": [
+            "What",
+            "are they",
+            "doing in",
+            "the music room?"
+        ],
+        "hint": "What are they doing in the music room? \u2192 H\u1ecd \u0111ang l\u00e0m g\u00ec \u1edf ph\u00f2ng nh\u1ea1c?"
+    },
+    {
+        "id": 270,
+        "question": [
+            "Is",
+            "there ",
+            "a",
+            "dog?"
+        ],
+        "hint": "Is there a dog? \u2192 C\u00f3 con ch\u00f3 n\u00e0o kh\u00f4ng?"
+    },
+    {
+        "id": 271,
+        "question": [
+            "Those",
+            "flowers",
+            "are very",
+            "beautiful."
+        ],
+        "hint": "Those flowers are very beautiful. \u2192 Nh\u1eefng b\u00f4ng hoa \u0111\u00f3 r\u1ea5t \u0111\u1eb9p."
+    },
+    {
+        "id": 272,
+        "question": [
+            "My",
+            "grandmother",
+            "isn\u2019t watching",
+            " TV now."
+        ],
+        "hint": "My grandmother isn\u2019t watching TV now. \u2192 B\u00e0 c\u1ee7a t\u00f4i kh\u00f4ng xem TV b\u00e2y gi\u1edd."
+    },
+    {
+        "id": 273,
+        "question": [
+            "I am",
+            "a student ",
+            "in Nguyen Thi Minh Khai ",
+            "Primary School."
+        ],
+        "hint": "I am a student in Nguyen Thi Minh Khai Primary School. \u2192 T\u00f4i l\u00e0 h\u1ecdc sinh tr\u01b0\u1eddng Ti\u1ec3u h\u1ecdc Nguy\u1ec5n Th\u1ecb Minh Khai."
+    },
+    {
+        "id": 274,
+        "question": [
+            "What",
+            "is your",
+            "favorite",
+            "colour?"
+        ],
+        "hint": "What is your favorite colour? \u2192 M\u00e0u y\u00eau th\u00edch c\u1ee7a b\u1ea1n l\u00e0 g\u00ec?"
+    },
+    {
+        "id": 275,
+        "question": [
+            "There",
+            "are six",
+            "crayons on",
+            "the table."
+        ],
+        "hint": "There are six crayons on the table. \u2192 C\u00f3 s\u00e1u c\u00e2y b\u00fat m\u00e0u tr\u00ean b\u00e0n."
+    },
+    {
+        "id": 276,
+        "question": [
+            "Goodbye",
+            "and see",
+            "you ",
+            "again."
+        ],
+        "hint": "Goodbye and see you again. \u2192 T\u1ea1m bi\u1ec7t v\u00e0 h\u1eb9n g\u1eb7p l\u1ea1i."
+    },
+    {
+        "id": 277,
+        "question": [
+            "Pick up",
+            "your",
+            "eraser and",
+            "your ruler."
+        ],
+        "hint": "Pick up your eraser and your ruler. \u2192 Nh\u1eb7t c\u1ee5c t\u1ea9y v\u00e0 th\u01b0\u1edbc c\u1ee7a b\u1ea1n l\u00ean."
+    },
+    {
+        "id": 278,
+        "question": [
+            "Let ",
+            "us",
+            "do",
+            "a puzzle."
+        ],
+        "hint": "Let us do a puzzle. \u2192 H\u00e3y c\u00f9ng nhau gi\u1ea3i m\u1ed9t c\u00e2u \u0111\u1ed1."
+    },
+    {
+        "id": 279,
+        "question": [
+            "What",
+            "are they",
+            "doing in",
+            "the schoolyard?"
+        ],
+        "hint": "What are they doing in the schoolyard? \u2192 H\u1ecd \u0111ang l\u00e0m g\u00ec \u1edf s\u00e2n tr\u01b0\u1eddng?"
+    },
+    {
+        "id": 280,
+        "question": [
+            "How many",
+            "students",
+            "are there",
+            "in your classroom?"
+        ],
+        "hint": "How many students are there in your classroom? \u2192 C\u00f3 bao nhi\u00eau h\u1ecdc sinh trong l\u1edbp c\u1ee7a b\u1ea1n?"
+    },
+    {
+        "id": 281,
+        "question": [
+            "There",
+            "are ten",
+            "tables in",
+            "my classroom."
+        ],
+        "hint": "There are ten tables in my classroom. \u2192 C\u00f3 m\u01b0\u1eddi c\u00e1i b\u00e0n trong l\u1edbp h\u1ecdc c\u1ee7a t\u00f4i."
+    },
+    {
+        "id": 282,
+        "question": [
+            "The",
+            "children",
+            "circle",
+            "the answer."
+        ],
+        "hint": "The children circle the answer. \u2192 Nh\u1eefng \u0111\u1ee9a tr\u1ebb khoanh tr\u00f2n c\u00e2u tr\u1ea3 l\u1eddi."
+    },
+    {
+        "id": 283,
+        "question": [
+            "This",
+            "is a",
+            "brown",
+            "chair."
+        ],
+        "hint": "This is a brown chair. \u2192 \u0110\u00e2y l\u00e0 m\u1ed9t c\u00e1i gh\u1ebf m\u00e0u n\u00e2u."
+    },
+    {
+        "id": 284,
+        "question": [
+            "Are",
+            "your friends",
+            "talking",
+            "about family?"
+        ],
+        "hint": "Are your friends talking about family? \u2192 B\u1ea1n b\u00e8 c\u1ee7a b\u1ea1n c\u00f3 \u0111ang n\u00f3i v\u1ec1 gia \u0111\u00ecnh kh\u00f4ng?"
+    },
+    {
+        "id": 285,
+        "question": [
+            "There",
+            "are three",
+            "long",
+            "crayons."
+        ],
+        "hint": "There are three long crayons. \u2192 C\u00f3 ba c\u00e2y b\u00fat m\u00e0u d\u00e0i."
+    },
+    {
+        "id": 286,
+        "question": [
+            "Don\u2019t",
+            "make",
+            " a",
+            "mess."
+        ],
+        "hint": "Don\u2019t make a mess. \u2192 \u0110\u1eebng l\u00e0m b\u1eeba b\u1ed9n."
+    },
+    {
+        "id": 287,
+        "question": [
+            "Put",
+            "your",
+            "pencils away,",
+            "children."
+        ],
+        "hint": "Put your pencils away, children. \u2192 C\u00e1c em h\u00e3y c\u1ea5t b\u00fat ch\u00ec \u0111i."
+    },
+    {
+        "id": 288,
+        "question": [
+            "Is",
+            "this your",
+            "pencil",
+            "case?"
+        ],
+        "hint": "Is this your pencil case? \u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i l\u00e0 h\u1ed9p b\u00fat c\u1ee7a b\u1ea1n kh\u00f4ng?"
+    },
+    {
+        "id": 289,
+        "question": [
+            "Is",
+            "that",
+            "Linda\u2019s",
+            "brother\u2019s house?"
+        ],
+        "hint": "Is that Linda\u2019s brother\u2019s house? \u2192 \u0110\u00f3 c\u00f3 ph\u1ea3i l\u00e0 nh\u00e0 c\u1ee7a anh trai Linda kh\u00f4ng?"
+    },
+    {
+        "id": 290,
+        "question": [
+            "Can",
+            "you give",
+            "me that",
+            "pencil?"
+        ],
+        "hint": "Can you give me that pencil? \u2192 B\u1ea1n c\u00f3 th\u1ec3 \u0111\u01b0a t\u00f4i c\u00e2y b\u00fat ch\u00ec \u0111\u00f3 kh\u00f4ng?"
+    },
+    {
+        "id": 291,
+        "question": [
+            "The",
+            "flowers",
+            "are in",
+            "the flower vase."
+        ],
+        "hint": "The flowers are in the flower vase. \u2192 Nh\u1eefng b\u00f4ng hoa \u1edf trong b\u00ecnh hoa."
+    },
+    {
+        "id": 292,
+        "question": [
+            "There",
+            "are five",
+            "books on",
+            "the table."
+        ],
+        "hint": "There are five books on the table. \u2192 C\u00f3 n\u0103m quy\u1ec3n s\u00e1ch tr\u00ean b\u00e0n."
+    },
+    {
+        "id": 293,
+        "question": [
+            "I\u2019m fine,",
+            "thank you.",
+            "And ",
+            "you?"
+        ],
+        "hint": "I\u2019m fine, thank you. And you? \u2192 T\u00f4i kh\u1ecfe, c\u1ea3m \u01a1n. C\u00f2n b\u1ea1n th\u00ec sao?"
+    },
+    {
+        "id": 294,
+        "question": [
+            "Let\u2019s",
+            "listen",
+            "and make",
+            "two, please."
+        ],
+        "hint": "Let\u2019s listen and make two, please. \u2192 H\u00e3y l\u1eafng nghe v\u00e0 l\u00e0m hai c\u00e1i nh\u00e9."
+    },
+    {
+        "id": 295,
+        "question": [
+            "This is",
+            "the way",
+            "we go",
+            "to school."
+        ],
+        "hint": "This is the way we go to school. \u2192 \u0110\u00e2y l\u00e0 con \u0111\u01b0\u1eddng ch\u00fang t\u00f4i \u0111i h\u1ecdc."
+    },
+    {
+        "id": 296,
+        "question": [
+            "There is",
+            "a kite",
+            "in the",
+            "tree."
+        ],
+        "hint": "There is a kite in the tree. \u2192 C\u00f3 m\u1ed9t con di\u1ec1u tr\u00ean c\u00e2y."
+    },
+    {
+        "id": 297,
+        "question": [
+            "The fences",
+            "of our",
+            "house are",
+            "white."
+        ],
+        "hint": "The fences of our house are white. \u2192 H\u00e0ng r\u00e0o c\u1ee7a nh\u00e0 ch\u00fang t\u00f4i c\u00f3 m\u00e0u tr\u1eafng."
+    },
+    {
+        "id": 298,
+        "question": [
+            "There is",
+            "a lamp",
+            "under the",
+            "ceiling."
+        ],
+        "hint": "There is a lamp under the ceiling. \u2192 C\u00f3 m\u1ed9t c\u00e1i \u0111\u00e8n d\u01b0\u1edbi tr\u1ea7n nh\u00e0."
+    },
+    {
+        "id": 299,
+        "question": [
+            "This is",
+            "your",
+            "new",
+            "computer."
+        ],
+        "hint": "This is your new computer. \u2192 \u0110\u00e2y l\u00e0 m\u00e1y t\u00ednh m\u1edbi c\u1ee7a b\u1ea1n."
+    },
+    {
+        "id": 300,
+        "question": [
+            "Susy",
+            "is",
+            "doing",
+            "puzzles"
+        ],
+        "hint": "Susy is doing puzzles. \u2192 Susy \u0111ang gi\u1ea3i c\u00e2u \u0111\u1ed1."
     }
 ]

@@ -203,7 +203,7 @@
             426,
             729
         ],
-        "testGrade": "shool"
+        "testGrade": "school"
     },
     {
         "id": 2,
@@ -369,7 +369,7 @@
             675,
             680
         ],
-        "testGrade": "shool"
+        "testGrade": "school"
     },
     {
         "id": 3,
@@ -535,7 +535,7 @@
             446,
             449
         ],
-        "testGrade": "shool"
+        "testGrade": "school"
     },
     {
         "id": 4,
@@ -805,7 +805,7 @@
             475,
             476
         ],
-        "testGrade": "city"
+        "testGrade": "province"
     },
     {
         "id": 5,
@@ -981,7 +981,7 @@
             778,
             780
         ],
-        "testGrade": "city"
+        "testGrade": "province"
     },
     {
         "id": 6,
@@ -1157,7 +1157,7 @@
             805,
             806
         ],
-        "testGrade": "city"
+        "testGrade": "province"
     },
     {
         "id": 7,
@@ -1363,7 +1363,7 @@
             550,
             515
         ],
-        "testGrade": "province"
+        "testGrade": "national"
     },
     {
         "id": 8,
@@ -1569,7 +1569,7 @@
             47,
             687
         ],
-        "testGrade": "province"
+        "testGrade": "national"
     },
     {
         "id": 9,
@@ -1765,7 +1765,7 @@
             650,
             565
         ],
-        "testGrade": "province"
+        "testGrade": "national"
     },
     {
         "id": 10,
@@ -1939,6 +1939,6 @@
             284,
             191
         ],
-        "testGrade": "province"
+        "testGrade": "national"
     }
 ]

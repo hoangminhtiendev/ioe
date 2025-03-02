@@ -53,12 +53,11 @@
         "id": 6,
         "question": [
             "I'm",
-            "fine",
-            "",
+            "fine,",
             "thanks.",
             "And you?"
         ],
-        "hint": "I'm fine; thanks. And you? \u2192 T\u00f4i kh\u1ecfe; c\u1ea3m \u01a1n. C\u00f2n b\u1ea1n?"
+        "hint": "I'm fine, thanks. And you? \u2192 T\u00f4i kh\u1ecfe, c\u1ea3m \u01a1n. C\u00f2n b\u1ea1n?"
     },
     {
         "id": 7,
@@ -125,23 +124,20 @@
         "question": [
             "This",
             "is a",
-            "new pupil",
-            " ",
+            "new pupil, ",
             "Lisa."
         ],
-        "hint": "This is a new pupil; Lisa. \u2192 \u0110\u00e2y l\u00e0 m\u1ed9t h\u1ecdc sinh m\u1edbi; Lisa."
+        "hint": "This is a new pupil, Lisa. \u2192 \u0110\u00e2y l\u00e0 m\u1ed9t h\u1ecdc sinh m\u1edbi, Lisa."
     },
     {
         "id": 14,
         "question": [
-            "Hello",
-            "",
+            "Hello,",
             "nice",
             "to meet",
-            "you",
-            " children."
+            "you, children."
         ],
-        "hint": "Hello; nice to meet you; children. \u2192 Xin ch\u00e0o; r\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p c\u00e1c em."
+        "hint": "Hello, nice to meet you, children. \u2192 Xin ch\u00e0o, r\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p c\u00e1c em."
     },
     {
         "id": 15,
@@ -168,11 +164,10 @@
         "question": [
             "We",
             "are",
-            "fine",
-            "",
+            "fine,",
             "thank you."
         ],
-        "hint": "We are fine; thank you. \u2192 Ch\u00fang t\u00f4i kh\u1ecfe; c\u1ea3m \u01a1n."
+        "hint": "We are fine, thank you. \u2192 Ch\u00fang t\u00f4i kh\u1ecfe, c\u1ea3m \u01a1n."
     },
     {
         "id": 18,
@@ -287,13 +282,12 @@
     {
         "id": 29,
         "question": [
-            "Yes",
-            "",
+            "Yes,",
             "he",
             "is",
             "my friend."
         ],
-        "hint": "Yes; he is my friend. \u2192 V\u00e2ng; anh \u1ea5y l\u00e0 b\u1ea1n t\u00f4i."
+        "hint": "Yes, he is my friend. \u2192 V\u00e2ng, anh \u1ea5y l\u00e0 b\u1ea1n t\u00f4i."
     },
     {
         "id": 30,
@@ -319,12 +313,11 @@
         "id": 32,
         "question": [
             "I\u2019m",
-            "fine",
-            "",
+            "fine,",
             "thank",
             "you."
         ],
-        "hint": "I\u2019m fine; thank you. \u2192 T\u00f4i kh\u1ecfe; c\u1ea3m \u01a1n."
+        "hint": "I\u2019m fine, thank you. \u2192 T\u00f4i kh\u1ecfe, c\u1ea3m \u01a1n."
     },
     {
         "id": 33,
@@ -359,13 +352,12 @@
     {
         "id": 36,
         "question": [
-            "Hello",
-            "",
+            "Hello,",
             "my",
             "name\u2019s",
             "Thu."
         ],
-        "hint": "Hello; my name\u2019s Thu. \u2192 Xin ch\u00e0o; t\u00ean t\u00f4i l\u00e0 Thu."
+        "hint": "Hello, my name\u2019s Thu. \u2192 Xin ch\u00e0o, t\u00ean t\u00f4i l\u00e0 Thu."
     },
     {
         "id": 37,
@@ -422,11 +414,10 @@
         "question": [
             "Please",
             "be",
-            "quiet",
-            "",
+            "quiet,",
             "students."
         ],
-        "hint": "Please be quiet; students. \u2192 C\u00e1c em im l\u1eb7ng nh\u00e9."
+        "hint": "Please be quiet, students. \u2192 C\u00e1c em im l\u1eb7ng nh\u00e9."
     },
     {
         "id": 43,
@@ -463,11 +454,10 @@
         "question": [
             "See",
             "you",
-            "tomorrow",
-            "",
+            "tomorrow,",
             "Peter."
         ],
-        "hint": "See you tomorrow; Peter. \u2192 H\u1eb9n g\u1eb7p l\u1ea1i ng\u00e0y mai; Peter."
+        "hint": "See you tomorrow, Peter. \u2192 H\u1eb9n g\u1eb7p l\u1ea1i ng\u00e0y mai, Peter."
     },
     {
         "id": 47,
@@ -495,10 +485,9 @@
             "He",
             "is",
             "my",
-            "friend",
-            " too."
+            "friend, too."
         ],
-        "hint": "He is my friend; too. \u2192 Anh \u1ea5y c\u0169ng l\u00e0 b\u1ea1n t\u00f4i."
+        "hint": "He is my friend, too. \u2192 Anh \u1ea5y c\u0169ng l\u00e0 b\u1ea1n t\u00f4i."
     },
     {
         "id": 50,
@@ -525,11 +514,10 @@
         "question": [
             "Raise",
             "your",
-            "hand",
-            "",
+            "hand,",
             "children."
         ],
-        "hint": "Raise your hand; children. \u2192 C\u00e1c em gi\u01a1 tay l\u00ean."
+        "hint": "Raise your hand, children. \u2192 C\u00e1c em gi\u01a1 tay l\u00ean."
     },
     {
         "id": 53,
@@ -716,11 +704,10 @@
         "question": [
             "Nice",
             "to meet",
-            "you",
-            "",
+            "you,",
             "Anna."
         ],
-        "hint": "Nice to meet you; Anna. \u2192 R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n; Anna."
+        "hint": "Nice to meet you, Anna. \u2192 R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n, Anna."
     },
     {
         "id": 72,
@@ -1157,11 +1144,10 @@
         "question": [
             "Close",
             "the",
-            "windows",
-            "",
+            "windows,",
             "please."
         ],
-        "hint": "Close the windows; please. \u2192 L\u00e0m \u01a1n \u0111\u00f3ng c\u1eeda s\u1ed5 l\u1ea1i."
+        "hint": "Close the windows, please. \u2192 L\u00e0m \u01a1n \u0111\u00f3ng c\u1eeda s\u1ed5 l\u1ea1i."
     },
     {
         "id": 116,
@@ -1477,12 +1463,11 @@
         "id": 147,
         "question": [
             "Good",
-            "morning",
-            "",
+            "morning,",
             "teacher",
             "!"
         ],
-        "hint": "Good morning; teacher. \u2192 Ch\u00e0o bu\u1ed5i s\u00e1ng; th\u1ea7y c\u00f4."
+        "hint": "Good morning, teacher. \u2192 Ch\u00e0o bu\u1ed5i s\u00e1ng, th\u1ea7y c\u00f4."
     },
     {
         "id": 148,
@@ -1627,35 +1612,32 @@
     {
         "id": 162,
         "question": [
-            "Hi",
-            "",
+            "Hi,",
             "Mary.",
             "How",
             "are you?"
         ],
-        "hint": "Hi; Mary. How are you? \u2192 Ch\u00e0o Mary. B\u1ea1n kh\u1ecfe kh\u00f4ng?"
+        "hint": "Hi, Mary. How are you? \u2192 Ch\u00e0o Mary. B\u1ea1n kh\u1ecfe kh\u00f4ng?"
     },
     {
         "id": 163,
         "question": [
             "I",
             "am",
-            "fine",
-            "",
+            "fine,",
             "thank you."
         ],
-        "hint": "I am fine; thank you. \u2192 T\u00f4i kh\u1ecfe; c\u1ea3m \u01a1n b\u1ea1n."
+        "hint": "I am fine, thank you. \u2192 T\u00f4i kh\u1ecfe, c\u1ea3m \u01a1n b\u1ea1n."
     },
     {
         "id": 164,
         "question": [
             "Clean",
             "your",
-            "teeth",
-            "",
+            "teeth,",
             "please."
         ],
-        "hint": "Clean your teeth; please. \u2192 L\u00e0m \u01a1n \u0111\u00e1nh r\u0103ng \u0111i."
+        "hint": "Clean your teeth, please. \u2192 L\u00e0m \u01a1n \u0111\u00e1nh r\u0103ng \u0111i."
     },
     {
         "id": 165,
@@ -1732,11 +1714,10 @@
         "question": [
             "Give",
             "me",
-            "the book",
-            "",
+            "the book,",
             "please."
         ],
-        "hint": "Give me the book; please. \u2192 L\u00e0m \u01a1n \u0111\u01b0a t\u00f4i cu\u1ed1n s\u00e1ch."
+        "hint": "Give me the book, please. \u2192 L\u00e0m \u01a1n \u0111\u01b0a t\u00f4i cu\u1ed1n s\u00e1ch."
     },
     {
         "id": 173,
@@ -1753,11 +1734,10 @@
         "question": [
             "He",
             "is",
-            "my friend",
-            "",
+            "my friend,",
             "too."
         ],
-        "hint": "He is my friend; too. \u2192 Anh \u1ea5y c\u0169ng l\u00e0 b\u1ea1n c\u1ee7a t\u00f4i."
+        "hint": "He is my friend, too. \u2192 Anh \u1ea5y c\u0169ng l\u00e0 b\u1ea1n c\u1ee7a t\u00f4i."
     },
     {
         "id": 175,
@@ -1862,13 +1842,12 @@
     {
         "id": 185,
         "question": [
-            "Sorry",
-            "",
+            "Sorry,",
             "I",
             "am",
             "late."
         ],
-        "hint": "Sorry; I am late. \u2192 Xin l\u1ed7i; t\u00f4i \u0111\u1ebfn mu\u1ed9n."
+        "hint": "Sorry, I am late. \u2192 Xin l\u1ed7i, t\u00f4i \u0111\u1ebfn mu\u1ed9n."
     },
     {
         "id": 186,
@@ -1895,11 +1874,10 @@
         "question": [
             "Open",
             "your",
-            "school bag",
-            "",
+            "school bag,",
             "Peter."
         ],
-        "hint": "Open your school bag; Peter. \u2192 M\u1edf c\u1eb7p s\u00e1ch c\u1ee7a b\u1ea1n ra; Peter."
+        "hint": "Open your school bag, Peter. \u2192 M\u1edf c\u1eb7p s\u00e1ch c\u1ee7a b\u1ea1n ra, Peter."
     },
     {
         "id": 189,
@@ -1907,10 +1885,9 @@
             "This",
             "is",
             "my",
-            "friend",
-            " Linh."
+            "friend, Linh."
         ],
-        "hint": "This is my friend; Linh. \u2192 \u0110\u00e2y l\u00e0 b\u1ea1n t\u00f4i; Linh."
+        "hint": "This is my friend, Linh. \u2192 \u0110\u00e2y l\u00e0 b\u1ea1n t\u00f4i, Linh."
     },
     {
         "id": 190,
@@ -1918,10 +1895,9 @@
             "Is",
             "the",
             "window",
-            "new",
-            " too?"
+            "new, too?"
         ],
-        "hint": "Is the window new; too? \u2192 C\u1eeda s\u1ed5 c\u0169ng m\u1edbi sao?"
+        "hint": "Is the window new, too? \u2192 C\u1eeda s\u1ed5 c\u0169ng m\u1edbi sao?"
     },
     {
         "id": 191,
@@ -1938,11 +1914,10 @@
         "question": [
             "They are",
             "my",
-            "friends",
-            "",
+            "friends,",
             "Binh and Nam."
         ],
-        "hint": "They are my friends; Binh and Nam. \u2192 H\u1ecd l\u00e0 b\u1ea1n t\u00f4i; B\u00ednh v\u00e0 Nam."
+        "hint": "They are my friends, Binh and Nam. \u2192 H\u1ecd l\u00e0 b\u1ea1n t\u00f4i, B\u00ednh v\u00e0 Nam."
     },
     {
         "id": 193,
@@ -1979,22 +1954,20 @@
         "question": [
             "Nam is",
             "ten",
-            "years old",
-            "",
+            "years old,",
             "too."
         ],
-        "hint": "Nam is ten years old; too. \u2192 Nam c\u0169ng m\u01b0\u1eddi tu\u1ed5i."
+        "hint": "Nam is ten years old, too. \u2192 Nam c\u0169ng m\u01b0\u1eddi tu\u1ed5i."
     },
     {
         "id": 197,
         "question": [
             "May",
             "I",
-            "come in",
-            "",
+            "come in,",
             "Ms. Hoa?"
         ],
-        "hint": "May I come in; Ms. Hoa? \u2192 T\u00f4i c\u00f3 th\u1ec3 v\u00e0o kh\u00f4ng; c\u00f4 Hoa?"
+        "hint": "May I come in, Ms. Hoa? \u2192 T\u00f4i c\u00f3 th\u1ec3 v\u00e0o kh\u00f4ng, c\u00f4 Hoa?"
     },
     {
         "id": 198,
@@ -2171,11 +2144,10 @@
         "question": [
             "Close",
             "your",
-            "book",
-            "",
+            "book,",
             "Nam."
         ],
-        "hint": "Close your book; Nam. \u2192 \u0110\u00f3ng s\u00e1ch l\u1ea1i; Nam."
+        "hint": "Close your book, Nam. \u2192 \u0110\u00f3ng s\u00e1ch l\u1ea1i, Nam."
     },
     {
         "id": 216,
@@ -2212,11 +2184,10 @@
         "question": [
             "How are",
             "you",
-            "today",
-            "",
+            "today,",
             "Mai and Phong?"
         ],
-        "hint": "How are you today; Mai and Phong? \u2192 H\u00f4m nay Mai v\u00e0 Phong th\u1ebf n\u00e0o?"
+        "hint": "How are you today, Mai and Phong? \u2192 H\u00f4m nay Mai v\u00e0 Phong th\u1ebf n\u00e0o?"
     },
     {
         "id": 220,
@@ -2253,11 +2224,10 @@
         "question": [
             "Open",
             "your",
-            "book",
-            "",
+            "book,",
             "please!"
         ],
-        "hint": "Open your book; please! \u2192 M\u1edf s\u00e1ch c\u1ee7a b\u1ea1n ra; l\u00e0m \u01a1n!"
+        "hint": "Open your book, please! \u2192 M\u1edf s\u00e1ch c\u1ee7a b\u1ea1n ra, l\u00e0m \u01a1n!"
     },
     {
         "id": 224,
@@ -2323,12 +2293,11 @@
         "id": 230,
         "question": [
             "I\u2019m",
-            "fine",
-            "",
+            "fine,",
             "thanks.",
             "And you?"
         ],
-        "hint": "I\u2019m fine; thanks. And you? \u2192 T\u00f4i kh\u1ecfe; c\u1ea3m \u01a1n. C\u00f2n b\u1ea1n?"
+        "hint": "I\u2019m fine, thanks. And you? \u2192 T\u00f4i kh\u1ecfe, c\u1ea3m \u01a1n. C\u00f2n b\u1ea1n?"
     },
     {
         "id": 231,
@@ -2404,12 +2373,11 @@
         "id": 238,
         "question": [
             "Be",
-            "quiet",
-            "",
+            "quiet,",
             "boys",
             "!"
         ],
-        "hint": "Be quiet; boys! \u2192 Im l\u1eb7ng; c\u00e1c c\u1eadu!"
+        "hint": "Be quiet, boys! \u2192 Im l\u1eb7ng, c\u00e1c c\u1eadu!"
     },
     {
         "id": 239,
@@ -2417,10 +2385,9 @@
             "My",
             "rubber",
             "is",
-            "small",
-            " and my ruler is short."
+            "small, and my ruler is short."
         ],
-        "hint": "My rubber is small; and my ruler is short. \u2192 C\u1ee5c t\u1ea9y c\u1ee7a t\u00f4i nh\u1ecf; v\u00e0 c\u00e2y th\u01b0\u1edbc c\u1ee7a t\u00f4i ng\u1eafn."
+        "hint": "My rubber is small, and my ruler is short. \u2192 C\u1ee5c t\u1ea9y c\u1ee7a t\u00f4i nh\u1ecf, v\u00e0 c\u00e2y th\u01b0\u1edbc c\u1ee7a t\u00f4i ng\u1eafn."
     },
     {
         "id": 240,
@@ -2518,10 +2485,9 @@
             "This",
             "is",
             "a new ",
-            "pupil",
-            " Sarah."
+            "pupil, Sarah."
         ],
-        "hint": "This is a new pupil; Sarah. \u2192 \u0110\u00e2y l\u00e0 m\u1ed9t h\u1ecdc sinh m\u1edbi; Sarah."
+        "hint": "This is a new pupil, Sarah. \u2192 \u0110\u00e2y l\u00e0 m\u1ed9t h\u1ecdc sinh m\u1edbi, Sarah."
     },
     {
         "id": 250,
@@ -2558,11 +2524,10 @@
         "question": [
             "Mary",
             "is",
-            "my friend",
-            "",
+            "my friend,",
             "too."
         ],
-        "hint": "Mary is my friend; too. \u2192 Mary c\u0169ng l\u00e0 b\u1ea1n c\u1ee7a t\u00f4i."
+        "hint": "Mary is my friend, too. \u2192 Mary c\u0169ng l\u00e0 b\u1ea1n c\u1ee7a t\u00f4i."
     },
     {
         "id": 254,
@@ -2579,11 +2544,10 @@
         "question": [
             "Look",
             "at the",
-            "blackboard",
-            "",
+            "blackboard,",
             "please."
         ],
-        "hint": "Look at the blackboard; please. \u2192 H\u00e3y nh\u00ecn l\u00ean b\u1ea3ng \u0111en."
+        "hint": "Look at the blackboard, please. \u2192 H\u00e3y nh\u00ecn l\u00ean b\u1ea3ng \u0111en."
     },
     {
         "id": 256,
@@ -2648,13 +2612,12 @@
     {
         "id": 262,
         "question": [
-            "Hi",
-            "",
+            "Hi,",
             "it\u2019s nice",
             "to see you.",
             "I\u2019m Jane."
         ],
-        "hint": "Hi; it\u2019s nice to see you. I\u2019m Jane. \u2192 Xin ch\u00e0o; r\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n. T\u00f4i l\u00e0 Jane."
+        "hint": "Hi, it\u2019s nice to see you. I\u2019m Jane. \u2192 Xin ch\u00e0o, r\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n. T\u00f4i l\u00e0 Jane."
     },
     {
         "id": 263,
@@ -2901,11 +2864,10 @@
         "question": [
             "Put",
             "your",
-            "pencils away",
-            "",
+            "pencils away,",
             "children."
         ],
-        "hint": "Put your pencils away; children. \u2192 C\u00e1c em h\u00e3y c\u1ea5t b\u00fat ch\u00ec \u0111i."
+        "hint": "Put your pencils away, children. \u2192 C\u00e1c em h\u00e3y c\u1ea5t b\u00fat ch\u00ec \u0111i."
     },
     {
         "id": 288,
@@ -2960,13 +2922,12 @@
     {
         "id": 293,
         "question": [
-            "I\u2019m fine",
-            "",
+            "I\u2019m fine,",
             "thank you.",
             "And ",
             "you?"
         ],
-        "hint": "I\u2019m fine; thank you. And you? \u2192 T\u00f4i kh\u1ecfe; c\u1ea3m \u01a1n. C\u00f2n b\u1ea1n th\u00ec sao?"
+        "hint": "I\u2019m fine, thank you. And you? \u2192 T\u00f4i kh\u1ecfe, c\u1ea3m \u01a1n. C\u00f2n b\u1ea1n th\u00ec sao?"
     },
     {
         "id": 294,
@@ -2974,10 +2935,9 @@
             "Let\u2019s",
             "listen",
             "and make",
-            "two",
-            " please."
+            "two, please."
         ],
-        "hint": "Let\u2019s listen and make two; please. \u2192 H\u00e3y l\u1eafng nghe v\u00e0 l\u00e0m hai c\u00e1i nh\u00e9."
+        "hint": "Let\u2019s listen and make two, please. \u2192 H\u00e3y l\u1eafng nghe v\u00e0 l\u00e0m hai c\u00e1i nh\u00e9."
     },
     {
         "id": 295,

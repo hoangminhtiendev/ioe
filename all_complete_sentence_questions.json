@@ -5,7 +5,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "rand",
-        "hint": "Grandfather \u2192 \u00f4ng n\u1ed9i/\u00f4ng ngo\u1ea1i\nHow old is your grandfather? \u2192 \u00d4ng c\u1ee7a b\u1ea1n bao nhi\u00eau tu\u1ed5i?"
+        "hint": "Grandfather \u2192 \u00f4ng n\u1ed9i/\u00f4ng ngo\u1ea1i\nHow old is your grandfather? \n\u2192 \u00d4ng c\u1ee7a b\u1ea1n bao nhi\u00eau tu\u1ed5i?"
     },
     {
         "id": 2,
@@ -13,15 +13,15 @@
         "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/fiveapples.png",
         "audioUrl": "",
         "answer": "five",
-        "hint": "Five \u2192 n\u0103m\nWe have five apples. \u2192 Ch\u00fang t\u00f4i c\u00f3 n\u0103m qu\u1ea3 t\u00e1o.."
+        "hint": "Five \u2192 n\u0103m\nWe have five apples. \u2192 Ch\u00fang t\u00f4i c\u00f3 n\u0103m qu\u1ea3 t\u00e1o."
     },
     {
         "id": 3,
-        "sentence": "My mom is ______.",
+        "sentence": "The kids are ______.",
         "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/cooking.png",
         "audioUrl": "",
         "answer": "cooking",
-        "hint": "Cook \u2192 n\u1ea5u \u0103n                                                                         \nC\u1ea5u tr\u00fac S + be + Ving \u2192 Ai \u0111\u00f3 \u0111ang l\u00e0m g\u00ec\nMy mom is cooking. \u2192 M\u1eb9 t\u00f4i \u0111ang n\u1ea5u \u0103n."
+        "hint": "Cook \u2192 n\u1ea5u \u0103n                                                                         \nThe kids are cooking. \u2192 Nh\u1eefng \u0111\u1ee9a tr\u1ebb \u0111ang n\u1ea5u \u0103n.\nC\u1ea5u tr\u00fac S + be + Ving \u2192 Ai \u0111\u00f3 \u0111ang l\u00e0m g\u00ec"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/volleyball.png",
         "audioUrl": "",
         "answer": "volleyball",
-        "hint": "volleyball \u2192 b\u00f3ng chuy\u1ec1n\nThe girls are playing volleyball. \u2192 C\u00e1c c\u00f4 g\u00e1i \u0111ang ch\u01a1i b\u00f3ng chuy\u1ec1n."
+        "hint": "Volleyball \u2192 b\u00f3ng chuy\u1ec1n\nThe girls are playing volleyball. \n\u2192 C\u00e1c c\u00f4 g\u00e1i \u0111ang ch\u01a1i b\u00f3ng chuy\u1ec1n."
     },
     {
         "id": 6,
@@ -61,7 +61,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "our",
-        "hint": "Your \u2192 c\u1ee7a b\u1ea1n\nIs your name Peter? \u2192 T\u00ean c\u1ee7a b\u1ea1n l\u00e0 Peter ph\u1ea3i kh\u00f4ng?"
+        "hint": "Your \u2192 c\u1ee7a b\u1ea1n\nIs your name Peter? \n\u2192 T\u00ean c\u1ee7a b\u1ea1n l\u00e0 Peter ph\u1ea3i kh\u00f4ng?"
     },
     {
         "id": 9,
@@ -77,7 +77,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "me",
-        "hint": "Time \u2192 th\u1eddi gian\nBreaktime \u2192 gi\u1edd ra ch\u01a1i\nWhat do they often do at break time? \u2192 H\u1ecd th\u01b0\u1eddng l\u00e0m g\u00ec v\u00e0o gi\u1edd ra ch\u01a1i?"
+        "hint": "Time \u2192 th\u1eddi gian\nBreaktime \u2192 gi\u1edd ra ch\u01a1i\nWhat do they often do at break time? \n\u2192 H\u1ecd th\u01b0\u1eddng l\u00e0m g\u00ec v\u00e0o gi\u1edd ra ch\u01a1i?"
     },
     {
         "id": 11,
@@ -93,7 +93,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "are",
-        "hint": "How are you, Mai? \u2013 I\u2019m good. Thanks. \u2192 B\u1ea1n kh\u1ecfe kh\u00f4ng, Mai? \u2013 M\u00ecnh kh\u1ecfe. C\u1ea3m \u01a1n."
+        "hint": "How are you, Mai? \u2013 I\u2019m good. Thanks. \n\u2192 B\u1ea1n kh\u1ecfe kh\u00f4ng, Mai? \u2013 M\u00ecnh kh\u1ecfe. C\u1ea3m \u01a1n."
     },
     {
         "id": 13,
@@ -101,7 +101,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/basketball.png",
         "audioUrl": "",
         "answer": "basketball",
-        "hint": "In \u2192 trong\nMy son likes playing basketball in his free time. \u2192 Con trai t\u00f4i th\u00edch ch\u01a1i b\u00f3ng r\u1ed5 trong th\u1eddi gian r\u1ea3nh."
+        "hint": "In \u2192 trong\nMy son likes playing basketball in his free time. \n\u2192 Con trai t\u00f4i th\u00edch ch\u01a1i b\u00f3ng r\u1ed5 trong th\u1eddi gian r\u1ea3nh."
     },
     {
         "id": 14,
@@ -109,7 +109,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "ding",
-        "hint": "Read \u2192 \u0111\u1ecdc\nReading \u2192 \u0111ang \u0111\u1ecdc\nWhat are you reading? \u2192 B\u1ea1n \u0111ang \u0111\u1ecdc g\u00ec?\nC\u1ea5u tr\u00fac chung c\u1ee7a c\u00e2u h\u1ecfi hi\u1ec7n t\u1ea1i ti\u1ebfp di\u1ec5n:\nWh- + am/is/are + S + V-ing?\nCh\u1ee7 ng\u1eef \"you\" \u0111i v\u1edbi \u0111\u1ed9ng t\u1eeb \"to be\" l\u00e0 \"are\", v\u00e0 \u0111\u1ed9ng t\u1eeb \"read\" c\u1ea7n chia \u1edf d\u1ea1ng V-ing \u2192 \"reading\"."
+        "hint": "Read \u2192 \u0111\u1ecdc\nWhat are you reading? \u2192 B\u1ea1n \u0111ang \u0111\u1ecdc g\u00ec?\n\u1ede th\u00ec hi\u1ec7n t\u1ea1i ti\u1ebfp di\u1ec5n, ch\u1ee7 ng\u1eef \"you\" \u0111i v\u1edbi \u0111\u1ed9ng t\u1eeb \"to be\" l\u00e0 \"are\", v\u00e0 \u0111\u1ed9ng t\u1eeb \"read\" c\u1ea7n chia \u1edf d\u1ea1ng V-ing \u2192 \"reading\"."
     },
     {
         "id": 15,
@@ -221,7 +221,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "dle",
-        "hint": "Middle \u2192 \u0111\u1ec7m\nMiddle name \u2192 t\u00ean \u0111\u1ec7m\nHow do you spell your middle name? \u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n t\u00ean \u0111\u1ec7m c\u1ee7a b\u1ea1n nh\u01b0 th\u1ebf n\u00e0o?"
+        "hint": "Middle \u2192 gi\u1eefa\nMiddle name \u2192 t\u00ean \u0111\u1ec7m\nHow do you spell your middle name? \n\u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n t\u00ean \u0111\u1ec7m c\u1ee7a b\u1ea1n nh\u01b0 th\u1ebf n\u00e0o?"
     },
     {
         "id": 29,
@@ -237,7 +237,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "here",
-        "hint": "Where \u2192 \u0111\u00e2u\nWhere\u2019s your Dad? \u2013 He\u2019s in the garden. \u2192 B\u1ed1 b\u1ea1n \u0111\u00e2u? \u2013 \u00d4ng \u1ea5y \u0111ang \u1edf trong v\u01b0\u1eddn."
+        "hint": "Where \u2192 \u0111\u00e2u\nWhere\u2019s your Dad? \u2013 He\u2019s in the garden. \n\u2192 B\u1ed1 b\u1ea1n \u0111\u00e2u? \u2013 \u00d4ng \u1ea5y \u0111ang \u1edf trong v\u01b0\u1eddn."
     },
     {
         "id": 31,
@@ -261,7 +261,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "ner",
-        "hint": "Dinner \u2192 b\u1eefa t\u1ed1i\nWhat do we have for dinner, Mom? \u2192 M\u1eb9 \u01a1i, ch\u00fang ta c\u00f3 g\u00ec cho b\u1eefa t\u1ed1i?"
+        "hint": "Dinner \u2192 b\u1eefa t\u1ed1i\nWhat do we have for dinner, Mom? \n\u2192 M\u1eb9 \u01a1i, ch\u00fang ta c\u00f3 g\u00ec cho b\u1eefa t\u1ed1i?"
     },
     {
         "id": 34,
@@ -281,11 +281,11 @@
     },
     {
         "id": 36,
-        "sentence": "How many er______ do you have?",
+        "sentence": "How many eras______ do you have?",
         "imageUrl": "",
         "audioUrl": "",
-        "answer": "asers",
-        "hint": "Eraser \u2192 c\u1ee5c t\u1ea9y\nHow many +  danh t\u1eeb s\u1ed1 nhi\u1ec1u, Eraser \u2192 Erasers\nHow many erasers do you have? \u2192 B\u1ea1n c\u00f3 bao nhi\u00eau c\u1ee5c t\u1ea9y?"
+        "answer": "ers",
+        "hint": "Eraser \u2192 c\u1ee5c t\u1ea9y\nHow many +  danh t\u1eeb s\u1ed1 nhi\u1ec1u\nHow many erasers do you have? \u2192 B\u1ea1n c\u00f3 bao nhi\u00eau c\u1ee5c t\u1ea9y?"
     },
     {
         "id": 37,
@@ -321,7 +321,7 @@
     },
     {
         "id": 41,
-        "sentence": "P______.",
+        "sentence": "P______",
         "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/plane.png",
         "audioUrl": "",
         "answer": "LANE",
@@ -333,7 +333,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "are",
-        "hint": "There are \u2192 c\u00f3 (s\u1ed1 l\u01b0\u1ee3ng > 1)\nThere are two notebooks in my schoolbag. \u2192 C\u00f3 hai quy\u1ec3n v\u1edf trong c\u1eb7p c\u1ee7a t\u00f4i."
+        "hint": "There are \u2192 c\u00f3 (s\u1ed1 l\u01b0\u1ee3ng > 1)\nThere are two notebooks in my schoolbag. \n\u2192 C\u00f3 hai quy\u1ec3n v\u1edf trong c\u1eb7p c\u1ee7a t\u00f4i."
     },
     {
         "id": 43,
@@ -341,7 +341,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "cher",
-        "hint": "Teacher \u2192 gi\u00e1o vi\u00ean\nMy mother is a doctor and my father is a teacher. \u2192 M\u1eb9 t\u00f4i l\u00e0 b\u00e1c s\u0129 v\u00e0 b\u1ed1 t\u00f4i l\u00e0 gi\u00e1o vi\u00ean."
+        "hint": "Teacher \u2192 gi\u00e1o vi\u00ean\nMy mother is a doctor and my father is a teacher. \n\u2192 M\u1eb9 t\u00f4i l\u00e0 b\u00e1c s\u0129 v\u00e0 b\u1ed1 t\u00f4i l\u00e0 gi\u00e1o vi\u00ean."
     },
     {
         "id": 44,
@@ -381,7 +381,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "How",
-        "hint": "How many \u2192 Bao nhi\u00eau\n\"How many + danh t\u1eeb s\u1ed1 nhi\u1ec1u + do/does + S + V?\"\nD\u00f9ng \u0111\u1ec3 h\u1ecfi v\u1ec1 s\u1ed1 l\u01b0\u1ee3ng c\u1ee7a m\u1ed9t danh t\u1eeb \u0111\u1ebfm \u0111\u01b0\u1ee3c (\u1edf d\u1ea1ng s\u1ed1 nhi\u1ec1u).\nHow many dogs do you have? - I have two dogs. \u2192 B\u1ea1n c\u00f3 bao nhi\u00eau con ch\u00f3? - T\u00f4i c\u00f3 hai con ch\u00f3."
+        "hint": "How many \u2192 Bao nhi\u00eau\n\"How many + danh t\u1eeb s\u1ed1 nhi\u1ec1u + do/does + S + V?\"\nD\u00f9ng \u0111\u1ec3 h\u1ecfi v\u1ec1 s\u1ed1 l\u01b0\u1ee3ng c\u1ee7a m\u1ed9t danh t\u1eeb \u0111\u1ebfm \u0111\u01b0\u1ee3c (\u1edf d\u1ea1ng s\u1ed1 nhi\u1ec1u).\nHow many dogs do you have? - I have two dogs. \n\u2192 B\u1ea1n c\u00f3 bao nhi\u00eau con ch\u00f3? - T\u00f4i c\u00f3 hai con ch\u00f3."
     },
     {
         "id": 49,
@@ -389,14 +389,14 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "Are",
-        "hint": "Are \u2192 c\u00f3 ph\u1ea3i \nKhi h\u1ecfi v\u1ec1 \u0111\u1eb7c \u0111i\u1ec3m c\u1ee7a m\u1ed9t danh t\u1eeb s\u1ed1 nhi\u1ec1u (books), ta d\u00f9ng \"Are\" \u1edf \u0111\u1ea7u c\u00e2u.\nC\u1ea5u tr\u00fac: Are + ch\u1ee7 ng\u1eef s\u1ed1 nhi\u1ec1u + t\u00ednh t\u1eeb?\nAre your books pink? - Yes, they are. \u2192 S\u00e1ch c\u1ee7a b\u1ea1n c\u00f3 m\u00e0u h\u1ed3ng kh\u00f4ng? - V\u00e2ng, \u0111\u00fang v\u1eady."
+        "hint": "Are \u2192 c\u00f3 ph\u1ea3i \nKhi h\u1ecfi v\u1ec1 \u0111\u1eb7c \u0111i\u1ec3m c\u1ee7a m\u1ed9t danh t\u1eeb s\u1ed1 nhi\u1ec1u (books), ta d\u00f9ng \"Are\" \u1edf \u0111\u1ea7u c\u00e2u.\nAre your books pink? - Yes, they are. \n\u2192 S\u00e1ch c\u1ee7a b\u1ea1n c\u00f3 m\u00e0u h\u1ed3ng kh\u00f4ng? - V\u00e2ng, \u0111\u00fang v\u1eady."
     },
     {
         "id": 50,
-        "sentence": "This is my m____er.",
+        "sentence": "This is my mo____er.",
         "imageUrl": "",
         "audioUrl": "",
-        "answer": "oth",
+        "answer": "th",
         "hint": "Mother \u2192 m\u1eb9\nThis is my mother. \u2192 \u0110\u00e2y l\u00e0 m\u1eb9 c\u1ee7a t\u00f4i. "
     },
     {
@@ -405,7 +405,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "at",
-        "hint": "Look at \u2192 nh\u00ecn v\u00e0o\nLook at that map on the wall, please. \u2192 H\u00e3y nh\u00ecn v\u00e0o t\u1ea5m b\u1ea3n \u0111\u1ed3 tr\u00ean t\u01b0\u1eddng."
+        "hint": "Look at \u2192 nh\u00ecn v\u00e0o\nLook at that map on the wall, please. \n\u2192 H\u00e3y nh\u00ecn v\u00e0o t\u1ea5m b\u1ea3n \u0111\u1ed3 tr\u00ean t\u01b0\u1eddng."
     },
     {
         "id": 52,
@@ -421,7 +421,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "ter",
-        "hint": "trungf ne"
+        "hint": "T\u1ea1m bi\u1ec7t. H\u1eb9n g\u1eb7p l\u1ea1i."
     },
     {
         "id": 54,
@@ -429,7 +429,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "What",
-        "hint": "What \u2192 c\u00e1i g\u00ec\nA: What\u2019s it? - B: It\u2019s my notebook. \u2192 A: \u0110\u00e2y l\u00e0 c\u00e1i g\u00ec? - B: \u0110\u00e2y l\u00e0 quy\u1ec3n v\u1edf c\u1ee7a t\u00f4i."
+        "hint": "What \u2192 c\u00e1i g\u00ec\nA: What\u2019s it? - B: It\u2019s my notebook. \n\u2192 A: \u0110\u00e2y l\u00e0 c\u00e1i g\u00ec? - B: \u0110\u00e2y l\u00e0 quy\u1ec3n v\u1edf c\u1ee7a t\u00f4i."
     },
     {
         "id": 55,
@@ -461,7 +461,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "video",
-        "hint": "Video game\u2192 tr\u00f2 ch\u01a1i \u0111i\u1ec7n t\u1eed\nMy brother likes playing video games. \u2192 Anh trai t\u00f4i th\u00edch ch\u01a1i tr\u00f2 ch\u01a1i \u0111i\u1ec7n t\u1eed."
+        "hint": "Video game\u2192 tr\u00f2 ch\u01a1i \u0111i\u1ec7n t\u1eed\nMy brother likes playing video games. \n\u2192 Anh trai t\u00f4i th\u00edch ch\u01a1i tr\u00f2 ch\u01a1i \u0111i\u1ec7n t\u1eed."
     },
     {
         "id": 59,
@@ -469,7 +469,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "a",
-        "hint": "A \u2192 m\u1ed9t\nIs it a ruler? \u2013 No, it isn\u2019t. \u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i l\u00e0 m\u1ed9t c\u00e1i th\u01b0\u1edbc kh\u00f4ng? \u2013 Kh\u00f4ng, kh\u00f4ng ph\u1ea3i."
+        "hint": "A \u2192 m\u1ed9t\nIs it a ruler? \u2013 No, it isn\u2019t. \n\u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i l\u00e0 m\u1ed9t c\u00e1i th\u01b0\u1edbc kh\u00f4ng? \u2013 Kh\u00f4ng, kh\u00f4ng ph\u1ea3i.\n\"a\" \u0111\u01b0\u1ee3c d\u00f9ng tr\u01b0\u1edbc danh t\u1eeb \u0111\u1ebfm \u0111\u01b0\u1ee3c s\u1ed1 \u00edt b\u1eaft \u0111\u1ea7u b\u1eb1ng \u00e2m ph\u1ee5 \u00e2m.\n\"an\" \u0111\u01b0\u1ee3c d\u00f9ng tr\u01b0\u1edbc danh t\u1eeb \u0111\u1ebfm \u0111\u01b0\u1ee3c s\u1ed1 \u00edt b\u1eaft \u0111\u1ea7u b\u1eb1ng m\u1ed9t \u00e2m nguy\u00ean \u00e2m: a, e, i, o, u. "
     },
     {
         "id": 60,
@@ -477,7 +477,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "to",
-        "hint": "At \u2192 v\u00e0o\nPoint at the teacher. \u2192 Ch\u1ec9 v\u00e0o h\u1ecdc sinh."
+        "hint": "At \u2192 v\u00e0o\nPoint at the pupils. \u2192 Ch\u1ec9 v\u00e0o h\u1ecdc sinh."
     },
     {
         "id": 61,
@@ -505,11 +505,11 @@
     },
     {
         "id": 64,
-        "sentence": "She\u2019s beautiful. And who\u2019s this ? \u2013 It\u2019s my elder brother. H__ name is Trung.",
+        "sentence": "Who\u2019s this ? \u2013 It\u2019s my elder brother. H__ name is Trung.",
         "imageUrl": "",
         "audioUrl": "",
         "answer": "is",
-        "hint": "His \u2192 c\u1ee7a anh \u1ea5y\nShe\u2019s beautiful. And who\u2019s this? \u2013 It\u2019s my elder brother. His name is Trung. \u2192 C\u00f4 \u1ea5y r\u1ea5t \u0111\u1eb9p. C\u00f2n \u0111\u00e2y l\u00e0 ai? \u2013 \u0110\u00e2y l\u00e0 anh trai t\u00f4i. T\u00ean anh \u1ea5y l\u00e0 Trung."
+        "hint": "His \u2192 c\u1ee7a anh \u1ea5y\nWho\u2019s this? \u2013 It\u2019s my elder brother. His name is Trung. \n\u2192 \u0110\u00e2y l\u00e0 ai? \u2013 \u0110\u00e2y l\u00e0 anh trai t\u00f4i. T\u00ean anh \u1ea5y l\u00e0 Trung."
     },
     {
         "id": 65,
@@ -529,11 +529,11 @@
     },
     {
         "id": 67,
-        "sentence": "There are many k____ in the sky.",
+        "sentence": "There are many kit____ in the sky.",
         "imageUrl": "",
         "audioUrl": "",
-        "answer": "ites",
-        "hint": "Kites \u2192 di\u1ec1u\nThere are many kites in the sky. \u2192 C\u00f3 nhi\u1ec1u con di\u1ec1u tr\u00ean b\u1ea7u tr\u1eddi."
+        "answer": "tes",
+        "hint": "Kites \u2192 di\u1ec1u\nThere are many kites in the sky.\n\u2192 C\u00f3 nhi\u1ec1u con di\u1ec1u tr\u00ean b\u1ea7u tr\u1eddi."
     },
     {
         "id": 68,
@@ -549,7 +549,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "How",
-        "hint": "How \u2192 nh\u01b0 th\u1ebf n\u00e0o\nHow do you spell your name, Sam? - It\u2019s S-A-M. \u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n t\u00ean c\u1ee7a b\u1ea1n nh\u01b0 th\u1ebf n\u00e0o, Sam? - \u0110\u00f3 l\u00e0 S-A-M."
+        "hint": "How \u2192 nh\u01b0 th\u1ebf n\u00e0o\nHow do you spell your name, Sam? - It\u2019s S-A-M. \n\u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n t\u00ean c\u1ee7a b\u1ea1n nh\u01b0 th\u1ebf n\u00e0o, Sam? - \u0110\u00f3 l\u00e0 S-A-M."
     },
     {
         "id": 70,
@@ -557,7 +557,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "ke",
-        "hint": "How \u2192 nh\u01b0 th\u1ebf n\u00e0o\nHow do you spell your name, Sam? - It\u2019s S-A-M. \u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n t\u00ean c\u1ee7a b\u1ea1n nh\u01b0 th\u1ebf n\u00e0o, Sam? - \u0110\u00f3 l\u00e0 S-A-M."
+        "hint": "Let\u2019s make a line, students.\n\u2192 H\u00e3y t\u1ea1o th\u00e0nh m\u1ed9t h\u00e0ng, c\u00e1c em h\u1ecdc sinh."
     },
     {
         "id": 71,
@@ -577,10 +577,10 @@
     },
     {
         "id": 73,
-        "sentence": "My n__me is Hieu.",
+        "sentence": "My n___e is Hieu.",
         "imageUrl": "",
         "audioUrl": "",
-        "answer": "a",
+        "answer": "am",
         "hint": "Name \u2192 t\u00ean\nMy name is Hieu. \u2192 T\u00ean t\u00f4i l\u00e0 Hi\u1ebfu."
     },
     {
@@ -589,7 +589,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "an",
-        "hint": "An \u2192 m\u1ed9t\nIs this an eraser? \u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i l\u00e0 m\u1ed9t c\u1ee5c t\u1ea9y kh\u00f4ng?"
+        "hint": "An \u2192 m\u1ed9t\nIs this an eraser? \u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i l\u00e0 m\u1ed9t c\u1ee5c t\u1ea9y kh\u00f4ng?\n\"a\" \u0111\u01b0\u1ee3c d\u00f9ng tr\u01b0\u1edbc danh t\u1eeb \u0111\u1ebfm \u0111\u01b0\u1ee3c s\u1ed1 \u00edt b\u1eaft \u0111\u1ea7u b\u1eb1ng \u00e2m ph\u1ee5 \u00e2m.\n\"an\" \u0111\u01b0\u1ee3c d\u00f9ng tr\u01b0\u1edbc danh t\u1eeb \u0111\u1ebfm \u0111\u01b0\u1ee3c s\u1ed1 \u00edt b\u1eaft \u0111\u1ea7u b\u1eb1ng m\u1ed9t \u00e2m nguy\u00ean \u00e2m: a, e, i, o, u. "
     },
     {
         "id": 75,
@@ -597,7 +597,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "Do",
-        "hint": "Does \u2192 c\u00f3 ph\u1ea3i\nDoes she like table tennis? \u2192 C\u00f4 \u1ea5y c\u00f3 th\u00edch ch\u01a1i b\u00f3ng b\u00e0n kh\u00f4ng?\n"
+        "hint": "Does she like table tennis? \n\u2192 C\u00f4 \u1ea5y c\u00f3 th\u00edch ch\u01a1i b\u00f3ng b\u00e0n kh\u00f4ng?"
     },
     {
         "id": 76,
@@ -605,7 +605,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "Wh",
-        "hint": "What \u2192 g\u00ec\nWhat is your name? - My name is Hung. \u2192 T\u00ean c\u1ee7a b\u1ea1n l\u00e0 g\u00ec? - T\u00ean t\u00f4i l\u00e0 H\u00f9ng."
+        "hint": "What \u2192 g\u00ec\nWhat is your name? - My name is Hung. \n\u2192 T\u00ean c\u1ee7a b\u1ea1n l\u00e0 g\u00ec? - T\u00ean t\u00f4i l\u00e0 H\u00f9ng."
     },
     {
         "id": 77,
@@ -613,7 +613,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/clean.png",
         "audioUrl": "",
         "answer": "lean",
-        "hint": "Clean \u2192 d\u1ecdn d\u1eb9p\nThis is the way I clean my room. \u2192 \u0110\u00e2y l\u00e0 c\u00e1ch t\u00f4i d\u1ecdn d\u1eb9p ph\u00f2ng c\u1ee7a m\u00ecnh."
+        "hint": "Clean \u2192 d\u1ecdn d\u1eb9p\nThis is the way I clean my room. \n\u2192 \u0110\u00e2y l\u00e0 c\u00e1ch t\u00f4i d\u1ecdn d\u1eb9p ph\u00f2ng c\u1ee7a m\u00ecnh."
     },
     {
         "id": 78,
@@ -637,14 +637,14 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "ha",
-        "hint": "What \u2192 g\u00ec\nWhat is this? \u2013 This is a marker. \u2192 \u0110\u00e2y l\u00e0 g\u00ec? \u2013 \u0110\u00e2y l\u00e0 m\u1ed9t b\u00fat l\u00f4ng."
+        "hint": "What \u2192 g\u00ec\nWhat is this? \u2013 This is a marker. \n\u2192 \u0110\u00e2y l\u00e0 g\u00ec? \u2013 \u0110\u00e2y l\u00e0 m\u1ed9t b\u00fat l\u00f4ng."
     },
     {
         "id": 81,
-        "sentence": "I like basketba__.",
+        "sentence": "I like basketb___.",
         "imageUrl": "",
         "audioUrl": "",
-        "answer": "ll",
+        "answer": "all",
         "hint": "Ball \u2192 b\u00f3ng\nBasketball \u2192 b\u00f3ng r\u1ed5\nI like basketball. \u2192 T\u00f4i th\u00edch b\u00f3ng r\u1ed5."
     },
     {
@@ -661,7 +661,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "Who",
-        "hint": "Who \u2192 Ai\nWho is that? \u2013 That is my younger brother. \u2192 Ai kia? \u2013 \u0110\u00f3 l\u00e0 em trai t\u00f4i."
+        "hint": "Who \u2192 Ai\nWho is that? \u2013 That is my younger brother.  \n\u2192 Ai kia? \u2013 \u0110\u00f3 l\u00e0 em trai t\u00f4i."
     },
     {
         "id": 84,
@@ -685,7 +685,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "orit",
-        "hint": "Favorite \u2192 y\u00eau th\u00edch\nWhat is your favorite food? \u2192 M\u00f3n \u0103n y\u00eau th\u00edch c\u1ee7a b\u1ea1n l\u00e0 g\u00ec?"
+        "hint": "Favorite \u2192 y\u00eau th\u00edch\nWhat is your favorite food? \n\u2192 M\u00f3n \u0103n y\u00eau th\u00edch c\u1ee7a b\u1ea1n l\u00e0 g\u00ec?"
     },
     {
         "id": 87,
@@ -701,7 +701,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "n",
-        "hint": "On \u2192 tr\u00ean\nThere are two books on the table. \u2192 C\u00f3 hai quy\u1ec3n s\u00e1ch tr\u00ean b\u00e0n."
+        "hint": "On \u2192 tr\u00ean\nThere are two books on the table. \n\u2192 C\u00f3 hai quy\u1ec3n s\u00e1ch tr\u00ean b\u00e0n."
     },
     {
         "id": 89,
@@ -709,7 +709,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "re",
-        "hint": "Picture \u2192 b\u1ee9c tranh\nI draw a picture in the room. \u2192 T\u00f4i v\u1ebd m\u1ed9t b\u1ee9c tranh trong ph\u00f2ng."
+        "hint": "Picture \u2192 b\u1ee9c tranh\nI draw a picture in the room. \n\u2192 T\u00f4i v\u1ebd m\u1ed9t b\u1ee9c tranh trong ph\u00f2ng."
     },
     {
         "id": 90,
@@ -717,7 +717,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "e",
-        "hint": "table\u2192 c\u00e1i b\u00e0n\nPut your books on the table. \u2192 \u0110\u1eb7t s\u00e1ch c\u1ee7a b\u1ea1n l\u00ean b\u00e0n."
+        "hint": "Table\u2192 c\u00e1i b\u00e0n\nPut your books on the table. \n\u2192 \u0110\u1eb7t s\u00e1ch c\u1ee7a b\u1ea1n l\u00ean b\u00e0n."
     },
     {
         "id": 91,
@@ -733,7 +733,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "v",
-        "hint": "Give \u2192 \u0111\u01b0a\nGive me the book, please. \u2192 L\u00e0m \u01a1n \u0111\u01b0a t\u00f4i quy\u1ec3n s\u00e1ch."
+        "hint": "Give \u2192 \u0111\u01b0a\nGive me the book, please. \n\u2192 L\u00e0m \u01a1n \u0111\u01b0a t\u00f4i quy\u1ec3n s\u00e1ch."
     },
     {
         "id": 93,
@@ -749,7 +749,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "old",
-        "hint": "Old \u2192 tu\u1ed5i\nHow old are you? \u2013 I\u2019m seven years old. \u2192 B\u1ea1n bao nhi\u00eau tu\u1ed5i? \u2013 T\u00f4i b\u1ea3y tu\u1ed5i."
+        "hint": "Old \u2192 tu\u1ed5i\nHow old are you? \u2013 I\u2019m seven years old. \n\u2192 B\u1ea1n bao nhi\u00eau tu\u1ed5i? \u2013 T\u00f4i b\u1ea3y tu\u1ed5i."
     },
     {
         "id": 95,
@@ -765,7 +765,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "long",
-        "hint": "Long \u2192 d\u00e0i\nNam\u2019s pencil is long but mine is short. \u2192 B\u00fat ch\u00ec c\u1ee7a Nam d\u00e0i nh\u01b0ng b\u00fat c\u1ee7a t\u00f4i th\u00ec ng\u1eafn."
+        "hint": "Long \u2192 d\u00e0i\nNam\u2019s pencil is long but mine is short. \n\u2192 B\u00fat ch\u00ec c\u1ee7a Nam d\u00e0i nh\u01b0ng b\u00fat c\u1ee7a t\u00f4i th\u00ec ng\u1eafn."
     },
     {
         "id": 97,
@@ -773,7 +773,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "much",
-        "hint": "Much \u2192 nhi\u1ec1u\nThis gift is for you. - Thank you very much. \u2192 \u0110\u00e2y l\u00e0 m\u00f3n qu\u00e0 d\u00e0nh cho b\u1ea1n. - C\u1ea3m \u01a1n b\u1ea1n r\u1ea5t nhi\u1ec1u."
+        "hint": "Much \u2192 nhi\u1ec1u\nThis gift is for you. - Thank you very much. \n\u2192 \u0110\u00e2y l\u00e0 m\u00f3n qu\u00e0 d\u00e0nh cho b\u1ea1n. - C\u1ea3m \u01a1n b\u1ea1n r\u1ea5t nhi\u1ec1u."
     },
     {
         "id": 98,
@@ -781,7 +781,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "No",
-        "hint": "No \u2192 kh\u00f4ng\nIs your school small? - No, it\u2019s big. \u2192 Tr\u01b0\u1eddng c\u1ee7a b\u1ea1n c\u00f3 nh\u1ecf kh\u00f4ng? - Kh\u00f4ng, n\u00f3 l\u1edbn."
+        "hint": "No \u2192 kh\u00f4ng\nIs your school small? - No, it\u2019s big. \n\u2192 Tr\u01b0\u1eddng c\u1ee7a b\u1ea1n c\u00f3 nh\u1ecf kh\u00f4ng? - Kh\u00f4ng, n\u00f3 l\u1edbn."
     },
     {
         "id": 99,
@@ -789,7 +789,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "do",
-        "hint": "How do you spell your name? \u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n t\u00ean c\u1ee7a b\u1ea1n nh\u01b0 th\u1ebf n\u00e0o?"
+        "hint": "How do you spell your name? \n\u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n t\u00ean c\u1ee7a b\u1ea1n nh\u01b0 th\u1ebf n\u00e0o?"
     },
     {
         "id": 100,
@@ -805,7 +805,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "the",
-        "hint": "Piano \u2192 \u0111\u00e0n piano\nSue is playing the piano. \u2192 Sue \u0111ang ch\u01a1i \u0111\u00e0n piano.\nKhi n\u00f3i v\u1ec1 m\u1ed9t ng\u01b0\u1eddi ch\u01a1i m\u1ed9t nh\u1ea1c c\u1ee5, ti\u1ebfng Anh th\u01b0\u1eddng s\u1eed d\u1ee5ng \"the\" tr\u01b0\u1edbc nh\u1ea1c c\u1ee5 \u0111\u00f3.\n"
+        "hint": "Piano \u2192 \u0111\u00e0n piano\nSue is playing the piano. \u2192 Sue \u0111ang ch\u01a1i \u0111\u00e0n piano.\nKhi n\u00f3i v\u1ec1 m\u1ed9t ng\u01b0\u1eddi ch\u01a1i m\u1ed9t nh\u1ea1c c\u1ee5, ti\u1ebfng Anh th\u01b0\u1eddng s\u1eed d\u1ee5ng \"the\" tr\u01b0\u1edbc nh\u1ea1c c\u1ee5 \u0111\u00f3."
     },
     {
         "id": 102,
@@ -813,7 +813,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "nd",
-        "hint": "And \u2192 v\u00e0\nMy mother is a doctor and my father is an architect. \u2192 M\u1eb9 t\u00f4i l\u00e0 b\u00e1c s\u0129 v\u00e0 b\u1ed1 t\u00f4i l\u00e0 ki\u1ebfn tr\u00fac s\u01b0."
+        "hint": "And \u2192 v\u00e0\nMy mother is a doctor and my father is an architect. \n\u2192 M\u1eb9 t\u00f4i l\u00e0 b\u00e1c s\u0129 v\u00e0 b\u1ed1 t\u00f4i l\u00e0 ki\u1ebfn tr\u00fac s\u01b0."
     },
     {
         "id": 103,
@@ -821,7 +821,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "a",
-        "hint": "A \u2192 m\u1ed9t\nThere\u2019s a big tree behind my house. \u2192 C\u00f3 m\u1ed9t c\u00e1i c\u00e2y l\u1edbn ph\u00eda sau nh\u00e0 t\u00f4i."
+        "hint": "A \u2192 m\u1ed9t\nThere\u2019s a big tree behind my house. \n\u2192 C\u00f3 m\u1ed9t c\u00e1i c\u00e2y l\u1edbn ph\u00eda sau nh\u00e0 t\u00f4i."
     },
     {
         "id": 104,
@@ -837,23 +837,23 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "lley",
-        "hint": "Volleyball \u2192 b\u00f3ng chuy\u1ec1n\nThey are playing volleyball in the park. \u2192 H\u1ecd \u0111ang ch\u01a1i b\u00f3ng chuy\u1ec1n trong c\u00f4ng vi\u00ean."
+        "hint": "Volleyball \u2192 b\u00f3ng chuy\u1ec1n\nThey are playing volleyball in the park. \n\u2192 H\u1ecd \u0111ang ch\u01a1i b\u00f3ng chuy\u1ec1n trong c\u00f4ng vi\u00ean."
     },
     {
         "id": 106,
         "sentence": "Nam has two dogs and o__ iguana.",
         "imageUrl": "",
         "audioUrl": "",
-        "answer": "one",
-        "hint": "One \u2192 m\u1ed9t\nNam has two dogs and one iguana. \u2192 Nam c\u00f3 hai con ch\u00f3 v\u00e0 m\u1ed9t con k\u1ef3 \u0111\u00e0."
+        "answer": "ne",
+        "hint": "One \u2192 m\u1ed9t\nNam has two dogs and one iguana. \n\u2192 Nam c\u00f3 hai con ch\u00f3 v\u00e0 m\u1ed9t con k\u1ef3 \u0111\u00e0."
     },
     {
         "id": 107,
-        "sentence": "How m___ tables are there in your classroom? \u2013 Twenty.",
+        "sentence": "How m___ tables are there in your classroom?",
         "imageUrl": "",
         "audioUrl": "",
         "answer": "any",
-        "hint": "Many \u2192 bao nhi\u00eau\nHow many tables are there in your classroom? \u2013 Twenty. \u2192 C\u00f3 bao nhi\u00eau c\u00e1i b\u00e0n trong l\u1edbp h\u1ecdc c\u1ee7a b\u1ea1n? \u2013 Hai m\u01b0\u01a1i c\u00e1i."
+        "hint": "Many \u2192 bao nhi\u00eau\nHow many tables are there in your classroom?\n\u2192 C\u00f3 bao nhi\u00eau c\u00e1i b\u00e0n trong l\u1edbp h\u1ecdc c\u1ee7a b\u1ea1n?"
     },
     {
         "id": 108,
@@ -877,7 +877,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "for",
-        "hint": "For \u2192 cho\nWhat do we have for dinner, Mom? \u2192 M\u1eb9 \u01a1i, ch\u00fang ta c\u00f3 m\u00f3n g\u00ec cho b\u1eefa t\u1ed1i?"
+        "hint": "For \u2192 cho\nWhat do we have for dinner, Mom? \n\u2192 M\u1eb9 \u01a1i, ch\u00fang ta c\u00f3 m\u00f3n g\u00ec cho b\u1eefa t\u1ed1i?"
     },
     {
         "id": 111,
@@ -885,7 +885,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "at",
-        "hint": "At  the moment \u2192 v\u00e0o l\u00fac n\u00e0y / ngay b\u00e2y gi\u1edd\nTheir kids are having lunch at the moment. \u2192 Con c\u1ee7a h\u1ecd \u0111ang \u0103n tr\u01b0a v\u00e0o l\u00fac n\u00e0y."
+        "hint": "At  the moment \u2192 v\u00e0o l\u00fac n\u00e0y / ngay b\u00e2y gi\u1edd\nTheir kids are having lunch at the moment. \n\u2192 Con c\u1ee7a h\u1ecd \u0111ang \u0103n tr\u01b0a v\u00e0o l\u00fac n\u00e0y."
     },
     {
         "id": 112,
@@ -901,7 +901,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "are",
-        "hint": "What are you watching? \u2192 B\u1ea1n \u0111ang xem g\u00ec v\u1eady?\n\u0110\u00e2y l\u00e0 c\u00e2u h\u1ecfi th\u00ec hi\u1ec7n t\u1ea1i ti\u1ebfp di\u1ec5n \u0111\u1ec3 h\u1ecfi ai \u0111\u00f3 \u0111ang xem g\u00ec.\n\"Are\" l\u00e0 tr\u1ee3 \u0111\u1ed9ng t\u1eeb c\u1ea7n \u0111i\u1ec1n v\u00e0o ch\u1ed7 tr\u1ed1ng v\u00ec ch\u1ee7 ng\u1eef l\u00e0 \"you\"."
+        "hint": "What are you watching? \u2192 B\u1ea1n \u0111ang xem g\u00ec v\u1eady?\n\u0110\u00e2y l\u00e0 c\u00e2u h\u1ecfi th\u00ec hi\u1ec7n t\u1ea1i ti\u1ebfp di\u1ec5n.\n\"Are\" l\u00e0 tr\u1ee3 \u0111\u1ed9ng t\u1eeb c\u1ea7n \u0111i\u1ec1n v\u00e0o ch\u1ed7 tr\u1ed1ng v\u00ec ch\u1ee7 ng\u1eef l\u00e0 \"you\"."
     },
     {
         "id": 114,
@@ -917,7 +917,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "rand",
-        "hint": "Grandmother \u2192 b\u00e0 n\u1ed9i/b\u00e0 ngo\u1ea1i\nHow old is your grandmother? \u2192 B\u00e0 c\u1ee7a b\u1ea1n bao nhi\u00eau tu\u1ed5i?"
+        "hint": "Grandmother \u2192 b\u00e0\nHow old is your grandmother? \u2192 B\u00e0 c\u1ee7a b\u1ea1n bao nhi\u00eau tu\u1ed5i?"
     },
     {
         "id": 116,
@@ -925,7 +925,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "ll",
-        "hint": "Full \u2192 \u0111\u1ea7y \u0111\u1ee7\nHow do you spell your full name? \u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n \u0111\u1ea7y \u0111\u1ee7 t\u00ean c\u1ee7a m\u00ecnh nh\u01b0 th\u1ebf n\u00e0o?"
+        "hint": "Full \u2192 \u0111\u1ea7y \u0111\u1ee7\nHow do you spell your full name? \n\u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n \u0111\u1ea7y \u0111\u1ee7 t\u00ean c\u1ee7a m\u00ecnh nh\u01b0 th\u1ebf n\u00e0o?"
     },
     {
         "id": 117,
@@ -933,7 +933,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "ing",
-        "hint": "Do \u2192 l\u00e0m\nWhat\u2019s your sister doing? \u2192 Ch\u1ecb g\u00e1i c\u1ee7a b\u1ea1n \u0111ang l\u00e0m g\u00ec?\nC\u1ea5u tr\u00fac c\u1ee7a c\u00e2u h\u1ecfi \u1edf th\u00ec hi\u1ec7n t\u1ea1i ti\u1ebfp di\u1ec5n:\nWhat + is/am/are + S + V-ing?\nV\u00ec ch\u1ee7 ng\u1eef \"your sister\" l\u00e0 ng\u00f4i th\u1ee9 ba s\u1ed1 \u00edt (she), n\u00ean \u0111\u1ed9ng t\u1eeb \"to be\" ph\u1ea3i l\u00e0 \"is\".\n\u0110\u1ed9ng t\u1eeb \"do\" ph\u1ea3i chuy\u1ec3n th\u00e0nh d\u1ea1ng V-ing \u2192 \"doing\"."
+        "hint": "Do \u2192 l\u00e0m\nWhat\u2019s your sister doing? \u2192 Ch\u1ecb g\u00e1i c\u1ee7a b\u1ea1n \u0111ang l\u00e0m g\u00ec?\nC\u1ea5u tr\u00fac c\u1ee7a c\u00e2u h\u1ecfi \u1edf th\u00ec hi\u1ec7n t\u1ea1i ti\u1ebfp di\u1ec5n:\nV\u00ec ch\u1ee7 ng\u1eef \"your sister\" l\u00e0 ng\u00f4i th\u1ee9 ba s\u1ed1 \u00edt (she), n\u00ean \u0111\u1ed9ng t\u1eeb \"to be\" ph\u1ea3i l\u00e0 \"is\".\n\u0110\u1ed9ng t\u1eeb \"do\" ph\u1ea3i chuy\u1ec3n th\u00e0nh d\u1ea1ng V-ing \u2192 \"doing\"."
     },
     {
         "id": 118,
@@ -941,7 +941,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "ere",
-        "hint": "Where \u2192 \u1edf \u0111\u00e2u\nWhere\u2019s your Dad? \u2013 He\u2019s in the garden. \u2192 B\u1ed1 c\u1ee7a b\u1ea1n \u1edf \u0111\u00e2u? \u2013 \u00d4ng \u1ea5y \u0111ang \u1edf trong v\u01b0\u1eddn."
+        "hint": "Where \u2192 \u1edf \u0111\u00e2u\nWhere\u2019s your Dad? \u2013 He\u2019s in the garden. \n\u2192 B\u1ed1 c\u1ee7a b\u1ea1n \u1edf \u0111\u00e2u? \u2013 \u00d4ng \u1ea5y \u0111ang \u1edf trong v\u01b0\u1eddn."
     },
     {
         "id": 119,
@@ -957,7 +957,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "ith",
-        "hint": "With \u2192 v\u1edbi\nI am in the reading room with my friends. \u2192 T\u00f4i \u0111ang \u1edf trong ph\u00f2ng \u0111\u1ecdc s\u00e1ch v\u1edbi b\u1ea1n b\u00e8 c\u1ee7a t\u00f4i."
+        "hint": "With \u2192 v\u1edbi\nI am in the reading room with my friends. \n\u2192 T\u00f4i \u0111ang \u1edf trong ph\u00f2ng \u0111\u1ecdc s\u00e1ch v\u1edbi b\u1ea1n b\u00e8 c\u1ee7a t\u00f4i."
     },
     {
         "id": 121,
@@ -965,7 +965,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "to",
-        "hint": "\u0110\u1ed9ng t\u1eeb \"want\" th\u01b0\u1eddng \u0111\u01b0\u1ee3c theo sau b\u1edfi \"to + V\" (\u0111\u1ed9ng t\u1eeb nguy\u00ean m\u1eabu).\nwant to do something \u2192 mu\u1ed1n l\u00e0m g\u00ec \u0111\u00f3\nI don\u2019t want to buy more toys. \u2192 T\u00f4i kh\u00f4ng mu\u1ed1n mua th\u00eam \u0111\u1ed3 ch\u01a1i."
+        "hint": "want to + V(\u0111\u1ed9ng t\u1eeb nguy\u00ean m\u1eabu).\u2192 mu\u1ed1n l\u00e0m g\u00ec \u0111\u00f3\nI don\u2019t want to buy more toys. \n\u2192 T\u00f4i kh\u00f4ng mu\u1ed1n mua th\u00eam \u0111\u1ed3 ch\u01a1i."
     },
     {
         "id": 122,
@@ -973,7 +973,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "No",
-        "hint": "Is there any + danh t\u1eeb kh\u00f4ng \u0111\u1ebfm \u0111\u01b0\u1ee3c + in/on/at...?\" \u2192 D\u00f9ng \u0111\u1ec3 h\u1ecfi v\u1ec1 s\u1ef1 t\u1ed3n t\u1ea1i c\u1ee7a m\u1ed9t th\u1ee9 g\u00ec \u0111\u00f3.\n\"Any\" th\u01b0\u1eddng d\u00f9ng trong c\u00e2u ph\u1ee7 \u0111\u1ecbnh ho\u1eb7c c\u00e2u h\u1ecfi v\u1edbi danh t\u1eeb kh\u00f4ng \u0111\u1ebfm \u0111\u01b0\u1ee3c (milk - s\u1eefa).\n\u0110i\u1ec1n \"No\" v\u00ec \u0111\u00e2y l\u00e0 c\u00e2u tr\u1ea3 l\u1eddi ph\u1ee7 \u0111\u1ecbnh.\n\"No, there isn\u2019t.\" l\u00e0 c\u00e1ch tr\u1ea3 l\u1eddi ti\u00eau chu\u1ea9n khi d\u00f9ng \"Is there...\" trong c\u00e2u h\u1ecfi.\nIs there any milk in the fridge? \u2013 No, there isn\u2019t. \u2192 Trong t\u1ee7 l\u1ea1nh c\u00f3 s\u1eefa kh\u00f4ng? \u2013 Kh\u00f4ng, kh\u00f4ng c\u00f3."
+        "hint": "Tr\u1ea3 l\u1eddi cho c\u00e2u h\u1ecfi \"Is there...?\" (C\u00f3 ... kh\u00f4ng?)\n - Yes, there is. (V\u00e2ng, c\u00f3 \u0111\u1ea5y.)\n - No, there isn\u2019t. (Kh\u00f4ng, kh\u00f4ng c\u00f3.)\nIs there any milk in the fridge? \u2013 No, there isn\u2019t. \n\u2192 Trong t\u1ee7 l\u1ea1nh c\u00f3 s\u1eefa kh\u00f4ng? \u2013 Kh\u00f4ng, kh\u00f4ng c\u00f3."
     },
     {
         "id": 123,
@@ -981,7 +981,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "at",
-        "hint": "What \u2192 g\u00ec\nWhat color is your sweater? \u2192 \u00c1o len c\u1ee7a b\u1ea1n m\u00e0u g\u00ec?"
+        "hint": "What \u2192 g\u00ec\nWhat color is your sweater? \n\u2192 \u00c1o len c\u1ee7a b\u1ea1n m\u00e0u g\u00ec?"
     },
     {
         "id": 124,
@@ -989,7 +989,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "years",
-        "hint": "C\u1ea5u tr\u00fac c\u00e2u n\u00f3i v\u1ec1 tu\u1ed5i:\n\"I\u2019m + s\u1ed1 + years old.\" \u2192 D\u00f9ng \u0111\u1ec3 n\u00f3i v\u1ec1 tu\u1ed5i c\u1ee7a ai \u0111\u00f3.\n\"Years\" l\u00e0 d\u1ea1ng s\u1ed1 nhi\u1ec1u c\u1ee7a \"year\" v\u00ec s\u1ed1 tu\u1ed5i th\u01b0\u1eddng l\u1edbn h\u01a1n 1.\nI\u2019m eight years old. \u2192 T\u00f4i t\u00e1m tu\u1ed5i."
+        "hint": "I\u2019m eight years old. \u2192 T\u00f4i t\u00e1m tu\u1ed5i."
     },
     {
         "id": 125,
@@ -997,11 +997,11 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "at",
-        "hint": "\"At present\" = hi\u1ec7n t\u1ea1i, b\u00e2y gi\u1edd (t\u01b0\u01a1ng \u0111\u01b0\u01a1ng v\u1edbi \"now\").\nC\u1ee5m n\u00e0y \u0111\u01b0\u1ee3c d\u00f9ng \u0111\u1ec3 di\u1ec5n t\u1ea3 m\u1ed9t h\u00e0nh \u0111\u1ed9ng \u0111ang di\u1ec5n ra \u1edf th\u1eddi \u0111i\u1ec3m hi\u1ec7n t\u1ea1i.\nC\u00e2u n\u00e0y s\u1eed d\u1ee5ng th\u00ec hi\u1ec7n t\u1ea1i ti\u1ebfp di\u1ec5n (are playing) n\u00ean \"at present\" ph\u00f9 h\u1ee3p \u0111\u1ec3 ch\u1ec9 h\u00e0nh \u0111\u1ed9ng \u0111ang di\u1ec5n ra.\nThe girls are playing hide-and-seek at present. \u2192 C\u00e1c c\u00f4 g\u00e1i \u0111ang ch\u01a1i tr\u1ed1n t\u00ecm v\u00e0o l\u00fac n\u00e0y."
+        "hint": "\"At present\" = hi\u1ec7n t\u1ea1i, b\u00e2y gi\u1edd (t\u01b0\u01a1ng \u0111\u01b0\u01a1ng v\u1edbi \"now\").\nC\u1ee5m n\u00e0y \u0111\u01b0\u1ee3c d\u00f9ng \u0111\u1ec3 di\u1ec5n t\u1ea3 m\u1ed9t h\u00e0nh \u0111\u1ed9ng \u0111ang di\u1ec5n ra \u1edf th\u1eddi \u0111i\u1ec3m hi\u1ec7n t\u1ea1i.\nThe girls are playing hide-and-seek at present. \n\u2192 C\u00e1c c\u00f4 g\u00e1i \u0111ang ch\u01a1i tr\u1ed1n t\u00ecm v\u00e0o l\u00fac n\u00e0y."
     },
     {
         "id": 126,
-        "sentence": "How many rul__s do you have?",
+        "sentence": "How many rul__ do you have?",
         "imageUrl": "",
         "audioUrl": "",
         "answer": "ers",
@@ -1013,7 +1013,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "ame",
-        "hint": "Name \u2192 t\u00ean\nHello! My name is Phong. \u2192 Xin ch\u00e0o! T\u00f4i t\u00ean l\u00e0 Phong."
+        "hint": "Name \u2192 t\u00ean\nHello! My name is Phong. \n\u2192 Xin ch\u00e0o! T\u00f4i t\u00ean l\u00e0 Phong."
     },
     {
         "id": 128,
@@ -1021,7 +1021,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "lot",
-        "hint": "\"A lot of\" = r\u1ea5t nhi\u1ec1u, d\u00f9ng \u0111\u1ec3 n\u00f3i v\u1ec1 s\u1ed1 l\u01b0\u1ee3ng l\u1edbn c\u1ee7a m\u1ed9t th\u1ee9 g\u00ec \u0111\u00f3.\n\"Fun\" (ni\u1ec1m vui) l\u00e0 danh t\u1eeb kh\u00f4ng \u0111\u1ebfm \u0111\u01b0\u1ee3c, n\u00ean c\u00f3 th\u1ec3 \u0111i v\u1edbi \"a lot of\".\nWe have a lot of fun at the playground. \u2192 Ch\u00fang t\u00f4i c\u00f3 r\u1ea5t nhi\u1ec1u ni\u1ec1m vui \u1edf s\u00e2n ch\u01a1i."
+        "hint": "\"A lot of\" = r\u1ea5t nhi\u1ec1u\n\"Fun\" (ni\u1ec1m vui) l\u00e0 danh t\u1eeb kh\u00f4ng \u0111\u1ebfm \u0111\u01b0\u1ee3c, n\u00ean c\u00f3 th\u1ec3 \u0111i v\u1edbi \"a lot of\".\nWe have a lot of fun at the playground. \n\u2192 Ch\u00fang t\u00f4i c\u00f3 r\u1ea5t nhi\u1ec1u ni\u1ec1m vui \u1edf s\u00e2n ch\u01a1i."
     },
     {
         "id": 129,
@@ -1029,7 +1029,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "do",
-        "hint": "V\u00ec \"they\" l\u00e0 ch\u1ee7 ng\u1eef s\u1ed1 nhi\u1ec1u, n\u00ean ph\u1ea3i d\u00f9ng \"do\", kh\u00f4ng d\u00f9ng \"does\".\nWhat do they often do at break time? \u2192 H\u1ecd th\u01b0\u1eddng l\u00e0m g\u00ec v\u00e0o gi\u1edd gi\u1ea3i lao?"
+        "hint": "V\u00ec \"they\" l\u00e0 ch\u1ee7 ng\u1eef s\u1ed1 nhi\u1ec1u, n\u00ean ph\u1ea3i d\u00f9ng \"do\", kh\u00f4ng d\u00f9ng \"does\".\nWhat do they often do at break time? \n\u2192 H\u1ecd th\u01b0\u1eddng l\u00e0m g\u00ec v\u00e0o gi\u1edd gi\u1ea3i lao?"
     },
     {
         "id": 130,
@@ -1037,7 +1037,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "rite",
-        "hint": "Favorite \u2192 y\u00eau th\u00edch\nBlue is my favorite color. \u2192 M\u00e0u xanh l\u00e0 m\u00e0u y\u00eau th\u00edch c\u1ee7a t\u00f4i."
+        "hint": "Favorite \u2192 y\u00eau th\u00edch\nBlue is my favorite color. \n\u2192 M\u00e0u xanh l\u00e0 m\u00e0u y\u00eau th\u00edch c\u1ee7a t\u00f4i."
     },
     {
         "id": 131,
@@ -1045,7 +1045,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "ike",
-        "hint": "Like \u2192 nh\u01b0 th\u1ebf n\u00e0o\n\"Like\" \u1edf \u0111\u00e2y kh\u00f4ng c\u00f3 ngh\u0129a l\u00e0 th\u00edch, m\u00e0 d\u00f9ng \u0111\u1ec3 m\u00f4 t\u1ea3 \u0111\u1eb7c \u0111i\u1ec3m c\u1ee7a th\u1eddi ti\u1ebft.\nWhat\u2019s the weather like today? \u2192 Th\u1eddi ti\u1ebft h\u00f4m nay nh\u01b0 th\u1ebf n\u00e0o?"
+        "hint": "Like \u2192 nh\u01b0 th\u1ebf n\u00e0o\n\"Like\" \u1edf \u0111\u00e2y kh\u00f4ng c\u00f3 ngh\u0129a l\u00e0 th\u00edch, m\u00e0 d\u00f9ng \u0111\u1ec3 m\u00f4 t\u1ea3 \u0111\u1eb7c \u0111i\u1ec3m c\u1ee7a th\u1eddi ti\u1ebft.\nWhat\u2019s the weather like today? \n\u2192 Th\u1eddi ti\u1ebft h\u00f4m nay nh\u01b0 th\u1ebf n\u00e0o?"
     },
     {
         "id": 132,
@@ -1053,7 +1053,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "anks",
-        "hint": "Thanks /Thank you \u2192 c\u1ea3m \u01a1n\nHow are you, Mai? \u2013 I\u2019m good. Thanks. \u2192 Mai, b\u1ea1n kh\u1ecfe kh\u00f4ng? \u2013 M\u00ecnh kh\u1ecfe. C\u1ea3m \u01a1n."
+        "hint": "Thanks /Thank you \u2192 c\u1ea3m \u01a1n\nHow are you, Mai? \u2013 I\u2019m good. Thanks. \n\u2192 Mai, b\u1ea1n kh\u1ecfe kh\u00f4ng? \u2013 M\u00ecnh kh\u1ecfe. C\u1ea3m \u01a1n."
     },
     {
         "id": 133,
@@ -1069,7 +1069,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "ea",
-        "hint": "Teacher \u2192 gi\u00e1o vi\u00ean\nMary\u2019s mother is a teacher. \u2192 M\u1eb9 c\u1ee7a Mary l\u00e0 m\u1ed9t gi\u00e1o vi\u00ean."
+        "hint": "Teacher \u2192 gi\u00e1o vi\u00ean\nMary\u2019s mother is a teacher. \n\u2192 M\u1eb9 c\u1ee7a Mary l\u00e0 m\u1ed9t gi\u00e1o vi\u00ean."
     },
     {
         "id": 135,
@@ -1077,7 +1077,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "re",
-        "hint": "Here \u2192 \u0111\u00e2y\nHere is a picture of my room. \u2192 \u0110\u00e2y l\u00e0 m\u1ed9t b\u1ee9c \u1ea3nh v\u1ec1 ph\u00f2ng c\u1ee7a t\u00f4i."
+        "hint": "Here \u2192 \u0111\u00e2y\nHere is a picture of my room. \n\u2192 \u0110\u00e2y l\u00e0 m\u1ed9t b\u1ee9c \u1ea3nh v\u1ec1 ph\u00f2ng c\u1ee7a t\u00f4i."
     },
     {
         "id": 136,
@@ -1093,7 +1093,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "to",
-        "hint": "Trong ti\u1ebfng Anh, \"listen\" (nghe) lu\u00f4n \u0111i v\u1edbi gi\u1edbi t\u1eeb \"to\" khi c\u00f3 t\u00e2n ng\u1eef ph\u00eda sau.\nlisten to + danh t\u1eeb \u2192 (nghe c\u00e1i g\u00ec \u0111\u00f3)\nHer brother is listening to music. \u2192 Anh trai c\u1ee7a c\u00f4 \u1ea5y \u0111ang nghe nh\u1ea1c."
+        "hint": "listen to \u2192 nghe c\u00e1i g\u00ec \u0111\u00f3\nHer brother is listening to music. \n\u2192 Anh trai c\u1ee7a c\u00f4 \u1ea5y \u0111ang nghe nh\u1ea1c."
     },
     {
         "id": 138,
@@ -1101,7 +1101,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "ke",
-        "hint": "Like \u2192 th\u00edch\nDoes Peter like soccer? \u2192 Peter c\u00f3 th\u00edch b\u00f3ng \u0111\u00e1 kh\u00f4ng?"
+        "hint": "Like \u2192 th\u00edch\nDoes Peter like soccer? \n\u2192 Peter c\u00f3 th\u00edch b\u00f3ng \u0111\u00e1 kh\u00f4ng?"
     },
     {
         "id": 139,
@@ -1109,7 +1109,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "ches",
-        "hint": "Watch \u2192 xem\nMy father often watches TV after dinner. \u2192 B\u1ed1 t\u00f4i th\u01b0\u1eddng xem TV sau b\u1eefa t\u1ed1i."
+        "hint": "Watch \u2192 xem\nMy father often watches TV after dinner. \n\u2192 B\u1ed1 t\u00f4i th\u01b0\u1eddng xem TV sau b\u1eefa t\u1ed1i.\n* Khi d\u00f9ng th\u00ec Hi\u1ec7n t\u1ea1i \u0111\u01a1n v\u1edbi ng\u00f4i th\u1ee9 ba s\u1ed1 \u00edt he, she, it, danh t\u1eeb s\u1ed1 \u00edt, \u0111\u1ed9ng t\u1eeb th\u01b0\u1eddng ph\u1ea3i th\u00eam \"es\" ho\u1eb7c \"s\" \u1edf cu\u1ed1i \u0111\u1ed9ng t\u1eeb.\n* Quy t\u1eafc th\u00eam \"es\" \u00e1p d\u1ee5ng cho c\u00e1c \u0111\u1ed9ng t\u1eeb k\u1ebft th\u00fac b\u1eb1ng: ch, sh, x, s, o, z."
     },
     {
         "id": 140,
@@ -1117,7 +1117,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "are",
-        "hint": "There are = C\u00f3 (d\u00f9ng cho s\u1ed1 nhi\u1ec1u)\nThere is = C\u00f3 (d\u00f9ng cho s\u1ed1 \u00edt)\nThere are four books in my schoolbag. \u2192 C\u00f3 b\u1ed1n quy\u1ec3n s\u00e1ch trong c\u1eb7p c\u1ee7a t\u00f4i."
+        "hint": "There are = C\u00f3 (d\u00f9ng cho s\u1ed1 nhi\u1ec1u)\nThere is = C\u00f3 (d\u00f9ng cho s\u1ed1 \u00edt)\nThere are four books in my schoolbag. \n\u2192 C\u00f3 b\u1ed1n quy\u1ec3n s\u00e1ch trong c\u1eb7p c\u1ee7a t\u00f4i."
     },
     {
         "id": 141,
@@ -1125,7 +1125,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "dy",
-        "hint": "Teddy \u2192 g\u1ea5u b\u00f4ng\nDo you have a teddy bear? \u2192 B\u1ea1n c\u00f3 m\u1ed9t con g\u1ea5u b\u00f4ng kh\u00f4ng?"
+        "hint": "Teddy \u2192 g\u1ea5u b\u00f4ng\nDo you have a teddy bear? \n\u2192 B\u1ea1n c\u00f3 m\u1ed9t con g\u1ea5u b\u00f4ng kh\u00f4ng?"
     },
     {
         "id": 142,
@@ -1133,7 +1133,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "se",
-        "hint": "Close \u2192 \u0111\u00f3ng\nClose your book, please. \u2192 H\u00e3y \u0111\u00f3ng s\u00e1ch c\u1ee7a b\u1ea1n l\u1ea1i."
+        "hint": "Close \u2192 \u0111\u00f3ng\nClose your book, please. \n\u2192 H\u00e3y \u0111\u00f3ng s\u00e1ch c\u1ee7a b\u1ea1n l\u1ea1i."
     },
     {
         "id": 143,
@@ -1141,7 +1141,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "in",
-        "hint": "In \u2192 v\u00e0o\nMy son likes playing video games in his free time. \u2192 Con trai t\u00f4i th\u00edch ch\u01a1i tr\u00f2 ch\u01a1i \u0111i\u1ec7n t\u1eed v\u00e0o th\u1eddi gian r\u1ea3nh."
+        "hint": "In \u2192 v\u00e0o\nMy son likes playing video games in his free time. \n\u2192 Con trai t\u00f4i th\u00edch ch\u01a1i tr\u00f2 ch\u01a1i \u0111i\u1ec7n t\u1eed v\u00e0o th\u1eddi gian r\u1ea3nh."
     },
     {
         "id": 144,
@@ -1149,7 +1149,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "any",
-        "hint": "Any \u2192 b\u1ea5t k\u1ef3. \"Any\" th\u01b0\u1eddng \u0111\u01b0\u1ee3c d\u00f9ng trong c\u00e2u h\u1ecfi ho\u1eb7c c\u00e2u ph\u1ee7 \u0111\u1ecbnh. Khi h\u1ecfi v\u1ec1 s\u1ef1 t\u1ed3n t\u1ea1i ho\u1eb7c s\u1ed1 l\u01b0\u1ee3ng c\u1ee7a m\u1ed9t th\u1ee9 g\u00ec \u0111\u00f3 trong c\u00e2u h\u1ecfi, ta d\u00f9ng \"any\".\nDo you have any pens? \u2192 B\u1ea1n c\u00f3 b\u00fat kh\u00f4ng?"
+        "hint": "Any \u2192 b\u1ea5t k\u1ef3. \nDo you have any pens? \u2192 B\u1ea1n c\u00f3 b\u00fat kh\u00f4ng?\n\"Any\" th\u01b0\u1eddng \u0111\u01b0\u1ee3c d\u00f9ng trong c\u00e2u h\u1ecfi ho\u1eb7c c\u00e2u ph\u1ee7 \u0111\u1ecbnh. \nKhi h\u1ecfi v\u1ec1 s\u1ef1 t\u1ed3n t\u1ea1i ho\u1eb7c s\u1ed1 l\u01b0\u1ee3ng c\u1ee7a m\u1ed9t th\u1ee9 g\u00ec \u0111\u00f3 trong c\u00e2u h\u1ecfi, ta d\u00f9ng \"any\"."
     },
     {
         "id": 145,
@@ -1157,7 +1157,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "or",
-        "hint": "Or \u2192 hay\nIs your skateboard old or new? \u2192 V\u00e1n tr\u01b0\u1ee3t c\u1ee7a b\u1ea1n c\u0169 hay m\u1edbi?"
+        "hint": "Or \u2192 hay\nIs your skateboard old or new? \n\u2192 V\u00e1n tr\u01b0\u1ee3t c\u1ee7a b\u1ea1n c\u0169 hay m\u1edbi?"
     },
     {
         "id": 146,
@@ -1189,7 +1189,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "from",
-        "hint": "From \u2192 t\u1eeb\nI can count from one to one hundred. \u2192 T\u00f4i c\u00f3 th\u1ec3 \u0111\u1ebfm t\u1eeb m\u1ed9t \u0111\u1ebfn m\u1ed9t tr\u0103m."
+        "hint": "From \u2192 t\u1eeb\nI can count from one to one hundred. \n\u2192 T\u00f4i c\u00f3 th\u1ec3 \u0111\u1ebfm t\u1eeb m\u1ed9t \u0111\u1ebfn m\u1ed9t tr\u0103m."
     },
     {
         "id": 150,
@@ -1197,7 +1197,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "at",
-        "hint": "What \u2192 g\u00ec\nWhat color is your sweater? \u2192 \u00c1o len c\u1ee7a b\u1ea1n m\u00e0u g\u00ec?"
+        "hint": "What \u2192 g\u00ec\nWhat color is your sweater? \n\u2192 \u00c1o len c\u1ee7a b\u1ea1n m\u00e0u g\u00ec?"
     },
     {
         "id": 151,
@@ -1221,7 +1221,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "tching",
-        "hint": "Watch \u2192 xem\nC\u1ea5u tr\u00fac th\u00ec hi\u1ec7n t\u1ea1i ti\u1ebfp di\u1ec5n: S + is/am/are + V-ing\n\"My sister\" l\u00e0 ch\u1ee7 ng\u1eef s\u1ed1 \u00edt \u2192 d\u00f9ng \"is\".\n\u0110\u1ed9ng t\u1eeb \"watch\" th\u00eam -ing th\u00e0nh \"watching\" \u0111\u1ec3 di\u1ec5n t\u1ea3 h\u00e0nh \u0111\u1ed9ng \u0111ang x\u1ea3y ra t\u1ea1i th\u1eddi \u0111i\u1ec3m n\u00f3i.\nMy sister is watching TV. \u2192 Em g\u00e1i t\u00f4i \u0111ang xem TV."
+        "hint": "Watch \u2192 xem\nMy sister is watching TV. \u2192 Em g\u00e1i t\u00f4i \u0111ang xem TV.\nC\u1ea5u tr\u00fac th\u00ec hi\u1ec7n t\u1ea1i ti\u1ebfp di\u1ec5n: S + is/am/are + V-ing\n\"My sister\" l\u00e0 ch\u1ee7 ng\u1eef s\u1ed1 \u00edt \u2192 d\u00f9ng \"is\".\n\u0110\u1ed9ng t\u1eeb \"watch\" th\u00eam -ing th\u00e0nh \"watching\" \u0111\u1ec3 di\u1ec5n t\u1ea3 h\u00e0nh \u0111\u1ed9ng \u0111ang x\u1ea3y ra t\u1ea1i th\u1eddi \u0111i\u1ec3m n\u00f3i."
     },
     {
         "id": 154,
@@ -1237,7 +1237,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "s",
-        "hint": "Is \u2192 l\u00e0\nC\u1ea5u tr\u00fac c\u00e2u kh\u1eb3ng \u0111\u1ecbnh v\u1edbi \"to be\": S + is/am/are + t\u00ednh t\u1eeb/danh t\u1eeb.\n\u1ede \u0111\u00e2y, \"My book\" l\u00e0 s\u1ed1 \u00edt \u2192 d\u00f9ng \"is\"\nMy book is green. \u2192 Quy\u1ec3n s\u00e1ch c\u1ee7a t\u00f4i m\u00e0u xanh l\u00e1."
+        "hint": "Is \u2192 l\u00e0\nMy book is green. \u2192 Quy\u1ec3n s\u00e1ch c\u1ee7a t\u00f4i m\u00e0u xanh l\u00e1.\n\u1ede \u0111\u00e2y, \"My book\" l\u00e0 s\u1ed1 \u00edt \u2192 d\u00f9ng \"is\""
     },
     {
         "id": 156,
@@ -1253,7 +1253,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "Th",
-        "hint": "Those \u2192 nh\u1eefng c\u00e1i \u0111\u00f3\nThose are my T-shirts. \u2192 Nh\u1eefng c\u00e1i \u00e1o thun \u0111\u00f3 l\u00e0 c\u1ee7a t\u00f4"
+        "hint": "Those \u2192 nh\u1eefng c\u00e1i \u0111\u00f3\nThose are my T-shirts. \n\u2192 Nh\u1eefng c\u00e1i \u00e1o thun \u0111\u00f3 l\u00e0 c\u1ee7a t\u00f4i"
     },
     {
         "id": 158,
@@ -1325,7 +1325,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "w",
-        "hint": "New \u2192 m\u1edbi\nThis is my new friend, Lisa. \u2192 \u0110\u00e2y l\u00e0 b\u1ea1n m\u1edbi c\u1ee7a t\u00f4i, Lisa."
+        "hint": "New \u2192 m\u1edbi\nThis is my new friend, Lisa. \n\u2192 \u0110\u00e2y l\u00e0 b\u1ea1n m\u1edbi c\u1ee7a t\u00f4i, Lisa."
     },
     {
         "id": 167,
@@ -1333,15 +1333,15 @@
         "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/red.png",
         "audioUrl": "",
         "answer": "co",
-        "hint": "Colour \u2192 m\u00e0u s\u1eafc\nMy favourite colour is red. \u2192 M\u00e0u y\u00eau th\u00edch c\u1ee7a t\u00f4i l\u00e0 m\u00e0u \u0111\u1ecf."
+        "hint": "Colour \u2192 m\u00e0u s\u1eafc\nMy favourite colour is red. \n\u2192 M\u00e0u y\u00eau th\u00edch c\u1ee7a t\u00f4i l\u00e0 m\u00e0u \u0111\u1ecf."
     },
     {
         "id": 168,
-        "sentence": "The pencil is __llow.",
+        "sentence": "The pencils are __llow.",
         "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/yellowpencil.png",
         "audioUrl": "",
         "answer": "ye",
-        "hint": "Yellow \u2192 m\u00e0u v\u00e0ng\nThe pencil is yellow. \u2192 C\u00e2y b\u00fat ch\u00ec n\u00e0y m\u00e0u v\u00e0ng."
+        "hint": "Yellow \u2192 m\u00e0u v\u00e0ng\nThe pencils are yellow. \n\u2192 Nh\u1eefng c\u00e2y b\u00fat ch\u00ec n\u00e0y m\u00e0u v\u00e0ng."
     },
     {
         "id": 169,
@@ -1389,7 +1389,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "C",
-        "hint": "Open \u2192 m\u1edf\nOpen your book, please! \u2192 M\u1edf s\u00e1ch ra, l\u00e0m \u01a1n!"
+        "hint": "BACKPACK \u2192 ba l\u00f4"
     },
     {
         "id": 175,
@@ -1458,7 +1458,7 @@
     {
         "id": 183,
         "sentence": "This is a ___ apple.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/red.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/redapple.png",
         "audioUrl": "",
         "answer": "red",
         "hint": "Red \u2192 \u0111\u1ecf\nThis is a red apple. \u2192 \u0110\u00e2y l\u00e0 m\u1ed9t qu\u1ea3 t\u00e1o \u0111\u1ecf."
@@ -1469,7 +1469,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "s",
-        "hint": "Small \u2192 nh\u1ecf\nThe elephant is big and the mouse is small. \u2192 Con voi th\u00ec to v\u00e0 con chu\u1ed9t th\u00ec nh\u1ecf."
+        "hint": "Small \u2192 nh\u1ecf\nThe elephant is big and the mouse is small. \n\u2192 Con voi th\u00ec to v\u00e0 con chu\u1ed9t th\u00ec nh\u1ecf."
     },
     {
         "id": 185,
@@ -1477,7 +1477,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "w",
-        "hint": "Draw \u2192 v\u1ebd\nI draw a picture in the art room. \u2192 T\u00f4i v\u1ebd m\u1ed9t b\u1ee9c tranh trong ph\u00f2ng m\u1ef9 thu\u1eadt."
+        "hint": "Draw \u2192 v\u1ebd\nI draw a picture in the art room. \n\u2192 T\u00f4i v\u1ebd m\u1ed9t b\u1ee9c tranh trong ph\u00f2ng m\u1ef9 thu\u1eadt."
     },
     {
         "id": 186,
@@ -1517,7 +1517,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/pencil.png",
         "audioUrl": "",
         "answer": "S",
-        "hint": "Pencils \u2192 b\u00fat ch\u00ec\nQuy t\u1eafc s\u1ed1 nhi\u1ec1u: Danh t\u1eeb \u0111\u1ebfm \u0111\u01b0\u1ee3c th\u00f4ng th\u01b0\u1eddng th\u00eam \"s\" v\u00e0o cu\u1ed1i t\u1eeb.\nThree pencils \u2192 Ba c\u00e2y b\u00fat ch\u00ec."
+        "hint": "Pencils \u2192 b\u00fat ch\u00ec\nThree pencils \u2192 Ba c\u00e2y b\u00fat ch\u00ec.\nQuy t\u1eafc s\u1ed1 nhi\u1ec1u: Danh t\u1eeb \u0111\u1ebfm \u0111\u01b0\u1ee3c th\u00f4ng th\u01b0\u1eddng th\u00eam \"s\" v\u00e0o cu\u1ed1i t\u1eeb."
     },
     {
         "id": 191,
@@ -1533,7 +1533,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "m",
-        "hint": "Music \u2192 \u00e2m nh\u1ea1c\nWe sing a song in the music room. \u2192 Ch\u00fang t\u00f4i h\u00e1t m\u1ed9t b\u00e0i h\u00e1t trong ph\u00f2ng \u00e2m nh\u1ea1c."
+        "hint": "Music \u2192 \u00e2m nh\u1ea1c\nWe sing a song in the music room. \n\u2192 Ch\u00fang t\u00f4i h\u00e1t m\u1ed9t b\u00e0i h\u00e1t trong ph\u00f2ng \u00e2m nh\u1ea1c."
     },
     {
         "id": 193,
@@ -1557,7 +1557,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "with",
-        "hint": "With \u2192 v\u1edbi\nI go home with my friends. \u2192 T\u00f4i v\u1ec1 nh\u00e0 v\u1edbi b\u1ea1n b\u00e8 c\u1ee7a t\u00f4i."
+        "hint": "With \u2192 v\u1edbi\nI go home with my friends. \n\u2192 T\u00f4i v\u1ec1 nh\u00e0 v\u1edbi b\u1ea1n b\u00e8 c\u1ee7a t\u00f4i."
     },
     {
         "id": 196,
@@ -1581,7 +1581,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "an",
-        "hint": "Can \u2192 c\u00f3 th\u1ec3\nMay I go out? \u2013 Yes, you can. \u2192 T\u00f4i c\u00f3 th\u1ec3 ra ngo\u00e0i kh\u00f4ng? \u2013 \u0110\u01b0\u1ee3c\nC\u1ea3 \"may\" v\u00e0 \"can\" \u0111\u1ec1u c\u00f3 th\u1ec3 d\u00f9ng \u0111\u1ec3 h\u1ecfi xin ph\u00e9p, nh\u01b0ng c\u00f3 s\u1ef1 kh\u00e1c bi\u1ec7t:\nN\u1ebfu c\u1ea7n l\u1ecbch s\u1ef1, h\u00e3y d\u00f9ng \"May I go out? \u2013 Yes, you may.\"\nN\u1ebfu giao ti\u1ebfp th\u00e2n m\u1eadt, d\u00f9ng \"Can I go out? \u2013 Yes, you can.\"\n\"May I go out? \u2013 Yes, you can.\" v\u1eabn \u0111\u01b0\u1ee3c d\u00f9ng trong giao ti\u1ebfp h\u00e0ng ng\u00e0y."
+        "hint": "Can \u2192 c\u00f3 th\u1ec3\nMay I go out? \u2013 Yes, you can. \n\u2192 T\u00f4i c\u00f3 th\u1ec3 ra ngo\u00e0i kh\u00f4ng? \u2013 \u0110\u01b0\u1ee3c\nC\u1ea3 \"may\" v\u00e0 \"can\" \u0111\u1ec1u c\u00f3 th\u1ec3 d\u00f9ng \u0111\u1ec3 h\u1ecfi xin ph\u00e9p, nh\u01b0ng c\u00f3 s\u1ef1 kh\u00e1c bi\u1ec7t:\nN\u1ebfu c\u1ea7n l\u1ecbch s\u1ef1, h\u00e3y d\u00f9ng \"May I go out? \u2013 Yes, you may.\"\nN\u1ebfu giao ti\u1ebfp th\u00e2n m\u1eadt, d\u00f9ng \"Can I go out? \u2013 Yes, you can.\"\n\"May I go out? \u2013 Yes, you can.\" v\u1eabn \u0111\u01b0\u1ee3c d\u00f9ng trong giao ti\u1ebfp h\u00e0ng ng\u00e0y."
     },
     {
         "id": 199,

@@ -205,7 +205,7 @@
             "Nga",
             "is",
             "nine",
-            "years old"
+            "years old."
         ],
         "hint": "Nga is nine years old. \u2192 Nga ch\u00edn tu\u1ed5i."
     },
@@ -322,12 +322,12 @@
     {
         "id": 33,
         "question": [
-            "Thank",
-            "you.",
-            "I am",
-            "fine."
+            "I",
+            "am",
+            "playing",
+            "football."
         ],
-        "hint": "Thank you. I am fine. \u2192 C\u1ea3m \u01a1n. T\u00f4i kh\u1ecfe."
+        "hint": "I am playing football \u2192 T\u00f4i \u0111ang ch\u01a1i b\u00f3ng \u0111\u00e1"
     },
     {
         "id": 34,
@@ -605,7 +605,7 @@
             "The",
             "children",
             "are watching",
-            "a cartoon"
+            "a cartoon."
         ],
         "hint": "The children are watching a cartoon. \u2192 C\u00e1c em \u0111ang xem ho\u1ea1t h\u00ecnh."
     },
@@ -935,7 +935,7 @@
             "She is",
             "my",
             "English",
-            "teacher"
+            "teacher."
         ],
         "hint": "She is my English teacher. \u2192 C\u00f4 \u1ea5y l\u00e0 gi\u00e1o vi\u00ean ti\u1ebfng Anh c\u1ee7a t\u00f4i."
     },
@@ -1445,7 +1445,7 @@
             "Let",
             "us",
             "learn",
-            "English"
+            "English."
         ],
         "hint": "Let\u2019s learn English. \u2192 Ch\u00fang ta h\u00e3y h\u1ecdc ti\u1ebfng Anh."
     },
@@ -1462,12 +1462,12 @@
     {
         "id": 147,
         "question": [
-            "Good",
-            "morning,",
-            "teacher",
-            "!"
+            "I",
+            "am",
+            "listening to",
+            "music."
         ],
-        "hint": "Good morning, teacher. \u2192 Ch\u00e0o bu\u1ed5i s\u00e1ng, th\u1ea7y c\u00f4."
+        "hint": "I am listening to music. \u2192 T\u00f4i \u0111ang nghe nh\u1ea1c."
     },
     {
         "id": 148,
@@ -1567,7 +1567,7 @@
             "this?",
             "Mai"
         ],
-        "hint": "What is this? \u2192 \u0110\u00e2y l\u00e0 c\u00e1i g\u00ec?"
+        "hint": "What is this, Mai? \u2192 \u0110\u00e2y l\u00e0 c\u00e1i g\u00ec v\u1eady, Mai?"
     },
     {
         "id": 158,
@@ -2345,7 +2345,7 @@
             "I",
             "like",
             "playing",
-            "football"
+            "football."
         ],
         "hint": "I like playing football. \u2192 T\u00f4i th\u00edch ch\u01a1i b\u00f3ng \u0111\u00e1."
     },
@@ -2372,12 +2372,12 @@
     {
         "id": 238,
         "question": [
-            "Be",
+            "be",
             "quiet,",
-            "boys",
-            "!"
+            "boys.",
+            "Please"
         ],
-        "hint": "Be quiet, boys! \u2192 Im l\u1eb7ng, c\u00e1c c\u1eadu!"
+        "hint": "Please be quiet, boys. \u2192 L\u00e0m \u01a1n y\u00ean l\u1eb7ng, c\u00e1c c\u1eadu \u01a1i."
     },
     {
         "id": 239,

@@ -95,7 +95,7 @@
             "D. friend"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Tom and Lucy are my _______.\n\u2192 Tom v\u00e0 Lucy l\u00e0 ______ c\u1ee7a t\u00f4i.\nA. classmate (b\u1ea1n c\u00f9ng l\u1edbp - s\u1ed1 \u00edt)\nB. brother (anh/em trai)\n\u2705 C. friends (b\u1ea1n b\u00e8 - s\u1ed1 nhi\u1ec1u) \nD. friend (b\u1ea1n - s\u1ed1 \u00edt)"
+        "hint": "Tom and Lucy are my _______.\n\u2192 Tom v\u00e0 Lucy l\u00e0 ______ c\u1ee7a t\u00f4i.\nA. classmate (b\u1ea1n c\u00f9ng l\u1edbp - s\u1ed1 \u00edt)\nB. brother (anh/em trai - s\u1ed1 \u00edt)\n\u2705 C. friends (b\u1ea1n b\u00e8 - s\u1ed1 nhi\u1ec1u) \nD. friend (b\u1ea1n - s\u1ed1 \u00edt)"
     },
     {
         "id": 8,
@@ -123,7 +123,7 @@
             "D. box"
         ],
         "correctAnswerIndex": 0,
-        "hint": "He's wearing a ____ of red sandals.\n\u2192 Anh \u1ea5y \u0111ang \u0111i m\u1ed9t ____ d\u00e9p \u0111\u1ecf.\n\u2705 A. pair (\u0111\u00f4i) \u2192 \"a pair of sandals\": m\u1ed9t \u0111\u00f4i d\u00e9p.\nB. bar (thanh) \nC. packet (g\u00f3i) \nD. box (h\u1ed9p)"
+        "hint": "He's wearing a ____ of red sandals.\n\u2192 Anh \u1ea5y \u0111ang \u0111i m\u1ed9t ____ d\u00e9p \u0111\u1ecf.\n\u2705 A. pair (\u0111\u00f4i) \u2192 \"a pair of sandals: m\u1ed9t \u0111\u00f4i d\u00e9p\"\nB. bar (thanh) \nC. packet (g\u00f3i) \nD. box (h\u1ed9p)"
     },
     {
         "id": 10,
@@ -277,7 +277,7 @@
             "D. do"
         ],
         "correctAnswerIndex": 1,
-        "hint": "What ___ the boys doing at the moment?\n\u2192 C\u00e1c c\u1eadu b\u00e9 \u0111ang l\u00e0m g\u00ec v\u00e0o l\u00fac n\u00e0y?\nA. does \u2192. d\u00f9ng cho ch\u1ee7 ng\u1eef s\u1ed1 \u00edt trong th\u00ec hi\u1ec7n t\u1ea1i \u0111\u01a1n.\n\u2705 B. are \u2192 \u0110\u00fang, \"are\" \u0111i v\u1edbi ch\u1ee7 ng\u1eef s\u1ed1 nhi\u1ec1u \"the boys\" trong th\u00ec hi\u1ec7n t\u1ea1i ti\u1ebfp di\u1ec5n.\nC. is \u2192 Sai, \"is\" d\u00f9ng cho ch\u1ee7 ng\u1eef s\u1ed1 \u00edt.\nD. do \u2192 Sai, \"do\" d\u00f9ng trong th\u00ec hi\u1ec7n t\u1ea1i \u0111\u01a1n, kh\u00f4ng ph\u00f9 h\u1ee3p v\u1edbi th\u00ec ti\u1ebfp di\u1ec5n."
+        "hint": "What ___ the boys doing at the moment?\n\u2192 C\u00e1c c\u1eadu b\u00e9 \u0111ang l\u00e0m g\u00ec v\u00e0o l\u00fac n\u00e0y?\nA. does \u2192. d\u00f9ng cho ch\u1ee7 ng\u1eef s\u1ed1 \u00edt trong th\u00ec hi\u1ec7n t\u1ea1i \u0111\u01a1n.\n\u2705 B. are \u2192 \u0111i v\u1edbi ch\u1ee7 ng\u1eef s\u1ed1 nhi\u1ec1u \"the boys\" trong th\u00ec hi\u1ec7n t\u1ea1i ti\u1ebfp di\u1ec5n.\nC. is \u2192 d\u00f9ng cho ch\u1ee7 ng\u1eef s\u1ed1 \u00edt.\nD. do \u2192 d\u00f9ng trong th\u00ec hi\u1ec7n t\u1ea1i \u0111\u01a1n"
     },
     {
         "id": 21,
@@ -375,7 +375,7 @@
             "D. it is"
         ],
         "correctAnswerIndex": 3,
-        "hint": " Is this your eraser? - Yes,_____.\n\u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i l\u00e0 c\u1ee5c t\u1ea9y c\u1ee7a b\u1ea1n kh\u00f4ng? - V\u00e2ng, n\u00f3 l\u00e0 c\u1ee7a t\u00f4i.\nA. they are (Ch\u00fang l\u00e0 c\u1ee7a t\u00f4i.)\nB. it isn't (Kh\u00f4ng ph\u1ea3i.) \nC. they is \u2192 Sai ng\u1eef ph\u00e1p.\n\u2705 D. it is. (\u0110\u00fang v\u1eady.) \nC\u00e2u h\u1ecfi \"Is this...?\" l\u00e0 c\u00e2u h\u1ecfi Yes/No\n* Tr\u1ea3 l\u1eddi kh\u1eb3ng \u0111\u1ecbnh: Yes, it is. \n* Tr\u1ea3 l\u1eddi ph\u1ee7 \u0111\u1ecbnh: No, it isn't. \n* Tr\u1ea3 l\u1eddi kh\u00f4ng ch\u1eafc ch\u1eafn: I'm not sure. / It could be. / Perhaps."
+        "hint": " Is this your eraser? - Yes,_____.\n\u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i l\u00e0 c\u1ee5c t\u1ea9y c\u1ee7a b\u1ea1n kh\u00f4ng? - V\u00e2ng, _____.\nA. they are (Ch\u00fang l\u00e0 c\u1ee7a t\u00f4i)\nB. it isn't (Kh\u00f4ng ph\u1ea3i) \nC. they is \u2192 Sai ng\u1eef ph\u00e1p.\n\u2705 D. it is. (\u0110\u00fang v\u1eady.) \nC\u00e2u h\u1ecfi \"Is this...?\" l\u00e0 c\u00e2u h\u1ecfi Yes/No\n* Tr\u1ea3 l\u1eddi kh\u1eb3ng \u0111\u1ecbnh: Yes, it is. \n* Tr\u1ea3 l\u1eddi ph\u1ee7 \u0111\u1ecbnh: No, it isn't. \n* Tr\u1ea3 l\u1eddi kh\u00f4ng ch\u1eafc ch\u1eafn: I'm not sure. / It could be. / Perhaps."
     },
     {
         "id": 28,
@@ -389,7 +389,7 @@
             "D. He"
         ],
         "correctAnswerIndex": 0,
-        "hint": " That\u2019s Miss Hien. ________is my English teacher.\n\u2192 \u0110\u00f3 l\u00e0 c\u00f4 Hi\u1ec1n. C\u00f4 \u1ea5y l\u00e0 gi\u00e1o vi\u00ean ti\u1ebfng Anh c\u1ee7a t\u00f4i.\n\u2705 A. She (C\u00f4 \u1ea5y) \u2192 \u0110\u00fang, \"She\" l\u00e0 \u0111\u1ea1i t\u1eeb ch\u1ee7 ng\u1eef ph\u00f9 h\u1ee3p.\nB. It (N\u00f3) \u2192 Sai, \"it\" kh\u00f4ng d\u00f9ng \u0111\u1ec3 ch\u1ec9 ng\u01b0\u1eddi.\nC. Her (C\u1ee7a c\u00f4 \u1ea5y) \u2192 Sai, \"Her\" l\u00e0 \u0111\u1ea1i t\u1eeb s\u1edf h\u1eefu, kh\u00f4ng th\u1ec3 l\u00e0m ch\u1ee7 ng\u1eef.\nD. He (Anh \u1ea5y) \u2192 Sai, \"He\" d\u00f9ng cho nam."
+        "hint": " That\u2019s Miss Hien. ________is my English teacher.\n\u2192 Kia l\u00e0 c\u00f4 Hi\u1ec1n. C\u00f4 \u1ea5y l\u00e0 gi\u00e1o vi\u00ean ti\u1ebfng Anh c\u1ee7a t\u00f4i.\n\u2705 A. She (C\u00f4 \u1ea5y) \u2192 l\u00e0 \u0111\u1ea1i t\u1eeb ch\u1ee7 ng\u1eef ph\u00f9 h\u1ee3p.\nB. It (N\u00f3) \u2192 \"it\" kh\u00f4ng d\u00f9ng \u0111\u1ec3 ch\u1ec9 ng\u01b0\u1eddi.\nC. Her (C\u1ee7a c\u00f4 \u1ea5y) \u2192 l\u00e0 \u0111\u1ea1i t\u1eeb s\u1edf h\u1eefu, kh\u00f4ng th\u1ec3 l\u00e0m ch\u1ee7 ng\u1eef.\nD. He (Anh \u1ea5y) \u2192 d\u00f9ng cho nam."
     },
     {
         "id": 29,
@@ -403,7 +403,7 @@
             "D. It"
         ],
         "correctAnswerIndex": 1,
-        "hint": " Is this a goldfish? - _________, it isn\u2019t.\n\u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i l\u00e0 c\u00e1 v\u00e0ng kh\u00f4ng? - Kh\u00f4ng, n\u00f3 kh\u00f4ng ph\u1ea3i.\nA. Yes (V\u00e2ng.) \n\u2705 B. No (Kh\u00f4ng.)\nC. Not (Kh\u00f4ng.) \nD. It (N\u00f3.)\nC\u00e2u h\u1ecfi \"Is this...?\" l\u00e0 c\u00e2u h\u1ecfi Yes/No\n* Tr\u1ea3 l\u1eddi kh\u1eb3ng \u0111\u1ecbnh: Yes, it is. \n* Tr\u1ea3 l\u1eddi ph\u1ee7 \u0111\u1ecbnh: No, it isn't. \n* Tr\u1ea3 l\u1eddi kh\u00f4ng ch\u1eafc ch\u1eafn: I'm not sure. / It could be. / Perhaps."
+        "hint": " Is this a goldfish? - _________, it isn\u2019t.\n\u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i l\u00e0 c\u00e1 v\u00e0ng kh\u00f4ng? - ______, n\u00f3 kh\u00f4ng ph\u1ea3i.\nA. Yes (V\u00e2ng) \n\u2705 B. No (Kh\u00f4ng)\nC. Not (Kh\u00f4ng) \nD. It (N\u00f3)\nC\u00e2u h\u1ecfi \"Is this...?\" l\u00e0 c\u00e2u h\u1ecfi Yes/No\n* Tr\u1ea3 l\u1eddi kh\u1eb3ng \u0111\u1ecbnh: Yes, it is. \n* Tr\u1ea3 l\u1eddi ph\u1ee7 \u0111\u1ecbnh: No, it isn't. \n* Tr\u1ea3 l\u1eddi kh\u00f4ng ch\u1eafc ch\u1eafn: I'm not sure. / It could be. / Perhaps."
     },
     {
         "id": 30,
@@ -487,7 +487,7 @@
             "D. is"
         ],
         "correctAnswerIndex": 3,
-        "hint": " When ________ your birthday, Chris?\n\u2192 Khi n\u00e0o sinh nh\u1eadt c\u1ee7a b\u1ea1n, Chris?\nA. does \u2192 Sai, \"does\" kh\u00f4ng \u0111i v\u1edbi \"your birthday\".\nB. are \u2192 Sai, \"are\" kh\u00f4ng \u0111i v\u1edbi danh t\u1eeb s\u1ed1 \u00edt.\nC. do \u2192 Sai, \"do\" kh\u00f4ng ph\u00f9 h\u1ee3p.\n\u2705 D. is \u2192 \u0110\u00fang, \"is\" ph\u00f9 h\u1ee3p v\u1edbi \"your birthday\" (danh t\u1eeb s\u1ed1 \u00edt)."
+        "hint": " When ________ your birthday, Chris?\n\u2192 Khi n\u00e0o sinh nh\u1eadt c\u1ee7a b\u1ea1n, Chris?\nA. does\nB. are \nC. do \n\u2705 D. is \u2192 ph\u00f9 h\u1ee3p v\u1edbi \"your birthday\" (danh t\u1eeb s\u1ed1 \u00edt)."
     },
     {
         "id": 36,
@@ -543,7 +543,7 @@
             "D. Take"
         ],
         "correctAnswerIndex": 3,
-        "hint": "________ out your notebooks, please.\n\u2192 H\u00e3y ________ s\u1ed5 ghi ch\u00e9p c\u1ee7a b\u1ea1n ra.\nA. Takes\nB. To take \nC. Taking\n\u2705 D. Take \u2192 c\u00e2u m\u1ec7nh l\u1ec7nh d\u00f9ng \u0111\u1ed9ng t\u1eeb nguy\u00ean th\u1ec3."
+        "hint": "________ out your notebooks, please.\n\u2192 H\u00e3y l\u1ea5y s\u1ed5 ghi ch\u00e9p c\u1ee7a b\u1ea1n ra.\nA. Takes\nB. To take \nC. Taking\n\u2705 D. Take \u2192 C\u00e2u m\u1ec7nh l\u1ec7nh lu\u00f4n b\u1eaft \u0111\u1ea7u b\u1eb1ng \u0111\u1ed9ng t\u1eeb nguy\u00ean th\u1ec3"
     },
     {
         "id": 40,
@@ -571,7 +571,7 @@
             "D. aren't"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Is that your brother Louis? - No, it _______.\n\u2192 \u0110\u00f3 c\u00f3 ph\u1ea3i l\u00e0 anh trai c\u1ee7a b\u1ea1n, Louis kh\u00f4ng? - Kh\u00f4ng, n\u00f3 kh\u00f4ng ph\u1ea3i.\nA. not\nB. is \n\u2705 C. isn't \nD. aren't\nC\u00e2u h\u1ecfi \"Is that...?\" l\u00e0 c\u00e2u h\u1ecfi Yes/No\n* Tr\u1ea3 l\u1eddi kh\u1eb3ng \u0111\u1ecbnh: Yes, it is. \n* Tr\u1ea3 l\u1eddi ph\u1ee7 \u0111\u1ecbnh: No, it isn't. "
+        "hint": "Is that your brother Louis? - No, it _______.\n\u2192 \u0110\u00f3 c\u00f3 ph\u1ea3i l\u00e0 anh trai c\u1ee7a b\u1ea1n, Louis kh\u00f4ng? - Kh\u00f4ng, _____.\nA. not\nB. is \n\u2705 C. isn't \nD. aren't\nC\u00e2u h\u1ecfi \"Is that...?\" l\u00e0 c\u00e2u h\u1ecfi Yes/No\n* Tr\u1ea3 l\u1eddi kh\u1eb3ng \u0111\u1ecbnh: Yes, it is. \n* Tr\u1ea3 l\u1eddi ph\u1ee7 \u0111\u1ecbnh: No, it isn't. "
     },
     {
         "id": 42,
@@ -585,7 +585,7 @@
             "D. rabbit"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Peter can see a _____ at the zoo.\n\u2192 Peter c\u00f3 th\u1ec3 nh\u00ecn th\u1ea5y m\u1ed9t _____ \u1edf s\u1edf th\u00fa.\nA. Monkey (Kh\u1ec9)\n\u2705 B. Elephant (Voi)\nC. Tiger (H\u1ed5)\nD. Rabbit (Th\u1ecf)"
+        "hint": "Peter can see a _____ at the zoo.\n\u2192 Peter c\u00f3 th\u1ec3 nh\u00ecn th\u1ea5y m\u1ed9t _____ \u1edf s\u1edf th\u00fa.\nA. monkey (con kh\u1ec9)\n\u2705 B. elephant (con voi)\nC. tiger (con h\u1ed5)\nD. rabbit (con th\u1ecf)"
     },
     {
         "id": 43,
@@ -599,7 +599,7 @@
             "D. can"
         ],
         "correctAnswerIndex": 0,
-        "hint": "Those chairs ________ all new.\n\u2192 Nh\u1eefng c\u00e1i gh\u1ebf \u0111\u00f3 \u0111\u1ec1u m\u1edbi.\n\u2705 A. are \u2192 \u0110\u00fang, \"chairs\" s\u1ed1 nhi\u1ec1u n\u00ean d\u00f9ng \"are\".\nB. to be \u2192 Sai, kh\u00f4ng ph\u1ea3i d\u1ea1ng \u0111\u1ed9ng t\u1eeb th\u00edch h\u1ee3p.\nC. is \u2192 Sai, \"is\" d\u00f9ng cho danh t\u1eeb s\u1ed1 \u00edt.\nD. can \u2192 Sai, \"can\" kh\u00f4ng ph\u00f9 h\u1ee3p v\u1edbi ng\u1eef ph\u00e1p c\u00e2u."
+        "hint": "Those chairs ________ all new.\n\u2192 Nh\u1eefng c\u00e1i gh\u1ebf \u0111\u00f3 \u0111\u1ec1u m\u1edbi.\n\u2705 A. are \u2192 \"chairs\" s\u1ed1 nhi\u1ec1u n\u00ean d\u00f9ng \"are\".\nB. to be\nC. is \nD. can"
     },
     {
         "id": 44,
@@ -607,13 +607,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. under",
+            "A. from",
             "B. on",
             "C. in",
             "D. at"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Where are my dolls? - They are ________ the floor.\n\u2192 Nh\u1eefng con b\u00fap b\u00ea c\u1ee7a t\u00f4i \u0111\u00e2u? - Ch\u00fang \u1edf ______ s\u00e0n nh\u00e0.\nA. under (d\u01b0\u1edbi)\n\u2705 B. on (tr\u00ean) \u2192 \"on the floor\" c\u00f3 ngh\u0129a l\u00e0 tr\u00ean s\u00e0n nh\u00e0.\nC. in (trong)\nD. at (\u1edf)"
+        "hint": "Where are my dolls? - They are ________ the floor.\n\u2192 Nh\u1eefng con b\u00fap b\u00ea c\u1ee7a t\u00f4i \u0111\u00e2u? - Ch\u00fang \u1edf ______ s\u00e0n nh\u00e0.\nA. from (t\u1eeb)\n\u2705 B. on (tr\u00ean) \u2192 \"on the floor\" c\u00f3 ngh\u0129a l\u00e0 tr\u00ean s\u00e0n nh\u00e0.\nC. in (trong)\nD. at (\u1edf)"
     },
     {
         "id": 45,
@@ -627,7 +627,7 @@
             "D. How"
         ],
         "correctAnswerIndex": 3,
-        "hint": "___ are you, Alex?\" \u2013 \"I\u2019m fine, thanks.\n\u2192 ___ b\u1ea1n th\u1ebf n\u00e0o, Alex? \u2013 T\u00f4i kh\u1ecfe. C\u1ea3m \u01a1n.\nA. What (C\u00e1i g\u00ec) \nB. Who (Ai) \nC. Where (\u1ede \u0111\u00e2u)\n\u2705 D. How (Nh\u01b0 th\u1ebf n\u00e0o) \u2192 \u0110\u00fang, \"How are you?\" l\u00e0 c\u00e2u h\u1ecfi th\u00f4ng d\u1ee5ng v\u1ec1 s\u1ee9c kh\u1ecfe."
+        "hint": "___ are you, Alex? \u2013 I\u2019m fine, thanks.\n\u2192 ___ b\u1ea1n th\u1ebf n\u00e0o, Alex? \u2013 T\u00f4i kh\u1ecfe. C\u1ea3m \u01a1n.\nA. What (C\u00e1i g\u00ec) \nB. Who (Ai) \nC. Where (\u1ede \u0111\u00e2u)\n\u2705 D. How (Nh\u01b0 th\u1ebf n\u00e0o) \u2192 \"How are you?\" l\u00e0 c\u00e2u h\u1ecfi th\u00f4ng d\u1ee5ng v\u1ec1 s\u1ee9c kh\u1ecfe."
     },
     {
         "id": 46,
@@ -683,7 +683,7 @@
             "D. he"
         ],
         "correctAnswerIndex": 0,
-        "hint": "This ___ a desk.\n\u2192 \u0110\u00e2y ___ m\u1ed9t c\u00e1i b\u00e0n.\n\u2705 A. is (l\u00e0) \u2192 This is: \u0111\u00e2y l\u00e0\nC. you (b\u1ea1n) \nD. he (anh \u1ea5y) "
+        "hint": "This ___ a desk.\n\u2192 \u0110\u00e2y ___ m\u1ed9t c\u00e1i b\u00e0n.\n\u2705 A. is (l\u00e0) \u2192 This is: \u0111\u00e2y l\u00e0 (d\u00f9ng cho s\u1ed1 \u00edt)\nB. are (l\u00e0, d\u00f9ng cho s\u1ed1 nhi\u1ec1u) \nC. you (b\u1ea1n) \nD. he (anh \u1ea5y) "
     },
     {
         "id": 50,
@@ -725,7 +725,7 @@
             "D. I"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Hello, ___ Sean.\n\u2192 Xin ch\u00e0o, t\u00f4i l\u00e0 Sean.\nA. you (b\u1ea1n) \nB. am (l\u00e0) \n\u2705 C. I\u2019m (t\u00f4i l\u00e0) \u2192 vi\u1ebft t\u1eaft c\u1ee7a \"I am\" \nD. I (t\u00f4i) "
+        "hint": "Hello, ___ Sean.\n\u2192 Xin ch\u00e0o, ____ Sean.\nA. you (b\u1ea1n) \nB. am (l\u00e0) \n\u2705 C. I\u2019m (t\u00f4i l\u00e0) \u2192 vi\u1ebft t\u1eaft c\u1ee7a \"I am\" \nD. I (t\u00f4i) "
     },
     {
         "id": 53,
@@ -753,7 +753,7 @@
             "D. you\u2019s"
         ],
         "correctAnswerIndex": 1,
-        "hint": "This isn\u2019t ___ bag.\n\u2192 \u0110\u00e2y kh\u00f4ng ph\u1ea3i l\u00e0 t\u00fai c\u1ee7a ___.\nA. he\u2019s (anh \u1ea5y) \u2192 Sai, kh\u00f4ng c\u00f3 ngh\u0129a trong ng\u1eef c\u1ea3nh n\u00e0y.\n\u2705 B. his (c\u1ee7a anh \u1ea5y) \u2192 \u0110\u00fang, \"his bag\" ngh\u0129a l\u00e0 \"t\u00fai c\u1ee7a anh \u1ea5y\".\nC. me\u2019s (c\u1ee7a t\u00f4i) \u2192 Sai, kh\u00f4ng c\u00f3 d\u1ea1ng n\u00e0y trong ti\u1ebfng Anh.\nD. you\u2019s (c\u1ee7a b\u1ea1n) \u2192 Sai, kh\u00f4ng t\u1ed3n t\u1ea1i d\u1ea1ng n\u00e0y."
+        "hint": "This isn\u2019t ___ bag.\n\u2192 \u0110\u00e2y kh\u00f4ng ph\u1ea3i l\u00e0 t\u00fai c\u1ee7a ___.\nA. he\u2019s (anh \u1ea5y) \u2192 kh\u00f4ng c\u00f3 ngh\u0129a trong ng\u1eef c\u1ea3nh n\u00e0y.\n\u2705 B. his (c\u1ee7a anh \u1ea5y)\nC. me\u2019s \u2192 kh\u00f4ng c\u00f3 d\u1ea1ng n\u00e0y trong ti\u1ebfng Anh.\nD. you\u2019s \u2192 kh\u00f4ng t\u1ed3n t\u1ea1i d\u1ea1ng n\u00e0y."
     },
     {
         "id": 55,
@@ -767,7 +767,7 @@
             "D.meat"
         ],
         "correctAnswerIndex": 0,
-        "hint": "Would you like some _____?\n\u2192 B\u1ea1n c\u00f3 mu\u1ed1n m\u1ed9t \u00edt _____ kh\u00f4ng?\n\u2705 A. Rice (C\u01a1m)\nB. Beans (\u0110\u1eadu)\nC. Fish (C\u00e1)\nD. Meat (Th\u1ecbt)"
+        "hint": "Would you like some _____?\n\u2192 B\u1ea1n c\u00f3 mu\u1ed1n m\u1ed9t \u00edt _____ kh\u00f4ng?\n\u2705 A. rice (c\u01a1m)\nB. beans (\u0111\u1eadu)\nC. fish (c\u00e1)\nD. meat (th\u1ecbt)"
     },
     {
         "id": 56,
@@ -795,7 +795,7 @@
             "D. q"
         ],
         "correctAnswerIndex": 0,
-        "hint": "Sing a s___ng.\n\u2192 H\u00e1t m\u1ed9t b\u00e0i h\u00e1t.\n\u2705 A. o \u2192 \u0110\u00fang, \"song\" ngh\u0129a l\u00e0 \"b\u00e0i h\u00e1t\".\nB. w \nC. u\nD. q "
+        "hint": "Sing a s___ng.\n\u2192 H\u00e1t m\u1ed9t b\u00e0i h\u00e1t.\n\u2705 A. o \u2192 \"song: b\u00e0i h\u00e1t\".\nB. w \nC. u\nD. q "
     },
     {
         "id": 58,
@@ -809,7 +809,7 @@
             "D. q"
         ],
         "correctAnswerIndex": 2,
-        "hint": "W___o is she? She is Mary.\n\u2192 ___ l\u00e0 ai? C\u00f4 \u1ea5y l\u00e0 Mary.\nA. t\nB. w \n\u2705 C. h \u2192 \"Who: ai?\"\nD. q "
+        "hint": "W___o is she? She is Mary.\n\u2192 C\u00f4 \u1ea5y l\u00e0 ___? C\u00f4 \u1ea5y l\u00e0 Mary.\nA. t\nB. w \n\u2705 C. h \u2192 \"Who: ai?\"\nD. q "
     },
     {
         "id": 59,
@@ -823,7 +823,7 @@
             "D. a"
         ],
         "correctAnswerIndex": 2,
-        "hint": "This is m___ school.\n\u2192 \u0110\u00e2y l\u00e0 tr\u01b0\u1eddng h\u1ecdc c\u1ee7a ___.\nA. e\nB. w \n\u2705 C. y \u2192 \"my school\" ngh\u0129a l\u00e0 \"tr\u01b0\u1eddng h\u1ecdc c\u1ee7a t\u00f4i\".\nD. a "
+        "hint": "This is m___ school.\n\u2192 \u0110\u00e2y l\u00e0 tr\u01b0\u1eddng h\u1ecdc c\u1ee7a ___.\nA. e\nB. w \n\u2705 C. y \u2192 \"my: c\u1ee7a t\u00f4i\"\nD. a "
     },
     {
         "id": 60,
@@ -837,7 +837,7 @@
             "D. dogs"
         ],
         "correctAnswerIndex": 0,
-        "hint": "There are four _______.\n\u2192 C\u00f3 b\u1ed1n _______.\n\u2705 A. Rabbits (Con th\u1ecf)\nB. Birds (Con chim)\nC. Cats (Con m\u00e8o)\nD. Dogs (Con ch\u00f3)"
+        "hint": "There are four _______.\n\u2192 C\u00f3 b\u1ed1n _______.\n\u2705 A. rabbits (con th\u1ecf)\nB. birds (con chim)\nC. cats (con m\u00e8o)\nD. dogs (con ch\u00f3)"
     },
     {
         "id": 61,
@@ -851,7 +851,7 @@
             "D. r"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Ope___ the book, please.\n\u2192 M\u1edf s\u00e1ch ra, l\u00e0m \u01a1n.\nA. t \nB. h \n\u2705 C. n \u2192 \"Open the book: M\u1edf s\u00e1ch ra\"\nD. r "
+        "hint": "Ope___ the book, please.\n\u2192 L\u00e0m \u01a1n m\u1edf quy\u1ec3n s\u00e1ch ra.\nA. t \nB. h \n\u2705 C. n \u2192 \"Open: M\u1edf ra\"\nD. r "
     },
     {
         "id": 62,
@@ -865,7 +865,7 @@
             "D. chair"
         ],
         "correctAnswerIndex": 0,
-        "hint": "There is a ___ in my bedroom.\n\u2192 C\u00f3 m\u1ed9t ___ trong ph\u00f2ng ng\u1ee7 c\u1ee7a t\u00f4i.\n\u2705 A. Lamp (\u0110\u00e8n)\nB. Bed (Gi\u01b0\u1eddng)\nC. Door (C\u1eeda)\nD. Chair (Gh\u1ebf)"
+        "hint": "There is a ___ in my bedroom.\n\u2192 C\u00f3 m\u1ed9t ___ trong ph\u00f2ng ng\u1ee7 c\u1ee7a t\u00f4i.\n\u2705 A. lamp (\u0111\u00e8n)\nB. bed (gi\u01b0\u1eddng)\nC. door (c\u1eeda)\nD. chair (gh\u1ebf)"
     },
     {
         "id": 63,
@@ -887,13 +887,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ioe/audio/audio25yearsold.mp3",
         "choices": [
-            "A. 15",
-            "B. 20",
-            "C. 25",
-            "D. 35"
+            "A. fifteen",
+            "B. twenty",
+            "C. twenty five",
+            "D. thirty five"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Jenny is ___ years old.\n\u2192 Jenny  ___ tu\u1ed5i.\nA. 15\nB. 20\n\u2705 C. 25\nD. 35"
+        "hint": "Jenny is ___ years old.\n\u2192 Jenny  ___ tu\u1ed5i.\nA. fifteen\nB. twenty\n\u2705 C. twenty five\nD. thirty five"
     },
     {
         "id": 65,
@@ -903,11 +903,11 @@
         "choices": [
             "A. look",
             "B. books",
-            "C. ten",
+            "C. dance",
             "D. sing"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Do you like ___?\n\u2192 B\u1ea1n c\u00f3 th\u00edch ___ kh\u00f4ng?\nA. look (nh\u00ecn) \n\u2705 B. books (s\u00e1ch) \u2192 \"Do you like books?: B\u1ea1n c\u00f3 th\u00edch s\u00e1ch kh\u00f4ng?\".\nC. ten (s\u1ed1 m\u01b0\u1eddi)\nD. sing (h\u00e1t)"
+        "hint": "Do you like ___?\n\u2192 B\u1ea1n c\u00f3 th\u00edch ___ kh\u00f4ng?\nA. look (nh\u00ecn) \n\u2705 B. books (s\u00e1ch) \u2192 Sau \"like\" + danh t\u1eeb, c\u00e1c ph\u01b0\u01a1ng \u00e1n c\u00f2n l\u1ea1i l\u00e0 \u0111\u1ed9ng t\u1eeb.\nC. dance (nh\u1ea3y)\nD. sing (h\u00e1t)"
     },
     {
         "id": 66,
@@ -957,27 +957,27 @@
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ioe/audio/audioplayingvolleyball.mp3",
         "choices": [
-            "A. skating",
+            "A. Skating",
             "B. Skipping",
-            "C. playing football",
-            "D. playing volleyball"
+            "C. Playing football",
+            "D. Playing volleyball"
         ],
         "correctAnswerIndex": 3,
-        "hint": "What is Peter doing?\n\u2192 Peter \u0111ang l\u00e0m g\u00ec?\nA. Skating (Tr\u01b0\u1ee3t patin)\nB. Skipping (Nh\u1ea3y d\u00e2y)\nC. Playing football (Ch\u01a1i b\u00f3ng \u0111\u00e1)\n\u2705 D. Playing volleyball (Ch\u01a1i b\u00f3ng chuy\u1ec1n)"
+        "hint": "What is Peter doing?\n\u2192 Peter \u0111ang l\u00e0m g\u00ec?\nA. Skating (Tr\u01b0\u1ee3t v\u00e1n)\nB. Skipping (Nh\u1ea3y d\u00e2y)\nC. Playing football (Ch\u01a1i b\u00f3ng \u0111\u00e1)\n\u2705 D. Playing volleyball (Ch\u01a1i b\u00f3ng chuy\u1ec1n)"
     },
     {
         "id": 70,
-        "question": "Goodbye ___!",
+        "question": "Goodbye! ___.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Nice to meet you.",
+            "A. Nice to meet you",
             "B. See you later",
             "C. Good morning",
             "D. Good evening"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Goodbye ___!\n\u2192 T\u1ea1m bi\u1ec7t ___!\nA. Nice to meet you. (R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n.) \n\u2705 B. See you later (H\u1eb9n g\u1eb7p l\u1ea1i) \nC. Good morning (Ch\u00e0o bu\u1ed5i s\u00e1ng.) \nD. Good evening (Ch\u00e0o bu\u1ed5i t\u1ed1i.) "
+        "hint": "Goodbye. ___!\n\u2192 T\u1ea1m bi\u1ec7t. ___!\nA. Nice to meet you (R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n.) \n\u2705 B. See you later (H\u1eb9n g\u1eb7p l\u1ea1i) \nC. Good morning (Ch\u00e0o bu\u1ed5i s\u00e1ng.) \nD. Good evening (Ch\u00e0o bu\u1ed5i t\u1ed1i.) "
     },
     {
         "id": 71,
@@ -991,7 +991,7 @@
             "D. playing chess"
         ],
         "correctAnswerIndex": 1,
-        "hint": "What is Nam doing?\n\u2192 Nam \u0111ang l\u00e0m g\u00ec?\nA. Drawing a picture (\u0110ang v\u1ebd tranh)\n\u2705 B. Listening to music (\u0110ang nghe nh\u1ea1c)\nC. Watching TV (\u0110ang xem TV)\nD. Playing chess (\u0110ang ch\u01a1i c\u1edd)"
+        "hint": "What is Nam doing?\n\u2192 Nam \u0111ang l\u00e0m g\u00ec?\nA. drawing a picture (\u0111ang v\u1ebd tranh)\n\u2705 B. listening to music (\u0111ang nghe nh\u1ea1c)\nC. watching TV (\u0111ang xem TV)\nD. playing chess (\u0111ang ch\u01a1i c\u1edd)"
     },
     {
         "id": 72,
@@ -999,13 +999,13 @@
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/driver.png",
         "questionAudioUrl": "",
         "choices": [
-            "A. A doctor",
-            "B. A worker",
-            "C. A teacher",
-            "D. A driver"
+            "A. a doctor",
+            "B. a worker",
+            "C. a teacher",
+            "D. a driver"
         ],
         "correctAnswerIndex": 3,
-        "hint": "What is his job?\n\u2192 Ngh\u1ec1 nghi\u1ec7p c\u1ee7a anh \u1ea5y l\u00e0 g\u00ec?\nA. A doctor (B\u00e1c s\u0129)\nB. A worker (C\u00f4ng nh\u00e2n)\nC. A teacher (Gi\u00e1o vi\u00ean)\n\u2705 D. A driver (T\u00e0i x\u1ebf)"
+        "hint": "What is his job?\n\u2192 Ngh\u1ec1 nghi\u1ec7p c\u1ee7a anh \u1ea5y l\u00e0 g\u00ec?\nA. a doctor (B\u00e1c s\u0129)\nB. a worker (C\u00f4ng nh\u00e2n)\nC. a teacher (Gi\u00e1o vi\u00ean)\n\u2705 D. a driver (T\u00e0i x\u1ebf)"
     },
     {
         "id": 73,
@@ -1019,7 +1019,7 @@
             "D. beans"
         ],
         "correctAnswerIndex": 0,
-        "hint": "What is John eating?\n\u2192 John \u0111ang \u0103n g\u00ec?\n\u2705 A. Bread (B\u00e1nh m\u00ec)\nB. Eggs (Tr\u1ee9ng)\nC. Chicken (Th\u1ecbt g\u00e0)\nD. Beans (\u0110\u1eadu)"
+        "hint": "What is John eating?\n\u2192 John \u0111ang \u0103n g\u00ec?\n\u2705 A. bread (B\u00e1nh m\u00ec)\nB. eggs (Tr\u1ee9ng)\nC. chicken (Th\u1ecbt g\u00e0)\nD. beans (\u0110\u1eadu)"
     },
     {
         "id": 74,
@@ -1033,7 +1033,7 @@
             "D. beer"
         ],
         "correctAnswerIndex": 2,
-        "hint": "What is Mary drinking?\n\u2192John \u0111ang \u0103n g\u00ec?\nA. Water (N\u01b0\u1edbc)\nB. Milk (S\u1eefa)\n\u2705 C. Juice (N\u01b0\u1edbc \u00e9p)\nD. Beer (Bia)"
+        "hint": "What is Mary drinking?\n\u2192Mary \u0111ang u\u1ed1ng g\u00ec?\nA. water (N\u01b0\u1edbc)\nB. milk (S\u1eefa)\n\u2705 C. juice (N\u01b0\u1edbc \u00e9p)\nD. beer (Bia)"
     },
     {
         "id": 75,
@@ -1047,7 +1047,7 @@
             "D. singing"
         ],
         "correctAnswerIndex": 1,
-        "hint": "John is _____.\n\u2192 John \u0111ang _____ .\nA. Dancing (Nh\u1ea3y m\u00faa)\n\u2705 B. Writing (Vi\u1ebft)\nC. Reading a book (\u0110\u1ecdc s\u00e1ch)\nD. Singing (H\u00e1t)"
+        "hint": "John is _____.\n\u2192 John \u0111ang _____ .\nA. dancing (nh\u1ea3y m\u00faa)\n\u2705 B. writing (vi\u1ebft)\nC. reading a book (\u0111\u1ecdc s\u00e1ch)\nD. singing (h\u00e1t)"
     },
     {
         "id": 76,
@@ -1061,7 +1061,7 @@
             "D. two doors"
         ],
         "correctAnswerIndex": 0,
-        "hint": "There are ______ in my bedroom.\n\u2192 C\u00f3 ______ trong ph\u00f2ng ng\u1ee7 c\u1ee7a t\u00f4i.\n\u2705 A. Two windows (Hai c\u1eeda s\u1ed5)\nB. Two desks (Hai b\u00e0n l\u00e0m vi\u1ec7c)\nC. Two lamps (Hai \u0111\u00e8n)\nD. Two doors (Hai c\u1eeda ra v\u00e0o)"
+        "hint": "There are ______ in my bedroom.\n\u2192 C\u00f3 ______ trong ph\u00f2ng ng\u1ee7 c\u1ee7a t\u00f4i.\n\u2705 A. two windows (hai c\u1eeda s\u1ed5)\nB. two desks (hai b\u00e0n l\u00e0m vi\u1ec7c)\nC. two lamps (hai \u0111\u00e8n)\nD. two doors (hai c\u1eeda ra v\u00e0o)"
     },
     {
         "id": 77,
@@ -1079,7 +1079,7 @@
     },
     {
         "id": 78,
-        "question": "___ you, Lan?",
+        "question": "___ you Lan?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1089,7 +1089,7 @@
             "D. She"
         ],
         "correctAnswerIndex": 1,
-        "hint": "___ you, Lan?\n\u2192 ___ b\u1ea1n, Lan?\nA. Is (d\u00f9ng cho ch\u1ee7 ng\u1eef s\u1ed1 \u00edt, kh\u00f4ng ph\u00f9 h\u1ee3p v\u1edbi \"you\")\n\u2705 B. Are (d\u00f9ng cho ch\u1ee7 ng\u1eef \"you\")\nC. He (Anh \u1ea5y) \nD. She (C\u00f4 \u1ea5y)"
+        "hint": "___ you Lan?\n\u2192 B\u1ea1n l\u00e0 Lan?\nA. Is (d\u00f9ng cho ch\u1ee7 ng\u1eef s\u1ed1 \u00edt)\n\u2705 B. Are (d\u00f9ng cho ch\u1ee7 ng\u1eef \"you\")\nC. He (Anh \u1ea5y) \nD. She (C\u00f4 \u1ea5y)"
     },
     {
         "id": 79,
@@ -1131,7 +1131,7 @@
             "D. kitchen"
         ],
         "correctAnswerIndex": 1,
-        "hint": "This is the ______.\n\u2192 \u0110\u00e2y l\u00e0 ______.\nA. Living room (Ph\u00f2ng kh\u00e1ch)\n\u2705 B. Dining room (Ph\u00f2ng \u0103n)\nC. Bedroom (Ph\u00f2ng ng\u1ee7)\nD. Kitchen (Nh\u00e0 b\u1ebfp)"
+        "hint": "This is the ______.\n\u2192 \u0110\u00e2y l\u00e0 ______.\nA. living room (ph\u00f2ng kh\u00e1ch)\n\u2705 B. dining room (ph\u00f2ng \u0103n)\nC. bedroom (ph\u00f2ng ng\u1ee7)\nD. kitchen (nh\u00e0 b\u1ebfp)"
     },
     {
         "id": 82,
@@ -1145,7 +1145,7 @@
             "D. cars"
         ],
         "correctAnswerIndex": 2,
-        "hint": "They have two ____.\n\u2192 H\u1ecd c\u00f3 hai ____ .\nA. Teddy bears (G\u1ea5u b\u00f4ng)\nB. Dolls (B\u00fap b\u00ea)\n\u2705C. Ships (T\u00e0u, thuy\u1ec1n)\nD. Cars (Xe h\u01a1i)"
+        "hint": "They have two ____.\n\u2192 H\u1ecd c\u00f3 hai ____ .\nA. teddy bears (g\u1ea5u b\u00f4ng)\nB. dolls (b\u00fap b\u00ea)\n\u2705C. ships (t\u00e0u, thuy\u1ec1n)\nD. cars (xe h\u01a1i)"
     },
     {
         "id": 83,
@@ -1159,7 +1159,7 @@
             "D. short"
         ],
         "correctAnswerIndex": 1,
-        "hint": "A _____ house.\n\u2192 M\u1ed9t ng\u00f4i nh\u00e0 _____ .\nA. Big (L\u1edbn)\n\u2705 B. Small (Nh\u1ecf)\nC. Long (D\u00e0i)\nD. Short (Th\u1ea5p/ng\u1eafn)"
+        "hint": "A _____ house.\n\u2192 M\u1ed9t ng\u00f4i nh\u00e0 _____ .\nA. big (L\u1edbn)\n\u2705 B. small (Nh\u1ecf)\nC. long (D\u00e0i)\nD. short (Th\u1ea5p/ng\u1eafn)"
     },
     {
         "id": 84,
@@ -1167,8 +1167,8 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. H",
-            "B. W",
+            "A. W",
+            "B. H",
             "C. T",
             "D. U"
         ],
@@ -1187,7 +1187,7 @@
             "D. oo"
         ],
         "correctAnswerIndex": 3,
-        "hint": "Hello, Alan. Nice to meet you. - Nice to meet you, t___.\n\u2192 Xin ch\u00e0o, Alan. R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n. - R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n, ___.\nA. ou \nB. oe\nC. oa \n\u2705 D. oo \u2192 \u0110\u00fang, \"too: c\u0169ng\""
+        "hint": "Hello, Alan. Nice to meet you. - Nice to meet you, t___.\n\u2192 Xin ch\u00e0o, Alan. R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n. - R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n, ___.\nA. ou \nB. oe\nC. oa \n\u2705 D. oo \u2192 \"too: c\u0169ng\""
     },
     {
         "id": 86,
@@ -1201,7 +1201,7 @@
             "D. q"
         ],
         "correctAnswerIndex": 1,
-        "hint": "W___ite your name.\n\u2192___ t\u00ean c\u1ee7a b\u1ea1n.\nA. u\n\u2705 B. r \u2192 \u0110\u00fang, \"Write your name: Vi\u1ebft t\u00ean c\u1ee7a b\u1ea3n.\" \nC. t \nD. q "
+        "hint": "W___ite your name.\n\u2192___ t\u00ean c\u1ee7a b\u1ea1n.\nA. u\n\u2705 B. r \u2192 \"Write: Vi\u1ebft\" \nC. t \nD. q "
     },
     {
         "id": 87,
@@ -1215,7 +1215,7 @@
             "D. i"
         ],
         "correctAnswerIndex": 1,
-        "hint": "What c___lour is this? \u2013 It\u2019s blue.\n\u2192 M\u00e0u n\u00e0y l\u00e0 g\u00ec? - N\u00f3 m\u00e0u xanh d\u01b0\u01a1ng.\nA. u \n\u2705 B. o \u2192 \u0110\u00fang, \"colour: m\u00e0u s\u1eafc\"\nC. e \nD. i "
+        "hint": "What c___lour is this? \u2013 It\u2019s blue.\n\u2192 C\u00e1i n\u00e0y l\u00e0 m\u00e0u g\u00ec? - N\u00f3 m\u00e0u xanh d\u01b0\u01a1ng.\nA. u \n\u2705 B. o \u2192 \"colour: m\u00e0u s\u1eafc\"\nC. e \nD. i "
     },
     {
         "id": 88,
@@ -1243,7 +1243,7 @@
             "D. you"
         ],
         "correctAnswerIndex": 2,
-        "hint": "___ morning, Adam.\n\u2192 ___ bu\u1ed5i s\u00e1ng, Adam.\nA. hello (Xin ch\u00e0o) \nB. hi (Ch\u00e0o) \n\u2705 C. good (Good morning: Ch\u00e0o bu\u1ed5i s\u00e1ng)\nD. you (b\u1ea1n) "
+        "hint": "___ morning, Adam.\n\u2192 ___ bu\u1ed5i s\u00e1ng, Adam.\nA. Hello (Xin ch\u00e0o) \nB. Hi (Ch\u00e0o) \n\u2705 C. Good (Good morning: Ch\u00e0o bu\u1ed5i s\u00e1ng)\nD. You (B\u1ea1n) "
     },
     {
         "id": 90,
@@ -1257,7 +1257,7 @@
             "D. she"
         ],
         "correctAnswerIndex": 2,
-        "hint": "What is ___ name?\n\u2192 T\u00ean c\u1ee7a ___ l\u00e0 g\u00ec?\nA. I (T\u00f4i) \nB. me (t\u00f4i - t\u00e2n ng\u1eef) \n\u2705 C. his ( \"his name\" = \"t\u00ean c\u1ee7a anh \u1ea5y\")\nD. she (c\u00f4 \u1ea5y)"
+        "hint": "What is ___ name?\n\u2192 T\u00ean ___ l\u00e0 g\u00ec?\nA. I (T\u00f4i) \nB. me (t\u00f4i - t\u00e2n ng\u1eef) \n\u2705 C. his ( \"his name: t\u00ean c\u1ee7a anh \u1ea5y\")\nD. she (c\u00f4 \u1ea5y)"
     },
     {
         "id": 91,
@@ -1271,7 +1271,7 @@
             "D. hi"
         ],
         "correctAnswerIndex": 1,
-        "hint": "What colour ___ this? \u2013 It\u2019s yellow.\n\u2192 M\u00e0u s\u1eafc c\u1ee7a ___ l\u00e0 g\u00ec? - N\u00f3 m\u00e0u v\u00e0ng.\nA. it (n\u00f3) \n\u2705 B. is (l\u00e0)\nC. that (\u0111\u00f3) \nD. hi (ch\u00e0o) "
+        "hint": "What colour ___ this? \u2013 It\u2019s yellow.\n\u2192 M\u00e0u g\u00ec \u0111\u00e2y? \u2013 N\u00f3 m\u00e0u v\u00e0ng.\nA. it (n\u00f3) \n\u2705 B. is (l\u00e0)\nC. that (\u0111\u00f3) \nD. hi (ch\u00e0o) "
     },
     {
         "id": 92,
@@ -1285,7 +1285,7 @@
             "D. I"
         ],
         "correctAnswerIndex": 1,
-        "hint": "She ___ my friend.\n\u2192 C\u00f4 \u1ea5y ___ b\u1ea1n c\u1ee7a t\u00f4i.\nA. are \u2192 d\u00f9ng v\u1edbi ch\u1ee7 ng\u1eef: We/You/They/DT s\u1ed1 nhi\u1ec1u.\n\u2705 B. is  \u2192 d\u00f9ng v\u1edbi ch\u1ee7 ng\u1eef: He/She/It/DT s\u1ed1 \u00edt.\nC. me (t\u00f4i) \nD. I (t\u00f4i) "
+        "hint": "She ___ my friend.\n\u2192 C\u00f4 \u1ea5y ___ b\u1ea1n c\u1ee7a t\u00f4i.\nA. are \u2192 d\u00f9ng v\u1edbi ch\u1ee7 ng\u1eef: We/You/They/DT s\u1ed1 nhi\u1ec1u.\n\u2705 B. is  \u2192 d\u00f9ng v\u1edbi ch\u1ee7 ng\u1eef: He/She/It/DT s\u1ed1 \u00edt.\nC. me (t\u00f4i - t\u00e2n ng\u1eef) \nD. I (t\u00f4i - ch\u1ee7 ng\u1eef) "
     },
     {
         "id": 93,
@@ -1313,7 +1313,7 @@
             "D. my"
         ],
         "correctAnswerIndex": 3,
-        "hint": "This is __ chair.\n\u2192 \u0110\u00e2y l\u00e0 ___ gh\u1ebf.\nA. he (anh \u1ea5y) \nB. she (c\u00f4 \u1ea5y) \nC. it (n\u00f3) \n\u2705 D. my (c\u1ee7a t\u00f4i) \u2192 This is my chair:  \u0110\u00e2y l\u00e0 gh\u1ebf c\u1ee7a t\u00f4i."
+        "hint": "This is __ chair.\n\u2192 \u0110\u00e2y l\u00e0 ___ gh\u1ebf.\nA. he (anh \u1ea5y) \nB. she (c\u00f4 \u1ea5y) \nC. it (n\u00f3) \n\u2705 D. my (c\u1ee7a t\u00f4i) \u2192 \"my chair: c\u1ee7a t\u00f4i\""
     },
     {
         "id": 95,
@@ -1327,7 +1327,7 @@
             "D. they"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Give ___ an eraser, please!\n\u2192 Vui l\u00f2ng \u0111\u01b0a ___ m\u1ed9t c\u1ee5c t\u1ea9y!\nA. he (anh \u1ea5y) \u2192 Kh\u00f4ng ph\u00f9 h\u1ee3p v\u00ec \"he\" l\u00e0 ch\u1ee7 ng\u1eef\n\u2705 B. me (t\u00f4i) \u2192 \"me\" l\u00e0 t\u00e2n ng\u1eef\nC. she (c\u00f4 \u1ea5y) \u2192 Kh\u00f4ng ph\u00f9 h\u1ee3p v\u00ec \"she\" l\u00e0 ch\u1ee7 ng\u1eef\nD. they (h\u1ecd) \u2192 Kh\u00f4ng ph\u00f9 h\u1ee3p v\u00ec \"they\" l\u00e0 ch\u1ee7 ng\u1eef"
+        "hint": "Give ___ an eraser, please!\n\u2192 Vui l\u00f2ng \u0111\u01b0a ___ m\u1ed9t c\u1ee5c t\u1ea9y!\nA. he (anh \u1ea5y) \u2192 l\u00e0 ch\u1ee7 ng\u1eef\n\u2705 B. me (t\u00f4i) \u2192 l\u00e0 t\u00e2n ng\u1eef\nC. she (c\u00f4 \u1ea5y) \u2192 l\u00e0 ch\u1ee7 ng\u1eef\nD. they (h\u1ecd) \u2192 l\u00e0 ch\u1ee7 ng\u1eef"
     },
     {
         "id": 96,
@@ -1337,11 +1337,11 @@
         "choices": [
             "A. he",
             "B. me",
-            "C. I",
+            "C. i",
             "D. she"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Let\u2019s sing with __ !\n\u2192 H\u00e3y h\u00e1t c\u00f9ng ___!\nA. he (anh \u1ea5y) \u2192 \"he\" l\u00e0 ch\u1ee7 ng\u1eef\n\u2705 B. me (t\u00f4i) \u2192 t\u00e2n ng\u1eef\nC. I (t\u00f4i) \u2192 \"I\" l\u00e0 ch\u1ee7 ng\u1eef\nD. she (c\u00f4 \u1ea5y) \u2192 \"she\" l\u00e0 ch\u1ee7 ng\u1eef"
+        "hint": "Let\u2019s sing with __ !\n\u2192 H\u00e3y h\u00e1t c\u00f9ng ___!\nA. he (anh \u1ea5y) \u2192 l\u00e0 ch\u1ee7 ng\u1eef\n\u2705 B. me (t\u00f4i) \u2192 l\u00e0 t\u00e2n ng\u1eef\nC. i (t\u00f4i) \u2192 l\u00e0 ch\u1ee7 ng\u1eef\nD. she (c\u00f4 \u1ea5y) \u2192 l\u00e0 ch\u1ee7 ng\u1eef"
     },
     {
         "id": 97,
@@ -1355,7 +1355,7 @@
             "D. on"
         ],
         "correctAnswerIndex": 1,
-        "hint": "1. Let\u2019s stand __!\n\u2192 H\u00e3y \u0111\u1ee9ng __!\nA. down (xu\u1ed1ng) \u2192 Kh\u00f4ng ph\u00f9 h\u1ee3p v\u00ec \"stand down\" c\u00f3 ngh\u0129a l\u00e0 \"r\u00fat lui\" ho\u1eb7c \"ng\u1eebng l\u00e0m vi\u1ec7c\".\n\u2705 B. up (stand up: \u0111\u1ee9ng l\u00ean)\nC. in (trong) \nD. on (tr\u00ean) "
+        "hint": "Let\u2019s stand __!\n\u2192 H\u00e3y \u0111\u1ee9ng __!\nA. down (xu\u1ed1ng) \u2192 \"stand down: r\u00fat lui\" \n\u2705 B. up (stand up: \u0111\u1ee9ng l\u00ean)\nC. in (trong) \nD. on (tr\u00ean) "
     },
     {
         "id": 98,
@@ -1369,7 +1369,7 @@
             "D. a"
         ],
         "correctAnswerIndex": 2,
-        "hint": "2. Wh__ is that? - That\u2019s Tom.\n\u2192 __ l\u00e0 ai? - \u0110\u00f3 l\u00e0 Tom.\nA. u \nB. e \n\u2705 C. o (\"Who is that?: Kia l\u00e0 ai v\u1eady)\nD. a "
+        "hint": "Wh__ is that? - That\u2019s Tom.\n\u2192 Kia l\u00e0 ai v\u1eady? - \u0110\u00f3 l\u00e0 Tom.\nA. u \nB. e \n\u2705 C. o (\"Who: ai)\nD. a "
     },
     {
         "id": 99,
@@ -1425,7 +1425,7 @@
             "D. e"
         ],
         "correctAnswerIndex": 2,
-        "hint": "What colour _s this? - It\u2019s green.\n\u2192 M\u00e0u g\u00ec \u0111\u00e2y? - N\u00f3 c\u00f3 m\u00e0u xanh l\u00e1 c\u00e2y.\nA. a \nB. u \n\u2705 C. i \u2192 \"What colour is this?: m\u00e0u g\u00ec \u0111\u00e2y\"\nD. e"
+        "hint": "What colour _s this? - It\u2019s green.\n\u2192 C\u00e1i n\u00e0y l\u00e0 m\u00e0u g\u00ec? - N\u00f3 m\u00e0u xanh l\u00e1 c\u00e2y.\nA. a \nB. u \n\u2705 C. i \u2192  ch\u1ee7 ng\u1eef \"this\" (s\u1ed1 \u00edt) n\u00ean \u0111\u1ed9ng t\u1eeb th\u00edch h\u1ee3p l\u00e0 \"is\".\nD. e"
     },
     {
         "id": 103,
@@ -1443,17 +1443,17 @@
     },
     {
         "id": 104,
-        "question": "___ your hand, please.",
+        "question": "___ your hands, please.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
             "A. Goodbye",
             "B. Hi",
             "C. Wash",
-            "D. study"
+            "D. Study"
         ],
         "correctAnswerIndex": 2,
-        "hint": "___ your hand, please.\n\u2192 Vui l\u00f2ng ___ tay.\nA. Goodbye (t\u1ea1m bi\u1ec7t)\nB. Hi (xin ch\u00e0o)\n\u2705 C. Wash (r\u1eeda)\nD. study (h\u1ecdc)"
+        "hint": "___ your hands, please.\n\u2192 Vui l\u00f2ng ___ tay.\nA. Goodbye (t\u1ea1m bi\u1ec7t)\nB. Hi (xin ch\u00e0o)\n\u2705 C. Wash (r\u1eeda)\nD. Study (h\u1ecdc)"
     },
     {
         "id": 105,
@@ -1495,7 +1495,7 @@
             "D. Hi, nice to meet you"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Goodbye. ___!\n\u2192 T\u1ea1m bi\u1ec7t. ___!\nA. Fine, thanks (T\u00f4i kh\u1ecfe, c\u1ea3m \u01a1n)\nB. Nice to meet you too (R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n)\n\u2705 C. See you later (H\u1eb9n g\u1eb7p l\u1ea1i)\nD. Hi, nice to meet you (Xin ch\u00e0o, r\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n)"
+        "hint": "Goodbye! ___.\n\u2192 T\u1ea1m bi\u1ec7t! ___.\nA. Fine, thanks (T\u00f4i kh\u1ecfe, c\u1ea3m \u01a1n)\nB. Nice to meet you too (C\u0169ng r\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n)\n\u2705 C. See you later (H\u1eb9n g\u1eb7p l\u1ea1i)\nD. Hi, nice to meet you (Xin ch\u00e0o, r\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n)"
     },
     {
         "id": 108,
@@ -1523,7 +1523,7 @@
             "D. This is blue"
         ],
         "correctAnswerIndex": 0,
-        "hint": "___? \u2013 It\u2019s black.\n\u2192 ___? \u2013 N\u00f3 c\u00f3 m\u00e0u \u0111en.\n\u2705 A. What colour is this (C\u00e1i n\u00e0y c\u00f3 m\u00e0u g\u00ec?) \nB. What is this (\u0110\u00e2y l\u00e0 c\u00e1i g\u00ec?) \nC. Is this black (C\u00e1i n\u00e0y c\u00f3 m\u00e0u \u0111en kh\u00f4ng?)\nD. This is blue (C\u00e1i n\u00e0y m\u00e0u xanh) "
+        "hint": "___? \u2013 It\u2019s black.\n\u2192 ___? \u2013 N\u00f3 c\u00f3 m\u00e0u \u0111en.\n\u2705 A. What colour is this (C\u00e1i n\u00e0y c\u00f3 m\u00e0u g\u00ec?) \nB. What is this (\u0110\u00e2y l\u00e0 c\u00e1i g\u00ec?) \nC. Is this black (C\u00e1i n\u00e0y m\u00e0u \u0111en ph\u1ea3i kh\u00f4ng?)\nD. This is blue (C\u00e1i n\u00e0y m\u00e0u xanh) "
     },
     {
         "id": 110,
@@ -1541,17 +1541,17 @@
     },
     {
         "id": 111,
-        "question": "Is that a pen?",
+        "question": "Is that a pen? - ______.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
             "A. Yes",
-            "B. yes, it is",
+            "B. Yes, it is",
             "C. Not",
-            "D. no"
+            "D. No"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Is that a pen?\n\u2192 \u0110\u00f3 c\u00f3 ph\u1ea3i l\u00e0 m\u1ed9t c\u00e2y b\u00fat kh\u00f4ng?\nA. Yes\n\u2705 B. Yes, it is (V\u00e2ng, \u0111\u00fang v\u1eady.)\nC. Not\nD. No \u2192 Sai, c\u1ea7n c\u00e2u tr\u1ea3 l\u1eddi \u0111\u1ea7y \u0111\u1ee7 nh\u01b0 \"No, it isn\u2019t.\""
+        "hint": "Is that a pen? - ______.\n\u2192 \u0110\u00f3 c\u00f3 ph\u1ea3i l\u00e0 m\u1ed9t c\u00e2y b\u00fat kh\u00f4ng?\nA. Yes\n\u2705 B. Yes, it is (V\u00e2ng, \u0111\u00fang v\u1eady.)\nC. Not\nD. No\nC\u00e2u h\u1ecfi \"Is that...?\" l\u00e0 c\u00e2u h\u1ecfi Yes/No\n* Tr\u1ea3 l\u1eddi kh\u1eb3ng \u0111\u1ecbnh: Yes, it is. \n* Tr\u1ea3 l\u1eddi ph\u1ee7 \u0111\u1ecbnh: No, it isn't. \n* Tr\u1ea3 l\u1eddi kh\u00f4ng ch\u1eafc ch\u1eafn: I'm not sure. / It could be. / Perhaps."
     },
     {
         "id": 112,
@@ -1579,7 +1579,7 @@
             "D. this"
         ],
         "correctAnswerIndex": 0,
-        "hint": "These ___ my books.\n\u2192 \u0110\u00e2y ___ nh\u1eefng quy\u1ec3n s\u00e1ch c\u1ee7a t\u00f4i.\n\u2705 A. are \u2192 my books l\u00e0 s\u1ed1 nhi\u1ec1u + are\nB. is \u2192 d\u00f9ng cho danh t\u1eeb s\u1ed1 \u00edt.\nC. am \u2192 ch\u1ec9 d\u00f9ng v\u1edbi \"I\".\nD. this \u2192 \"this\" l\u00e0 \u0111\u1ea1i t\u1eeb ch\u1ec9 s\u1ed1 \u00edt, kh\u00f4ng ph\u00f9 h\u1ee3p v\u1edbi \"books\"."
+        "hint": "These ___ my books.\n\u2192 \u0110\u00e2y ___ nh\u1eefng quy\u1ec3n s\u00e1ch c\u1ee7a t\u00f4i.\n\u2705 A. are \u2192 my books l\u00e0 s\u1ed1 nhi\u1ec1u + are\nB. is \u2192 d\u00f9ng cho danh t\u1eeb s\u1ed1 \u00edt.\nC. am \u2192 ch\u1ec9 d\u00f9ng v\u1edbi \"I\".\nD. this \u2192 \"this\" l\u00e0 \u0111\u1ea1i t\u1eeb ch\u1ec9 s\u1ed1 \u00edt."
     },
     {
         "id": 114,
@@ -1615,13 +1615,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. are",
-            "B. is",
-            "C. it",
-            "D. the"
+            "A. Are",
+            "B. Is",
+            "C. It",
+            "D. The"
         ],
         "correctAnswerIndex": 1,
-        "hint": "___ this a pencil? \u2013 No, it isn\u2019t.\n\u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i l\u00e0 m\u1ed9t c\u00e2y b\u00fat ch\u00ec kh\u00f4ng? \u2013 Kh\u00f4ng, n\u00f3 kh\u00f4ng ph\u1ea3i.\nA. are \n\u2705 B. is \nC. it \nD. the\nC\u1ea5u tr\u00fac c\u00e2u h\u1ecfi Yes/No v\u1edbi \u0111\u1ed9ng t\u1eeb \"to be\":\nKhi \u0111\u1eb7t c\u00e2u h\u1ecfi Yes/No v\u1edbi \"to be\" (am, is, are), ta \u0111\u1ea3o \u0111\u1ed9ng t\u1eeb \"to be\" l\u00ean \u0111\u1ea7u c\u00e2u.\nV\u00ed d\u1ee5: \"This is a pencil.\" \u2192 \u0110\u1ea3o l\u00ean th\u00e0nh \"Is this a pencil?\"\nV\u1edbi ch\u1ee7 ng\u1eef \"this\" (s\u1ed1 \u00edt), ta d\u00f9ng \"is\".\nN\u1ebfu ch\u1ee7 ng\u1eef l\u00e0 \"these\" (s\u1ed1 nhi\u1ec1u) th\u00ec d\u00f9ng \"are\", v\u00ed d\u1ee5: \"Are these pencils?\""
+        "hint": "___ this a pencil? \u2013 No, it isn\u2019t.\n\u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i l\u00e0 m\u1ed9t c\u00e2y b\u00fat ch\u00ec kh\u00f4ng? \u2013 Kh\u00f4ng, n\u00f3 kh\u00f4ng ph\u1ea3i.\nA. Are \n\u2705 B. Is \nC. It \nD. The\nC\u1ea5u tr\u00fac c\u00e2u h\u1ecfi Yes/No v\u1edbi \u0111\u1ed9ng t\u1eeb \"to be\":\nKhi \u0111\u1eb7t c\u00e2u h\u1ecfi Yes/No v\u1edbi \"to be\" (am, is, are), ta \u0111\u1ea3o \u0111\u1ed9ng t\u1eeb \"to be\" l\u00ean \u0111\u1ea7u c\u00e2u.\nV\u00ed d\u1ee5: \"This is a pencil.\" \u2192 \u0110\u1ea3o l\u00ean th\u00e0nh \"Is this a pencil?\"\nV\u1edbi ch\u1ee7 ng\u1eef \"this\" (s\u1ed1 \u00edt), ta d\u00f9ng \"is\".\nN\u1ebfu ch\u1ee7 ng\u1eef l\u00e0 \"these\" (s\u1ed1 nhi\u1ec1u) th\u00ec d\u00f9ng \"are\", v\u00ed d\u1ee5: \"Are these pencils?\""
     },
     {
         "id": 117,
@@ -1671,17 +1671,17 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. \u201cHello!\u201d",
-            "B. \u201cGood\u201d",
-            "C. \u201cYou\u201d",
-            "D. \u201cHe\u201d"
+            "A. hello",
+            "B. good",
+            "C. you",
+            "D. he"
         ],
         "correctAnswerIndex": 0,
-        "hint": "Let\u2019s say ___ to the teacher.\n\u2192 H\u00e3y n\u00f3i ___ v\u1edbi gi\u00e1o vi\u00ean.\n\u2705 A. \u201cHello!\u201d (Xin ch\u00e0o!)\nB. \u201cGood\u201d (T\u1ed1t) \nC. \u201cYou\u201d (B\u1ea1n) \nD. \u201cHe\u201d (Anh \u1ea5y) "
+        "hint": "Let\u2019s say ___ to the teacher.\n\u2192 H\u00e3y n\u00f3i ___ v\u1edbi gi\u00e1o vi\u00ean.\n\u2705 A. hello (Xin ch\u00e0o!)\nB. good (T\u1ed1t) \nC. you (B\u1ea1n) \nD. he (Anh \u1ea5y) "
     },
     {
         "id": 121,
-        "question": "What\u2019s his name? ___!",
+        "question": "What\u2019s his name? ___.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1691,11 +1691,11 @@
             "D. He is my friend"
         ],
         "correctAnswerIndex": 2,
-        "hint": "What\u2019s his name? ___!\n\u2192 T\u00ean c\u1ee7a anh \u1ea5y l\u00e0 g\u00ec? ___!\nA. My name\u2019s Peter (T\u00ean t\u00f4i l\u00e0 Peter) \nB. See you later (H\u1eb9n g\u1eb7p l\u1ea1i) \n\u2705 C. He is Peter (Anh \u1ea5y l\u00e0 Peter) \nD. He is my friend (Anh \u1ea5y l\u00e0 b\u1ea1n t\u00f4i) "
+        "hint": "What\u2019s his name? ___\n\u2192 T\u00ean c\u1ee7a anh \u1ea5y l\u00e0 g\u00ec? ___\nA. My name\u2019s Peter (T\u00ean t\u00f4i l\u00e0 Peter) \nB. See you later (H\u1eb9n g\u1eb7p l\u1ea1i) \n\u2705 C. He is Peter (Anh \u1ea5y l\u00e0 Peter) \nD. He is my friend (Anh \u1ea5y l\u00e0 b\u1ea1n t\u00f4i) "
     },
     {
         "id": 122,
-        "question": "What is this? ___!",
+        "question": "What is this? ___.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1704,8 +1704,8 @@
             "C. It\u2019s an doll",
             "D. This is Mary"
         ],
-        "correctAnswerIndex": 3,
-        "hint": "What is this? ___!\n\u2192 \u0110\u00e2y l\u00e0 c\u00e1i g\u00ec? ___!\nA. My name is Andy (T\u00ean t\u00f4i l\u00e0 Andy) \nB. This is Mary (\u0110\u00e2y l\u00e0 Mary)\nC. It\u2019s an doll (N\u00f3 l\u00e0 m\u1ed9t con b\u00fap b\u00ea) \u2192 \"an\" kh\u00f4ng th\u1ec3 \u0111\u1ee9ng tr\u01b0\u1edbc \"doll\" v\u00ec \"doll\" b\u1eaft \u0111\u1ea7u b\u1eb1ng ph\u1ee5 \u00e2m.\n\u2705 D. It is a doll (N\u00f3 l\u00e0 m\u1ed9t con b\u00fap b\u00ea)"
+        "correctAnswerIndex": 1,
+        "hint": "What is this? ___.\n\u2192 \u0110\u00e2y l\u00e0 c\u00e1i g\u00ec? ___.\nA. My name is Andy (T\u00ean t\u00f4i l\u00e0 Andy) \n\u2705 B.  It is a doll (N\u00f3 l\u00e0 m\u1ed9t con b\u00fap b\u00ea)\nC. It\u2019s an doll (N\u00f3 l\u00e0 m\u1ed9t con b\u00fap b\u00ea) \u2192 \"an\" kh\u00f4ng th\u1ec3 \u0111\u1ee9ng tr\u01b0\u1edbc \"doll\" v\u00ec \"doll\" b\u1eaft \u0111\u1ea7u b\u1eb1ng ph\u1ee5 \u00e2m.\nD. This is Mary (\u0110\u00e2y l\u00e0 Mary)"
     },
     {
         "id": 123,
@@ -1719,7 +1719,7 @@
             "D. it"
         ],
         "correctAnswerIndex": 0,
-        "hint": "What ___ is this? It\u2019s green.\n\u2192 ___ g\u00ec \u0111\u00e2y? N\u00f3 c\u00f3 m\u00e0u xanh l\u00e1.\n\u2705 A. Colour (M\u00e0u s\u1eafc) \nB. This (C\u00e1i n\u00e0y)\nC. That (C\u00e1i kia)\nD. It (N\u00f3)"
+        "hint": "What ___ is this? It\u2019s green.\n\u2192 ___ g\u00ec \u0111\u00e2y? N\u00f3 c\u00f3 m\u00e0u xanh l\u00e1.\n\u2705 A. colour (M\u00e0u s\u1eafc) \nB. this (C\u00e1i n\u00e0y)\nC. that (C\u00e1i kia)\nD. it (N\u00f3)"
     },
     {
         "id": 124,
@@ -1742,7 +1742,7 @@
         "questionAudioUrl": "",
         "choices": [
             "A. No",
-            "B. not",
+            "B. Not",
             "C. Yes",
             "D. No\u2019s"
         ],
@@ -1828,7 +1828,7 @@
             "A. Yes, it is",
             "B. No, it is",
             "C. Yes, it isn\u2019t",
-            "D. yes, she i"
+            "D. yes, she is"
         ],
         "correctAnswerIndex": 0,
         "hint": "Is your classroom big? ___!\n\u2192 L\u1edbp h\u1ecdc c\u1ee7a b\u1ea1n c\u00f3 l\u1edbn kh\u00f4ng? ___!\n\u2705 A. Yes, it is\nB. No, it is \nC. Yes, it isn\u2019t \nD. Yes, she is\nC\u00e2u h\u1ecfi \"Is ...?\" l\u00e0 c\u00e2u h\u1ecfi Yes/No\n* Tr\u1ea3 l\u1eddi kh\u1eb3ng \u0111\u1ecbnh: Yes, it is. \n* Tr\u1ea3 l\u1eddi ph\u1ee7 \u0111\u1ecbnh: No, it isn't. "
@@ -1844,8 +1844,8 @@
             "C. in",
             "D. for"
         ],
-        "correctAnswerIndex": 3,
-        "hint": "Listen ___ the teacher.\n\u2192 L\u1eafng nghe gi\u00e1o vi\u00ean.\nA. on (tr\u00ean)\nB. in (trong)\nC. for (cho)\n\u2705 D. to (Listen to someone: l\u1eafng nghe ai \u0111\u00f3)"
+        "correctAnswerIndex": 0,
+        "hint": "Listen ___ the teacher.\n\u2192 L\u1eafng nghe gi\u00e1o vi\u00ean.\n\u2705 A. to (listen to someone: l\u1eafng nghe ai \u0111\u00f3)\nB. on (tr\u00ean) \nC. in (trong)\nD. for (cho)"
     },
     {
         "id": 133,
@@ -1873,7 +1873,7 @@
             "D. read to"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Mary goes to the school library to ___ books.\n\u2192 Mary \u0111\u1ebfn th\u01b0 vi\u1ec7n tr\u01b0\u1eddng \u0111\u1ec3 \u0111\u1ecdc s\u00e1ch.\nA. read\u2019s (kh\u00f4ng t\u1ed3n t\u1ea1i trong ti\u1ebfng Anh) \nB. reads (sai ng\u1eef ph\u00e1p, kh\u00f4ng d\u00f9ng \u0111\u1ed9ng t\u1eeb chia s\u1ed1 \u00edt sau \"to\") \n\u2705 C. read (Sau \"to\"  \u0111\u1ed9ng t\u1eeb \u1edf d\u1ea1ng nguy\u00ean m\u1eabu\")\nD. read to (c\u1ea5u tr\u00fac sai)"
+        "hint": "Mary goes to the school library to ___ books.\n\u2192 Mary \u0111\u1ebfn th\u01b0 vi\u1ec7n tr\u01b0\u1eddng \u0111\u1ec3 \u0111\u1ecdc s\u00e1ch.\nA. read\u2019s \nB. reads\n\u2705 C. read (Sau \"to\"  \u0111\u1ed9ng t\u1eeb \u1edf d\u1ea1ng nguy\u00ean m\u1eabu\")\nD. read to"
     },
     {
         "id": 135,
@@ -1933,17 +1933,17 @@
     },
     {
         "id": 139,
-        "question": "I have a/an _____.",
+        "question": "I have some _____.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/ruler.png",
         "questionAudioUrl": "",
         "choices": [
-            "A. ruler",
+            "A. rulers",
             "B. candy",
-            "C. book",
+            "C. books",
             "D. chocolate"
         ],
         "correctAnswerIndex": 0,
-        "hint": "I have a/an _____.\n\u2192 T\u00f4i c\u00f3 m\u1ed9t _____.\n\u2705 A. ruler (c\u00e2y th\u01b0\u1edbc)\nB. candy (k\u1eb9o)\nC. book (s\u00e1ch)\nD. chocolate (s\u00f4-c\u00f4-la)"
+        "hint": "I have somes _____.\n\u2192 T\u00f4i c\u00f3 v\u00e0i c\u00e1i _____.\n\u2705 A. rulers (c\u00e2y th\u01b0\u1edbc)\nB. candy (k\u1eb9o)\nC. books(s\u00e1ch)\nD. chocolate (s\u00f4-c\u00f4-la)"
     },
     {
         "id": 140,
@@ -1985,7 +1985,7 @@
             "D. art room"
         ],
         "correctAnswerIndex": 0,
-        "hint": "The _____ is large.\n\u2192 _____ th\u00ec r\u1ed9ng.\n\u2705 A. music room (Ph\u00f2ng \u00e2m nh\u1ea1c)\nB. playground (S\u00e2n ch\u01a1i)\nC. computer room (Ph\u00f2ng m\u00e1y t\u00ednh)\nD. art room (Ph\u00f2ng m\u1ef9 thu\u1eadt)"
+        "hint": "The _____ is large.\n\u2192 _____ th\u00ec r\u1ed9ng.\n\u2705 A. music room (ph\u00f2ng \u00e2m nh\u1ea1c)\nB. playground (s\u00e2n ch\u01a1i)\nC. computer room (ph\u00f2ng m\u00e1y t\u00ednh)\nD. art room (ph\u00f2ng m\u1ef9 thu\u1eadt)"
     },
     {
         "id": 143,
@@ -2013,12 +2013,12 @@
             "D. bikes"
         ],
         "correctAnswerIndex": 2,
-        "hint": "What are those? - Those are_____.\n\u2192 Kia l\u00e0 g\u00ec? - Kia l\u00e0 _____.\nA. kites (nh\u1eefng c\u00e1nh di\u1ec1u)\nB. candy (k\u1eb9o, danh t\u1eeb kh\u00f4ng \u0111\u1ebfm \u0111\u01b0\u1ee3c)\n\u2705 C. lamps (nh\u1eefng c\u00e1i \u0111\u00e8n)\nD. bikes (nh\u1eefng chi\u1ebfc xe \u0111\u1ea1p)"
+        "hint": "What are those? - Those are_____.\n\u2192 Kia l\u00e0 g\u00ec? - Kia l\u00e0 _____.\nA. kites (nh\u1eefng c\u00e1nh di\u1ec1u)\nB. candy (k\u1eb9o)\n\u2705 C. lamps (nh\u1eefng c\u00e1i \u0111\u00e8n)\nD. bikes (nh\u1eefng chi\u1ebfc xe \u0111\u1ea1p)"
     },
     {
         "id": 145,
-        "question": "That is a _____ doll",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/pinkdoll.png",
+        "question": "That is a _____ cup.",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/pinkcup.png",
         "questionAudioUrl": "",
         "choices": [
             "A. yellow",
@@ -2049,13 +2049,13 @@
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/eightbirthdaycake.png",
         "questionAudioUrl": "",
         "choices": [
-            "A. 9",
-            "B. 6",
-            "C. 10",
-            "D. 8"
+            "A. nine",
+            "B. six",
+            "C. ten",
+            "D. eight"
         ],
         "correctAnswerIndex": 3,
-        "hint": "The girl is _____ years old.\n\u2192 C\u00f4 b\u00e9 _____ tu\u1ed5i.\nA. 9\nB. 6\nC. 10\n\u2705 D. 8"
+        "hint": "The girl is _____ years old.\n\u2192 C\u00f4 b\u00e9 _____ tu\u1ed5i.\nA. nine\nB. six\nC. ten\n\u2705 D. eight"
     },
     {
         "id": 148,
@@ -2077,10 +2077,10 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. t\u0332ea\u0332cher",
-            "B. cl<u>eaU+0332n",
-            "C. b<u>ea</u>n",
-            "D. gr<u>ea</u>t"
+            "A. teacher",
+            "B. clean",
+            "C. bean",
+            "D. great"
         ],
         "correctAnswerIndex": 3,
         "hint": "Choose the word that has the underlined letters pronounced differently.\n\u2192 Ch\u1ecdn t\u1eeb c\u00f3 ph\u1ea7n g\u1ea1ch ch\u00e2n ph\u00e1t \u00e2m kh\u00e1c.\nA. teacher (/\u02c8ti\u02d0.t\u0283\u0259r/) - gi\u00e1o vi\u00ean\nB. clean (/kli\u02d0n/) - s\u1ea1ch s\u1ebd\nC. bean (/bi\u02d0n/) - h\u1ea1t \u0111\u1eadu\n\u2705 D. great (/\u0261re\u026at/) - tuy\u1ec7t v\u1eddi (Ph\u00e1t \u00e2m kh\u00e1c v\u00ec c\u00f3 \u00e2m /e\u026a/ thay v\u00ec /i\u02d0/.)"
@@ -2096,8 +2096,8 @@
             "C. ruler",
             "D. brother"
         ],
-        "correctAnswerIndex": 3,
-        "hint": "Choose the word that has the underlined letters pronounced differently.\n\u2192 Ch\u1ecdn t\u1eeb c\u00f3 ph\u1ea7n g\u1ea1ch ch\u00e2n ph\u00e1t \u00e2m kh\u00e1c.\nA. sister (/\u02c8s\u026as.t\u025a/)\nB. pencil (/\u02c8pen.s\u0259l/)\nC. ruler (/\u02c8ru\u02d0.l\u025a/)\n\u2705 D. brother (/\u02c8br\u028c.\u00f0\u025a/) "
+        "correctAnswerIndex": 1,
+        "hint": "Choose the word that has the underlined letters pronounced differently.\n\u2192 Ch\u1ecdn t\u1eeb c\u00f3 ph\u1ea7n g\u1ea1ch ch\u00e2n ph\u00e1t \u00e2m kh\u00e1c.\nA. sister (/\u02c8s\u026as.t\u025a/)\n\u2705 B. pencil (/\u02c8pen.s\u0259l/) (Ph\u00e1t \u00e2m kh\u00e1c v\u00ec c\u00f3 \u00e2m /e/ thay v\u00ec /\u025a/.)\nC. ruler (/\u02c8ru\u02d0.l\u025a/)\nD. brother (/\u02c8br\u028c.\u00f0\u025a/) "
     },
     {
         "id": 151,
@@ -2195,7 +2195,7 @@
             "D. Two"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\nA. One (s\u1ed1 m\u1ed9t) \n\u2705 B. Year (n\u0103m) Kh\u00e1c lo\u1ea1i v\u00ec l\u00e0 s\u1ed1, trong khi \"Year\" l\u00e0 danh t\u1eeb ch\u1ec9 th\u1eddi gian.\nC. Three (s\u1ed1 ba)\nD. Two (s\u1ed1 hai)"
+        "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\nA. One (s\u1ed1 m\u1ed9t) \n\u2705 B. Year (n\u0103m) Kh\u00e1c lo\u1ea1i v\u00ec c\u00e1c t\u1eeb c\u00f2n l\u1ea1i l\u00e0 s\u1ed1, trong khi \"Year\" l\u00e0 danh t\u1eeb ch\u1ec9 th\u1eddi gian.\nC. Three (s\u1ed1 ba)\nD. Two (s\u1ed1 hai)"
     },
     {
         "id": 158,
@@ -2279,7 +2279,7 @@
             "D. purple"
         ],
         "correctAnswerIndex": 3,
-        "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\nA. pencil (b\u00fat ch\u00ec)\nB. ruler (th\u01b0\u1edbc k\u1ebb)\nC. eraser (c\u1ee5c t\u1ea9y)\n\u2705 D. purple (m\u00e0u t\u00edm) \u2192 Kh\u00e1c lo\u1ea1i v\u00ec \"Purple\" l\u00e0 m\u00e0u s\u1eafc, trong khi c\u00e1c t\u1eeb c\u00f2n l\u1ea1i l\u00e0 \u0111\u1ed3 d\u00f9ng h\u1ecdc t\u1eadp."
+        "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\nA. pencil (b\u00fat ch\u00ec)\nB. ruler (th\u01b0\u1edbc k\u1ebb)\nC. eraser (c\u1ee5c t\u1ea9y)\n\u2705 D. purple (m\u00e0u t\u00edm) \u2192 Kh\u00e1c lo\u1ea1i v\u00ec \"purple\" l\u00e0 m\u00e0u s\u1eafc, trong khi c\u00e1c t\u1eeb c\u00f2n l\u1ea1i l\u00e0 \u0111\u1ed3 d\u00f9ng h\u1ecdc t\u1eadp."
     },
     {
         "id": 164,
@@ -2307,7 +2307,7 @@
             "D. school"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\nA. library (th\u01b0 vi\u1ec7n)\nB. classroom (l\u1edbp h\u1ecdc)\n\u2705 C. name (t\u00ean) \u2192 Kh\u00e1c lo\u1ea1i v\u00ec \"Name\" l\u00e0 danh t\u1eeb ch\u1ec9 kh\u00e1i ni\u1ec7m, trong khi c\u00e1c t\u1eeb c\u00f2n l\u1ea1i l\u00e0 danh t\u1eeb ch\u1ec9 \u0111\u1ecba \u0111i\u1ec3m trong tr\u01b0\u1eddng h\u1ecdc.\nD. school (tr\u01b0\u1eddng h\u1ecdc)"
+        "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\nA. library (th\u01b0 vi\u1ec7n)\nB. classroom (l\u1edbp h\u1ecdc)\n\u2705 C. name (t\u00ean) \u2192 Kh\u00e1c lo\u1ea1i v\u00ec \"name\" l\u00e0 danh t\u1eeb ch\u1ec9 kh\u00e1i ni\u1ec7m, trong khi c\u00e1c t\u1eeb c\u00f2n l\u1ea1i l\u00e0 danh t\u1eeb ch\u1ec9 \u0111\u1ecba \u0111i\u1ec3m trong tr\u01b0\u1eddng h\u1ecdc.\nD. school (tr\u01b0\u1eddng h\u1ecdc)"
     },
     {
         "id": 166,
@@ -2321,7 +2321,7 @@
             "D. you"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\nA. she (c\u00f4 \u1ea5y)\n\u2705 B. my (c\u1ee7a t\u00f4i) \u2192 Kh\u00e1c lo\u1ea1i v\u00ec \"My\" l\u00e0 t\u00ednh t\u1eeb s\u1edf h\u1eefu, trong khi c\u00e1c t\u1eeb c\u00f2n l\u1ea1i l\u00e0 \u0111\u1ea1i t\u1eeb nh\u00e2n x\u01b0ng.\nC. he (anh \u1ea5y)\nD. you (b\u1ea1n, c\u00e1c b\u1ea1n)"
+        "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\nA. she (c\u00f4 \u1ea5y)\n\u2705 B. my (c\u1ee7a t\u00f4i) \u2192 Kh\u00e1c lo\u1ea1i v\u00ec \"my\" l\u00e0 t\u00ednh t\u1eeb s\u1edf h\u1eefu, trong khi c\u00e1c t\u1eeb c\u00f2n l\u1ea1i l\u00e0 \u0111\u1ea1i t\u1eeb nh\u00e2n x\u01b0ng.\nC. he (anh \u1ea5y)\nD. you (b\u1ea1n, c\u00e1c b\u1ea1n)"
     },
     {
         "id": 167,
@@ -2335,7 +2335,7 @@
             "D. things"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Choose the incorrect word(s) in the following sentence.\n\u2192 Ch\u1ecdn t\u1eeb sai trong c\u00e2u sau.\nDo you has any school things?\n\u2192 B\u1ea1n c\u00f3 \u0111\u1ed3 d\u00f9ng h\u1ecdc t\u1eadp n\u00e0o kh\u00f4ng?\nA. you (b\u1ea1n)\nB. school (tr\u01b0\u1eddng h\u1ecdc)\n\u2705 C. has (Sai, v\u00ec sau \"do you\" ph\u1ea3i d\u00f9ng \u0111\u1ed9ng t\u1eeb nguy\u00ean m\u1eabu \"have,\" kh\u00f4ng d\u00f9ng \"has.\")\nD. things (\u0111\u1ed3 v\u1eadt)"
+        "hint": "Choose the incorrect word(s) in the following sentence.\n\u2192 Ch\u1ecdn t\u1eeb sai trong c\u00e2u sau.\nDo you has any school things?\n\u2192 B\u1ea1n c\u00f3 \u0111\u1ed3 d\u00f9ng h\u1ecdc t\u1eadp n\u00e0o kh\u00f4ng?\nA. you (b\u1ea1n)\nB. school (tr\u01b0\u1eddng h\u1ecdc)\n\u2705 C. has (Sai, v\u00ec sau \"do you\" ph\u1ea3i d\u00f9ng \u0111\u1ed9ng t\u1eeb nguy\u00ean m\u1eabu \"have,\" kh\u00f4ng d\u00f9ng \"has\")\nD. things (\u0111\u1ed3 v\u1eadt)"
     },
     {
         "id": 168,
@@ -2385,13 +2385,13 @@
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/whitecar.png",
         "questionAudioUrl": "",
         "choices": [
-            "A. Red",
-            "B. Black",
-            "C. White",
-            "D. Pink"
+            "A. red",
+            "B. black",
+            "C. white",
+            "D. pink"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Her old car is a ____ Honda.\n\u2192 Chi\u1ebfc xe c\u0169 c\u1ee7a c\u00f4 \u1ea5y l\u00e0 m\u1ed9t chi\u1ebfc Honda ____.\nA. Red (m\u00e0u \u0111\u1ecf)\nB. Black (m\u00e0u \u0111en)\n\u2705 C. White (m\u00e0u tr\u1eafng)\nD. Pink (m\u00e0u h\u1ed3ng)"
+        "hint": "Her old car is a ____ Honda.\n\u2192 Chi\u1ebfc xe c\u0169 c\u1ee7a c\u00f4 \u1ea5y l\u00e0 m\u1ed9t chi\u1ebfc Honda ____.\nA. red (m\u00e0u \u0111\u1ecf)\nB. black (m\u00e0u \u0111en)\n\u2705 C. white (m\u00e0u tr\u1eafng)\nD. pink (m\u00e0u h\u1ed3ng)"
     },
     {
         "id": 172,
@@ -2419,7 +2419,7 @@
             "D. When"
         ],
         "correctAnswerIndex": 0,
-        "hint": "_____ old are you?\n\u2192 B\u1ea1n bao nhi\u00eau tu\u1ed5i?\n\u2705 A. How (Nh\u01b0 th\u1ebf n\u00e0o) \u2192 \u0110\u00fang, \"How old\" d\u00f9ng \u0111\u1ec3 h\u1ecfi tu\u1ed5i.\nB. What (C\u00e1i g\u00ec) \nC. Which (C\u00e1i n\u00e0o) \nD. When (Khi n\u00e0o) "
+        "hint": "_____ old are you?\n\u2192 B\u1ea1n bao nhi\u00eau tu\u1ed5i?\n\u2705 A. How (Nh\u01b0 th\u1ebf n\u00e0o) \u2192 \"How old: bao nhi\u00eau tu\u1ed5i\".\nB. What (C\u00e1i g\u00ec) \nC. Which (C\u00e1i n\u00e0o) \nD. When (Khi n\u00e0o) "
     },
     {
         "id": 174,
@@ -2427,13 +2427,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. School",
-            "B. Friend",
-            "C. Bag",
-            "D. Class"
+            "A. school",
+            "B. friend",
+            "C. bag",
+            "D. class"
         ],
         "correctAnswerIndex": 1,
-        "hint": "My ____ is Tony.\n\u2192 ____ c\u1ee7a t\u00f4i l\u00e0 Tony.\nA. School (tr\u01b0\u1eddng h\u1ecdc)\n\u2705 B. Friend (b\u1ea1n b\u00e8)\nC. Bag (c\u00e1i c\u1eb7p)\nD. Class (l\u1edbp h\u1ecdc)"
+        "hint": "My ____ is Tony.\n\u2192 ____ c\u1ee7a t\u00f4i l\u00e0 Tony.\nA. school (tr\u01b0\u1eddng h\u1ecdc)\n\u2705 B. friend (b\u1ea1n b\u00e8)\nC. bag (c\u00e1i c\u1eb7p)\nD. class (l\u1edbp h\u1ecdc)"
     },
     {
         "id": 175,
@@ -2441,13 +2441,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. E",
-            "B. O",
-            "C. U",
-            "D. A"
+            "A. e",
+            "B. o",
+            "C. u",
+            "D. a"
         ],
         "correctAnswerIndex": 0,
-        "hint": "How do you sp_ll your name?\n\u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n t\u00ean c\u1ee7a m\u00ecnh nh\u01b0 th\u1ebf n\u00e0o?\n\u2705 A. E (spell: \u0111\u00e1nh v\u1ea7n)\nB. O\nC. U \nD. A"
+        "hint": "How do you sp_ll your name?\n\u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n t\u00ean c\u1ee7a m\u00ecnh nh\u01b0 th\u1ebf n\u00e0o?\n\u2705 A. e (spell: \u0111\u00e1nh v\u1ea7n)\nB. o\nC. u \nD. a"
     },
     {
         "id": 176,
@@ -2469,13 +2469,13 @@
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/pig.png",
         "questionAudioUrl": "",
         "choices": [
-            "A. Pig",
-            "B. Cat",
-            "C. Chicken",
-            "D. Dog"
+            "A. pig",
+            "B. cat",
+            "C. chicken",
+            "D. dog"
         ],
         "correctAnswerIndex": 0,
-        "hint": "That is a ____.\n\u2192 \u0110\u00f3 l\u00e0 m\u1ed9t ____.\n\u2705 A. Pig (con l\u1ee3n)\nB. Cat (con m\u00e8o)\nC. Chicken (con g\u00e0)\nD. Dog (con ch\u00f3)"
+        "hint": "That is a ____.\n\u2192 \u0110\u00f3 l\u00e0 m\u1ed9t ____.\n\u2705 A. pig (con l\u1ee3n)\nB. cat (con m\u00e8o)\nC. chicken (con g\u00e0)\nD. dog (con ch\u00f3)"
     },
     {
         "id": 178,
@@ -2483,13 +2483,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. O",
-            "B. A",
-            "C. E",
-            "D. I"
+            "A. o",
+            "B. a",
+            "C. e",
+            "D. i"
         ],
-        "correctAnswerIndex": 1,
-        "hint": "I s_ng a song.\n\u2192 T\u00f4i h\u00e1t m\u1ed9t b\u00e0i h\u00e1t.\nA. O\n\u2705 B. A (Sing - h\u00e1t)\nC. E\nD. I"
+        "correctAnswerIndex": 3,
+        "hint": "I s_ng a song.\n\u2192 T\u00f4i h\u00e1t m\u1ed9t b\u00e0i h\u00e1t.\nA. o\nB. a \nC. e\n\u2705 D. i (sing - h\u00e1t)"
     },
     {
         "id": 179,
@@ -2525,13 +2525,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Are - is",
-            "B. Is \u2013 are",
-            "C. Is \u2013 is",
-            "D. Are \u2013 are"
+            "A. are - is",
+            "B. is \u2013 are",
+            "C. is \u2013 is",
+            "D. are \u2013 are"
         ],
         "correctAnswerIndex": 1,
-        "hint": "My pencil case ___ pink and my pencils __ yellow.\n\u2192 H\u1ed9p b\u00fat c\u1ee7a t\u00f4i m\u00e0u h\u1ed3ng v\u00e0 nh\u1eefng c\u00e2y b\u00fat ch\u00ec c\u1ee7a t\u00f4i m\u00e0u v\u00e0ng.\nA. Are - is\n\u2705 B. Is \u2013 are (\u0110\u00fang v\u00ec \"pencil case\" l\u00e0 s\u1ed1 \u00edt, \"pencils\" l\u00e0 s\u1ed1 nhi\u1ec1u.)\nC. Is \u2013 is\nD. Are \u2013 are"
+        "hint": "My pencil case ___ pink and my pencils __ yellow.\n\u2192 H\u1ed9p b\u00fat c\u1ee7a t\u00f4i m\u00e0u h\u1ed3ng v\u00e0 nh\u1eefng c\u00e2y b\u00fat ch\u00ec c\u1ee7a t\u00f4i m\u00e0u v\u00e0ng.\nA. are - is\n\u2705 B. is \u2013 are (\u0110\u00fang v\u00ec \"pencil case\" l\u00e0 s\u1ed1 \u00edt, \"pencils\" l\u00e0 s\u1ed1 nhi\u1ec1u.)\nC. is \u2013 is\nD. are \u2013 are"
     },
     {
         "id": 182,
@@ -2553,13 +2553,13 @@
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/yellowbook.png",
         "questionAudioUrl": "",
         "choices": [
-            "A. Yellow",
-            "B. Green",
-            "C. Red",
-            "D. White"
+            "A. yellow",
+            "B. green",
+            "C. red",
+            "D. white"
         ],
         "correctAnswerIndex": 0,
-        "hint": "Hoa has a green book, a red book, and a ___ book.\n\u2192 Hoa c\u00f3 m\u1ed9t quy\u1ec3n s\u00e1ch m\u00e0u xanh l\u00e1 c\u00e2y, m\u1ed9t quy\u1ec3n s\u00e1ch m\u00e0u \u0111\u1ecf v\u00e0 m\u1ed9t quy\u1ec3n s\u00e1ch m\u00e0u ___.\n\u2705  A. Yellow (m\u00e0u v\u00e0ng)\nB. Green (m\u00e0u xanh l\u00e1 c\u00e2y)\nC. Red (m\u00e0u \u0111\u1ecf)\nD. White (m\u00e0u tr\u1eafng)"
+        "hint": "Hoa has a green book, a red book, and a ___ book.\n\u2192 Hoa c\u00f3 m\u1ed9t quy\u1ec3n s\u00e1ch m\u00e0u xanh l\u00e1 c\u00e2y, m\u1ed9t quy\u1ec3n s\u00e1ch m\u00e0u \u0111\u1ecf v\u00e0 m\u1ed9t quy\u1ec3n s\u00e1ch m\u00e0u ___.\n\u2705  A. yellow (m\u00e0u v\u00e0ng)\nB. green (m\u00e0u xanh l\u00e1 c\u00e2y)\nC. red (m\u00e0u \u0111\u1ecf)\nD. white (m\u00e0u tr\u1eafng)"
     },
     {
         "id": 184,
@@ -2567,13 +2567,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. In",
-            "B. On",
-            "C. At",
-            "D. Of"
+            "A. in",
+            "B. on",
+            "C. at",
+            "D. of"
         ],
         "correctAnswerIndex": 0,
-        "hint": "The pencils are ___ my pencil case.\n\u2192 Nh\u1eefng c\u00e2y b\u00fat ch\u00ec \u1edf ___ h\u1ed9p b\u00fat c\u1ee7a t\u00f4i.\n\u2705 A. In (trong) \u2192 \u0110\u00fang, \"in my pencil case\" c\u00f3 ngh\u0129a l\u00e0 \"trong h\u1ed9p b\u00fat c\u1ee7a t\u00f4i\".\nB. On (tr\u00ean)\nC. At (t\u1ea1i)\nD. Of (c\u1ee7a)"
+        "hint": "The pencils are ___ my pencil case.\n\u2192 Nh\u1eefng c\u00e2y b\u00fat ch\u00ec \u1edf ___ h\u1ed9p b\u00fat c\u1ee7a t\u00f4i.\n\u2705 A. in (trong) \u2192 \"in my pencil case: trong h\u1ed9p b\u00fat c\u1ee7a t\u00f4i\".\nB. on (tr\u00ean)\nC. at (t\u1ea1i)\nD. of (c\u1ee7a)"
     },
     {
         "id": 185,
@@ -2581,13 +2581,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. You",
-            "B. She",
-            "C. He",
-            "D. His"
+            "A. you",
+            "B. she",
+            "C. he",
+            "D. his"
         ],
         "correctAnswerIndex": 3,
-        "hint": "How do you spell ___ name?\n\u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n ___ t\u00ean nh\u01b0 th\u1ebf n\u00e0o?\nA. You (b\u1ea1n)\nB. She (c\u00f4 \u1ea5y)\nC. He (anh \u1ea5y)\n\u2705 D. His (c\u1ee7a anh \u1ea5y)"
+        "hint": "How do you spell ___ name?\n\u2192 B\u1ea1n \u0111\u00e1nh v\u1ea7n ___ t\u00ean nh\u01b0 th\u1ebf n\u00e0o?\nA. you (b\u1ea1n)\nB. she (c\u00f4 \u1ea5y)\nC. he (anh \u1ea5y)\n\u2705 D. his (c\u1ee7a anh \u1ea5y)"
     },
     {
         "id": 186,
@@ -2615,7 +2615,7 @@
             "D. Are \u2013 they aren\u2019t"
         ],
         "correctAnswerIndex": 2,
-        "hint": "___ those your parents? \u2013 Yes, _____\n\u2192 ___ \u0111\u00f3 c\u00f3 ph\u1ea3i l\u00e0 b\u1ed1 m\u1eb9 c\u1ee7a b\u1ea1n kh\u00f4ng? \u2013 V\u00e2ng, _____.\nA. Is \u2013 he is\nB. Is \u2013 she is\n\u2705 C. Are \u2013 they are\nD. Are \u2013 they aren\u2019t\nC\u1ea5u tr\u00fac c\u00e2u h\u1ecfi Yes/No v\u1edbi \"to be\":\nKhi ch\u1ee7 ng\u1eef l\u00e0 \"those\" (ch\u1ec9 nhi\u1ec1u ng\u01b0\u1eddi/v\u1eadt \u1edf xa), ta d\u00f9ng \u0111\u1ed9ng t\u1eeb \"are\" trong c\u00e2u h\u1ecfi:\n* Tr\u1ea3 l\u1eddi kh\u1eb3ng \u0111\u1ecbnh: Yes, they are.\n* Tr\u1ea3 l\u1eddi ph\u1ee7 \u0111\u1ecbnh: No, they aren\u2019t."
+        "hint": "___ those your parents? \u2013 Yes, _____\n\u2192 Kia c\u00f3 ph\u1ea3i l\u00e0 b\u1ed1 m\u1eb9 c\u1ee7a b\u1ea1n kh\u00f4ng? \u2013 V\u00e2ng, _____.\nA. Is \u2013 he is\nB. Is \u2013 she is\n\u2705 C. Are \u2013 they are\nD. Are \u2013 they aren\u2019t\nC\u1ea5u tr\u00fac c\u00e2u h\u1ecfi Yes/No v\u1edbi \"to be\":\nKhi ch\u1ee7 ng\u1eef l\u00e0 \"those\" (ch\u1ec9 nhi\u1ec1u ng\u01b0\u1eddi/v\u1eadt \u1edf xa), ta d\u00f9ng \u0111\u1ed9ng t\u1eeb \"are\" trong c\u00e2u h\u1ecfi:\n* Tr\u1ea3 l\u1eddi kh\u1eb3ng \u0111\u1ecbnh: Yes, they are.\n* Tr\u1ea3 l\u1eddi ph\u1ee7 \u0111\u1ecbnh: No, they aren\u2019t."
     },
     {
         "id": 188,
@@ -2629,7 +2629,7 @@
             "D. What colour"
         ],
         "correctAnswerIndex": 3,
-        "hint": "____ are they? \u2013 They are black.\n\u2192 ____ ch\u00fang l\u00e0 g\u00ec? \u2013 Ch\u00fang c\u00f3 m\u00e0u \u0111en.\nA. What (C\u00e1i g\u00ec)\nB. What\u2019s colour (Sai ng\u1eef ph\u00e1p)\nC. How colour (Sai ng\u1eef ph\u00e1p)\n\u2705 D. What colour (M\u00e0u g\u00ec)"
+        "hint": "____ are they? \u2013 They are black.\n\u2192 Ch\u00fang c\u00f3 m\u00e0u g\u00ec? \u2013 Ch\u00fang c\u00f3 m\u00e0u \u0111en.\nA. What (C\u00e1i g\u00ec)\nB. What\u2019s colour (Sai ng\u1eef ph\u00e1p)\nC. How colour (Sai ng\u1eef ph\u00e1p)\n\u2705 D. What colour (M\u00e0u g\u00ec)"
     },
     {
         "id": 189,
@@ -2638,16 +2638,16 @@
         "questionAudioUrl": "",
         "choices": [
             "A. What",
-            "B. Colour",
-            "C. Is",
-            "D. Your"
+            "B. colour",
+            "C. is",
+            "D. your"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Choose the incorrect word(s) in the following sentence: What colour is your school bags?\n\u2192 Ch\u1ecdn t\u1eeb sai trong c\u00e2u sau: What colour is your school bags?\nA. What (C\u00e1i g\u00ec)\nB. Colour (M\u00e0u s\u1eafc)\n\u2705 C. Is (Sai \u0111\u1ed9ng t\u1eeb) \u2192 \"bags\" l\u00e0 s\u1ed1 nhi\u1ec1u n\u00ean ph\u1ea3i d\u00f9ng \"are\" thay v\u00ec \"is\".\nD. Your (C\u1ee7a b\u1ea1n)"
+        "hint": "Choose the incorrect word(s) in the following sentence: What colour is your school bags?\n\u2192 Ch\u1ecdn t\u1eeb sai trong c\u00e2u sau: What colour is your school bags?\nA. What (C\u00e1i g\u00ec)\nB. colour (M\u00e0u s\u1eafc)\n\u2705 C. is (Sai \u0111\u1ed9ng t\u1eeb) \u2192 \"bags\" l\u00e0 s\u1ed1 nhi\u1ec1u n\u00ean ph\u1ea3i d\u00f9ng \"are\" thay v\u00ec \"is\".\nD. your (C\u1ee7a b\u1ea1n)"
     },
     {
         "id": 190,
-        "question": "___ APPLES (image of six apples)",
+        "question": "___ apples",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/sixapples.png",
         "questionAudioUrl": "",
         "choices": [
@@ -2657,7 +2657,7 @@
             "D. Seven"
         ],
         "correctAnswerIndex": 2,
-        "hint": "__ APPLES\n\u2192 ___ QU\u1ea2 T\u00c1O \nA. Four (B\u1ed1n)\nB. Five (N\u0103m)\n\u2705 C. Six (S\u00e1u)\nD. Seven (B\u1ea3y)"
+        "hint": "__ apples\n\u2192 ___ qu\u1ea3 t\u00e1o \nA. Four (B\u1ed1n)\nB. Five (N\u0103m)\n\u2705 C. Six (S\u00e1u)\nD. Seven (B\u1ea3y)"
     },
     {
         "id": 191,
@@ -2668,10 +2668,10 @@
             "A. M",
             "B. N",
             "C. G",
-            "D. D"
+            "D. P"
         ],
         "correctAnswerIndex": 0,
-        "hint": "Choose the letter(s) to make a correct word: S_ALL\n\u2192 Ch\u1ecdn ch\u1eef c\u00e1i \u0111\u1ec3 t\u1ea1o th\u00e0nh m\u1ed9t t\u1eeb \u0111\u00fang: S_ALL\n\u2705 A. M \u2192 \"Small: Nh\u1ecf\"\nB. N\nC. G\nD. D"
+        "hint": "Choose the letter(s) to make a correct word: S_ALL\n\u2192 Ch\u1ecdn ch\u1eef c\u00e1i \u0111\u1ec3 t\u1ea1o th\u00e0nh m\u1ed9t t\u1eeb \u0111\u00fang: S_ALL\n\u2705 A. M \u2192 \"Small: Nh\u1ecf\"\nB. N\nC. G\nD. P"
     },
     {
         "id": 192,
@@ -2679,13 +2679,13 @@
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/pinkhouse.png",
         "questionAudioUrl": "",
         "choices": [
-            "A. Pink",
-            "B. Yellow",
-            "C. White",
-            "D. Blue"
+            "A. pink",
+            "B. yellow",
+            "C. white",
+            "D. blue"
         ],
         "correctAnswerIndex": 0,
-        "hint": "This is a ___ house.\n\u2192 \u0110\u00e2y l\u00e0 m\u1ed9t ng\u00f4i nh\u00e0 ___.\n\u2705  A. Pink (M\u00e0u h\u1ed3ng)\nB. Yellow (M\u00e0u v\u00e0ng)\nC. White (M\u00e0u tr\u1eafng)\nD. Blue (M\u00e0u xanh d\u01b0\u01a1ng) "
+        "hint": "This is a ___ house.\n\u2192 \u0110\u00e2y l\u00e0 m\u1ed9t ng\u00f4i nh\u00e0 ___.\n\u2705  A. pink (M\u00e0u h\u1ed3ng)\nB. yellow (M\u00e0u v\u00e0ng)\nC. white (M\u00e0u tr\u1eafng)\nD. blue (M\u00e0u xanh d\u01b0\u01a1ng) "
     },
     {
         "id": 193,
@@ -2707,17 +2707,17 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Clean",
-            "B. Sing",
-            "C. Draw",
-            "D. Meet"
+            "A. clean",
+            "B. sing",
+            "C. draw",
+            "D. meet"
         ],
         "correctAnswerIndex": 2,
-        "hint": "They ___ pictures in the room.\n\u2192 H\u1ecd ___ tranh trong ph\u00f2ng.\nA. Clean (Lau d\u1ecdn)\nB. Sing (H\u00e1t)\n\u2705 C. Draw (V\u1ebd) \u2192 \"draw pictures\" ngh\u0129a l\u00e0 \"v\u1ebd tranh\".\nD. Meet (G\u1eb7p g\u1ee1)"
+        "hint": "They ___ pictures in the room.\n\u2192 H\u1ecd ___ tranh trong ph\u00f2ng.\nA. clean (Lau d\u1ecdn)\nB. sing (H\u00e1t)\n\u2705 C. draw (V\u1ebd) \u2192 \"draw pictures: v\u1ebd tranh\".\nD. meet (G\u1eb7p g\u1ee1)"
     },
     {
         "id": 195,
-        "question": "Is that a blue pencil case? - ______ (image of a blue pencil case)",
+        "question": "Is that a blue pencil case? - ______",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2791,13 +2791,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Gym",
-            "B. Computer room",
-            "C. Music room",
-            "D. Art room"
+            "A. gym",
+            "B. computer room",
+            "C. music room",
+            "D. art room"
         ],
         "correctAnswerIndex": 3,
-        "hint": "We draw pictures in the ____.\n\u2192 Ch\u00fang t\u00f4i v\u1ebd tranh \u1edf ____.\nA. Gym (Ph\u00f2ng th\u1ec3 d\u1ee5c)\nB. Computer room (Ph\u00f2ng m\u00e1y t\u00ednh)\nC. Music room (Ph\u00f2ng \u00e2m nh\u1ea1c)\n\u2705 D. Art room (Ph\u00f2ng m\u1ef9 thu\u1eadt)"
+        "hint": "We draw pictures in the ____.\n\u2192 Ch\u00fang t\u00f4i v\u1ebd tranh \u1edf ____.\nA. gym (ph\u00f2ng th\u1ec3 d\u1ee5c)\nB. computer room (ph\u00f2ng m\u00e1y t\u00ednh)\nC. music room (ph\u00f2ng \u00e2m nh\u1ea1c)\n\u2705 D. art room (ph\u00f2ng m\u1ef9 thu\u1eadt)"
     },
     {
         "id": 201,
@@ -2819,13 +2819,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Are",
-            "B. Is",
-            "C. Its",
-            "D. Am"
+            "A. are",
+            "B. is",
+            "C. its",
+            "D. am"
         ],
         "correctAnswerIndex": 0,
-        "hint": "These ___ my backpacks.\n\u2192 Nh\u1eefng c\u00e1i ba l\u00f4 n\u00e0y __ c\u1ee7a t\u00f4i.\n\u2705 A. Are (\"These are my backpacks.\") \u2192 \u0110\u00fang v\u00ec \"These\" \u0111i v\u1edbi \u0111\u1ed9ng t\u1eeb \"are\" \u0111\u1ec3 ch\u1ec9 s\u1ed1 nhi\u1ec1u.\nB. Is\nC. Its\nD. Am"
+        "hint": "These ___ my backpacks.\n\u2192 Nh\u1eefng c\u00e1i ba l\u00f4 n\u00e0y __ c\u1ee7a t\u00f4i.\n\u2705 A. are \u2192 \"These are: nh\u1eefng c\u00e1i n\u00e0y l\u00e0\" \nB. is\nC. its\nD. am"
     },
     {
         "id": 203,
@@ -2838,8 +2838,8 @@
             "C. I",
             "D. O"
         ],
-        "correctAnswerIndex": 2,
-        "hint": "Choose the letter(s) to make a correct word: P_NCIL CASE\n\u2192 Ch\u1ecdn ch\u1eef c\u00e1i \u0111\u1ec3 t\u1ea1o th\u00e0nh t\u1eeb \u0111\u00fang: P_NCIL CASE\nA. E\nB. A\n\u2705 C. I (\"PENCIL CASE: h\u1ed9p b\u00fat\")\nD. O"
+        "correctAnswerIndex": 0,
+        "hint": "Choose the letter(s) to make a correct word: P_NCIL CASE\n\u2192 Ch\u1ecdn ch\u1eef c\u00e1i \u0111\u1ec3 t\u1ea1o th\u00e0nh t\u1eeb \u0111\u00fang: P_NCIL CASE\n\u2705 A. E (\"PENCIL CASE: h\u1ed9p b\u00fat\")\nB. A\nC. I \nD. O"
     },
     {
         "id": 204,
@@ -2875,13 +2875,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. It",
-            "B. That",
-            "C. Its",
-            "D. It\u2019s"
+            "A. it",
+            "B. that",
+            "C. its",
+            "D. it\u2019s"
         ],
         "correctAnswerIndex": 0,
-        "hint": "Is this your ruler? \u2013 No, ___ isn\u2019t.\n\u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i th\u01b0\u1edbc k\u1ebb c\u1ee7a b\u1ea1n kh\u00f4ng? \u2013 Kh\u00f4ng, ___ kh\u00f4ng ph\u1ea3i.\n\u2705 A. It (N\u00f3)\nB. That (\u0110\u00f3)\nC. Its (C\u1ee7a n\u00f3)\nD. It\u2019s (N\u00f3 l\u00e0)\nC\u00e2u h\u1ecfi \"Is this...?\" l\u00e0 c\u00e2u h\u1ecfi Yes/No\n* Tr\u1ea3 l\u1eddi kh\u1eb3ng \u0111\u1ecbnh: Yes, it is. \n* Tr\u1ea3 l\u1eddi ph\u1ee7 \u0111\u1ecbnh: No, it isn't. "
+        "hint": "Is this your ruler? \u2013 No, ___ isn\u2019t.\n\u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i th\u01b0\u1edbc k\u1ebb c\u1ee7a b\u1ea1n kh\u00f4ng? \u2013 Kh\u00f4ng, ___ kh\u00f4ng ph\u1ea3i.\n\u2705 A. it (N\u00f3)\nB. that (\u0110\u00f3)\nC. its (C\u1ee7a n\u00f3)\nD. it\u2019s (N\u00f3 l\u00e0)\nC\u00e2u h\u1ecfi \"Is this...?\" l\u00e0 c\u00e2u h\u1ecfi Yes/No\n* Tr\u1ea3 l\u1eddi kh\u1eb3ng \u0111\u1ecbnh: Yes, it is. \n* Tr\u1ea3 l\u1eddi ph\u1ee7 \u0111\u1ecbnh: No, it isn't. "
     },
     {
         "id": 207,
@@ -2903,13 +2903,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Large",
-            "B. That",
-            "C. Five",
-            "D. This"
+            "A. large",
+            "B. that",
+            "C. five",
+            "D. this"
         ],
         "correctAnswerIndex": 0,
-        "hint": "Is your room ___? \u2013 No, it isn\u2019t.\n\u2192 Ph\u00f2ng c\u1ee7a b\u1ea1n c\u00f3 ___ kh\u00f4ng? \u2013 Kh\u00f4ng, n\u00f3 kh\u00f4ng ph\u1ea3i.\n\u2705 A. Large (R\u1ed9ng l\u1edbn) \nB. That (\u0110\u00f3)\nC. Five (S\u1ed1 n\u0103m)\nD. This (C\u00e1i n\u00e0y)"
+        "hint": "Is your room ___? \u2013 No, it isn\u2019t.\n\u2192 Ph\u00f2ng c\u1ee7a b\u1ea1n c\u00f3 ___ kh\u00f4ng? \u2013 Kh\u00f4ng, n\u00f3 kh\u00f4ng ph\u1ea3i.\n\u2705 A. large (R\u1ed9ng l\u1edbn) \nB. that (\u0110\u00f3)\nC. five (S\u1ed1 n\u0103m)\nD. this (C\u00e1i n\u00e0y)"
     },
     {
         "id": 209,
@@ -2917,13 +2917,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Point",
-            "B. Read",
-            "C. Look",
-            "D. Sing"
+            "A. point",
+            "B. read",
+            "C. look",
+            "D. sing"
         ],
         "correctAnswerIndex": 3,
-        "hint": "They ___ a song in the classroom.\n\u2192 H\u1ecd ___ m\u1ed9t b\u00e0i h\u00e1t trong l\u1edbp h\u1ecdc.\nA. Point (Ch\u1ec9 v\u00e0o)\nB. Read (\u0110\u1ecdc)\nC. Look (Nh\u00ecn)\n\u2705 D. Sing (H\u00e1t)"
+        "hint": "They ___ a song in the classroom.\n\u2192 H\u1ecd ___ m\u1ed9t b\u00e0i h\u00e1t trong l\u1edbp h\u1ecdc.\nA. point (Ch\u1ec9 v\u00e0o)\nB. read (\u0110\u1ecdc)\nC. look (Nh\u00ecn)\n\u2705 D. sing (H\u00e1t)"
     },
     {
         "id": 210,
@@ -2959,13 +2959,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Ne",
-            "B. Ge",
-            "C. Le",
-            "D. Me"
+            "A. ne",
+            "B. ge",
+            "C. le",
+            "D. me"
         ],
-        "correctAnswerIndex": 2,
-        "hint": "My classroom is lar___.\n\u2192 L\u1edbp h\u1ecdc c\u1ee7a t\u00f4i r\u1ed9ng ___.\nA. Ne (Kh\u00f4ng t\u1ea1o th\u00e0nh t\u1eeb c\u00f3 ngh\u0129a)\nB. Ge (Kh\u00f4ng t\u1ea1o th\u00e0nh t\u1eeb c\u00f3 ngh\u0129a)\n\u2705 C. Le (Large \u2013 r\u1ed9ng l\u1edbn)\nD. Me (Kh\u00f4ng t\u1ea1o th\u00e0nh t\u1eeb c\u00f3 ngh\u0129a)"
+        "correctAnswerIndex": 1,
+        "hint": "My classroom is lar___.\n\u2192 L\u1edbp h\u1ecdc c\u1ee7a t\u00f4i r\u1ed9ng ___.\nA. ne\n\u2705 B. ge (large \u2013 r\u1ed9ng l\u1edbn)\nC. le \nD. me"
     },
     {
         "id": 213,
@@ -2979,12 +2979,12 @@
             "D. Large"
         ],
         "correctAnswerIndex": 0,
-        "hint": "Choose the odd one out:\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\n\u2705 A. Rubber (C\u1ee5c t\u1ea9y)\nB. Big (To l\u1edbn) \u2192 Kh\u00e1c lo\u1ea1i v\u00ec \u0111\u00e2y l\u00e0 t\u00ednh t\u1eeb, c\u00e1c t\u1eeb c\u00f2n l\u1ea1i l\u00e0 danh t\u1eeb ch\u1ec9 v\u1eadt d\u1ee5ng h\u1ecdc t\u1eadp.\nC. Small (Nh\u1ecf)\nD. Large (L\u1edbn)"
+        "hint": "Choose the odd one out:\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\n\u2705 A. Rubber (C\u1ee5c t\u1ea9y) \u2192 Kh\u00e1c lo\u1ea1i v\u00ec \u0111\u00e2y l\u00e0 danh t\u1eeb ch\u1ec9 v\u1eadt d\u1ee5ng h\u1ecdc t\u1eadp, c\u00e1c t\u1eeb c\u00f2n l\u1ea1i l\u00e0 t\u00ednh t\u1eeb.\nB. Big (To l\u1edbn) \nC. Small (Nh\u1ecf)\nD. Large (L\u1edbn)"
     },
     {
         "id": 214,
         "question": "Choose the correct answer: What is this? \u2013 It\u2019s a ___",
-        "questionImageUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/pencilcase.png",
         "questionAudioUrl": "",
         "choices": [
             "A. Pen  ",
@@ -2993,7 +2993,7 @@
             "D. Pencil sharpener"
         ],
         "correctAnswerIndex": 3,
-        "hint": "Choose the correct answer: What is this? \u2013 It\u2019s a ___\n\u2192 C\u00e2u tr\u1ea3 l\u1eddi \u0111\u00fang: \u0110\u00e2y l\u00e0 g\u00ec? \u2013 N\u00f3 l\u00e0 m\u1ed9t ___.\nA. Pen (B\u00fat m\u1ef1c)\nB. Pencil (B\u00fat ch\u00ec)\nC. Pencil case (H\u1ed9p b\u00fat)\n\u2705 D. Pencil sharpener (G\u1ecdt b\u00fat ch\u00ec)"
+        "hint": "Choose the correct answer: What is this? \u2013 It\u2019s a ___\n\u2192 C\u00e2u tr\u1ea3 l\u1eddi \u0111\u00fang: \u0110\u00e2y l\u00e0 g\u00ec? \u2013 N\u00f3 l\u00e0 m\u1ed9t ___.\nA. Pen (B\u00fat m\u1ef1c)\nB. Pencil (B\u00fat ch\u00ec)\n\u2705  C. Pencil case (H\u1ed9p b\u00fat)\nD. Pencil sharpener (G\u1ecdt b\u00fat ch\u00ec)"
     },
     {
         "id": 215,
@@ -3029,13 +3029,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. On",
-            "B. At",
-            "C. Of",
-            "D. In"
+            "A. on",
+            "B. at",
+            "C. of",
+            "D. in"
         ],
         "correctAnswerIndex": 3,
-        "hint": " I\u2019m ___ class 3A.\n\u2192 T\u00f4i \u0111ang h\u1ecdc l\u1edbp 3A.\nA. On (tr\u00ean)\u2192  (Sai v\u00ec \"on\" th\u01b0\u1eddng d\u00f9ng cho b\u1ec1 m\u1eb7t)\nB. At (t\u1ea1i) \u2192 (Sai v\u00ec \"at\" th\u01b0\u1eddng d\u00f9ng cho \u0111\u1ecba \u0111i\u1ec3m chung)\nC. Of (c\u1ee7a) \u2192 (kh\u00f4ng ph\u00f9 h\u1ee3p)\n\u2705 D. In (\u0111\u00fang v\u00ec \"in class\" c\u00f3 ngh\u0129a l\u00e0 \"trong l\u1edbp h\u1ecdc\")"
+        "hint": " I\u2019m ___ class 3A.\n\u2192 T\u00f4i \u0111ang h\u1ecdc l\u1edbp 3A.\nA. on (tr\u00ean)\nB. at (t\u1ea1i)\nC. of (c\u1ee7a)\n\u2705 D. in (trong)"
     },
     {
         "id": 218,
@@ -3057,13 +3057,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. And",
-            "B. With",
-            "C. But",
-            "D. In"
+            "A. and",
+            "B. with",
+            "C. but",
+            "D. in"
         ],
         "correctAnswerIndex": 2,
-        "hint": "The computer room is small ___ new.\n\u2192 Ph\u00f2ng m\u00e1y t\u00ednh nh\u1ecf nh\u01b0ng m\u1edbi.\nA. And (v\u00e0) \u2192 (kh\u00f4ng ph\u00f9 h\u1ee3p v\u00ec kh\u00f4ng di\u1ec5n t\u1ea3 s\u1ef1 \u0111\u1ed1i l\u1eadp)\nB. With (v\u1edbi)\n\u2705 C. But (nh\u01b0ng) \u2192 (\u0111\u00fang v\u00ec di\u1ec5n t\u1ea3 s\u1ef1 \u0111\u1ed1i l\u1eadp gi\u1eefa \"small\" v\u00e0 \"new\")\nD. In (trong)"
+        "hint": "The computer room is small ___ new.\n\u2192 Ph\u00f2ng m\u00e1y t\u00ednh nh\u1ecf nh\u01b0ng m\u1edbi.\nA. and (v\u00e0)\nB. with (v\u1edbi)\n\u2705 C. but (nh\u01b0ng) \u2192 di\u1ec5n t\u1ea3 s\u1ef1 \u0111\u1ed1i l\u1eadp gi\u1eefa \"small\" v\u00e0 \"new\"\nD. in (trong)"
     },
     {
         "id": 220,
@@ -3071,13 +3071,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. V",
-            "B. C",
+            "A. C",
+            "B. V",
             "C. M",
             "D. Z"
         ],
         "correctAnswerIndex": 0,
-        "hint": "Choose the correct letter to complete the word: NI_E\n\u2192 Ch\u1ecdn ch\u1eef c\u00e1i \u0111\u00fang \u0111\u1ec3 t\u1ea1o th\u00e0nh t\u1eeb c\u00f3 ngh\u0129a: NI_E\n\u2705 A. V (Nice \u2013 T\u1ed1t \u0111\u1eb9p, xinh x\u1eafn)\nB. C\nC. M\nD. Z"
+        "hint": "Choose the correct letter to complete the word: NI_E\n\u2192 Ch\u1ecdn ch\u1eef c\u00e1i \u0111\u00fang \u0111\u1ec3 t\u1ea1o th\u00e0nh t\u1eeb c\u00f3 ngh\u0129a: NI_E\n\u2705 A. C (Nice \u2013 T\u1ed1t \u0111\u1eb9p, xinh x\u1eafn)\nB. V\nC. M\nD. Z"
     },
     {
         "id": 221,
@@ -3085,13 +3085,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Middle",
-            "B. First",
-            "C. Family",
-            "D. Full"
+            "A. middle",
+            "B. first",
+            "C. family",
+            "D. full"
         ],
         "correctAnswerIndex": 3,
-        "hint": " Is your ____ name Le Kim Dong?\n\u2192 T\u00ean ____ c\u1ee7a b\u1ea1n l\u00e0 L\u00ea Kim \u0110\u00f4ng ph\u1ea3i kh\u00f4ng?\nA. Middle (middle name: t\u00ean \u0111\u1ec7m)\nB. First (first name: t\u00ean)\nC. Family (family name: h\u1ecd)\n\u2705 D. Full ( full name: t\u00ean \u0111\u1ea7y \u0111\u1ee7) \u2192 \u0111\u00fang v\u00ec t\u00ean Le Kim Dong l\u00e0 t\u00ean \u0111\u1ea7y \u0111\u1ee7"
+        "hint": " Is your ____ name Le Kim Dong?\n\u2192 T\u00ean ____ c\u1ee7a b\u1ea1n l\u00e0 L\u00ea Kim \u0110\u00f4ng ph\u1ea3i kh\u00f4ng?\nA. middle (middle name: t\u00ean \u0111\u1ec7m)\nB. first (first name: t\u00ean)\nC. family (family name: h\u1ecd)\n\u2705 D. full ( full name: t\u00ean \u0111\u1ea7y \u0111\u1ee7) \u2192 \u0111\u00fang v\u00ec t\u00ean Le Kim Dong l\u00e0 t\u00ean \u0111\u1ea7y \u0111\u1ee7"
     },
     {
         "id": 222,
@@ -3099,13 +3099,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Speaking",
-            "B. Telling",
-            "C. Answering",
-            "D. Saying"
+            "A. speaking",
+            "B. telling",
+            "C. answering",
+            "D. saying"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Linda is calling and Emma is ___ the telephone.\n\u2192 Linda \u0111ang g\u1ecdi \u0111i\u1ec7n v\u00e0 Emma \u0111ang ___ \u0111i\u1ec7n tho\u1ea1i.\nA. Speaking (n\u00f3i)\nB. Telling (k\u1ec3)\n\u2705 C. Answering (tr\u1ea3 l\u1eddi) \u2192 \u0111\u00fang v\u00ec \"answer the telephone\" ngh\u0129a l\u00e0 \"b\u1eaft m\u00e1y, tr\u1ea3 l\u1eddi \u0111i\u1ec7n tho\u1ea1i\"\nD. Saying (n\u00f3i)"
+        "hint": "Linda is calling and Emma is ___ the telephone.\n\u2192 Linda \u0111ang g\u1ecdi \u0111i\u1ec7n v\u00e0 Emma \u0111ang ___ \u0111i\u1ec7n tho\u1ea1i.\nA. speaking (n\u00f3i)\nB. telling (k\u1ec3)\n\u2705 C. answering (tr\u1ea3 l\u1eddi) \u2192 \u0111\u00fang v\u00ec \"answer the telephone\" ngh\u0129a l\u00e0 \"b\u1eaft m\u00e1y, tr\u1ea3 l\u1eddi \u0111i\u1ec7n tho\u1ea1i\"\nD. saying (n\u00f3i)"
     },
     {
         "id": 223,
@@ -3127,13 +3127,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Favourite",
-            "B. Interesting",
-            "C. Beautiful",
-            "D. Like"
+            "A. favourite",
+            "B. iinteresting",
+            "C. beautiful",
+            "D. like"
         ],
         "correctAnswerIndex": 0,
-        "hint": "Red is my ___ colour.\n\u2192 M\u00e0u \u0111\u1ecf l\u00e0 m\u00e0u ___ c\u1ee7a t\u00f4i.\n\u2705  A. Favourite (y\u00eau th\u00edch)\nB. Interesting (th\u00fa v\u1ecb)\nC. Beautiful (\u0111\u1eb9p)\nD. Like (th\u00edch)"
+        "hint": "Red is my ___ colour.\n\u2192 M\u00e0u \u0111\u1ecf l\u00e0 m\u00e0u ___ c\u1ee7a t\u00f4i.\n\u2705  A. favourite (y\u00eau th\u00edch)\nB. interesting (th\u00fa v\u1ecb)\nC. beautiful (\u0111\u1eb9p)\nD. like (th\u00edch)"
     },
     {
         "id": 225,
@@ -3147,7 +3147,7 @@
             "D. I want"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Would you like to play basketball?\n\u2192 B\u1ea1n c\u00f3 mu\u1ed1n ch\u01a1i b\u00f3ng r\u1ed5 kh\u00f4ng?\nA. I like (T\u00f4i th\u00edch)\nB. I love it (T\u00f4i y\u00eau n\u00f3)\n\u2705 C. I\u2019d love to (T\u00f4i r\u1ea5t mu\u1ed1n) \u2192 \u0111\u00fang v\u00ec \u0111\u00e2y l\u00e0 c\u00e1ch tr\u1ea3 l\u1eddi l\u1ecbch s\u1ef1 khi \u0111\u01b0\u1ee3c m\u1eddi l\u00e0m g\u00ec \u0111\u00f3\nD. I want (T\u00f4i mu\u1ed1n)"
+        "hint": "Would you like to play basketball?\n\u2192 B\u1ea1n c\u00f3 mu\u1ed1n ch\u01a1i b\u00f3ng r\u1ed5 kh\u00f4ng?\nA. I like (T\u00f4i th\u00edch)\nB. I love it (T\u00f4i y\u00eau n\u00f3)\n\u2705 C. I\u2019d love to (T\u00f4i r\u1ea5t mu\u1ed1n) \u2192 \u0111\u00fang v\u00ec \u0111\u00e2y l\u00e0 c\u00e1ch tr\u1ea3 l\u1eddi l\u1ecbch s\u1ef1 khi \u0111\u01b0\u1ee3c m\u1eddi l\u00e0m g\u00ec \u0111\u00f3.\nD. I want (T\u00f4i mu\u1ed1n)"
     },
     {
         "id": 226,
@@ -3169,13 +3169,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. To",
-            "B. On",
-            "C. In",
-            "D. At"
+            "A. to",
+            "B. on",
+            "C. in",
+            "D. at"
         ],
         "correctAnswerIndex": 0,
-        "hint": "I'd like to send this letter ___ China.\n\u2192 T\u00f4i mu\u1ed1n g\u1eedi l\u00e1 th\u01b0 n\u00e0y ___ Trung Qu\u1ed1c.\n\u2705 A. To (\u0111\u1ebfn, t\u1edbi) \u2192 \u0111\u00fang v\u00ec \"send a letter to someone/somewhere\" l\u00e0 c\u00e1ch d\u00f9ng \u0111\u00fang\nB. On (tr\u00ean)\nC. In (trong)\nD. At (t\u1ea1i)"
+        "hint": "I'd like to send this letter ___ China.\n\u2192 T\u00f4i mu\u1ed1n g\u1eedi l\u00e1 th\u01b0 n\u00e0y ___ Trung Qu\u1ed1c.\n\u2705 A. to (\u0111\u1ebfn, t\u1edbi) \nB. on (tr\u00ean)\nC. in (trong)\nD. at (t\u1ea1i)"
     },
     {
         "id": 228,
@@ -3183,13 +3183,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Didn\u2019t are",
-            "B. Wasn\u2019t",
-            "C. Weren\u2019t",
-            "D. Not were"
+            "A. didn\u2019t are",
+            "B. wasn\u2019t",
+            "C. weren\u2019t",
+            "D. not were"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Ann and her brother ___ at home yesterday.\n\u2192 Ann v\u00e0 anh trai c\u00f4 \u1ea5y ___ \u1edf nh\u00e0 h\u00f4m qua.\nA. Didn\u2019t are \u2192 sai v\u00ec \"didn't\" ph\u1ea3i \u0111i v\u1edbi \u0111\u1ed9ng t\u1eeb nguy\u00ean m\u1eabu\nB. Wasn\u2019t \u2192 sai v\u00ec \"was\" ch\u1ec9 d\u00f9ng cho ch\u1ee7 ng\u1eef s\u1ed1 \u00edt, trong khi \"Ann and her brother\" l\u00e0 s\u1ed1 nhi\u1ec1u.\n\u2705 C. Weren\u2019t (\u0111\u00e3 kh\u00f4ng \u1edf) \u2192 \u0111\u00fang v\u00ec \"weren\u2019t\" l\u00e0 qu\u00e1 kh\u1ee9 c\u1ee7a \"are\" d\u00f9ng cho ch\u1ee7 ng\u1eef s\u1ed1 nhi\u1ec1u.\nD. Not were \u2192 sai v\u00ec \"not\" kh\u00f4ng th\u1ec3 \u0111\u1ee9ng tr\u01b0\u1edbc \u0111\u1ed9ng t\u1eeb \"were\" m\u00e0 kh\u00f4ng c\u00f3 tr\u1ee3 \u0111\u1ed9ng t\u1eeb."
+        "hint": "Ann and her brother ___ at home yesterday.\n\u2192 Ann v\u00e0 anh trai c\u00f4 \u1ea5y ___ \u1edf nh\u00e0 h\u00f4m qua.\nA. didn\u2019t are \u2192 sai v\u00ec \"didn't\" ph\u1ea3i \u0111i v\u1edbi \u0111\u1ed9ng t\u1eeb nguy\u00ean m\u1eabu\nB. wasn\u2019t \u2192 sai v\u00ec \"was\" ch\u1ec9 d\u00f9ng cho ch\u1ee7 ng\u1eef s\u1ed1 \u00edt, trong khi \"Ann and her brother\" l\u00e0 s\u1ed1 nhi\u1ec1u.\n\u2705 C. weren\u2019t (\u0111\u00e3 kh\u00f4ng \u1edf) \u2192 \u0111\u00fang v\u00ec \"weren\u2019t\" l\u00e0 qu\u00e1 kh\u1ee9 c\u1ee7a \"are\" d\u00f9ng cho ch\u1ee7 ng\u1eef s\u1ed1 nhi\u1ec1u.\nD. not were \u2192 sai v\u00ec \"not\" kh\u00f4ng th\u1ec3 \u0111\u1ee9ng tr\u01b0\u1edbc \u0111\u1ed9ng t\u1eeb \"were\" m\u00e0 kh\u00f4ng c\u00f3 tr\u1ee3 \u0111\u1ed9ng t\u1eeb."
     },
     {
         "id": 229,
@@ -3217,7 +3217,7 @@
             "D. Evening"
         ],
         "correctAnswerIndex": 3,
-        "hint": "Choose the odd one out:\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i\nA. Playing (ch\u01a1i)\nB. Learning (h\u1ecdc)\nC. Writing (vi\u1ebft)\n\u2705 D. Evening (bu\u1ed5i t\u1ed1i) \u2192 kh\u00e1c v\u00ec \u0111\u00e2y l\u00e0 danh t\u1eeb ch\u1ec9 th\u1eddi gian, c\u00f2n c\u00e1c t\u1eeb kh\u00e1c l\u00e0 \u0111\u1ed9ng t\u1eeb"
+        "hint": "Choose the odd one out:\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i\nA. Playing (ch\u01a1i)\nB. Learning (h\u1ecdc)\nC. Writing (vi\u1ebft)\n\u2705 D. Evening (bu\u1ed5i t\u1ed1i) \u2192 kh\u00e1c v\u00ec \u0111\u00e2y l\u00e0 danh t\u1eeb ch\u1ec9 th\u1eddi gian, c\u00f2n c\u00e1c t\u1eeb kh\u00e1c l\u00e0 \u0111\u1ed9ng t\u1eeb."
     },
     {
         "id": 231,
@@ -3225,13 +3225,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. To see",
-            "B. Seeing",
-            "C. See",
-            "D. Sees"
+            "A. to see",
+            "B. seeing",
+            "C. see",
+            "D. sees"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Don't let your brother ___ the present.\n\u2192 \u0110\u1eebng \u0111\u1ec3 anh trai c\u1ee7a b\u1ea1n ___ m\u00f3n qu\u00e0.\nA. To see \nB. Seeing\n\u2705 C. See \u2192 \u0111\u1ed9ng t\u1eeb sau \"let\" ph\u1ea3i \u1edf d\u1ea1ng nguy\u00ean m\u1eabu.\nD. Sees"
+        "hint": "Don't let your brother ___ the present.\n\u2192 \u0110\u1eebng \u0111\u1ec3 anh trai c\u1ee7a b\u1ea1n ___ m\u00f3n qu\u00e0.\nA. to see \nB. seeing\n\u2705 C. see \u2192 \u0111\u1ed9ng t\u1eeb sau \"let\" ph\u1ea3i \u1edf d\u1ea1ng nguy\u00ean m\u1eabu.\nD. sees"
     },
     {
         "id": 232,
@@ -3239,13 +3239,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Usually",
-            "B. Never",
-            "C. Sometimes",
-            "D. Often"
+            "A. usually",
+            "B. never",
+            "C. sometimes",
+            "D. often"
         ],
         "correctAnswerIndex": 3,
-        "hint": "How ___ do you study in the school library? - Every afternoon.\n\u2192 B\u1ea1n h\u1ecdc trong th\u01b0 vi\u1ec7n tr\u01b0\u1eddng bao l\u00e2u m\u1ed9t l\u1ea7n? - M\u1ed7i bu\u1ed5i chi\u1ec1u.\nA. Usually (th\u01b0\u1eddng xuy\u00ean)\nB. Never (kh\u00f4ng bao gi\u1edd)\nC. Sometimes (th\u1ec9nh tho\u1ea3ng)\n\u2705 D. Often (th\u01b0\u1eddng xuy\u00ean) \u2192 \u0111\u00fang v\u00ec \"How often\" d\u00f9ng \u0111\u1ec3 h\u1ecfi v\u1ec1 t\u1ea7n su\u1ea5t, ph\u00f9 h\u1ee3p v\u1edbi c\u00e2u tr\u1ea3 l\u1eddi \"Every afternoon\" (M\u1ed7i bu\u1ed5i chi\u1ec1u)"
+        "hint": "How ___ do you study in the school library? - Every afternoon.\n\u2192 B\u1ea1n h\u1ecdc trong th\u01b0 vi\u1ec7n tr\u01b0\u1eddng bao l\u00e2u m\u1ed9t l\u1ea7n? - M\u1ed7i bu\u1ed5i chi\u1ec1u.\nA. usually (th\u01b0\u1eddng xuy\u00ean)\nB. never (kh\u00f4ng bao gi\u1edd)\nC. sometimes (th\u1ec9nh tho\u1ea3ng)\n\u2705 D. often (th\u01b0\u1eddng xuy\u00ean) \u2192 \u0111\u00fang v\u00ec \"How often\" d\u00f9ng \u0111\u1ec3 h\u1ecfi v\u1ec1 t\u1ea7n su\u1ea5t, ph\u00f9 h\u1ee3p v\u1edbi c\u00e2u tr\u1ea3 l\u1eddi \"Every afternoon\" (M\u1ed7i bu\u1ed5i chi\u1ec1u)"
     },
     {
         "id": 233,
@@ -3253,13 +3253,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. On",
-            "B. In",
-            "C. At",
-            "D. With"
+            "A. on",
+            "B. in",
+            "C. at",
+            "D. with"
         ],
         "correctAnswerIndex": 2,
-        "hint": "We are ___ work at the moment.\n\u2192 Ch\u00fang t\u00f4i \u0111ang l\u00e0m vi\u1ec7c l\u00fac n\u00e0y.\nA. On (tr\u00ean)\nB. In (trong)\n\u2705 C. At (t\u1ea1i) \u2192 \u0111\u00fang v\u00ec \"at work\" (\u0111ang l\u00e0m vi\u1ec7c) l\u00e0 c\u1ee5m t\u1eeb c\u1ed1 \u0111\u1ecbnh.\nD. With (v\u1edbi)"
+        "hint": "We are ___ work at the moment.\n\u2192 Ch\u00fang t\u00f4i \u0111ang l\u00e0m vi\u1ec7c l\u00fac n\u00e0y.\nA. on (tr\u00ean)\nB. in (trong)\n\u2705 C. at (t\u1ea1i) \u2192 \"at work\" (\u0111ang l\u00e0m vi\u1ec7c) l\u00e0 c\u1ee5m t\u1eeb c\u1ed1 \u0111\u1ecbnh.\nD. with (v\u1edbi)"
     },
     {
         "id": 234,
@@ -3281,13 +3281,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Cupboard - is",
-            "B. Cupboard \u2013 are",
-            "C. Cupboards \u2013 are",
-            "D. Cupboards \u2013 is"
+            "A. cupboard - is",
+            "B. cupboard \u2013 are",
+            "C. cupboards \u2013 are",
+            "D. cupboards \u2013 is"
         ],
         "correctAnswerIndex": 3,
-        "hint": "How many ____ are there in the room? \u2013 There _______ one cupboard.\n\u2192 C\u00f3 bao nhi\u00eau ___ trong ph\u00f2ng? - C\u00f3 m\u1ed9t c\u00e1i t\u1ee7.\nA. Cupboard - is \u2192 sai v\u00ec \"how many\" h\u1ecfi v\u1ec1 s\u1ed1 nhi\u1ec1u nh\u01b0ng \"cupboard\" l\u00e0 s\u1ed1 \u00edt.\nB. Cupboard \u2013 are \u2192 sai v\u00ec \"are\" kh\u00f4ng \u0111i v\u1edbi danh t\u1eeb s\u1ed1 \u00edt.\nC. Cupboards \u2013 are \u2192 sai v\u00ec v\u1ebf sau c\u1ee7a c\u00e2u l\u00e0 \"one cupboard\" (m\u1ed9t c\u00e1i t\u1ee7), kh\u00f4ng th\u1ec3 d\u00f9ng danh t\u1eeb s\u1ed1 nhi\u1ec1u.\n\u2705 D. Cupboards \u2013 is \u2192 \u0111\u00fang v\u00ec \"how many cupboards\" h\u1ecfi s\u1ed1 nhi\u1ec1u, nh\u01b0ng c\u00e2u tr\u1ea3 l\u1eddi l\u00e0 s\u1ed1 \u00edt n\u00ean d\u00f9ng \"is\" ph\u00f9 h\u1ee3p v\u1edbi \"one cupboard\"."
+        "hint": "How many ____ are there in the room? \u2013 There _______ one cupboard.\n\u2192 C\u00f3 bao nhi\u00eau ___ trong ph\u00f2ng? - C\u00f3 m\u1ed9t c\u00e1i t\u1ee7.\nA. cupboard - is \u2192 sai v\u00ec \"how many\" h\u1ecfi v\u1ec1 s\u1ed1 nhi\u1ec1u nh\u01b0ng \"cupboard\" l\u00e0 s\u1ed1 \u00edt.\nB. cupboard \u2013 are \u2192 sai v\u00ec \"are\" kh\u00f4ng \u0111i v\u1edbi danh t\u1eeb s\u1ed1 \u00edt.\nC. cupboards \u2013 are \u2192 sai v\u00ec v\u1ebf sau c\u1ee7a c\u00e2u l\u00e0 \"one cupboard\" (m\u1ed9t c\u00e1i t\u1ee7), kh\u00f4ng th\u1ec3 d\u00f9ng danh t\u1eeb s\u1ed1 nhi\u1ec1u.\n\u2705 D. cupboards \u2013 is \u2192 \u0111\u00fang v\u00ec \"how many cupboards\" h\u1ecfi s\u1ed1 nhi\u1ec1u, nh\u01b0ng c\u00e2u tr\u1ea3 l\u1eddi l\u00e0 s\u1ed1 \u00edt n\u00ean d\u00f9ng \"is\" ph\u00f9 h\u1ee3p v\u1edbi \"one cupboard\"."
     },
     {
         "id": 236,
@@ -3315,7 +3315,7 @@
             "D. Zebra"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Choose the odd one out\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i\nA. Tiger (h\u1ed5)\n\u2705 B. Goldfish (c\u00e1 v\u00e0ng)  \u2192 kh\u00e1c v\u00ec \u0111\u00e2y l\u00e0 lo\u00e0i \u0111\u1ed9ng v\u1eadt d\u01b0\u1edbi n\u01b0\u1edbc\nC. Lion (s\u01b0 t\u1eed)\nD. Zebra (ng\u1ef1a v\u1eb1n)"
+        "hint": "Choose the odd one out\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i\nA. Tiger (h\u1ed5)\n\u2705 B. Goldfish (c\u00e1 v\u00e0ng)  \u2192 kh\u00e1c v\u00ec \u0111\u00e2y l\u00e0 lo\u00e0i \u0111\u1ed9ng v\u1eadt d\u01b0\u1edbi n\u01b0\u1edbc.\nC. Lion (s\u01b0 t\u1eed)\nD. Zebra (ng\u1ef1a v\u1eb1n)"
     },
     {
         "id": 238,
@@ -3323,13 +3323,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Read",
-            "B. Reads",
-            "C. Is read",
-            "D. Are read"
+            "A. read",
+            "B. reads",
+            "C. is read",
+            "D. are read"
         ],
         "correctAnswerIndex": 1,
-        "hint": "My grandmother ______ newspaper in the afternoon.\n\u2192 B\u00e0 t\u00f4i \u0111\u1ecdc b\u00e1o v\u00e0o bu\u1ed5i chi\u1ec1u.\nA. Read\n\u2705 B. Reads \u2192 ch\u1ee7 ng\u1eef \"My grandmother\" (b\u00e0 t\u00f4i) l\u00e0 s\u1ed1 \u00edt n\u00ean c\u1ea7n chia \u0111\u1ed9ng t\u1eeb c\u00f3 \"s\".\nC. Is read\nD. Are read"
+        "hint": "My grandmother ______ newspaper in the afternoon.\n\u2192 B\u00e0 t\u00f4i \u0111\u1ecdc b\u00e1o v\u00e0o bu\u1ed5i chi\u1ec1u.\nA. read\n\u2705 B. reads \u2192 ch\u1ee7 ng\u1eef \"My grandmother\" (b\u00e0 t\u00f4i) l\u00e0 s\u1ed1 \u00edt n\u00ean c\u1ea7n chia \u0111\u1ed9ng t\u1eeb c\u00f3 \"s\".\nC. is read\nD. are read"
     },
     {
         "id": 239,
@@ -3337,13 +3337,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. My uncle",
-            "B. My brother",
-            "C. My sister",
-            "D. My son"
+            "A. my uncle",
+            "B. my brother",
+            "C. my sister",
+            "D. my son"
         ],
         "correctAnswerIndex": 2,
-        "hint": "The girl in the photo is _________.\n\u2192 C\u00f4 g\u00e1i trong b\u1ee9c \u1ea3nh l\u00e0 ______.\nA. My uncle (ch\u00fa, b\u00e1c) \nB. My brother (anh, em trai) \n\u2705 C. My sister (ch\u1ecb, em g\u00e1i)\nD. My son (con trai) "
+        "hint": "The girl in the photo is _________.\n\u2192 C\u00f4 g\u00e1i trong b\u1ee9c \u1ea3nh l\u00e0 ______.\nA. my uncle (ch\u00fa, b\u00e1c) \nB. my brother (anh, em trai) \n\u2705 C. my sister (ch\u1ecb, em g\u00e1i)\nD. my son (con trai) "
     },
     {
         "id": 240,
@@ -3351,13 +3351,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. The morning",
-            "B. The evening",
-            "C. The afternoon",
-            "D. The night"
+            "A. the morning",
+            "B. the evening",
+            "C. the afternoon",
+            "D. the night"
         ],
         "correctAnswerIndex": 0,
-        "hint": "You have breakfast in ________.\n\u2192 B\u1ea1n \u0103n s\u00e1ng v\u00e0o ______.\n\u2705 A. The morning (bu\u1ed5i s\u00e1ng) \nB. The evening (bu\u1ed5i t\u1ed1i) \nC. The afternoon (bu\u1ed5i chi\u1ec1u)\nD. The night (ban \u0111\u00eam)"
+        "hint": "You have breakfast in ________.\n\u2192 B\u1ea1n \u0103n s\u00e1ng v\u00e0o ______.\n\u2705 A. the morning (bu\u1ed5i s\u00e1ng) \nB. the evening (bu\u1ed5i t\u1ed1i) \nC. the afternoon (bu\u1ed5i chi\u1ec1u)\nD. the night (ban \u0111\u00eam)"
     },
     {
         "id": 241,
@@ -3365,13 +3365,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Teddy bear",
-            "B. Teddys bear",
-            "C. Teddies bears",
-            "D. Teddy bears"
+            "A. teddy bear",
+            "B. teddys bear",
+            "C. teddies bears",
+            "D. teddy bears"
         ],
         "correctAnswerIndex": 3,
-        "hint": "I can see two _________ in the picture.\n\u2192 T\u00f4i c\u00f3 th\u1ec3 th\u1ea5y hai ______ trong b\u1ee9c tranh\nA. Teddy bear\nB. Teddys bear\nC. Teddies bears\n\u2705 D. Teddy bears"
+        "hint": "I can see two _________ in the picture.\n\u2192 T\u00f4i c\u00f3 th\u1ec3 th\u1ea5y hai ______ trong b\u1ee9c tranh.\nA. teddy bear\nB. teddys bear\nC. teddies bears\n\u2705 D. teddy bears"
     },
     {
         "id": 242,
@@ -3399,7 +3399,7 @@
             "D. Where"
         ],
         "correctAnswerIndex": 0,
-        "hint": "The opposite of HERE is ______.\n\u2192 T\u1eeb tr\u00e1i ngh\u0129a v\u1edbi \"\u1ede \u0110\u00c2Y\" l\u00e0 ______.\n\u2705 A. There (\u1ede \u0111\u00f3) \u2192 \u0111\u1ed1i l\u1eadp v\u1edbi \"here\" - \u1edf \u0111\u00e2y\nB. This (C\u00e1i n\u00e0y) \nC. That (C\u00e1i kia)\nD. Where (\u1ede \u0111\u00e2u)"
+        "hint": "The opposite of \"Here\" is ______.\n\u2192 T\u1eeb tr\u00e1i ngh\u0129a v\u1edbi \"\u1ede \u0111\u00e2y\" l\u00e0 ______.\n\u2705 A. There (\u1ede \u0111\u00f3)\nB. This (C\u00e1i n\u00e0y) \nC. That (C\u00e1i kia)\nD. Where (\u1ede \u0111\u00e2u)"
     },
     {
         "id": 244,
@@ -3421,13 +3421,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Some",
-            "B. Any",
-            "C. A",
-            "D. The"
+            "A. some",
+            "B. any",
+            "C. a",
+            "D. the"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Is there _______ milk in the bottle?\n\u2192 C\u00f3 _______ s\u1eefa trong chai kh\u00f4ng?\nA. Some (m\u1ed9t \u00edt, m\u1ed9t s\u1ed1) \u2192 Th\u01b0\u1eddng d\u00f9ng trong c\u00e2u kh\u1eb3ng \u0111\u1ecbnh.\n\u2705 B. Any (b\u1ea5t k\u1ef3, m\u1ed9t ch\u00fat n\u00e0o \u0111\u00f3) \u2192 D\u00f9ng trong c\u00e2u h\u1ecfi v\u00e0 c\u00e2u ph\u1ee7 \u0111\u1ecbnh.\nC. A (m\u1ed9t, m\u1ed9t c\u00e1i, m\u1ed9t chi\u1ebfc) \u2192 Milk l\u00e0 danh t\u1eeb kh\u00f4ng \u0111\u1ebfm \u0111\u01b0\u1ee3c, kh\u00f4ng th\u1ec3 d\u00f9ng v\u1edbi \"a\".\nD. The (c\u00e1i, nh\u1eefng, \u0111\u00f3) \u2192 Kh\u00f4ng ph\u00f9 h\u1ee3p v\u00ec \"milk\" \u1edf \u0111\u00e2y kh\u00f4ng ph\u1ea3i l\u00e0 m\u1ed9t danh t\u1eeb x\u00e1c \u0111\u1ecbnh (kh\u00f4ng n\u00f3i \u0111\u1ebfn lo\u1ea1i s\u1eefa c\u1ee5 th\u1ec3 n\u00e0o)."
+        "hint": "Is there _______ milk in the bottle?\n\u2192 C\u00f3 s\u1eefa trong chai kh\u00f4ng?\nA. some (m\u1ed9t \u00edt, m\u1ed9t s\u1ed1) \u2192 Th\u01b0\u1eddng d\u00f9ng trong c\u00e2u kh\u1eb3ng \u0111\u1ecbnh.\n\u2705 B. any (b\u1ea5t k\u1ef3, m\u1ed9t ch\u00fat n\u00e0o \u0111\u00f3) \u2192 D\u00f9ng trong c\u00e2u h\u1ecfi v\u00e0 c\u00e2u ph\u1ee7 \u0111\u1ecbnh.\nC. a (m\u1ed9t, m\u1ed9t c\u00e1i, m\u1ed9t chi\u1ebfc) \u2192 Milk l\u00e0 danh t\u1eeb kh\u00f4ng \u0111\u1ebfm \u0111\u01b0\u1ee3c, kh\u00f4ng th\u1ec3 d\u00f9ng v\u1edbi \"a\".\nD. the (c\u00e1i, nh\u1eefng, \u0111\u00f3) \u2192 Kh\u00f4ng ph\u00f9 h\u1ee3p v\u00ec \"milk\" \u1edf \u0111\u00e2y kh\u00f4ng ph\u1ea3i l\u00e0 m\u1ed9t danh t\u1eeb x\u00e1c \u0111\u1ecbnh (kh\u00f4ng n\u00f3i \u0111\u1ebfn lo\u1ea1i s\u1eefa c\u1ee5 th\u1ec3 n\u00e0o)."
     },
     {
         "id": 246,
@@ -3435,13 +3435,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. And",
-            "B. With",
-            "C. Or",
-            "D. But"
+            "A. and",
+            "B. with",
+            "C. or",
+            "D. but"
         ],
         "correctAnswerIndex": 0,
-        "hint": "There are two boys _____ three girls in the music room.\n\u2192 C\u00f3 hai c\u1eadu b\u00e9 _____ ba c\u00f4 g\u00e1i trong ph\u00f2ng \u00e2m nh\u1ea1c.\n\u2705 A. And (v\u00e0) \u2192 \u0111\u00fang v\u00ec \"and\" d\u00f9ng \u0111\u1ec3 n\u1ed1i hai danh t\u1eeb ho\u1eb7c c\u1ee5m danh t\u1eeb mang \u00fd ngh\u0129a b\u1ed5 sung.\nB. With (v\u1edbi)\nC. Or (ho\u1eb7c)\nD. But (nh\u01b0ng)"
+        "hint": "There are two boys _____ three girls in the music room.\n\u2192 C\u00f3 hai c\u1eadu b\u00e9 _____ ba c\u00f4 g\u00e1i trong ph\u00f2ng \u00e2m nh\u1ea1c.\n\u2705 A. and (v\u00e0) \u2192 \"and\" d\u00f9ng \u0111\u1ec3 n\u1ed1i hai danh t\u1eeb ho\u1eb7c c\u1ee5m danh t\u1eeb mang \u00fd ngh\u0129a b\u1ed5 sung.\nB. with (v\u1edbi)\nC. or (ho\u1eb7c)\nD. but (nh\u01b0ng)"
     },
     {
         "id": 247,
@@ -3449,13 +3449,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Very",
-            "B. Too",
-            "C. Little",
-            "D. Much"
+            "A. very",
+            "B. too",
+            "C. little",
+            "D. much"
         ],
         "correctAnswerIndex": 0,
-        "hint": "The pond is _____ small.\n\u2192 C\u00e1i ao _____ nh\u1ecf.\n\u2705 A. Very (r\u1ea5t) \u2192 \u0111\u00fang v\u00ec \"very\" th\u01b0\u1eddng \u0111\u01b0\u1ee3c d\u00f9ng \u0111\u1ec3 nh\u1ea5n m\u1ea1nh t\u00ednh t\u1eeb \"small\".\nB. Too (qu\u00e1) \u2192 sai v\u00ec \"too small\" mang \u00fd ngh\u0129a ti\u00eau c\u1ef1c (qu\u00e1 nh\u1ecf \u0111\u1ebfn m\u1ee9c kh\u00f4ng t\u1ed1t).\nC. Little (nh\u1ecf)\nD. Much (nhi\u1ec1u) "
+        "hint": "The pond is _____ small.\n\u2192 C\u00e1i ao _____ nh\u1ecf.\n\u2705 A. very (r\u1ea5t) \u2192 th\u01b0\u1eddng \u0111\u01b0\u1ee3c d\u00f9ng \u0111\u1ec3 nh\u1ea5n m\u1ea1nh t\u00ednh t\u1eeb \nB. too (qu\u00e1) \u2192 \"too small\" mang \u00fd ngh\u0129a ti\u00eau c\u1ef1c (qu\u00e1 nh\u1ecf \u0111\u1ebfn m\u1ee9c kh\u00f4ng t\u1ed1t).\nC. little (nh\u1ecf)\nD. much (nhi\u1ec1u) "
     },
     {
         "id": 248,
@@ -3483,7 +3483,7 @@
             "D. What does the weather like in Hanoi today?"
         ],
         "correctAnswerIndex": 1,
-        "hint": "____-It\u2019s sunny in Hanoi today.\n\u2192 ______ - H\u00f4m nay tr\u1eddi n\u1eafng \u1edf H\u00e0 N\u1ed9i.\nA. Is it sunny in Hanoi today? \n\u2192 \u0110\u00e2y l\u00e0 c\u00e2u h\u1ecfi Yes/No, kh\u00f4ng ph\u00f9 h\u1ee3p v\u1edbi c\u00e2u tr\u1ea3 l\u1eddi.\n\u2705 B. What\u2019s the weather like in Hanoi today? \n\u2192 c\u1ea5u tr\u00fac \u0111\u00fang \u0111\u1ec3 h\u1ecfi v\u1ec1 th\u1eddi ti\u1ebft.\nC. How are weather in Hanoi today? \n\u2192 Sai ng\u1eef ph\u00e1p! \"Weather\" l\u00e0 danh t\u1eeb kh\u00f4ng \u0111\u1ebfm \u0111\u01b0\u1ee3c, n\u00ean kh\u00f4ng d\u00f9ng \"are\"\nD. What does the weather like in Hanoi today? "
+        "hint": "____-It\u2019s sunny in Hanoi today.\n\u2192 ______ - H\u00f4m nay tr\u1eddi n\u1eafng \u1edf H\u00e0 N\u1ed9i.\nA. Is it sunny in Hanoi today? \n\u2192 \u0110\u00e2y l\u00e0 c\u00e2u h\u1ecfi Yes/No, kh\u00f4ng ph\u00f9 h\u1ee3p v\u1edbi c\u00e2u tr\u1ea3 l\u1eddi.\n\u2705 B. What\u2019s the weather like in Hanoi today? \n\u2192 c\u1ea5u tr\u00fac \u0111\u00fang \u0111\u1ec3 h\u1ecfi v\u1ec1 th\u1eddi ti\u1ebft.\nC. How are weather in Hanoi today? \n\u2192 Sai ng\u1eef ph\u00e1p! \"Weather\" l\u00e0 danh t\u1eeb kh\u00f4ng \u0111\u1ebfm \u0111\u01b0\u1ee3c, n\u00ean kh\u00f4ng d\u00f9ng \"are\"\nD. What does the weather like in Hanoi today? \n\u2192 Sai ng\u1eef ph\u00e1p, kh\u00f4ng d\u00f9ng does"
     },
     {
         "id": 250,
@@ -3491,13 +3491,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. He",
-            "B. His",
-            "C. Him",
-            "D. I"
+            "A. he",
+            "B. his",
+            "C. him",
+            "D. i"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Quang and _____ friend are ten years old.\n\u2192 Quang v\u00e0 _____ b\u1ea1n c\u1ee7a c\u1eadu \u1ea5y \u0111\u1ec1u 10 tu\u1ed5i.\nA. He (C\u1eadu \u1ea5y) \u2192 Kh\u00f4ng \u0111\u00fang v\u00ec \"He\" l\u00e0 \u0111\u1ea1i t\u1eeb ch\u1ee7 ng\u1eef, kh\u00f4ng th\u1ec3 \u0111\u1ee9ng tr\u01b0\u1edbc danh t\u1eeb \"friend\".\n \u2705 B. His (C\u1ee7a c\u1eadu \u1ea5y) \u2192 \u0110\u00fang v\u00ec \"His\" l\u00e0 t\u00ednh t\u1eeb s\u1edf h\u1eefu, \u0111\u1ee9ng tr\u01b0\u1edbc danh t\u1eeb \"friend\" \u0111\u1ec3 ch\u1ec9 s\u1ef1 s\u1edf h\u1eefu.\nC. Him (C\u1eadu \u1ea5y - t\u00e2n ng\u1eef) \u2192 Sai v\u00ec \"Him\" kh\u00f4ng th\u1ec3 \u0111\u1ee9ng tr\u01b0\u1edbc danh t\u1eeb.\nD. I (T\u00f4i) \u2192 Kh\u00f4ng ph\u00f9 h\u1ee3p v\u1edbi ng\u1eef c\u1ea3nh."
+        "hint": "Quang and _____ friend are ten years old.\n\u2192 Quang v\u00e0 _____ b\u1ea1n c\u1ee7a c\u1eadu \u1ea5y \u0111\u1ec1u 10 tu\u1ed5i.\nA. he (C\u1eadu \u1ea5y) \u2192 l\u00e0 \u0111\u1ea1i t\u1eeb ch\u1ee7 ng\u1eef, kh\u00f4ng th\u1ec3 \u0111\u1ee9ng tr\u01b0\u1edbc danh t\u1eeb \"friend\".\n \u2705 B. his (C\u1ee7a c\u1eadu \u1ea5y) \u2192 l\u00e0 t\u00ednh t\u1eeb s\u1edf h\u1eefu, \u0111\u1ee9ng tr\u01b0\u1edbc danh t\u1eeb \"friend\" \u0111\u1ec3 ch\u1ec9 s\u1ef1 s\u1edf h\u1eefu.\nC. him (C\u1eadu \u1ea5y - t\u00e2n ng\u1eef) \u2192 kh\u00f4ng th\u1ec3 \u0111\u1ee9ng tr\u01b0\u1edbc danh t\u1eeb.\nD. i (T\u00f4i) \u2192 Kh\u00f4ng ph\u00f9 h\u1ee3p v\u1edbi ng\u1eef c\u1ea3nh."
     },
     {
         "id": 251,
@@ -3511,7 +3511,7 @@
             "D. Their"
         ],
         "correctAnswerIndex": 1,
-        "hint": "I have a rabbit. ____ name is Bim.\n\u2192 T\u00f4i c\u00f3 m\u1ed9t con th\u1ecf. ____ t\u00ean l\u00e0 Bim.\nA. She (C\u00f4 \u1ea5y)\n\u2705 B. Its (N\u00f3)\nC. He (Anh \u1ea5y)\nD. Their (C\u1ee7a h\u1ecd)"
+        "hint": "I have a rabbit. ____ name is Bim.\n\u2192 T\u00f4i c\u00f3 m\u1ed9t con th\u1ecf. T\u00ean n\u00f3 l\u00e0 Bim.\nA. She (C\u00f4 \u1ea5y)\n\u2705 B. Its (N\u00f3)\nC. He (Anh \u1ea5y)\nD. Their (C\u1ee7a h\u1ecd)"
     },
     {
         "id": 252,
@@ -3519,13 +3519,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Am",
-            "B. Is",
-            "C. Are",
-            "D. Does"
+            "A. am",
+            "B. is",
+            "C. are",
+            "D. does"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Where _____ Phong? \u2013 In the yard.\n\u2192 Phong \u1edf \u0111\u00e2u? \u2013 \u1ede trong s\u00e2n.\nA. Am (T\u00f4i l\u00e0/\u1edf) \u2192 \"Am\" ch\u1ec9 d\u00f9ng v\u1edbi \"I\".\n\u2705 B. Is (L\u00e0/\u1edf - s\u1ed1 \u00edt) \u2192 \"Phong\" l\u00e0 s\u1ed1 \u00edt n\u00ean d\u00f9ng \"Is\".\nC. Are (L\u00e0/\u1edf - s\u1ed1 nhi\u1ec1u)\nD. Does (Tr\u1ee3 \u0111\u1ed9ng t\u1eeb) "
+        "hint": "Where _____ Phong? \u2013 In the yard.\n\u2192 Phong \u1edf \u0111\u00e2u? \u2013 \u1ede trong s\u00e2n.\nA. am (T\u00f4i l\u00e0/\u1edf) \u2192 \"Am\" ch\u1ec9 d\u00f9ng v\u1edbi \"I\".\n\u2705 B. is (L\u00e0/\u1edf - s\u1ed1 \u00edt) \u2192 \"Phong\" l\u00e0 s\u1ed1 \u00edt n\u00ean d\u00f9ng \"is\".\nC. are (L\u00e0/\u1edf - s\u1ed1 nhi\u1ec1u)\nD. does (Tr\u1ee3 \u0111\u1ed9ng t\u1eeb) "
     },
     {
         "id": 253,
@@ -3575,27 +3575,27 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Pets",
-            "B. Does",
-            "C. Likes",
-            "D. He likes"
+            "A. pets",
+            "B. does",
+            "C. likes",
+            "D. he likes"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Choose the incorrect word(s) in the following sentence:\nWhat pets does Tom likes? \u2013 He likes parrots.\n\u2192 T\u1eeb n\u00e0o sai trong c\u00e2u sau: \"What pets does Tom likes?\" - \"He likes parrots.\"?\nA. Pets\nB. Does \nC. Likes \u2705 \u2192 Sai, v\u00ec sau \"does\" ta ph\u1ea3i d\u00f9ng \u0111\u1ed9ng t\u1eeb nguy\u00ean th\u1ec3 \"like\".\nD. He likes"
+        "hint": "Choose the incorrect word(s) in the following sentence:\nWhat pets does Tom likes? \u2013 He likes parrots.\n\u2192 T\u1eeb n\u00e0o sai trong c\u00e2u sau: What pets does Tom likes? - He likes parrots.\nA. pets\nB. does \nC. likes \u2705 \u2192 Sai, v\u00ec sau \"does\" ta ph\u1ea3i d\u00f9ng \u0111\u1ed9ng t\u1eeb nguy\u00ean th\u1ec3 \"like\".\nD. he likes"
     },
     {
         "id": 257,
-        "question": "Kien Giang is in ______ Vietnam.",
+        "question": "Kien Giang is in the south ______ of Vietnam.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. North",
-            "B. South",
-            "C. Central",
-            "D. East"
+            "A. north",
+            "B. south",
+            "C. central",
+            "D. east"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Kien Giang is in ______ Vietnam.\n\u2192 Ki\u00ean Giang thu\u1ed9c mi\u1ec1n n\u00e0o c\u1ee7a Vi\u1ec7t Nam?\nA. North (Mi\u1ec1n B\u1eafc)\n\u2705 B. South (Mi\u1ec1n Nam)\nC. Central (Mi\u1ec1n Trung)\nD. East (Mi\u1ec1n \u0110\u00f4ng)"
+        "hint": "Kien Giang is in the ______ of Vietnam.\n\u2192 Ki\u00ean Giang thu\u1ed9c mi\u1ec1n n\u00e0o c\u1ee7a Vi\u1ec7t Nam?\nA. north (Mi\u1ec1n B\u1eafc)\n\u2705 B. south (Mi\u1ec1n Nam)\nC. central (Mi\u1ec1n Trung)\nD. east (Mi\u1ec1n \u0110\u00f4ng)"
     },
     {
         "id": 258,
@@ -3609,7 +3609,7 @@
             "D. Door"
         ],
         "correctAnswerIndex": 3,
-        "hint": "Choose the odd one out\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i\nA. Map (B\u1ea3n \u0111\u1ed3)\nB. Poster (\u00c1p ph\u00edch)\nC. Photo (\u1ea2nh)\n\u2705 D. Door (C\u1eeda) \u2192 \u0110\u00fang, v\u00ec ba t\u1eeb c\u00f2n l\u1ea1i \u0111\u1ec1u l\u00e0 c\u00e1c v\u1eadt ph\u1eb3ng th\u01b0\u1eddng \u0111\u01b0\u1ee3c treo ho\u1eb7c d\u00e1n tr\u00ean t\u01b0\u1eddng, c\u00f2n \"door\" l\u00e0 m\u1ed9t v\u1eadt d\u1ee5ng c\u00f3 ch\u1ee9c n\u0103ng \u0111\u00f3ng/m\u1edf \u0111\u1ec3 ra v\u00e0o.."
+        "hint": "Choose the odd one out\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i\nA. Map (B\u1ea3n \u0111\u1ed3)\nB. Poster (\u00c1p ph\u00edch)\nC. Photo (\u1ea2nh)\n\u2705 D. Door (C\u1eeda) \u2192 \u0110\u00fang, v\u00ec ba t\u1eeb c\u00f2n l\u1ea1i \u0111\u1ec1u l\u00e0 c\u00e1c v\u1eadt ph\u1eb3ng th\u01b0\u1eddng \u0111\u01b0\u1ee3c treo ho\u1eb7c d\u00e1n tr\u00ean t\u01b0\u1eddng, c\u00f2n \"door\" l\u00e0 m\u1ed9t v\u1eadt d\u1ee5ng c\u00f3 ch\u1ee9c n\u0103ng \u0111\u00f3ng/m\u1edf \u0111\u1ec3 ra v\u00e0o."
     },
     {
         "id": 259,
@@ -3623,7 +3623,7 @@
             "D. Has"
         ],
         "correctAnswerIndex": 0,
-        "hint": "____ you have any sisters?\n\u2192 B\u1ea1n c\u00f3 ch\u1ecb/em g\u00e1i n\u00e0o kh\u00f4ng?\n\u2705 A. Do \u2192 \u0110\u00fang, d\u00f9ng v\u1edbi \"you\" (ng\u00f4i th\u1ee9 hai).\nB. Does \u2192 Sai, v\u00ec \"does\" d\u00f9ng cho ng\u00f4i th\u1ee9 ba s\u1ed1 \u00edt (he/she/it).\nC. Have\nD. Has"
+        "hint": "____ you have any sisters?\n\u2192 B\u1ea1n c\u00f3 ch\u1ecb/em g\u00e1i n\u00e0o kh\u00f4ng?\n\u2705 A. Do \u2192 d\u00f9ng cho I/we//you/they\nB. Does \u2192 d\u00f9ng cho he/she/it.\nC. Have (c\u00f3)\nD. Has (c\u00f3)"
     },
     {
         "id": 260,
@@ -3631,13 +3631,13 @@
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/paperplane.png",
         "questionAudioUrl": "",
         "choices": [
-            "A. Paper flower",
-            "B. Paper boat",
-            "C. Paper robot",
-            "D. Paper plane"
+            "A. paper flower",
+            "B. paper boat",
+            "C. paper robot",
+            "D. paper plane"
         ],
         "correctAnswerIndex": 3,
-        "hint": "She\u2019s making a _______.\n\u2192 C\u00f4 \u1ea5y \u0111ang l\u00e0m m\u1ed9t _______.\nA. Paper flower (Hoa gi\u1ea5y)\nB. Paper boat (Thuy\u1ec1n gi\u1ea5y)\nC. Paper robot (Ng\u01b0\u1eddi m\u00e1y gi\u1ea5y)\n\u2705 D. Paper plane (M\u00e1y bay gi\u1ea5y)"
+        "hint": "She\u2019s making a _______.\n\u2192 C\u00f4 \u1ea5y \u0111ang l\u00e0m m\u1ed9t _______.\nA. paper flower (hoa gi\u1ea5y)\nB. paper boat (thuy\u1ec1n gi\u1ea5y)\nC. paper robot (ng\u01b0\u1eddi m\u00e1y gi\u1ea5y)\n\u2705 D. paper plane (m\u00e1y bay gi\u1ea5y)"
     },
     {
         "id": 261,
@@ -3651,7 +3651,7 @@
             "D. any"
         ],
         "correctAnswerIndex": 3,
-        "hint": "Are there ______ desks in your bedroom?\n\u2192 C\u00f3 ______ b\u00e0n h\u1ecdc trong ph\u00f2ng ng\u1ee7 c\u1ee7a b\u1ea1n kh\u00f4ng?\nA. a (m\u1ed9t) \u2192 Sai, v\u00ec \"a\" ch\u1ec9 d\u00f9ng v\u1edbi danh t\u1eeb s\u1ed1 \u00edt.\nB. one (m\u1ed9t) \u2192 Sai, v\u00ec \"one\" ch\u1ec9 d\u00f9ng khi h\u1ecfi v\u1ec1 s\u1ed1 l\u01b0\u1ee3ng c\u1ee5 th\u1ec3.\nC. some (m\u1ed9t v\u00e0i) \u2192 Sai, v\u00ec \"some\" th\u01b0\u1eddng d\u00f9ng trong c\u00e2u kh\u1eb3ng \u0111\u1ecbnh.\n\u2705 D. any (b\u1ea5t k\u1ef3) \u2192 \u0110\u00fang, v\u00ec \"any\" \u0111\u01b0\u1ee3c d\u00f9ng trong c\u00e2u h\u1ecfi v\u00e0 c\u00e2u ph\u1ee7 \u0111\u1ecbnh v\u1edbi danh t\u1eeb s\u1ed1 nhi\u1ec1u."
+        "hint": "Are there ______ desks in your bedroom?\n\u2192 C\u00f3 ______ b\u00e0n h\u1ecdc trong ph\u00f2ng ng\u1ee7 c\u1ee7a b\u1ea1n kh\u00f4ng?\nA. a (m\u1ed9t) \u2192 ch\u1ec9 d\u00f9ng v\u1edbi danh t\u1eeb s\u1ed1 \u00edt.\nB. one (m\u1ed9t) \u2192 ch\u1ec9 d\u00f9ng khi h\u1ecfi v\u1ec1 s\u1ed1 l\u01b0\u1ee3ng c\u1ee5 th\u1ec3.\nC. some (m\u1ed9t v\u00e0i) \u2192 th\u01b0\u1eddng d\u00f9ng trong c\u00e2u kh\u1eb3ng \u0111\u1ecbnh.\n\u2705 D. any (b\u1ea5t k\u1ef3) \u2192 \u0111\u01b0\u1ee3c d\u00f9ng trong c\u00e2u h\u1ecfi v\u00e0 c\u00e2u ph\u1ee7 \u0111\u1ecbnh v\u1edbi danh t\u1eeb s\u1ed1 nhi\u1ec1u."
     },
     {
         "id": 262,
@@ -3659,13 +3659,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Have",
-            "B. Haves",
-            "C. Has",
-            "D. Is have"
+            "A. have",
+            "B. haves",
+            "C. has",
+            "D. is have"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Merida _______ long curly red hair.\n\u2192 Merida c\u00f3 m\u00e1i t\u00f3c d\u00e0i, xo\u0103n, m\u00e0u \u0111\u1ecf.\nA. Have (c\u00f3) \u2192 Sai, v\u00ec \"have\" d\u00f9ng v\u1edbi ch\u1ee7 ng\u1eef s\u1ed1 nhi\u1ec1u ho\u1eb7c \"I/you\".\nB. Haves\n\u2705 C. Has (c\u00f3) \u2192 l\u00e0 d\u1ea1ng chia \u0111\u00fang c\u1ee7a \"have\" v\u1edbi ch\u1ee7 ng\u1eef s\u1ed1 \u00edt nh\u01b0 \"Merida\".\nD. Is have (kh\u00f4ng c\u00f3 ngh\u0129a) "
+        "hint": "Merida _______ long curly red hair.\n\u2192 Merida c\u00f3 m\u00e1i t\u00f3c d\u00e0i, xo\u0103n, m\u00e0u \u0111\u1ecf.\nA. have (c\u00f3)\nB. haves\n\u2705 C. has (c\u00f3) \u2192 l\u00e0 d\u1ea1ng chia \u0111\u00fang c\u1ee7a \"have\" v\u1edbi ch\u1ee7 ng\u1eef s\u1ed1 \u00edt l\u00e0 \"Merida\".\nD. is have"
     },
     {
         "id": 263,
@@ -3701,13 +3701,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Collection",
-            "B. Herd",
-            "C. Group",
-            "D. Pack"
+            "A. collection",
+            "B. herd",
+            "C. group",
+            "D. pack"
         ],
         "correctAnswerIndex": 0,
-        "hint": "The zoo has a ______ of animals.\n\u2192 S\u1edf th\u00fa c\u00f3 m\u1ed9t ______ \u0111\u1ed9ng v\u1eadt.\n\u2705 A. Collection (b\u1ed9 s\u01b0u t\u1eadp) \u2192 \u0110\u00fang, v\u00ec \"a collection of animals\" di\u1ec5n t\u1ea3 m\u1ed9t nh\u00f3m \u0111\u1ed9ng v\u1eadt trong s\u1edf th\u00fa.\nB. Herd (b\u1ea7y \u0111\u00e0n) \u2192 Sai, v\u00ec \"herd\" th\u01b0\u1eddng d\u00f9ng cho gia s\u00fac nh\u01b0 b\u00f2, c\u1eebu.\nC. Group (nh\u00f3m) \u2192 Sai, v\u00ec \"group\" chung chung, kh\u00f4ng di\u1ec5n t\u1ea3 r\u00f5 r\u00e0ng m\u1ed9t t\u1eadp h\u1ee3p \u0111\u1ed9ng v\u1eadt.\nD. Pack (b\u1ea7y \u0111\u00e0n) \u2192 Sai, v\u00ec \"pack\" th\u01b0\u1eddng d\u00f9ng cho ch\u00f3 s\u00f3i ho\u1eb7c \u0111\u1ed9ng v\u1eadt s\u0103n m\u1ed3i."
+        "hint": "The zoo has a ______ of animals.\n\u2192 S\u1edf th\u00fa c\u00f3 m\u1ed9t ______ \u0111\u1ed9ng v\u1eadt.\n\u2705 A. collection (b\u1ed9 s\u01b0u t\u1eadp) \u2192 \u0110\u00fang, v\u00ec \"a collection of animals\" di\u1ec5n t\u1ea3 m\u1ed9t nh\u00f3m \u0111\u1ed9ng v\u1eadt trong s\u1edf th\u00fa.\nB. herd (b\u1ea7y \u0111\u00e0n) \u2192 Sai, v\u00ec \"herd\" th\u01b0\u1eddng d\u00f9ng cho gia s\u00fac nh\u01b0 b\u00f2, c\u1eebu.\nC. group (nh\u00f3m) \u2192 Sai, v\u00ec \"group\" chung chung, kh\u00f4ng di\u1ec5n t\u1ea3 r\u00f5 r\u00e0ng m\u1ed9t t\u1eadp h\u1ee3p \u0111\u1ed9ng v\u1eadt.\nD. pack (b\u1ea7y \u0111\u00e0n) \u2192 Sai, v\u00ec \"pack\" th\u01b0\u1eddng d\u00f9ng cho ch\u00f3 s\u00f3i ho\u1eb7c \u0111\u1ed9ng v\u1eadt s\u0103n m\u1ed3i."
     },
     {
         "id": 266,
@@ -3715,13 +3715,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Cats",
-            "B. Cows",
-            "C. Dogs",
-            "D. Horses"
+            "A. cats",
+            "B. cows",
+            "C. dogs",
+            "D. horses"
         ],
         "correctAnswerIndex": 1,
-        "hint": "The ______ on the farm say moo-moo.\n\u2192 Nh\u1eefng ______ tr\u00ean trang tr\u1ea1i k\u00eau \"moo-moo\".\nA. Cats (m\u00e8o) \n\u2705 B. Cows (b\u00f2) \u2192 \u0110\u00fang, v\u00ec b\u00f2 k\u00eau \"moo-moo\".\nC. Dogs (ch\u00f3) \nD. Horses (ng\u1ef1a) "
+        "hint": "The ______ on the farm say moo-moo.\n\u2192 Nh\u1eefng ______ tr\u00ean trang tr\u1ea1i k\u00eau \"moo-moo\".\nA. cats (m\u00e8o) \n\u2705 B. cows (b\u00f2) \u2192 \u0110\u00fang, v\u00ec b\u00f2 k\u00eau \"moo-moo\".\nC. dogs (ch\u00f3) \nD. horses (ng\u1ef1a) "
     },
     {
         "id": 267,
@@ -3729,13 +3729,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Like",
-            "B. Eat",
-            "C. Take",
-            "D. Want"
+            "A. like",
+            "B. eat",
+            "C. take",
+            "D. want"
         ],
         "correctAnswerIndex": 0,
-        "hint": "Would you ______ some biscuits?\n\u2192 B\u1ea1n c\u00f3 mu\u1ed1n ______ m\u1ed9t \u00edt b\u00e1nh quy kh\u00f4ng?\n\u2705 A. Like (th\u00edch, mu\u1ed1n) \u2192 \u0110\u00fang, v\u00ec \"Would you like...?\" l\u00e0 c\u00e1ch h\u1ecfi l\u1ecbch s\u1ef1 v\u1ec1 vi\u1ec7c mu\u1ed1n m\u1ed9t th\u1ee9 g\u00ec \u0111\u00f3.\nB. Eat (\u0103n)\nC. Take (l\u1ea5y)\nD. Want (mu\u1ed1n)"
+        "hint": "Would you ______ some biscuits?\n\u2192 B\u1ea1n c\u00f3 mu\u1ed1n m\u1ed9t \u00edt b\u00e1nh quy kh\u00f4ng?\n\u2705 A. like (th\u00edch, mu\u1ed1n) \u2192 \"Would you like...?\" l\u00e0 c\u00e1ch h\u1ecfi l\u1ecbch s\u1ef1 v\u1ec1 vi\u1ec7c mu\u1ed1n m\u1ed9t th\u1ee9 g\u00ec \u0111\u00f3.\nB. eat (\u0103n)\nC. take (l\u1ea5y)\nD. want (mu\u1ed1n)"
     },
     {
         "id": 268,
@@ -3743,13 +3743,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Is",
-            "B. Central",
-            "C. Very",
-            "D. From"
+            "A. is",
+            "B. central",
+            "C. very",
+            "D. from"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Choose the incorrect word(s) in the following sentence:\nTien Giang is in central Vietnam. It\u2019s very far from Hanoi.\n\u2192 Ch\u1ecdn t\u1eeb sai trong c\u00e2u sau: \"Ti\u1ec1n Giang \u1edf mi\u1ec1n trung Vi\u1ec7t Nam. N\u00f3 r\u1ea5t xa H\u00e0 N\u1ed9i.\"\nA. Is (l\u00e0) \n\u2705 B. Central (mi\u1ec1n trung) \u2192 Ti\u1ec1n Giang \u1edf mi\u1ec1n Nam, kh\u00f4ng ph\u1ea3i mi\u1ec1n Trung.\nC. Very (r\u1ea5t, v\u00f4 c\u00f9ng) \nD. From (t\u1eeb) "
+        "hint": "Choose the incorrect word(s) in the following sentence:\nTien Giang is in central Vietnam. It\u2019s very far from Hanoi.\n\u2192 Ch\u1ecdn t\u1eeb sai trong c\u00e2u sau: \"Ti\u1ec1n Giang \u1edf mi\u1ec1n trung Vi\u1ec7t Nam. N\u00f3 r\u1ea5t xa H\u00e0 N\u1ed9i.\"\nA. is (l\u00e0) \n\u2705 B. central (mi\u1ec1n trung) \u2192 Ti\u1ec1n Giang \u1edf mi\u1ec1n Nam, kh\u00f4ng ph\u1ea3i mi\u1ec1n Trung.\nC. very (r\u1ea5t, v\u00f4 c\u00f9ng) \nD. from (t\u1eeb) "
     },
     {
         "id": 269,
@@ -3757,13 +3757,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Go",
-            "B. Make",
-            "C. Drive",
-            "D. Run"
+            "A. go",
+            "B. make",
+            "C. drive",
+            "D. run"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Does your father ______ a car to work?\n\u2192 B\u1ed1 b\u1ea1n c\u00f3 ______ xe \u0111i l\u00e0m kh\u00f4ng?\nA. Go (\u0111i)\nB. Make (l\u00e0m, ch\u1ebf t\u1ea1o)\n\u2705 C. Drive (l\u00e1i xe\nD. Run (ch\u1ea1y)"
+        "hint": "Does your father ______ a car to work?\n\u2192 B\u1ed1 b\u1ea1n c\u00f3 ______ xe \u0111i l\u00e0m kh\u00f4ng?\nA. go (\u0111i)\nB. make (l\u00e0m, ch\u1ebf t\u1ea1o)\n\u2705 C. drive (l\u00e1i xe\nD. run (ch\u1ea1y)"
     },
     {
         "id": 270,
@@ -3771,13 +3771,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Mother",
-            "B. Brother",
-            "C. Sister",
-            "D. Aunt"
+            "A. mother",
+            "B. brother",
+            "C. sister",
+            "D. aunt"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Who\u2019s he? \u2013 He\u2019s my _____.\n\u2192 Anh \u1ea5y l\u00e0 ai? \u2013 Anh \u1ea5y l\u00e0 ______ c\u1ee7a t\u00f4i.\nA. Mother (m\u1eb9)\n\u2705 B. Brother (anh trai/em trai) \nC. Sister (ch\u1ecb g\u00e1i/em g\u00e1i) \nD. Aunt (c\u00f4/d\u00ec) "
+        "hint": "Who\u2019s he? \u2013 He\u2019s my _____.\n\u2192 Anh \u1ea5y l\u00e0 ai? \u2013 Anh \u1ea5y l\u00e0 ______ c\u1ee7a t\u00f4i.\nA. mother (m\u1eb9)\n\u2705 B. brother (anh trai/em trai) \nC. sister (ch\u1ecb g\u00e1i/em g\u00e1i) \nD. aunt (c\u00f4/d\u00ec) "
     },
     {
         "id": 271,
@@ -3800,26 +3800,26 @@
         "questionAudioUrl": "",
         "choices": [
             "A. In",
-            "B. Under",
+            "B. Off",
             "C. Above",
             "D. Near"
         ],
         "correctAnswerIndex": 1,
-        "hint": "The opposite of ON is ______.\n\u2192 T\u1eeb tr\u00e1i ngh\u0129a v\u1edbi \"ON\" l\u00e0 ______.\nA. In (trong)\n\u2705 B. Under (d\u01b0\u1edbi)\nC. Above (\u1edf tr\u00ean nh\u01b0ng kh\u00f4ng ti\u1ebfp x\u00fac) \nD. Near (g\u1ea7n)"
+        "hint": "The opposite of \"On\" is ______.\n\u2192 T\u1eeb tr\u00e1i ngh\u0129a v\u1edbi \"B\u1eadt\" l\u00e0 ______.\nA. In (trong)\n\u2705 B. Off (t\u1eaft, ra kh\u1ecfi)\nC. Above (\u1edf tr\u00ean nh\u01b0ng kh\u00f4ng ti\u1ebfp x\u00fac) \nD. Near (g\u1ea7n)"
     },
     {
         "id": 273,
         "question": "The apple is ____ the box.",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/appleonthebox.png",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/appleonbox.png",
         "questionAudioUrl": "",
         "choices": [
-            "A. Behind",
-            "B. On",
-            "C. Above",
-            "D. In front of"
+            "A. behind",
+            "B. on",
+            "C. above",
+            "D. in front of"
         ],
         "correctAnswerIndex": 1,
-        "hint": "The apple is ____ the box.\n\u2192 Qu\u1ea3 t\u00e1o \u0111ang ______ c\u00e1i h\u1ed9p.\nA. Behind (ph\u00eda sau)\n\u2705 B. On (tr\u00ean)\nC. Above (ph\u00eda tr\u00ean nh\u01b0ng kh\u00f4ng ti\u1ebfp x\u00fac)\nD. In front of (ph\u00eda tr\u01b0\u1edbc)"
+        "hint": "The apple is ____ the box.\n\u2192 Qu\u1ea3 t\u00e1o \u0111ang ______ c\u00e1i h\u1ed9p.\nA. behind (ph\u00eda sau)\n\u2705 B. on (tr\u00ean)\nC. above (ph\u00eda tr\u00ean nh\u01b0ng kh\u00f4ng ti\u1ebfp x\u00fac)\nD. in front of (ph\u00eda tr\u01b0\u1edbc)"
     },
     {
         "id": 274,
@@ -3827,13 +3827,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Seek",
-            "B. Run",
-            "C. Jump",
-            "D. Catch"
+            "A. seek",
+            "B. run",
+            "C. jump",
+            "D. catch"
         ],
         "correctAnswerIndex": 0,
-        "hint": "Do you play hide-and-_____ at break time?\n\u2192 B\u1ea1n c\u00f3 ch\u01a1i tr\u00f2 tr\u1ed1n t\u00ecm v\u00e0o gi\u1edd gi\u1ea3i lao kh\u00f4ng?\n\u2705 A. Seek (t\u00ecm ki\u1ebfm) \u2192 \"hide-and-seek\": tr\u00f2 ch\u01a1i tr\u1ed1n t\u00ecm.\nB. Run (ch\u1ea1y)\nC. Jump (nh\u1ea3y)\nD. Catch (b\u1eaft)"
+        "hint": "Do you play hide-and-_____ at break time?\n\u2192 B\u1ea1n c\u00f3 ch\u01a1i tr\u00f2 tr\u1ed1n t\u00ecm v\u00e0o gi\u1edd gi\u1ea3i lao kh\u00f4ng?\n\u2705 A. seek (t\u00ecm ki\u1ebfm) \u2192 \"hide-and-seek\": tr\u00f2 ch\u01a1i tr\u1ed1n t\u00ecm.\nB. run (ch\u1ea1y)\nC. jump (nh\u1ea3y)\nD. catch (b\u1eaft)"
     },
     {
         "id": 275,
@@ -3847,7 +3847,7 @@
             "D. Party"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Which word has the underlined part pronounced like the letter \u2018A\u2019 in \u201cFAN\u201d?\n\u2192 T\u1eeb n\u00e0o c\u00f3 ph\u1ea7n g\u1ea1ch ch\u00e2n ph\u00e1t \u00e2m gi\u1ed1ng ch\u1eef \u2018A\u2019 trong t\u1eeb \"FAN\"?\nA. Plane (/ple\u026an/) \u2192 Sai, v\u00ec \"a\" ph\u00e1t \u00e2m l\u00e0 /e\u026a/.\n\u2705 B. Parrot (/\u02c8p\u00e6r\u0259t/) \u2192 \u0110\u00fang, v\u00ec \"a\" trong \"parrot\" ph\u00e1t \u00e2m l\u00e0 /\u00e6/ gi\u1ed1ng trong \"fan\".\nC. Above (/\u0259\u02c8b\u028cv/) \u2192 Sai, v\u00ec \"a\" ph\u00e1t \u00e2m l\u00e0 /\u0259/.\nD. Party (/\u02c8p\u0251\u02d0rti/) \u2192 Sai, v\u00ec \"a\" ph\u00e1t \u00e2m l\u00e0 /\u0251\u02d0/."
+        "hint": "Which word has the underlined part pronounced like the letter \u2018A\u2019 in \u201cFAN\u201d?\n\u2192 T\u1eeb n\u00e0o c\u00f3 ph\u1ea7n g\u1ea1ch ch\u00e2n ph\u00e1t \u00e2m gi\u1ed1ng ch\u1eef \u2018A\u2019 trong t\u1eeb \"FAN\"?\nA. Plane (/ple\u026an/) \u2192 ph\u00e1t \u00e2m l\u00e0 /e\u026a/.\n\u2705 B. Parrot (/\u02c8p\u00e6r\u0259t/) \u2192 ph\u00e1t \u00e2m l\u00e0 /\u00e6/ gi\u1ed1ng trong \"fan\".\nC. Above (/\u0259\u02c8b\u028cv/) \u2192 ph\u00e1t \u00e2m l\u00e0 /\u0259/.\nD. Party (/\u02c8p\u0251\u02d0rti/) \u2192 ph\u00e1t \u00e2m l\u00e0 /\u0251\u02d0/."
     },
     {
         "id": 276,
@@ -3861,7 +3861,7 @@
             "D. on"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Point ____ the map, children.\n\u2192 C\u00e1c con h\u00e3y ch\u1ec9 v\u00e0o b\u1ea3n \u0111\u1ed3.\nA. In (trong)\n\u2705 B. At (v\u00e0o, h\u01b0\u1edbng v\u1ec1) \u2192 \u0110\u00fang, v\u00ec \"point at the map\" c\u00f3 ngh\u0129a l\u00e0 ch\u1ec9 v\u00e0o b\u1ea3n \u0111\u1ed3.\nC. Up (l\u00ean tr\u00ean)\nD. On (tr\u00ean)"
+        "hint": "Point ____ the map, children.\n\u2192 C\u00e1c con h\u00e3y ch\u1ec9 v\u00e0o b\u1ea3n \u0111\u1ed3.\nA. in (trong)\n\u2705 B. at (v\u00e0o, h\u01b0\u1edbng v\u1ec1) \u2192 \u0110\u00fang, v\u00ec \"point at the map\" c\u00f3 ngh\u0129a l\u00e0 ch\u1ec9 v\u00e0o b\u1ea3n \u0111\u1ed3.\nC. up (l\u00ean tr\u00ean)\nD. on (tr\u00ean)"
     },
     {
         "id": 277,
@@ -3875,7 +3875,7 @@
             "D. He\u2019s"
         ],
         "correctAnswerIndex": 0,
-        "hint": "This is my aunt. ____ young and pretty.\n\u2192 \u0110\u00e2y l\u00e0 d\u00ec c\u1ee7a t\u00f4i. C\u00f4 \u1ea5y tr\u1ebb v\u00e0 xinh \u0111\u1eb9p.\n\u2705 A. She\u2019s (C\u00f4 \u1ea5y l\u00e0) \u2192 \"She\u2019s\" = \"She is\".\n\u00a0\u00a0\u00a0\u00a0B. She\u2019s is \n\u00a0\u00a0\u00a0\u00a0C. He (Anh \u1ea5y) \n\u00a0\u00a0\u00a0\u00a0D. He\u2019s (Anh \u1ea5y l\u00e0)"
+        "hint": "This is my aunt. ____ young and pretty.\n\u2192 \u0110\u00e2y l\u00e0 d\u00ec c\u1ee7a t\u00f4i. C\u00f4 \u1ea5y tr\u1ebb v\u00e0 xinh \u0111\u1eb9p.\n\u2705 A. She\u2019s (C\u00f4 \u1ea5y l\u00e0) \u2192 \"She\u2019s\" = \"She is\".\n\u00a0\u00a0\u00a0\u00a0B. She\u2019s is (Sai ng\u1eef ph\u00e1p)\n\u00a0\u00a0\u00a0\u00a0C. He (Anh \u1ea5y) \n\u00a0\u00a0\u00a0\u00a0D. He\u2019s (Anh \u1ea5y l\u00e0)"
     },
     {
         "id": 278,
@@ -3883,13 +3883,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. It\u2019s nice to meet you",
+            "A. Nice to meet you, Andy.",
             "B. Hello, Andy!",
             "C. How are you, Andy?",
             "D. She is my friend, too"
         ],
         "correctAnswerIndex": 0,
-        "hint": "This is my friend, Andy. - ____\n\u2192 \u0110\u00e2y l\u00e0 b\u1ea1n c\u1ee7a t\u00f4i, Andy. - ____\n\u2705 A. It\u2019s nice to meet you. (R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n.) \u2192 \u0110\u00fang, v\u00ec \u0111\u00e2y l\u00e0 c\u00e2u ch\u00e0o l\u1ecbch s\u1ef1 khi g\u1eb7p ng\u01b0\u1eddi m\u1edbi.\n\u00a0\u00a0\u00a0B. Hello, Andy! (Xin ch\u00e0o, Andy!) \n\u00a0\u00a0\u00a0C. How are you, Andy? (B\u1ea1n kh\u1ecfe kh\u00f4ng, Andy?)\n\u00a0\u00a0\u00a0D. She is my friend, too. (C\u00f4 \u1ea5y c\u0169ng l\u00e0 b\u1ea1n c\u1ee7a t\u00f4i.)"
+        "hint": "This is my friend, Andy. - ____\n\u2192 \u0110\u00e2y l\u00e0 b\u1ea1n c\u1ee7a t\u00f4i, Andy. - ____\n\u2705 A. Nice to meet you, Andy. (R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n, Andy.) \u2192 \u0110\u00e2y l\u00e0 c\u00e2u ch\u00e0o l\u1ecbch s\u1ef1 khi g\u1eb7p ng\u01b0\u1eddi m\u1edbi.\n\u00a0\u00a0\u00a0B. Hello, Andy! (Xin ch\u00e0o, Andy!) \n\u00a0\u00a0\u00a0C. How are you, Andy? (B\u1ea1n kh\u1ecfe kh\u00f4ng, Andy?)\n\u00a0\u00a0\u00a0D. She is my friend, too. (C\u00f4 \u1ea5y c\u0169ng l\u00e0 b\u1ea1n c\u1ee7a t\u00f4i.)"
     },
     {
         "id": 279,
@@ -3903,11 +3903,11 @@
             "D. Bye"
         ],
         "correctAnswerIndex": 0,
-        "hint": "____ you tomorrow, Alice. - Goodbye.\n\u2192 ____ b\u1ea1n ng\u00e0y mai, Alice. - T\u1ea1m bi\u1ec7t.\n\u2705\u00a0A. See (Nh\u00ecn th\u1ea5y) \nB. See\u2019s\nC. See you. (H\u1eb9n g\u1eb7p l\u1ea1i.) \nD. Bye. (T\u1ea1m bi\u1ec7t.)"
+        "hint": "____ you tomorrow, Alice. - Goodbye.\n\u2192 ____ b\u1ea1n ng\u00e0y mai, Alice. - T\u1ea1m bi\u1ec7t.\n\u2705\u00a0A. See (G\u1eb7p, nh\u00ecn th\u1ea5y) \nB. See\u2019s (Kh\u00f4ng c\u00f3 ngh\u0129a)\nC. See you (H\u1eb9n g\u1eb7p l\u1ea1i.) \nD. Bye (T\u1ea1m bi\u1ec7t.)"
     },
     {
         "id": 280,
-        "question": "____\u2019s name? - Her name\u2019s Kathy Brown.",
+        "question": "____\u2019s her name? - Her name\u2019s Kathy Brown.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3917,7 +3917,7 @@
             "D. Which"
         ],
         "correctAnswerIndex": 2,
-        "hint": "____\u2019s name? - Her name\u2019s Kathy Brown.\n\u2192 ____ t\u00ean l\u00e0 g\u00ec? - T\u00ean c\u1ee7a c\u00f4 \u1ea5y l\u00e0 Kathy Brown.\nA. When (Khi n\u00e0o) \nB. Where (\u1ede \u0111\u00e2u) \n\u2705 C. What (C\u00e1i g\u00ec) \nD. Which (C\u00e1i n\u00e0o)"
+        "hint": "____\u2019s her name? - Her name\u2019s Kathy Brown.\n\u2192 T\u00ean c\u1ee7a c\u00f4 \u1ea5y l\u00e0 g\u00ec? - T\u00ean c\u1ee7a c\u00f4 \u1ea5y l\u00e0 Kathy Brown.\nA. When (Khi n\u00e0o) \nB. Where (\u1ede \u0111\u00e2u) \n\u2705 C. What (C\u00e1i g\u00ec) \nD. Which (C\u00e1i n\u00e0o)"
     },
     {
         "id": 281,
@@ -3945,7 +3945,7 @@
             "D. Where"
         ],
         "correctAnswerIndex": 2,
-        "hint": "____ is that? \u2013 That\u2019s Mary. She is my friend.\n\u2192 ____ kia l\u00e0 ai? \u2013 \u0110\u00f3 l\u00e0 Mary. C\u00f4 \u1ea5y l\u00e0 b\u1ea1n c\u1ee7a t\u00f4i.\nA. How (Nh\u01b0 th\u1ebf n\u00e0o) \nB. When (Khi n\u00e0o) \n\u2705 C. Who (Ai) \nD. Where (\u1ede \u0111\u00e2u) "
+        "hint": "____ is that? \u2013 That\u2019s Mary. She is my friend.\n\u2192 Kia l\u00e0 ai? \u2013 \u0110\u00f3 l\u00e0 Mary. C\u00f4 \u1ea5y l\u00e0 b\u1ea1n c\u1ee7a t\u00f4i.\nA. How (Nh\u01b0 th\u1ebf n\u00e0o) \nB. When (Khi n\u00e0o) \n\u2705 C. Who (Ai) \nD. Where (\u1ede \u0111\u00e2u) "
     },
     {
         "id": 283,
@@ -3959,11 +3959,11 @@
             "D. Am"
         ],
         "correctAnswerIndex": 2,
-        "hint": "My sister ____ got two new dolls.\n\u2192 Ch\u1ecb/em g\u00e1i t\u00f4i ____ c\u00f3 hai con b\u00fap b\u00ea m\u1edbi.\n\u00a0\u00a0\u00a0A. Have (C\u00f3) \u2192 Sai, v\u00ec \"have\" d\u00f9ng cho ch\u1ee7 ng\u1eef s\u1ed1 nhi\u1ec1u.\n\u00a0\u00a0\u00a0B. Is (L\u00e0) \u2192 Sai, v\u00ec kh\u00f4ng ph\u00f9 h\u1ee3p v\u1edbi \u0111\u1ed9ng t\u1eeb \"got\".\n\u2705 C. Has (C\u00f3) \u2192 \u0110\u00fang, v\u00ec \"My sister\" l\u00e0 ng\u00f4i th\u1ee9 ba s\u1ed1 \u00edt, d\u00f9ng \"has\".\n\u00a0\u00a0\u00a0D. Am (L\u00e0) \u2192 Sai, v\u00ec \"am\" ch\u1ec9 d\u00f9ng v\u1edbi \"I\"."
+        "hint": "My sister ____ got two new dolls.\n\u2192 Ch\u1ecb/em g\u00e1i t\u00f4i ____ c\u00f3 hai con b\u00fap b\u00ea m\u1edbi.\n\u00a0\u00a0\u00a0A. Have (C\u00f3) \u2192 d\u00f9ng cho ch\u1ee7 ng\u1eef s\u1ed1 nhi\u1ec1u.\n\u00a0\u00a0\u00a0B. Is (L\u00e0) \u2192 kh\u00f4ng \u0111i v\u1edbi \u0111\u1ed9ng t\u1eeb \"got\".\n\u2705 C. Has (C\u00f3) \u2192 My sister\" l\u00e0 ng\u00f4i th\u1ee9 ba s\u1ed1 \u00edt, d\u00f9ng \"has\".\n\u00a0\u00a0\u00a0D. Am (L\u00e0) \u2192 Sai, v\u00ec \"am\" ch\u1ec9 d\u00f9ng v\u1edbi \"I\"."
     },
     {
         "id": 284,
-        "question": "Where are the dolls?",
+        "question": "Where are the dolls? - They are in the _____",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ioe/audio/audiodolls.mp3",
         "choices": [
@@ -3973,7 +3973,7 @@
             "D. kitchen"
         ],
         "correctAnswerIndex": 0,
-        "hint": "Where are the dolls? \n\u2192 Nh\u1eefng con b\u00fap b\u00ea \u1edf \u0111\u00e2u?\n\u2705 A. bedroom (ph\u00f2ng ng\u1ee7)\nB. bathroom (ph\u00f2ng t\u1eafm)\nC. living room (ph\u00f2ng ng\u1ee7) \nD. kitchen (ph\u00f2ng b\u1ebfp) "
+        "hint": "Where are the dolls? - They are in the _____\n\u2192 Nh\u1eefng con b\u00fap b\u00ea \u1edf \u0111\u00e2u? Ch\u00fang \u1edf trong ph\u00f2ng_____\n\u2705 A. bedroom (ph\u00f2ng ng\u1ee7)\nB. bathroom (ph\u00f2ng t\u1eafm)\nC. living room (ph\u00f2ng ng\u1ee7) \nD. kitchen (ph\u00f2ng b\u1ebfp) "
     },
     {
         "id": 285,
@@ -4009,13 +4009,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Are skating",
-            "B. Skating",
-            "C. Is skating",
-            "D. Skate"
+            "A. are skating",
+            "B. skating",
+            "C. is skating",
+            "D. skate"
         ],
         "correctAnswerIndex": 2,
-        "hint": "What is Tim\u2019s younger brother doing? - He ____\n\u2192 Em trai c\u1ee7a Tim \u0111ang l\u00e0m g\u00ec? - C\u1eadu \u1ea5y \u0111ang ____.\nA. Are skating (\u0111ang tr\u01b0\u1ee3t b\u0103ng)\nB. Skating (tr\u01b0\u1ee3t b\u0103ng)\n\u2705 C. Is skating (\u0111ang tr\u01b0\u1ee3t b\u0103ng) \u2192  \"He\" l\u00e0 s\u1ed1 \u00edt n\u00ean d\u00f9ng \"is\", th\u00ec hi\u1ec7n t\u1ea1i ti\u1ebfp di\u1ec5n c\u1ea7n \"be+ V-ing\".\nD. Skate (tr\u01b0\u1ee3t b\u0103ng)"
+        "hint": "What is Tim\u2019s younger brother doing? - He ____\n\u2192 Em trai c\u1ee7a Tim \u0111ang l\u00e0m g\u00ec? - C\u1eadu \u1ea5y \u0111ang ____.\nA. are skating (\u0111ang tr\u01b0\u1ee3t v\u00e1n)\nB. skating (tr\u01b0\u1ee3t b\u0103ng)\n\u2705 C. is skating (\u0111ang tr\u01b0\u1ee3t v\u00e1n) \u2192  \"He\" l\u00e0 s\u1ed1 \u00edt n\u00ean d\u00f9ng \"is\", th\u00ec hi\u1ec7n t\u1ea1i ti\u1ebfp di\u1ec5n c\u1ea7n \"be+ V-ing\".\nD. skate (tr\u01b0\u1ee3t v\u00e1n)"
     },
     {
         "id": 288,
@@ -4043,7 +4043,7 @@
             "D. These/ they\u2019re"
         ],
         "correctAnswerIndex": 3,
-        "hint": "What are ____ ? ____ cassettes.\n\u2192 \u0110\u00e2y l\u00e0 g\u00ec? \u0110\u00e2y l\u00e0 b\u0103ng cassette.\nA. They/ there are\nB. They/ it\u2019s \nC. This/ it\u2019s \n\u2705 D. These/ they\u2019re "
+        "hint": "What are ____ ? ____ cassettes.\n\u2192 \u0110\u00e2y l\u00e0 g\u00ec? \u0110\u00e2y l\u00e0 b\u0103ng cassette.\nA. They/ there are\nB. They/ it\u2019s \nC. This/ it\u2019s \n\u2705 D. These/ they\u2019re \n\"What are these?\" \u2192 H\u1ecfi v\u1ec1 nhi\u1ec1u v\u1eadt \u1edf g\u1ea7n (s\u1ed1 nhi\u1ec1u).\n\"They\u2019re cassettes.\" \u2192 Tr\u1ea3 l\u1eddi cho danh t\u1eeb s\u1ed1 nhi\u1ec1u (\"cassettes\").\n"
     },
     {
         "id": 290,
@@ -4065,13 +4065,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Sing\u2019s",
-            "B. Sings",
-            "C. Sing",
-            "D. The sing"
+            "A. sing\u2019s",
+            "B. sings",
+            "C. sing",
+            "D. the sing"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Let\u2019s ____ a song, children.\n\u2192 H\u00e3y ____ m\u1ed9t b\u00e0i h\u00e1t, c\u00e1c con \u01a1i.\nA. Sing\u2019s \u2192 Sai, kh\u00f4ng c\u00f3 d\u1ea1ng \"Sing\u2019s\".\nB. Sings \u2192 Sai, v\u00ec \"sings\" ch\u1ec9 d\u00f9ng v\u1edbi ch\u1ee7 ng\u1eef ng\u00f4i th\u1ee9 ba s\u1ed1 \u00edt.\n\u2705 C. Sing (H\u00e1t) \u2192 \u0110\u00fang, sau \"Let\u2019s\" lu\u00f4n d\u00f9ng \u0111\u1ed9ng t\u1eeb nguy\u00ean m\u1eabu.\nD. The sing \u2192 Sai, \"the sing\" kh\u00f4ng c\u00f3 ngh\u0129a."
+        "hint": "Let\u2019s ____ a song, children.\n\u2192 H\u00e3y ____ m\u1ed9t b\u00e0i h\u00e1t, c\u00e1c con \u01a1i.\nA. sing\u2019s \nB. sings \u2192\n\u2705 C. sing (H\u00e1t) \u2192 sau \"Let\u2019s\" lu\u00f4n d\u00f9ng \u0111\u1ed9ng t\u1eeb nguy\u00ean m\u1eabu.\nD. the sing "
     },
     {
         "id": 292,
@@ -4082,10 +4082,10 @@
             "A. Cloudy",
             "B. Rainy",
             "C. Sunny",
-            "D. Weather"
+            "D. Windy"
         ],
-        "correctAnswerIndex": 3,
-        "hint": "What is the weather like today?\n\u2192 Th\u1eddi ti\u1ebft h\u00f4m nay nh\u01b0 th\u1ebf n\u00e0o?\nA. Sunny. (N\u1eafng)\nB. Rainy. (M\u01b0a)\nC. Windy. (Gi\u00f3)\n\u2705 D. Cloudy. (Nhi\u1ec1u m\u00e2y)"
+        "correctAnswerIndex": 0,
+        "hint": "What is the weather like today?\n\u2192 Th\u1eddi ti\u1ebft h\u00f4m nay nh\u01b0 th\u1ebf n\u00e0o?\n\u2705 A. Cloudy (Nhi\u1ec1u m\u00e2y)\nB. Rainy (M\u01b0a)\nC. Sunny (N\u1eafng)  \nD. Windy ( c\u00f3 gi\u00f3) "
     },
     {
         "id": 293,
@@ -4093,13 +4093,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. Sunny",
+            "A. Sun",
             "B. Rainy",
             "C. Windy",
             "D. Cloudy"
         ],
-        "correctAnswerIndex": 3,
-        "hint": "Odd one out: (T\u00ecm t\u1eeb kh\u00e1c lo\u1ea1i)\nA. Sunny (N\u1eafng)\nB. Rainy (C\u00f3 m\u01b0a)\nC. Windy (C\u00f3 gi\u00f3)\n\u2705 D. Cloud (\u0110\u00e1m m\u00e2y) \u2192 \"Cloud\" l\u00e0 danh t\u1eeb, 3 t\u1eeb \u0111\u1ea7u l\u00e0 t\u00ednh t\u1eeb ch\u1ec9 th\u1eddi ti\u1ebft, "
+        "correctAnswerIndex": 0,
+        "hint": "Odd one out: (T\u00ecm t\u1eeb kh\u00e1c lo\u1ea1i)\nA. Sun (M\u1eb7t tr\u1eddi) \u2192 \"Sun\" l\u00e0 danh t\u1eeb, c\u00e1c t\u1eeb c\u00f2n l\u1ea1i l\u00e0 t\u00ednh t\u1eeb ch\u1ec9 th\u1eddi ti\u1ebft.\nB. Rainy (C\u00f3 m\u01b0a)\nC. Windy (C\u00f3 gi\u00f3)\n\u2705 D. Cloudy (C\u00f3 m\u00e2y) "
     },
     {
         "id": 294,
@@ -4107,13 +4107,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. That\u2019s",
-            "B. That",
-            "C. This",
-            "D. This is"
+            "A. that\u2019s",
+            "B. that",
+            "C. this",
+            "D. this is"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Is ____ a flower? \u2013 Yes. That is a flower.\n\u2192 \u0110\u00f3 c\u00f3 ph\u1ea3i l\u00e0 m\u1ed9t b\u00f4ng hoa kh\u00f4ng?\nA. That\u2019s\n\u2705 B. That \u2192 That\" ph\u00f9 h\u1ee3p v\u1edbi c\u00e2u tr\u1ea3 l\u1eddi \"That is a flower\"\nC. This\nD. This is"
+        "hint": "Is ____ a flower? \u2013 Yes. That is a flower.\n\u2192 \u0110\u00f3 c\u00f3 ph\u1ea3i l\u00e0 m\u1ed9t b\u00f4ng hoa kh\u00f4ng?\nA. that\u2019s\n\u2705 B. that \u2192 that\" ph\u00f9 h\u1ee3p v\u1edbi c\u00e2u tr\u1ea3 l\u1eddi \"That is a flower\"\nC. this\nD. this is"
     },
     {
         "id": 295,
@@ -4127,7 +4127,7 @@
             "D. Stand up"
         ],
         "correctAnswerIndex": 0,
-        "hint": "____, teacher? \u2013 Sure.\n\u2192 (Xin ph\u00e9p l\u00e0m g\u00ec \u0111\u00f3, th\u01b0a c\u00f4? \u2013 \u0110\u01b0\u1ee3c ch\u1ee9.)\n\u2705 A. May I go out (T\u00f4i c\u00f3 th\u1ec3 ra ngo\u00e0i kh\u00f4ng?) \nB. Open your book (M\u1edf s\u00e1ch c\u1ee7a b\u1ea1n)\nC. Who is she (C\u00f4 \u1ea5y l\u00e0 ai?) \nD. Stand up (\u0110\u1ee9ng l\u00ean) ."
+        "hint": "____, teacher? \u2013 Sure.\n\u2192_____, th\u01b0a c\u00f4? \u2013 \u0110\u01b0\u1ee3c ch\u1ee9.)\n\u2705 A. May I go out (T\u00f4i c\u00f3 th\u1ec3 ra ngo\u00e0i kh\u00f4ng?) \nB. Open your book (M\u1edf s\u00e1ch c\u1ee7a b\u1ea1n)\nC. Who is she (C\u00f4 \u1ea5y l\u00e0 ai?) \nD. Stand up (\u0110\u1ee9ng l\u00ean) ."
     },
     {
         "id": 296,
@@ -4155,7 +4155,7 @@
             "D. Stand"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Odd one out: (T\u00ecm t\u1eeb kh\u00e1c lo\u1ea1i)\nA. Open (M\u1edf)\n\u2705 B. Is (L\u00e0)  \u2192 \u0110\u00fang, v\u00ec c\u00e1c t\u1eeb kh\u00e1c l\u00e0 \u0111\u1ed9ng t\u1eeb ch\u1ec9 h\u00e0nh \u0111\u1ed9ng, \"is\" l\u00e0 \u0111\u1ed9ng t\u1eeb to be.\nC. Sit (Ng\u1ed3i)\nD. Stand (\u0110\u1ee9ng)"
+        "hint": "Odd one out: (T\u00ecm t\u1eeb kh\u00e1c lo\u1ea1i)\nA. Open (M\u1edf)\n\u2705 B. Is (L\u00e0)  \u2192 \"is\" l\u00e0 \u0111\u1ed9ng t\u1eeb to be, c\u00e1c t\u1eeb kh\u00e1c l\u00e0 \u0111\u1ed9ng t\u1eeb ch\u1ec9 h\u00e0nh \u0111\u1ed9ng.\nC. Sit (Ng\u1ed3i)\nD. Stand (\u0110\u1ee9ng)"
     },
     {
         "id": 298,
@@ -4163,13 +4163,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A.Colour",
-            "B. What colour",
-            "C. How",
-            "D. When"
+            "A.colour",
+            "B. what colour",
+            "C. how",
+            "D. when"
         ],
         "correctAnswerIndex": 1,
-        "hint": "What _____ is your computer? \u2013 It is black.\n\u2192 M\u00e1y t\u00ednh c\u1ee7a b\u1ea1n m\u00e0u g\u00ec?\nA. What (C\u00e1i g\u00ec)\n\u2705 B. Colour (M\u00e0u s\u1eafc)\nC. How (Nh\u01b0 th\u1ebf n\u00e0o)\nD. When (Khi n\u00e0o)"
+        "hint": "What _____ is your computer? \u2013 It is black.\n\u2192 M\u00e1y t\u00ednh c\u1ee7a b\u1ea1n m\u00e0u g\u00ec?\nA. what (C\u00e1i g\u00ec)\n\u2705 B. colour (M\u00e0u s\u1eafc)\nC. how (Nh\u01b0 th\u1ebf n\u00e0o)\nD. when (Khi n\u00e0o)"
     },
     {
         "id": 299,
@@ -4180,10 +4180,10 @@
             "A. Yes, I can\u2019t",
             "B. No, I can",
             "C. Yes, they are",
-            "D. Yes, we can"
+            "D. Yes, I can"
         ],
         "correctAnswerIndex": 3,
-        "hint": "Can you play the piano? - ____\n\u2192 B\u1ea1n c\u00f3 th\u1ec3 ch\u01a1i \u0111\u00e0n piano kh\u00f4ng?\nA. Yes, I can\u2019t\nB. No, I can\nC. Yes, they are\n\u2705 D. Yes, we can\nL\u01b0u \u00fd khi tr\u1ea3 l\u1eddi \"Can you...?\":\n* Kh\u1eb3ng \u0111\u1ecbnh: \"Yes, I can.\"\n* Ph\u1ee7 \u0111\u1ecbnh: \"No, I can't.\" ho\u1eb7c \"No, I cannot.\""
+        "hint": "Can you play the piano? - ____\n\u2192 B\u1ea1n c\u00f3 th\u1ec3 ch\u01a1i \u0111\u00e0n piano kh\u00f4ng?\nA. Yes, I can\u2019t\nB. No, I can\nC. Yes, they are\n\u2705 D. Yes, I can\nL\u01b0u \u00fd khi tr\u1ea3 l\u1eddi \"Can you...?\":\n* Kh\u1eb3ng \u0111\u1ecbnh: \"Yes, I can.\"\n* Ph\u1ee7 \u0111\u1ecbnh: \"No, I can't.\" ho\u1eb7c \"No, I cannot.\""
     },
     {
         "id": 300,
@@ -4197,6 +4197,6 @@
             "D. Ten"
         ],
         "correctAnswerIndex": 2,
-        "hint": "How many legs does a spider have?\n\u2192 M\u1ed9t con nh\u1ec7n c\u00f3 bao nhi\u00eau ch\u00e2n?\nA. Four (B\u1ed1n) \nB. Six (S\u00e1u) \n\u2705 C. Eight (T\u00e1m) \nD. Ten (M\u01b0\u1eddi) \u2192 Sai"
+        "hint": "How many legs does a spider have?\n\u2192 M\u1ed9t con nh\u1ec7n c\u00f3 bao nhi\u00eau ch\u00e2n?\nA. Four (B\u1ed1n) \nB. Six (S\u00e1u) \n\u2705 C. Eight (T\u00e1m) \nD. Ten (M\u01b0\u1eddi)"
     }
 ]

@@ -42,7 +42,7 @@
     {
         "id": 6,
         "sentence": "They have four ______.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/dogs.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/dog.png",
         "audioUrl": "",
         "answer": "dogs",
         "hint": "Dogs \u2192 ch\u00f3\nThey have four dogs. \u2192 H\u1ecd c\u00f3 b\u1ed1n con ch\u00f3."
@@ -125,7 +125,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "old",
-        "hint": "Old \u2192 tu\u1ed5i\nI\u2019m ten years old. \u2192 T\u00f4i m\u01b0\u1eddi tu\u1ed5i."
+        "hint": "I\u2019m ten years old. \u2192 T\u00f4i m\u01b0\u1eddi tu\u1ed5i."
     },
     {
         "id": 17,
@@ -145,7 +145,7 @@
     },
     {
         "id": 19,
-        "sentence": "There\u2019s a bi______on the tree.",
+        "sentence": "There\u2019s a bi______ on the tree.",
         "imageUrl": "",
         "audioUrl": "",
         "answer": "rd",
@@ -161,7 +161,7 @@
     },
     {
         "id": 21,
-        "sentence": "TEDDY______ ?",
+        "sentence": "TEDDY ______ ?",
         "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/teddybear.png",
         "audioUrl": "",
         "answer": "BEAR",
@@ -177,7 +177,7 @@
     },
     {
         "id": 23,
-        "sentence": "I can c______from one to ten.",
+        "sentence": "I can c______ from one to ten.",
         "imageUrl": "",
         "audioUrl": "",
         "answer": "ount",
@@ -197,7 +197,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "name",
-        "hint": "Name \u2192 t\u00ean\nHello! My name is Nam. \u2192 Xin ch\u00e0o! T\u00ean t\u00f4i l\u00e0 Nam"
+        "hint": "Name \u2192 t\u00ean\nHello! My name is Nam. \u2192 Xin ch\u00e0o! T\u00ean t\u00f4i l\u00e0 Nam."
     },
     {
         "id": 26,
@@ -353,7 +353,7 @@
     },
     {
         "id": 45,
-        "sentence": "S______?",
+        "sentence": "S______",
         "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/ship.png",
         "audioUrl": "",
         "answer": "HIP",
@@ -385,7 +385,7 @@
     },
     {
         "id": 49,
-        "sentence": "___ your books pink? - Yes, they are",
+        "sentence": "___ your books pink? - Yes, they are.",
         "imageUrl": "",
         "audioUrl": "",
         "answer": "Are",
@@ -401,7 +401,7 @@
     },
     {
         "id": 51,
-        "sentence": "Look __that map on the wall, please.",
+        "sentence": "Look __ that map on the wall, please.",
         "imageUrl": "",
         "audioUrl": "",
         "answer": "at",
@@ -425,11 +425,11 @@
     },
     {
         "id": 54,
-        "sentence": "A: ____\u2019s it? - B: It\u2019s my notebook.",
+        "sentence": "A: ____\u2019s this? - B: It\u2019s my notebook.",
         "imageUrl": "",
         "audioUrl": "",
         "answer": "What",
-        "hint": "What \u2192 c\u00e1i g\u00ec\nA: What\u2019s it? - B: It\u2019s my notebook. \n\u2192 A: \u0110\u00e2y l\u00e0 c\u00e1i g\u00ec? - B: \u0110\u00e2y l\u00e0 quy\u1ec3n v\u1edf c\u1ee7a t\u00f4i."
+        "hint": "What \u2192 c\u00e1i g\u00ec\nA: What\u2019s this? - B: It\u2019s my notebook. \n\u2192 A: \u0110\u00e2y l\u00e0 c\u00e1i g\u00ec? - B: \u0110\u00e2y l\u00e0 quy\u1ec3n v\u1edf c\u1ee7a t\u00f4i."
     },
     {
         "id": 55,
@@ -473,11 +473,11 @@
     },
     {
         "id": 60,
-        "sentence": "Point __the pupils.",
+        "sentence": "I ____ my homework in the evening",
         "imageUrl": "",
         "audioUrl": "",
-        "answer": "to",
-        "hint": "At \u2192 v\u00e0o\nPoint at the pupils. \u2192 Ch\u1ec9 v\u00e0o h\u1ecdc sinh."
+        "answer": "at",
+        "hint": "do\u2192 l\u00e0m\nI do my homework in the evening \u2192 T\u00f4i l\u00e0m b\u00e0i t\u1eadp v\u1ec1 nh\u00e0 v\u00e0o bu\u1ed5i t\u1ed1i."
     },
     {
         "id": 61,
@@ -513,11 +513,11 @@
     },
     {
         "id": 65,
-        "sentence": "Unscramble this word: \u201cYBEDOGO\u201d \u2192 \u201cGOOD ___\u201d.",
+        "sentence": "Unscramble this word: \u201cYBEDOGO\u201d \u2192 \u201cGOOD___\u201d.",
         "imageUrl": "",
         "audioUrl": "",
         "answer": "BYE",
-        "hint": "S\u1eafp x\u1ebfp l\u1ea1i ch\u1eef: \u201cYBEDOGO\u201d \u2192 \u201cGOOD BYE\u201d \u2192 \u201cT\u1ea1m bi\u1ec7t\u201d"
+        "hint": "S\u1eafp x\u1ebfp l\u1ea1i ch\u1eef: \u201cYBEDOGO\u201d \u2192 \u201cGOODBYE\u201d \u2192 \u201cT\u1ea1m bi\u1ec7t\u201d"
     },
     {
         "id": 66,
@@ -532,7 +532,7 @@
         "sentence": "There are many kit____ in the sky.",
         "imageUrl": "",
         "audioUrl": "",
-        "answer": "tes",
+        "answer": "es",
         "hint": "Kites \u2192 di\u1ec1u\nThere are many kites in the sky.\n\u2192 C\u00f3 nhi\u1ec1u con di\u1ec1u tr\u00ean b\u1ea7u tr\u1eddi."
     },
     {
@@ -633,11 +633,11 @@
     },
     {
         "id": 80,
-        "sentence": "W__t is this? \u2013 This is a marker.",
+        "sentence": "W__t is this? \u2013 It's a marker.",
         "imageUrl": "",
         "audioUrl": "",
         "answer": "ha",
-        "hint": "What \u2192 g\u00ec\nWhat is this? \u2013 This is a marker. \n\u2192 \u0110\u00e2y l\u00e0 g\u00ec? \u2013 \u0110\u00e2y l\u00e0 m\u1ed9t b\u00fat l\u00f4ng."
+        "hint": "What \u2192 g\u00ec\nWhat is this? \u2013 It's a marker.\n\u2192 \u0110\u00e2y l\u00e0 g\u00ec? \u2013 \u0110\u00e2y l\u00e0 m\u1ed9t b\u00fat l\u00f4ng."
     },
     {
         "id": 81,
@@ -709,7 +709,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "re",
-        "hint": "Picture \u2192 b\u1ee9c tranh\nI draw a picture in the room. \n\u2192 T\u00f4i v\u1ebd m\u1ed9t b\u1ee9c tranh trong ph\u00f2ng."
+        "hint": "Picture \u2192 b\u1ee9c tranh\nI draw a picture in the room. \n\u2192 T\u00f4i v\u1ebd m\u1ed9t b\u1ee9c tranh \u1edf trong ph\u00f2ng."
     },
     {
         "id": 90,
@@ -1225,7 +1225,7 @@
     },
     {
         "id": 154,
-        "sentence": "____ and up!",
+        "sentence": "____ tand up!",
         "imageUrl": "",
         "audioUrl": "",
         "answer": "S",
@@ -1253,14 +1253,14 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "Th",
-        "hint": "Those \u2192 nh\u1eefng c\u00e1i \u0111\u00f3\nThose are my T-shirts. \n\u2192 Nh\u1eefng c\u00e1i \u00e1o thun \u0111\u00f3 l\u00e0 c\u1ee7a t\u00f4i"
+        "hint": "Those \u2192 nh\u1eefng c\u00e1i \u0111\u00f3\nThose are my T-shirts. \n\u2192 Nh\u1eefng c\u00e1i \u00e1o thun \u0111\u00f3 l\u00e0 c\u1ee7a t\u00f4i."
     },
     {
         "id": 158,
         "sentence": "Nice to m__t you!",
         "imageUrl": "",
         "audioUrl": "",
-        "answer": "eet",
+        "answer": "ee",
         "hint": "Meet \u2192 g\u1eb7p\nNice to meet you! \u2192 R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n!"
     },
     {
@@ -1420,7 +1420,7 @@
         "sentence": "SH__T",
         "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/shirt.png",
         "audioUrl": "",
-        "answer": "O",
+        "answer": "IR",
         "hint": "Shirt \u2192 \u00e1o s\u01a1 mi."
     },
     {
@@ -1513,11 +1513,11 @@
     },
     {
         "id": 190,
-        "sentence": "THREE PENCIL__",
+        "sentence": "FOUR PENCIL__",
         "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/pencil.png",
         "audioUrl": "",
         "answer": "S",
-        "hint": "Pencils \u2192 b\u00fat ch\u00ec\nThree pencils \u2192 Ba c\u00e2y b\u00fat ch\u00ec.\nQuy t\u1eafc s\u1ed1 nhi\u1ec1u: Danh t\u1eeb \u0111\u1ebfm \u0111\u01b0\u1ee3c th\u00f4ng th\u01b0\u1eddng th\u00eam \"s\" v\u00e0o cu\u1ed1i t\u1eeb."
+        "hint": "Pencils \u2192 b\u00fat ch\u00ec\nFour pencils \u2192 B\u1ed1n c\u00e2y b\u00fat ch\u00ec.\nQuy t\u1eafc s\u1ed1 nhi\u1ec1u: Danh t\u1eeb \u0111\u1ebfm \u0111\u01b0\u1ee3c th\u00f4ng th\u01b0\u1eddng th\u00eam \"s\" v\u00e0o cu\u1ed1i t\u1eeb."
     },
     {
         "id": 191,

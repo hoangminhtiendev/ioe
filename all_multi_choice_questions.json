@@ -851,7 +851,13 @@
             "D. r"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Ope___ the book, please.\n\u2192 L\u00e0m \u01a1n m\u1edf quy\u1ec3n s\u00e1ch ra.\nA. t \nB. h \n\u2705 C. n \u2192 \"Open: M\u1edf ra\"\nD. r "
+        "hint": "  <h2><b>Ope___ the book, please.</b></h2>  
+                    <h2><b>→ Làm ơn mở quyển sách ra.</b></h2>  
+
+                    <h2>A. t</h2>  
+                    <h2>B. h</h2>  
+                    <h2>✅ C. n → "Open: Mở ra"</h2>  
+                    <h2>D. r</h2>  "
     },
     {
         "id": 62,

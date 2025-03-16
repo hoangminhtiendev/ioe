@@ -5,10 +5,10 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. a school",
-            "B. a farm",
-            "C. a hospital",
-            "D. a post office"
+            "A. a *sc*hool",
+            "B. a f**ar**m",
+            "C. a h***os***pital",
+            "D. a p~os~t office"
         ],
         "correctAnswerIndex": 2,
         "hint": "A doctor works at ________.\n\u2192 B\u00e1c s\u0129 l\u00e0m vi\u1ec7c \u1edf ________.\nA. a school (tr\u01b0\u1eddng h\u1ecdc)\nB. a farm (n\u00f4ng tr\u1ea1i)\n\u2705 C. a hospital (b\u1ec7nh vi\u1ec7n) \nD. a post office (b\u01b0u \u0111i\u1ec7n)"

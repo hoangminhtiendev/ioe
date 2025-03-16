@@ -2077,10 +2077,10 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-            "A. t&ea&cher",
-            "B. cl&ea&n",
-            "C. b&ea&n",
-            "D. gr&ea&t"
+            "A. t<u>ea</u>cher",
+            "B. cl<u>ea</u>n",
+            "C. b<u>ea</u>n",
+            "D. gr<u>ea</u>t"
         ],
         "correctAnswerIndex": 3,
         "hint": "Choose the word that has the underlined letters pronounced differently.\n\u2192 Ch\u1ecdn t\u1eeb c\u00f3 ph\u1ea7n g\u1ea1ch ch\u00e2n ph\u00e1t \u00e2m kh\u00e1c.\nA. t<u>ea</u>cher (/\u02c8ti\u02d0.t\u0283\u0259r/) - gi\u00e1o vi\u00ean\nB. cl<u>ea</u>n (/kli\u02d0n/) - s\u1ea1ch s\u1ebd\nC. b<u>ea</u>n (/bi\u02d0n/) - h\u1ea1t \u0111\u1eadu\n\u2705 D. gr<u>ea</u>t (/\u0261re\u026at/) - tuy\u1ec7t v\u1eddi (Ph\u00e1t \u00e2m kh\u00e1c v\u00ec c\u00f3 \u00e2m /e\u026a/ thay v\u00ec /i\u02d0/.)"

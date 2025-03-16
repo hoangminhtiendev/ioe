@@ -417,7 +417,7 @@
             "quiet,",
             "students."
         ],
-        "hint": "Please be quiet, students. \u2192 C\u00e1c em im l\u1eb7ng nh\u00e9."
+        "hint": "Please be quiet, students. \u2192 C\u00e1c em h\u1ecdc sinh im l\u1eb7ng nh\u00e9."
     },
     {
         "id": 43,
@@ -1147,7 +1147,7 @@
             "windows,",
             "please."
         ],
-        "hint": "Close the windows, please. \u2192 L\u00e0m \u01a1n \u0111\u00f3ng c\u1eeda s\u1ed5 l\u1ea1i."
+        "hint": "Close the windows, please. \u2192 Vui l\u00f2ng \u0111\u00f3ng c\u1eeda s\u1ed5 l\u1ea1i."
     },
     {
         "id": 116,
@@ -1247,7 +1247,7 @@
             "any dogs",
             "at home?"
         ],
-        "hint": "Do you have any dogs at home? \u2192 B\u1ea1n c\u00f3 nu\u00f4i ch\u00f3 \u1edf nh\u00e0 kh\u00f4ng?"
+        "hint": "Do you have any dogs at home? \u2192 B\u1ea1n c\u00f3 con ch\u00f3 n\u00e0o \u1edf nh\u00e0 kh\u00f4ng?"
     },
     {
         "id": 126,
@@ -1597,7 +1597,7 @@
             "after",
             "me."
         ],
-        "hint": "Please repeat after me. \u2192 L\u00e0m \u01a1n l\u1eb7p l\u1ea1i theo t\u00f4i."
+        "hint": "Please repeat after me. \u2192Vui l\u00f2ng l\u1eb7p l\u1ea1i theo t\u00f4i."
     },
     {
         "id": 161,
@@ -2164,7 +2164,7 @@
         "question": [
             "The",
             "art room",
-            "play",
+            "is small",
             "but new."
         ],
         "hint": "The art room is small but new. \u2192 Ph\u00f2ng ngh\u1ec7 thu\u1eadt nh\u1ecf nh\u01b0ng m\u1edbi."
@@ -2227,7 +2227,7 @@
             "book,",
             "please!"
         ],
-        "hint": "Open your book, please! \u2192 M\u1edf s\u00e1ch c\u1ee7a b\u1ea1n ra, l\u00e0m \u01a1n!"
+        "hint": "Open your book, please! \u2192 Xin vui l\u00f2ng m\u1edf s\u00e1ch c\u1ee7a b\u1ea1n ra!"
     },
     {
         "id": 224,
@@ -2287,7 +2287,7 @@
             "play",
             "badminton."
         ],
-        "hint": "I play badminton. \u2192 T\u00f4i ch\u01a1i c\u1ea7u l\u00f4ng."
+        "hint": "I and my friend play badminton. \u2192 T\u00f4i v\u00e0 b\u1ea1n t\u00f4i ch\u01a1i c\u1ea7u l\u00f4ng."
     },
     {
         "id": 230,
@@ -2327,7 +2327,7 @@
             "name",
             "is Linda."
         ],
-        "hint": "Hi. My name is Linda. \u2192 Ch\u00e0o. T\u00ean t\u00f4i l\u00e0 Linda."
+        "hint": "Hi. My name is Linda. \u2192 Xin ch\u00e0o. T\u00ean t\u00f4i l\u00e0 Linda."
     },
     {
         "id": 234,
@@ -2372,12 +2372,12 @@
     {
         "id": 238,
         "question": [
+            "Please",
             "be",
             "quiet,",
-            "boys.",
-            "Please"
+            "boys."
         ],
-        "hint": "Please be quiet, boys. \u2192 L\u00e0m \u01a1n y\u00ean l\u1eb7ng, c\u00e1c c\u1eadu \u01a1i."
+        "hint": "Please be quiet, boys. \u2192 L\u00e0m \u01a1n y\u00ean l\u1eb7ng, c\u00e1c c\u1eadu b\u00e9 \u01a1i."
     },
     {
         "id": 239,
@@ -2995,7 +2995,7 @@
             "Susy",
             "is",
             "doing",
-            "puzzles"
+            "puzzles."
         ],
         "hint": "Susy is doing puzzles. \u2192 Susy \u0111ang gi\u1ea3i c\u00e2u \u0111\u1ed1."
     }

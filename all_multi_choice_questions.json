@@ -2,8 +2,8 @@
     {
         "id": 1,
         "question": "A doctor works at _______.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. a school",
             "B. a farm",
@@ -16,8 +16,8 @@
     {
         "id": 2,
         "question": "Which is the second month of the year?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. June",
             "B. September",
@@ -30,8 +30,8 @@
     {
         "id": 3,
         "question": "Which animal is it?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. It's an eraser.",
             "B. It's a duck.",
@@ -44,8 +44,8 @@
     {
         "id": 4,
         "question": "Choose the letter(s) to make a correct word: pu_____le",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. ss",
             "B. aa",
@@ -58,8 +58,8 @@
     {
         "id": 5,
         "question": "Choose the letter(s) to make a correct word: sch______yard",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. oon",
             "B. ool",
@@ -72,8 +72,8 @@
     {
         "id": 6,
         "question": "______ your teeth before you go to bed.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Read",
             "B. Practise",
@@ -86,8 +86,8 @@
     {
         "id": 7,
         "question": "Tom and Lucy are my _________.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. classmate",
             "B. brother",
@@ -100,8 +100,8 @@
     {
         "id": 8,
         "question": "Choose the odd one out.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Pizza",
             "B. Desk",
@@ -114,8 +114,8 @@
     {
         "id": 9,
         "question": "He's wearing a ________ of red sandals.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. pair",
             "B. bar",
@@ -128,8 +128,8 @@
     {
         "id": 10,
         "question": "Choose the odd one out.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. brother",
             "B. teacher",
@@ -137,13 +137,13 @@
             "D. uncle"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\nA. brother (anh/em trai) \u2192 Th\u00e0nh vi\u00ean gia \u0111\u00ecnh\n\u2705 B. teacher (gi\u00e1o vi\u00ean) \u2192 Gi\u00e1o vi\u00ean kh\u00f4ng ph\u1ea3i th\u00e0nh vi\u00ean gia \u0111\u00ecnh\nC. mother (m\u1eb9) \u2192 Th\u00e0nh vi\u00ean gia \u0111\u00ecnh\nD. uncle (ch\u00fa/b\u00e1c) \u2192 Th\u00e0nh vi\u00ean gia \u0111\u00ecnh"
+        "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\nA. brother (anh/em trai) \u2192 th\u00e0nh vi\u00ean gia \u0111\u00ecnh\n\u2705 B. teacher (gi\u00e1o vi\u00ean) \u2192 gi\u00e1o vi\u00ean kh\u00f4ng ph\u1ea3i th\u00e0nh vi\u00ean gia \u0111\u00ecnh\nC. mother (m\u1eb9) \u2192 th\u00e0nh vi\u00ean gia \u0111\u00ecnh\nD. uncle (ch\u00fa/b\u00e1c) \u2192 th\u00e0nh vi\u00ean gia \u0111\u00ecnh"
     },
     {
         "id": 11,
         "question": "Minh is _____ . He wants something to eat.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. tall",
             "B. thirsty",
@@ -156,8 +156,8 @@
     {
         "id": 12,
         "question": "Choose the odd one out.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. She",
             "B. They",
@@ -165,13 +165,13 @@
             "D. My"
         ],
         "correctAnswerIndex": 3,
-        "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\nA. She (c\u00f4 \u1ea5y) \u2192 \u0110\u1ea1i t\u1eeb nh\u00e2n x\u01b0ng\nB. They (h\u1ecd) \u2192 \u0110\u1ea1i t\u1eeb nh\u00e2n x\u01b0ng\nC. He (anh \u1ea5y) \u2192 \u0110\u1ea1i t\u1eeb nh\u00e2n x\u01b0ng\n\u2705 D. My (c\u1ee7a t\u00f4i) \u2192 T\u00ednh t\u1eeb s\u1edf h\u1eefu"
+        "hint": "Choose the odd one out.\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i.\nA. She (C\u00f4 \u1ea5y) \u2192 \u0110\u1ea1i t\u1eeb nh\u00e2n x\u01b0ng\nB. They (H\u1ecd) \u2192 \u0110\u1ea1i t\u1eeb nh\u00e2n x\u01b0ng\nC. He (Anh \u1ea5y) \u2192 \u0110\u1ea1i t\u1eeb nh\u00e2n x\u01b0ng\n\u2705 D. My (C\u1ee7a t\u00f4i) \u2192 T\u00ednh t\u1eeb s\u1edf h\u1eefu"
     },
     {
         "id": 13,
         "question": "Choose the odd one out.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Who",
             "B. That",
@@ -184,8 +184,8 @@
     {
         "id": 14,
         "question": "Choose the odd one out.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Hello",
             "B. Good afternoon",
@@ -198,8 +198,8 @@
     {
         "id": 15,
         "question": "Which CAN'T you find in your classroom?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Chalk",
             "B. Bowl",
@@ -212,8 +212,8 @@
     {
         "id": 16,
         "question": "We stay at school ______ 7 ______11:30 every morning.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. from \u2013 to",
             "B. from - in",
@@ -226,8 +226,8 @@
     {
         "id": 17,
         "question": "Which word/phrase is INCORRECT: My mother and my <u>sister </u>  <u>cooks </u> dinner  <u>in </u>  <u>the </u> kitchen.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. in",
             "B. the",
@@ -235,13 +235,13 @@
             "D. sister"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Which word/phrase is INCORRECT: My mother and my <u>sister</u> <u>cooks</u> dinner <u>in</u> <u>the</u> kitchen.\n\u2192 T\u1eeb n\u00e0o SAI trong c\u00e2u: M\u1eb9 v\u00e0 ch\u1ecb g\u00e1i t\u00f4i n\u1ea5u b\u1eefa t\u1ed1i trong b\u1ebfp.\nA. in (trong) \nB. the (m\u1ea1o t\u1eeb \"the\")\n\u2705 C. cooks \u2192 Ch\u1ee7 ng\u1eef l\u00e0 \"My mother and my sister\" (s\u1ed1 nhi\u1ec1u), n\u00ean ph\u1ea3i d\u00f9ng \"cook\" thay v\u00ec \"cooks\".\nD. sister (ch\u1ecb g\u00e1i) "
+        "hint": "Which word/phrase is INCORRECT: My mother and my <u>sister</u> <u>cooks</u> dinner <u>in</u> <u>the</u> kitchen.\n\u2192 T\u1eeb n\u00e0o SAI trong c\u00e2u: M\u1eb9 v\u00e0 ch\u1ecb g\u00e1i t\u00f4i n\u1ea5u b\u1eefa t\u1ed1i trong b\u1ebfp.\nA. in \nB. the\n\u2705 C. cooks \u2192 Ch\u1ee7 ng\u1eef l\u00e0 \"My mother and my sister\" (s\u1ed1 nhi\u1ec1u), n\u00ean ph\u1ea3i d\u00f9ng \"cook\" thay v\u00ec \"cooks\".\nD. sister"
     },
     {
         "id": 18,
         "question": " _______ is your dictionary like? \u2013 It\u2019s very thick.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. When",
             "B. Which",
@@ -254,8 +254,8 @@
     {
         "id": 19,
         "question": "This is my friend, Sophie. - _______",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Nice to meet you, Sophie.",
             "B. I\u2019m fine.",
@@ -268,8 +268,8 @@
     {
         "id": 20,
         "question": "What _______ the boys doing at the moment?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. does",
             "B. are",
@@ -282,8 +282,8 @@
     {
         "id": 21,
         "question": "What ________ that? \u2013 It\u2019s a pencil sharpener.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. has",
             "B. have",
@@ -296,8 +296,8 @@
     {
         "id": 22,
         "question": "Can you dance, Emily? \u2013 Yes, _______.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. I do",
             "B. I don't",
@@ -310,8 +310,8 @@
     {
         "id": 23,
         "question": "Excuse me. Can I sit here? - ______.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Here you are.",
             "B. Sure.",
@@ -324,8 +324,8 @@
     {
         "id": 24,
         "question": "I like bears ______ they\u2019re very cute.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. so",
             "B. because",
@@ -338,8 +338,8 @@
     {
         "id": 25,
         "question": "Do you have any blue pens?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. I don\u2019t like that color.",
             "B. They are not mine.",
@@ -352,8 +352,8 @@
     {
         "id": 26,
         "question": "I can\u2019t go out now. I have too________ homework to do.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. very",
             "B. many",
@@ -366,8 +366,8 @@
     {
         "id": 27,
         "question": "Is this your eraser? - Yes,_____.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. they are",
             "B. it isn't",
@@ -375,13 +375,13 @@
             "D. it is"
         ],
         "correctAnswerIndex": 3,
-        "hint": " Is this your eraser? - Yes,_____.\n\u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i l\u00e0 c\u1ee5c t\u1ea9y c\u1ee7a b\u1ea1n kh\u00f4ng? - V\u00e2ng, _____.\nA. they are (Ch\u00fang l\u00e0 c\u1ee7a t\u00f4i)\nB. it isn't (Kh\u00f4ng ph\u1ea3i) \nC. they is \u2192 Sai ng\u1eef ph\u00e1p.\n\u2705 D. it is. (\u0110\u00fang v\u1eady.) \nC\u00e2u h\u1ecfi \"Is this...?\" l\u00e0 c\u00e2u h\u1ecfi Yes/No\n* Tr\u1ea3 l\u1eddi kh\u1eb3ng \u0111\u1ecbnh: Yes, it is. \n* Tr\u1ea3 l\u1eddi ph\u1ee7 \u0111\u1ecbnh: No, it isn't. \n* Tr\u1ea3 l\u1eddi kh\u00f4ng ch\u1eafc ch\u1eafn: I'm not sure. / It could be. / Perhaps."
+        "hint": " Is this your eraser? - Yes,_____.\n\u2192 \u0110\u00e2y c\u00f3 ph\u1ea3i l\u00e0 c\u1ee5c t\u1ea9y c\u1ee7a b\u1ea1n kh\u00f4ng? - V\u00e2ng, _____.\nA. they are (ch\u00fang l\u00e0 c\u1ee7a t\u00f4i)\nB. it isn't (kh\u00f4ng ph\u1ea3i) \nC. they is \u2192 sai ng\u1eef ph\u00e1p.\n\u2705 D. it is. (\u0110\u00fang v\u1eady.) \nC\u00e2u h\u1ecfi \"Is this...?\" l\u00e0 c\u00e2u h\u1ecfi Yes/No\n* Tr\u1ea3 l\u1eddi kh\u1eb3ng \u0111\u1ecbnh: Yes, it is. \n* Tr\u1ea3 l\u1eddi ph\u1ee7 \u0111\u1ecbnh: No, it isn't. \n* Tr\u1ea3 l\u1eddi kh\u00f4ng ch\u1eafc ch\u1eafn: I'm not sure. / It could be. / Perhaps."
     },
     {
         "id": 28,
         "question": "That\u2019s Miss Hien. ________is my English teacher.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. She",
             "B. It",
@@ -389,13 +389,13 @@
             "D. He"
         ],
         "correctAnswerIndex": 0,
-        "hint": " That\u2019s Miss Hien. ________is my English teacher.\n\u2192 Kia l\u00e0 c\u00f4 Hi\u1ec1n. C\u00f4 \u1ea5y l\u00e0 gi\u00e1o vi\u00ean ti\u1ebfng Anh c\u1ee7a t\u00f4i.\n\u2705 A. She (C\u00f4 \u1ea5y) \u2192 l\u00e0 \u0111\u1ea1i t\u1eeb ch\u1ee7 ng\u1eef ph\u00f9 h\u1ee3p.\nB. It (N\u00f3) \u2192 \"it\" kh\u00f4ng d\u00f9ng \u0111\u1ec3 ch\u1ec9 ng\u01b0\u1eddi.\nC. Her (C\u1ee7a c\u00f4 \u1ea5y) \u2192 l\u00e0 \u0111\u1ea1i t\u1eeb s\u1edf h\u1eefu, kh\u00f4ng th\u1ec3 l\u00e0m ch\u1ee7 ng\u1eef.\nD. He (Anh \u1ea5y) \u2192 d\u00f9ng cho nam."
+        "hint": " That\u2019s Miss Hien. ________is my English teacher.\n\u2192 Kia l\u00e0 c\u00f4 Hi\u1ec1n. C\u00f4 \u1ea5y l\u00e0 gi\u00e1o vi\u00ean ti\u1ebfng Anh c\u1ee7a t\u00f4i.\n\u2705 A. She (C\u00f4 \u1ea5y) \u2192 l\u00e0 \u0111\u1ea1i t\u1eeb ch\u1ee7 ng\u1eef ph\u00f9 h\u1ee3p.\nB. It (N\u00f3) \u2192 kh\u00f4ng d\u00f9ng \u0111\u1ec3 ch\u1ec9 ng\u01b0\u1eddi.\nC. Her (C\u1ee7a c\u00f4 \u1ea5y) \u2192 l\u00e0 \u0111\u1ea1i t\u1eeb s\u1edf h\u1eefu, kh\u00f4ng th\u1ec3 l\u00e0m ch\u1ee7 ng\u1eef.\nD. He (Anh \u1ea5y) \u2192 d\u00f9ng cho nam."
     },
     {
         "id": 29,
         "question": "Is this a goldfish? - _________, it isn\u2019t.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Yes",
             "B. No",
@@ -408,8 +408,8 @@
     {
         "id": 30,
         "question": "Emma's house is ________ to my house.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. behind",
             "B. near",
@@ -417,13 +417,13 @@
             "D. in front"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Emma's house is ________ to my house.\n\u2192 Nh\u00e0 c\u1ee7a Emma _______ nh\u00e0 t\u00f4i.\nA. behind (ph\u00eda sau)\nB. near (g\u1ea7n)\n\u2705 C. next (b\u00ean c\u1ea1nh) \u2192 \u0110\u00fang, \"next to\" l\u00e0 c\u00e1ch n\u00f3i ph\u1ed5 bi\u1ebfn.\nD. in front (tr\u01b0\u1edbc) \u2192 Sai, thi\u1ebfu \"of\" (ph\u1ea3i l\u00e0 \"in front of\")."
+        "hint": "Emma's house is ________ to my house.\n\u2192 Nh\u00e0 c\u1ee7a Emma _______ nh\u00e0 t\u00f4i.\nA. behind (ph\u00eda sau)\nB. near (g\u1ea7n)\n\u2705 C. next (b\u00ean c\u1ea1nh) \u2192 \u0110\u00fang, \"next to\" l\u00e0 c\u00e1ch n\u00f3i ph\u1ed5 bi\u1ebfn.\nD. in front (tr\u01b0\u1edbc) \u2192 ph\u1ea3i l\u00e0 \"in front of\","
     },
     {
         "id": 31,
         "question": "What subjects _______ have on Monday?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. are you",
             "B. do they",
@@ -436,8 +436,8 @@
     {
         "id": 32,
         "question": "Let's play basketball. -________.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Yes, I do.",
             "B. No, it isn't.",
@@ -450,7 +450,7 @@
     {
         "id": 33,
         "question": "What color are Lily's pens?",
-        "questionImageUrl": null,
+        "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ioe/audio/audiopinkpens.mp3",
         "choices": [
             "A. blue",
@@ -464,8 +464,8 @@
     {
         "id": 34,
         "question": "This is ________apple.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. a",
             "B. an",
@@ -478,8 +478,8 @@
     {
         "id": 35,
         "question": "When ________ your birthday, Chris?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. does",
             "B. are",
@@ -492,8 +492,8 @@
     {
         "id": 36,
         "question": "Uncle Brian ________ work at 5:30 every day.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. finishes",
             "B. finishing",
@@ -501,13 +501,13 @@
             "D. finish"
         ],
         "correctAnswerIndex": 0,
-        "hint": "Uncle Brian ________ work at 5:30 every day.\n\u2192 Ch\u00fa Brian _______ l\u00e0m vi\u1ec7c l\u00fac 5:30 m\u1ed7i ng\u00e0y.\n\u2705 A. finishes.\nB. finishing \nC. finishs \nD. finish \nC\u00e1ch chia \u0111\u1ed9ng t\u1eed trong c\u00e2u kh\u1eb3ng \u0111\u1ecbnh th\u00ec hi\u1ec7n t\u1ea1i \u0111\u01a1n:\n* Ch\u1ee7 ng\u1eef l\u00e0 I/You/We/They/ DT s\u1ed1 nhi\u1ec1u + \u0110\u1ed9ng t\u1eeb \u1edf d\u1ea1ng nguy\u00ean m\u1eabu (V1)\n* Ch\u1ee7 ng\u1eef l\u00e0  He/She/It/DT s\u1ed1 \u00edt + V(s)/ V(es).\n* Th\u00eam \"es\" n\u1ebfu \u0111\u1ed9ng t\u1eeb k\u1ebft th\u00fac b\u1eb1ng: s, x, ch, sh, o"
+        "hint": "Uncle Brian ________ work at 5:30 every day.\n\u2192 Ch\u00fa Brian _______ l\u00e0m vi\u1ec7c l\u00fac 5:30 m\u1ed7i ng\u00e0y.\n\u2705 A. finishes\nB. finishing \nC. finishs \nD. finish \nC\u00e1ch chia \u0111\u1ed9ng t\u1eed trong c\u00e2u kh\u1eb3ng \u0111\u1ecbnh th\u00ec hi\u1ec7n t\u1ea1i \u0111\u01a1n:\n* Ch\u1ee7 ng\u1eef l\u00e0 I/You/We/They/ DT s\u1ed1 nhi\u1ec1u + \u0110\u1ed9ng t\u1eeb \u1edf d\u1ea1ng nguy\u00ean m\u1eabu (V1)\n* Ch\u1ee7 ng\u1eef l\u00e0  He/She/It/DT s\u1ed1 \u00edt + V(s)/ V(es).\n* Th\u00eam \"es\" n\u1ebfu \u0111\u1ed9ng t\u1eeb k\u1ebft th\u00fac b\u1eb1ng: s, x, ch, sh, o"
     },
     {
         "id": 37,
         "question": "The parrot is in front ______ the bookcase.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. from",
             "B. to",
@@ -515,13 +515,13 @@
             "D. of"
         ],
         "correctAnswerIndex": 3,
-        "hint": " The parrot is in front ______ the bookcase.\n\u2192 Con v\u1eb9t \u1edf ph\u00eda tr\u01b0\u1edbc ______ gi\u00e1 s\u00e1ch.\nA. from.\nB. to \nC. at \n\u2705 D. of \u2192 \"in front of: tr\u01b0\u1edbc\" l\u00e0 c\u1ee5m t\u1eeb c\u1ed1 \u0111\u1ecbnh."
+        "hint": " The parrot is in front ______ the bookcase.\n\u2192 Con v\u1eb9t \u1edf ph\u00eda tr\u01b0\u1edbc ______ gi\u00e1 s\u00e1ch.\nA. from\nB. to \nC. at \n\u2705 D. of \u2192 \"in front of: tr\u01b0\u1edbc\" l\u00e0 c\u1ee5m t\u1eeb c\u1ed1 \u0111\u1ecbnh."
     },
     {
         "id": 38,
         "question": "What time ______ get up at the weekend?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. do you",
             "B. do she",
@@ -534,8 +534,8 @@
     {
         "id": 39,
         "question": "________ out your notebooks, please.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Takes",
             "B. To take",
@@ -548,8 +548,8 @@
     {
         "id": 40,
         "question": "_____ do you have Maths? - On Mondays and Thursdays.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. When",
             "B. What",
@@ -562,8 +562,8 @@
     {
         "id": 41,
         "question": "Is that your brother Louis? - No, it _______.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. not",
             "B. is",
@@ -576,7 +576,7 @@
     {
         "id": 42,
         "question": "Peter can see a _____ at the zoo.",
-        "questionImageUrl": null,
+        "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ioe/audio/audioelephant.mp3",
         "choices": [
             "A. monkey",
@@ -590,8 +590,8 @@
     {
         "id": 43,
         "question": "Those chairs ________ all new.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. are",
             "B. to be",
@@ -604,8 +604,8 @@
     {
         "id": 44,
         "question": "Where are my dolls? - They are ________ the floor.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. from",
             "B. on",
@@ -618,8 +618,8 @@
     {
         "id": 45,
         "question": "___ are you, Alex?\" \u2013 \"I\u2019m fine, thanks.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. What",
             "B. Who",
@@ -632,8 +632,8 @@
     {
         "id": 46,
         "question": "This ___ a house.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. are",
             "B. is",
@@ -646,8 +646,8 @@
     {
         "id": 47,
         "question": "I ___ Andy.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. are",
             "B. am",
@@ -660,8 +660,8 @@
     {
         "id": 48,
         "question": "You ___ Long.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. is",
             "B. be",
@@ -674,8 +674,8 @@
     {
         "id": 49,
         "question": "This ___ a desk.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. is",
             "B. are",
@@ -688,8 +688,8 @@
     {
         "id": 50,
         "question": "She ___ Mary.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. am",
             "B. is",
@@ -702,8 +702,8 @@
     {
         "id": 51,
         "question": "This is ___ ruler.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. a",
             "B. an",
@@ -716,8 +716,8 @@
     {
         "id": 52,
         "question": "Hello, ___ Sean.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. you",
             "B. am",
@@ -730,7 +730,7 @@
     {
         "id": 53,
         "question": "How many parrots does Jenny have?",
-        "questionImageUrl": null,
+        "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ioe/audio/audiofiveparrots.mp3",
         "choices": [
             "A. one",
@@ -744,8 +744,8 @@
     {
         "id": 54,
         "question": "This isn\u2019t ___ bag.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. he\u2019s",
             "B. his",
@@ -759,7 +759,7 @@
         "id": 55,
         "question": "Wolud you like some _____?",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/rice.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. rice",
             "B. beans",
@@ -772,8 +772,8 @@
     {
         "id": 56,
         "question": "Loo___ at the dog.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. t",
             "B. k",
@@ -786,8 +786,8 @@
     {
         "id": 57,
         "question": "Sing a s___ng.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. o",
             "B. w",
@@ -800,8 +800,8 @@
     {
         "id": 58,
         "question": "W___o is she? She is Mary.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. t",
             "B. w",
@@ -814,8 +814,8 @@
     {
         "id": 59,
         "question": "This is m___ school.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. e",
             "B. w",
@@ -829,7 +829,7 @@
         "id": 60,
         "question": "There are four _______.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/fourrabbits.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. rabbits",
             "B. birds",
@@ -842,8 +842,8 @@
     {
         "id": 61,
         "question": "Ope___ the book, please.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. t",
             "B. h",
@@ -851,13 +851,13 @@
             "D. r"
         ],
         "correctAnswerIndex": 2,
-        "hint": "<h2><b>Ope___ the book, please.</b></h2> \n<h2><b>\u2192 Vui l\u00f2ng m\u1edf quy\u1ec3n s\u00e1ch ra.</b></h2>  \n<h2>A. t</h2>  \n<h2>B. h</h2>  \n<h2>\u2705 C. n \u2192 \"Open: M\u1edf ra\"</h2>  \n<h2>D. r</h2>"
+        "hint": "Open ___ the book, please.\n\u2192 Vui l\u00f2ng m\u1edf quy\u1ec3n s\u00e1ch ra.\nA. t \nB. h \n\u2705 C. n \u2192 \"Open: M\u1edf ra\" \nD. r"
     },
     {
         "id": 62,
         "question": "There is a ___ in my bedroom.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/lamp.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. lamp",
             "B. bed",
@@ -871,7 +871,7 @@
         "id": 63,
         "question": "This ____ is new.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/chair.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. desk",
             "B. table",
@@ -884,7 +884,7 @@
     {
         "id": 64,
         "question": "Jenny is ___ years old.",
-        "questionImageUrl": null,
+        "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ioe/audio/audio25yearsold.mp3",
         "choices": [
             "A. fifteen",
@@ -898,8 +898,8 @@
     {
         "id": 65,
         "question": "Do you like ___?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. look",
             "B. books",
@@ -912,8 +912,8 @@
     {
         "id": 66,
         "question": "Stand ___, please.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. down",
             "B. up",
@@ -927,7 +927,7 @@
         "id": 67,
         "question": "Sit ___, please.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/sitdown.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. down",
             "B. up",
@@ -940,7 +940,7 @@
     {
         "id": 68,
         "question": "Alice has a ___.",
-        "questionImageUrl": null,
+        "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ioe/audio/audiochicken.mp3",
         "choices": [
             "A. chicken",
@@ -954,7 +954,7 @@
     {
         "id": 69,
         "question": "What is Peter doing?",
-        "questionImageUrl": null,
+        "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ioe/audio/audioplayingvolleyball.mp3",
         "choices": [
             "A. Skating",
@@ -968,8 +968,8 @@
     {
         "id": 70,
         "question": "Goodbye! ___.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Nice to meet you",
             "B. See you later",
@@ -982,7 +982,7 @@
     {
         "id": 71,
         "question": "What is Nam doing?",
-        "questionImageUrl": null,
+        "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ioe/audio/audiolisteningtomusic.mp3",
         "choices": [
             "A. draw a picture",
@@ -997,7 +997,7 @@
         "id": 72,
         "question": "What is his job?",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/driver.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. a doctor",
             "B. a worker",
@@ -1005,12 +1005,12 @@
             "D. a driver"
         ],
         "correctAnswerIndex": 3,
-        "hint": "What is his job?\n\u2192 Ngh\u1ec1 nghi\u1ec7p c\u1ee7a anh \u1ea5y l\u00e0 g\u00ec?\nA. a doctor (B\u00e1c s\u0129)\nB. a worker (C\u00f4ng nh\u00e2n)\nC. a teacher (Gi\u00e1o vi\u00ean)\n\u2705 D. a driver (T\u00e0i x\u1ebf)"
+        "hint": "What is his job?\n\u2192 Ngh\u1ec1 nghi\u1ec7p c\u1ee7a anh \u1ea5y l\u00e0 g\u00ec?\nA. a doctor (b\u00e1c s\u0129)\nB. a worker (c\u00f4ng nh\u00e2n)\nC. a teacher (gi\u00e1o vi\u00ean)\n\u2705 D. a driver (t\u00e0i x\u1ebf)"
     },
     {
         "id": 73,
         "question": "What is John eating?\n",
-        "questionImageUrl": null,
+        "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ioe/audio/audiobread.mp3",
         "choices": [
             "A. bread",
@@ -1024,7 +1024,7 @@
     {
         "id": 74,
         "question": "What is Mary drinking?",
-        "questionImageUrl": null,
+        "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ioe/audio/audioapplejuice.mp3",
         "choices": [
             "A. water",
@@ -1039,7 +1039,7 @@
         "id": 75,
         "question": "John is _____.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/writing.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. dancing",
             "B. writing",
@@ -1052,7 +1052,7 @@
     {
         "id": 76,
         "question": "There are ______ in my bedroom.",
-        "questionImageUrl": null,
+        "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ioe/audio/audio2windows.mp3",
         "choices": [
             "A. two windows",
@@ -1066,8 +1066,8 @@
     {
         "id": 77,
         "question": "Play with ___ !",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. to",
             "B. hi",
@@ -1080,8 +1080,8 @@
     {
         "id": 78,
         "question": "___ you Lan?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Is",
             "B. Are",
@@ -1094,8 +1094,8 @@
     {
         "id": 79,
         "question": "This is a flo___er.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. u",
             "B. w",
@@ -1109,7 +1109,7 @@
         "id": 80,
         "question": "He has a _____.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/truck.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. car",
             "B. kite",
@@ -1123,7 +1123,7 @@
         "id": 81,
         "question": "This is the ______.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/diningroom.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. living room",
             "B. dining room",
@@ -1137,7 +1137,7 @@
         "id": 82,
         "question": "They have two ____.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/twoships.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. teddy bears",
             "B. dolls",
@@ -1151,7 +1151,7 @@
         "id": 83,
         "question": "A _____ house.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/smallhouse.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. big",
             "B. small",
@@ -1164,8 +1164,8 @@
     {
         "id": 84,
         "question": "___hat\u2019s his name? His name is John.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. W",
             "B. H",
@@ -1178,8 +1178,8 @@
     {
         "id": 85,
         "question": "Hello, Alan. Nice to meet you. - Nice to meet you, t__.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. ou",
             "B. oe",
@@ -1192,8 +1192,8 @@
     {
         "id": 86,
         "question": "W___ite your name.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. u",
             "B. r",
@@ -1206,8 +1206,8 @@
     {
         "id": 87,
         "question": "What c___lour is this? \u2013 It\u2019s blue.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. u",
             "B. o",
@@ -1220,8 +1220,8 @@
     {
         "id": 88,
         "question": "Nice to ___ you!",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. meet",
             "B. go",
@@ -1234,8 +1234,8 @@
     {
         "id": 89,
         "question": "___ morning, Adam.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. hello",
             "B. hi",
@@ -1248,8 +1248,8 @@
     {
         "id": 90,
         "question": "What is ___ name?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. I",
             "B. me",
@@ -1262,8 +1262,8 @@
     {
         "id": 91,
         "question": "What colour ___ this? \u2013 It\u2019s yellow.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. it",
             "B. is",
@@ -1276,8 +1276,8 @@
     {
         "id": 92,
         "question": "She ___ my friend.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. are",
             "B. is",
@@ -1290,8 +1290,8 @@
     {
         "id": 93,
         "question": "Is your school white?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Yes, it is not",
             "B. No, it isn\u2019t",
@@ -1304,8 +1304,8 @@
     {
         "id": 94,
         "question": "This is ___ chair.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. he",
             "B. she",
@@ -1318,8 +1318,8 @@
     {
         "id": 95,
         "question": "Give ___ an eraser, please!",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. he",
             "B. me",
@@ -1332,8 +1332,8 @@
     {
         "id": 96,
         "question": "Let\u2019s sing with __ !",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. he",
             "B. me",
@@ -1346,8 +1346,8 @@
     {
         "id": 97,
         "question": "Let\u2019s stand __!",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. down",
             "B. up",
@@ -1360,8 +1360,8 @@
     {
         "id": 98,
         "question": "Wh__ is that? - That\u2019s Tom.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. u",
             "B. e",
@@ -1374,8 +1374,8 @@
     {
         "id": 99,
         "question": "The__ are some books on the table.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. t",
             "B. w",
@@ -1388,8 +1388,8 @@
     {
         "id": 100,
         "question": "What colour is this kite? \u2013 This kite is bro___n.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. u",
             "B. v",
@@ -1402,8 +1402,8 @@
     {
         "id": 101,
         "question": "How m___ny pets do you have? - I have one cat.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. u",
             "B. i",
@@ -1416,8 +1416,8 @@
     {
         "id": 102,
         "question": "What colour _s this? - It\u2019s green.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. a",
             "B. u",
@@ -1430,8 +1430,8 @@
     {
         "id": 103,
         "question": "Let\u2019s ___ a song.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. look",
             "B. sing",
@@ -1444,8 +1444,8 @@
     {
         "id": 104,
         "question": "___ your hands, please.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Goodbye",
             "B. Hi",
@@ -1458,8 +1458,8 @@
     {
         "id": 105,
         "question": "___ are you? I\u2019m fine, thanks.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Who",
             "B. What",
@@ -1472,8 +1472,8 @@
     {
         "id": 106,
         "question": "___ is that? \u2013 It\u2019s a pen.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. How",
             "B. When",
@@ -1486,8 +1486,8 @@
     {
         "id": 107,
         "question": "Goodbye! ___.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Fine, thanks",
             "B. Nice to meet you too",
@@ -1500,8 +1500,8 @@
     {
         "id": 108,
         "question": "Good morning, Tom. ___!",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Good morning, Alan",
             "B. Good night, Alan",
@@ -1514,8 +1514,8 @@
     {
         "id": 109,
         "question": "___? \u2013 It\u2019s black.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. What colour is this",
             "B. What is this",
@@ -1528,8 +1528,8 @@
     {
         "id": 110,
         "question": "My ___ is Jean.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. name\u2019s",
             "B. names",
@@ -1542,8 +1542,8 @@
     {
         "id": 111,
         "question": "Is that a pen? - ______.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Yes",
             "B. Yes, it is",
@@ -1556,8 +1556,8 @@
     {
         "id": 112,
         "question": "Who is he? ___!",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. She is Mary",
             "B. He my friend",
@@ -1570,8 +1570,8 @@
     {
         "id": 113,
         "question": "These ___ my books.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. are",
             "B. is",
@@ -1584,8 +1584,8 @@
     {
         "id": 114,
         "question": "How ___ you? \u2013 Fine, thanks.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. are",
             "B. am",
@@ -1598,8 +1598,8 @@
     {
         "id": 115,
         "question": "It ___ a ball.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. are",
             "B. hi",
@@ -1612,8 +1612,8 @@
     {
         "id": 116,
         "question": "___ this a pencil? \u2013 No, it isn\u2019t.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Are",
             "B. Is",
@@ -1626,8 +1626,8 @@
     {
         "id": 117,
         "question": "This is ___ desk.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. my",
             "B. my\u2019s",
@@ -1640,8 +1640,8 @@
     {
         "id": 118,
         "question": "This is Sam. He ___ my friend.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. is",
             "B. are",
@@ -1654,8 +1654,8 @@
     {
         "id": 119,
         "question": "Alice is a ___ at Oxford Primary School.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. boy",
             "B. toy",
@@ -1668,8 +1668,8 @@
     {
         "id": 120,
         "question": "Let\u2019s say ___ to the teacher.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. hello",
             "B. good",
@@ -1677,13 +1677,13 @@
             "D. he"
         ],
         "correctAnswerIndex": 0,
-        "hint": "Let\u2019s say ___ to the teacher.\n\u2192 H\u00e3y n\u00f3i ___ v\u1edbi gi\u00e1o vi\u00ean.\n\u2705 A. hello (Xin ch\u00e0o!)\nB. good (T\u1ed1t) \nC. you (B\u1ea1n) \nD. he (Anh \u1ea5y) "
+        "hint": "Let\u2019s say ___ to the teacher.\n\u2192 H\u00e3y n\u00f3i ___ v\u1edbi gi\u00e1o vi\u00ean.\n\u2705 A. hello (xin ch\u00e0o!)\nB. good (t\u1ed1t) \nC. you (b\u1ea1n) \nD. he (anh \u1ea5y) "
     },
     {
         "id": 121,
         "question": "What\u2019s his name? ___.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. My name\u2019s Peter",
             "B. See you later",
@@ -1696,8 +1696,8 @@
     {
         "id": 122,
         "question": "What is this? ___.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. My name is Andy",
             "B. It is a doll",
@@ -1710,8 +1710,8 @@
     {
         "id": 123,
         "question": "What ___ is this? It\u2019s green.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. colour",
             "B. this",
@@ -1724,8 +1724,8 @@
     {
         "id": 124,
         "question": "___, students. See you tomorrow.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Good morning",
             "B. Good night",
@@ -1738,8 +1738,8 @@
     {
         "id": 125,
         "question": "Is this a pencil box? - ___, it is.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. No",
             "B. Not",
@@ -1752,8 +1752,8 @@
     {
         "id": 126,
         "question": "How many cassettes? - One ___.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. a cassette",
             "B. two cassettes",
@@ -1766,8 +1766,8 @@
     {
         "id": 127,
         "question": "Is that a pen? - ___, it isn\u2019t.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Yes",
             "B. Yes, it is",
@@ -1780,8 +1780,8 @@
     {
         "id": 128,
         "question": "He is ___ farmer.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. an",
             "B. a",
@@ -1794,8 +1794,8 @@
     {
         "id": 129,
         "question": "Good morning, teacher. - ___!",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Goodbye",
             "B. See you later",
@@ -1808,8 +1808,8 @@
     {
         "id": 130,
         "question": "Let\u2019s ___ goodbye to Miss White.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. say\u2019s",
             "B. say",
@@ -1822,8 +1822,8 @@
     {
         "id": 131,
         "question": "Is your classroom big? ___!",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Yes, it is",
             "B. No, it is",
@@ -1836,8 +1836,8 @@
     {
         "id": 132,
         "question": "Listen ___ the teacher.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. to",
             "B. on",
@@ -1850,8 +1850,8 @@
     {
         "id": 133,
         "question": "Is ___ a chair? \u2013 Yes, it is.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. are",
             "B. it",
@@ -1864,8 +1864,8 @@
     {
         "id": 134,
         "question": "Mary goes to the school library to ___ books.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. read\u2019s",
             "B. reads",
@@ -1878,8 +1878,8 @@
     {
         "id": 135,
         "question": "___ is that? \u2013 That\u2019s Mary. She\u2019s my friend.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. How",
             "B. when",
@@ -1893,7 +1893,7 @@
         "id": 136,
         "question": "The _____ is very big.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/playground.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. computer room",
             "B. playground",
@@ -1907,7 +1907,7 @@
         "id": 137,
         "question": "Touch your _____!",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/nose.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. hand",
             "B. hair",
@@ -1921,7 +1921,7 @@
         "id": 138,
         "question": "I have a/an _____.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/cake.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. notebook",
             "B. orange",
@@ -1935,7 +1935,7 @@
         "id": 139,
         "question": "I have some _____.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/ruler.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. rulers",
             "B. candy",
@@ -1949,7 +1949,7 @@
         "id": 140,
         "question": "What colour is this?",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/red.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. orange",
             "B. white",
@@ -1963,7 +1963,7 @@
         "id": 141,
         "question": "Let's go to the _____",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/artroom.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. music room",
             "B. playground",
@@ -1977,7 +1977,7 @@
         "id": 142,
         "question": "The_____ is large",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/musicroom.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. music room",
             "B. playground",
@@ -1991,7 +1991,7 @@
         "id": 143,
         "question": "That is a _____ pen.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/greenpen.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. green",
             "B. blue",
@@ -2005,7 +2005,7 @@
         "id": 144,
         "question": "What are those? - Those are_____.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/lamps.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. kites",
             "B. candy",
@@ -2019,7 +2019,7 @@
         "id": 145,
         "question": "That is a _____ cup.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/pinkcup.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. yellow",
             "B. blue",
@@ -2033,7 +2033,7 @@
         "id": 146,
         "question": "The _____ is new",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/kitchen.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. bedroom",
             "B. bathroom",
@@ -2047,7 +2047,7 @@
         "id": 147,
         "question": "The girl is _____ years old.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/eightbirthdaycake.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. nine",
             "B. six",
@@ -2060,7 +2060,7 @@
     {
         "id": 148,
         "question": "How old is Eva?",
-        "questionImageUrl": null,
+        "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ioe/audio/audio10yearsold.mp3",
         "choices": [
             "A. She's seven years old",
@@ -2074,8 +2074,8 @@
     {
         "id": 149,
         "question": "Choose the word that has the underlined letters pronounced differently.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. t<u>ea</u>cher",
             "B. cl<u>ea</u>n",
@@ -2088,8 +2088,8 @@
     {
         "id": 150,
         "question": "Choose the word that has the underlined letters pronounced differently.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. sist<u>e</u>r",
             "B. p<u>e</u>ncil",
@@ -2102,8 +2102,8 @@
     {
         "id": 151,
         "question": "Choose the word that has the underlined letters pronounced differently.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. <u>th</u>ese",
             "B. <u>th</u>is",
@@ -2116,8 +2116,8 @@
     {
         "id": 152,
         "question": "Find the word that has the underlined part pronounced differently from the others. ",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. p<u>e</u>ncil",
             "B. p<u>e</u>n",
@@ -2125,13 +2125,13 @@
             "D. th<u>e</u>y"
         ],
         "correctAnswerIndex": 3,
-        "hint": "Find the word that has the underlined part pronounced differently from the others.\n\u2192 T\u00ecm t\u1eeb c\u00f3 ph\u1ea7n g\u1ea1ch ch\u00e2n ph\u00e1t \u00e2m kh\u00e1c.\nA. p<u>e</u>ncil (/\u02c8pen.s\u0259l/)\nB. p<u>e</u>n (/pen/)\nC. t<u>e</u>n (/ten/)\n\u2705 D. th<u>e</u>y (/\u00f0e\u026a/) (Ph\u00e1t \u00e2m kh\u00e1c v\u00ec c\u00f3 \u00e2m /\u00f0e\u026a/ thay v\u00ec /e/.)"
+        "hint": "Find the word that has the underlined part pronounced differently from the others.\n\u2192 T\u00ecm t\u1eeb c\u00f3 ph\u1ea7n g\u1ea1ch ch\u00e2n ph\u00e1t \u00e2m kh\u00e1c.\nA. p<u>e</u>ncil (/\u02c8pen.s\u0259l/)\nB. p<u>e</u>n (/pen/)\nC. t<u>e</u>n (/ten/)\n\u2705 D. th<u>e</u>y (/\u00f0e\u026a/) (Ph\u00e1t \u00e2m kh\u00e1c v\u00ec c\u00f3 \u00e2m /e\u026a/ thay v\u00ec /e/.)"
     },
     {
         "id": 153,
         "question": "Find the word that has the underlined part pronounced differently from the others. ",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. d<u>a</u>y",
             "B. p<u>a</u>per",
@@ -2144,8 +2144,8 @@
     {
         "id": 154,
         "question": "Which word has the underlined part pronounced like the letter \"e\" in \"red\"?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. list<u>e</u>n",
             "B. qui<u>e</u>t",
@@ -2158,8 +2158,8 @@
     {
         "id": 155,
         "question": "Find the word that has the underlined part pronounced differently from the others. ",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. f<u>a</u>ther",
             "B. pl<u>a</u>y",
@@ -2167,13 +2167,13 @@
             "D. er<u>a</u>ser"
         ],
         "correctAnswerIndex": 0,
-        "hint": "Find the word that has the underlined part pronounced differently from the others.\n\u2192 Ch\u1ecdn t\u1eeb c\u00f3 ph\u1ea7n g\u1ea1ch ch\u00e2n ph\u00e1t \u00e2m kh\u00e1c.\n\u2705 A. f<u>a</u>ther (/\u02c8f\u0251\u02d0.\u00f0\u0259r/) - b\u1ed1 (Ph\u00e1t \u00e2m /\u0251\u02d0/ kh\u00e1c c\u00e1c t\u1eeb c\u00f2n l\u1ea1i)\nB. pl<u>a</u> (/ple\u026a/) - ch\u01a1i\nC. t<u>a</u>ble (/\u02c8te\u026a.b\u0259l/) - c\u00e1i b\u00e0n\nD. er<u>a</u>ser (/\u026a\u02c8re\u026a.z\u0259r/) - c\u1ee5c t\u1ea9y"
+        "hint": "Find the word that has the underlined part pronounced differently from the others.\n\u2192 Ch\u1ecdn t\u1eeb c\u00f3 ph\u1ea7n g\u1ea1ch ch\u00e2n ph\u00e1t \u00e2m kh\u00e1c.\n\u2705 A. f<u>a</u>ther (/\u02c8f\u0251\u02d0.\u00f0\u0259r/) - b\u1ed1 (Ph\u00e1t \u00e2m /\u0251\u02d0/ kh\u00e1c c\u00e1c t\u1eeb c\u00f2n l\u1ea1i)\nB. pl<u>a</u>y (/ple\u026a/) - ch\u01a1i\nC. t<u>a</u>ble (/\u02c8te\u026a.b\u0259l/) - c\u00e1i b\u00e0n\nD. er<u>a</u>ser (/\u026a\u02c8re\u026a.z\u0259r/) - c\u1ee5c t\u1ea9y"
     },
     {
         "id": 156,
         "question": "Choose the odd one out:",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Pencil",
             "B. Black",
@@ -2186,8 +2186,8 @@
     {
         "id": 157,
         "question": "Choose the odd one out:",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. One",
             "B. Year",
@@ -2200,8 +2200,8 @@
     {
         "id": 158,
         "question": "Choose the odd one out:",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. you",
             "B. hi",
@@ -2214,8 +2214,8 @@
     {
         "id": 159,
         "question": "Choose the odd one out:",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. time",
             "B. play",
@@ -2228,8 +2228,8 @@
     {
         "id": 160,
         "question": "Choose the odd one out:",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. book",
             "B. eleven",
@@ -2242,8 +2242,8 @@
     {
         "id": 161,
         "question": "Choose the odd one out:",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. out",
             "B. short",
@@ -2256,8 +2256,8 @@
     {
         "id": 162,
         "question": "Choose the odd one out",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Pupil",
             "B. Blue",
@@ -2270,8 +2270,8 @@
     {
         "id": 163,
         "question": "Choose the odd one out",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. pencil",
             "B. ruler",
@@ -2284,8 +2284,8 @@
     {
         "id": 164,
         "question": "Choose the odd one out:",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. What",
             "B. Hello",
@@ -2298,8 +2298,8 @@
     {
         "id": 165,
         "question": "Choose the odd one out:",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. library",
             "B. classroom",
@@ -2312,8 +2312,8 @@
     {
         "id": 166,
         "question": "Choose the odd one out:",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. she",
             "B. my",
@@ -2326,8 +2326,8 @@
     {
         "id": 167,
         "question": "Choose the incorrect word(s) in the following sentences: Do <u>you</u> <u>has</u> any <u>school</u> <u>things</u>?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. you",
             "B. school",
@@ -2340,8 +2340,8 @@
     {
         "id": 168,
         "question": "Choose the incorrect word(s) in the following sentence: Long and Hoa <u>isn't</u> in the <u>classroom</u>. <u>They</u> <u>are</u> in the art room.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. They",
             "B. are",
@@ -2354,8 +2354,8 @@
     {
         "id": 169,
         "question": "Choose the incorrect word(s) in the following sentence: Is <u>the</u> living <u>room</u> big? - <u>No</u>, <u>it</u> is.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. the",
             "B. No",
@@ -2368,8 +2368,8 @@
     {
         "id": 170,
         "question": "Peter and Tony are my ____. ",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. friend",
             "B. friends",
@@ -2383,7 +2383,7 @@
         "id": 171,
         "question": "Her old car is a ____ Honda.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/whitecar.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. red",
             "B. black",
@@ -2396,8 +2396,8 @@
     {
         "id": 172,
         "question": "A: _________ B: - I\u2019m Peter.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. How are you?",
             "B. What\u2019s your name?",
@@ -2410,8 +2410,8 @@
     {
         "id": 173,
         "question": "_____ old are you?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. How",
             "B. What",
@@ -2424,8 +2424,8 @@
     {
         "id": 174,
         "question": "My ____ is Tony.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. school",
             "B. friend",
@@ -2438,8 +2438,8 @@
     {
         "id": 175,
         "question": "How do you sp_ll your name?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. e",
             "B. o",
@@ -2452,8 +2452,8 @@
     {
         "id": 176,
         "question": "May I ___ in?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Coming",
             "B. To come",
@@ -2467,7 +2467,7 @@
         "id": 177,
         "question": "That is a ____.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/pig.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. pig",
             "B. cat",
@@ -2480,8 +2480,8 @@
     {
         "id": 178,
         "question": "I s_ng a song.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. o",
             "B. a",
@@ -2494,8 +2494,8 @@
     {
         "id": 179,
         "question": "Choose the letter(s) to make a correct word: H_S",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. O",
             "B. I",
@@ -2508,8 +2508,8 @@
     {
         "id": 180,
         "question": "___ talk in class, boys!",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Do",
             "B. Be",
@@ -2522,8 +2522,8 @@
     {
         "id": 181,
         "question": "My pencil case ___ pink and my pencils __ yellow.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. are - is",
             "B. is \u2013 are",
@@ -2536,8 +2536,8 @@
     {
         "id": 182,
         "question": "Be quiet, boy! \u2013 B: ____",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Thank you.",
             "B. Yes, please.",
@@ -2551,7 +2551,7 @@
         "id": 183,
         "question": "Hoa has a green book, a red book, and a ___ book.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/yellowbook.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. yellow",
             "B. green",
@@ -2564,8 +2564,8 @@
     {
         "id": 184,
         "question": "The pencils are ___ my pencil case.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. in",
             "B. on",
@@ -2578,8 +2578,8 @@
     {
         "id": 185,
         "question": "How do you spell ___ name?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. you",
             "B. she",
@@ -2592,8 +2592,8 @@
     {
         "id": 186,
         "question": "___ friend is Bobby.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. My",
             "B. He",
@@ -2606,8 +2606,8 @@
     {
         "id": 187,
         "question": "___ those your parents? \u2013 Yes, _____",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Is \u2013 he is",
             "B. Is \u2013 she is",
@@ -2620,8 +2620,8 @@
     {
         "id": 188,
         "question": "____ are they? \u2013 They are black.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. What",
             "B. What\u2019s colour",
@@ -2634,8 +2634,8 @@
     {
         "id": 189,
         "question": "Choose the incorrect word(s) in the following sentence: <u>What</u> <u>colour</u> <u>is</u> <u>your</u> <u>school</u> bags?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. What",
             "B. colour",
@@ -2649,7 +2649,7 @@
         "id": 190,
         "question": "___ apples",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/sixapples.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. Four",
             "B. Five",
@@ -2662,8 +2662,8 @@
     {
         "id": 191,
         "question": "Choose the letter(s) to make a correct word: S_ALL",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. M",
             "B. N",
@@ -2677,7 +2677,7 @@
         "id": 192,
         "question": "This is a ___ house.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/pinkhouse.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. pink",
             "B. yellow",
@@ -2690,8 +2690,8 @@
     {
         "id": 193,
         "question": "A: _______ B: I\u2019m ten.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. How are you?",
             "B. What\u2019s your name?",
@@ -2704,8 +2704,8 @@
     {
         "id": 194,
         "question": "They ___ pictures in the room.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. clean",
             "B. sing",
@@ -2718,8 +2718,8 @@
     {
         "id": 195,
         "question": "Is that a blue pencil case? - ______",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Yes, its is.",
             "B. Yes, it\u2019s is.",
@@ -2732,8 +2732,8 @@
     {
         "id": 196,
         "question": "May I go out?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Yes, you can.",
             "B. Yes, you do.",
@@ -2746,8 +2746,8 @@
     {
         "id": 197,
         "question": "__, I\u2019m Linda. Nice to meet you.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Hi",
             "B. Goodbye",
@@ -2760,8 +2760,8 @@
     {
         "id": 198,
         "question": "Choose the correct sentence:",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. They are my school bags.",
             "B. They are my school bag.",
@@ -2774,8 +2774,8 @@
     {
         "id": 199,
         "question": "What\u2019s your name? \u2013 My ___ Hoa.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. name",
             "B. name\u2019s",
@@ -2788,8 +2788,8 @@
     {
         "id": 200,
         "question": "We draw pictures in the ____.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. gym",
             "B. computer room",
@@ -2802,8 +2802,8 @@
     {
         "id": 201,
         "question": "This __ his book.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. it",
             "B. its",
@@ -2816,8 +2816,8 @@
     {
         "id": 202,
         "question": "These ___ my backpacks.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. are",
             "B. is",
@@ -2830,8 +2830,8 @@
     {
         "id": 203,
         "question": "Choose the letter(s) to make a correct word: P_NCIL CASE",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. E",
             "B. A",
@@ -2844,8 +2844,8 @@
     {
         "id": 204,
         "question": "___ are you? \u2013 I\u2019m fine.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. How old",
             "B. How",
@@ -2858,8 +2858,8 @@
     {
         "id": 205,
         "question": "Choose the odd one out:",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Pencils",
             "B. Pencil sharpeners",
@@ -2872,8 +2872,8 @@
     {
         "id": 206,
         "question": "Is this your ruler? \u2013 No, ___ isn\u2019t",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. it",
             "B. that",
@@ -2886,8 +2886,8 @@
     {
         "id": 207,
         "question": "How old are you? - _____",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. I\u2019m eight.",
             "B. I\u2019m fine.",
@@ -2900,8 +2900,8 @@
     {
         "id": 208,
         "question": "Is your room ___? \u2013 No, it isn\u2019t.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. large",
             "B. that",
@@ -2914,8 +2914,8 @@
     {
         "id": 209,
         "question": "They ___ a song in the classroom.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. point",
             "B. read",
@@ -2928,8 +2928,8 @@
     {
         "id": 210,
         "question": "Choose the odd one out:",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. My",
             "B. Your",
@@ -2942,8 +2942,8 @@
     {
         "id": 211,
         "question": "Choose the correct sentence:",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. This is my pens.",
             "B. They are my pens.",
@@ -2956,8 +2956,8 @@
     {
         "id": 212,
         "question": "My classroom is lar___.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. ne",
             "B. ge",
@@ -2970,8 +2970,8 @@
     {
         "id": 213,
         "question": "Choose the odd one out:",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Rubber",
             "B. Big",
@@ -2985,7 +2985,7 @@
         "id": 214,
         "question": "Choose the correct answer: What is this? \u2013 It\u2019s a ___",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/pencilcase.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. Pen  ",
             "B. Pencil ",
@@ -2998,8 +2998,8 @@
     {
         "id": 215,
         "question": "Choose the odd one out:",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Be quiet!  ",
             "B. Don\u2019t talk!",
@@ -3012,8 +3012,8 @@
     {
         "id": 216,
         "question": "Choose the odd one out:",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Computer room ",
             "B. Music room ",
@@ -3026,8 +3026,8 @@
     {
         "id": 217,
         "question": "I\u2019m ___ class 3A.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. on",
             "B. at",
@@ -3040,8 +3040,8 @@
     {
         "id": 218,
         "question": "Choose the correct response: What colour is your pen?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. It\u2019s blue.",
             "B. It\u2019s long.",
@@ -3054,8 +3054,8 @@
     {
         "id": 219,
         "question": "The computer room is small ___ new.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. and",
             "B. with",
@@ -3068,8 +3068,8 @@
     {
         "id": 220,
         "question": "Choose the correct letter to complete the word: NI_E",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. C",
             "B. V",
@@ -3082,8 +3082,8 @@
     {
         "id": 221,
         "question": "Is your ____ name Le Kim Dong?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. middle",
             "B. first",
@@ -3096,8 +3096,8 @@
     {
         "id": 222,
         "question": "Linda is calling and Emma is ___ the telephone.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. speaking",
             "B. telling",
@@ -3110,8 +3110,8 @@
     {
         "id": 223,
         "question": "Choose the odd one out:",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Piano",
             "B. Guitar",
@@ -3124,8 +3124,8 @@
     {
         "id": 224,
         "question": "Red is my ___ colour.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. favourite",
             "B. interesting",
@@ -3138,8 +3138,8 @@
     {
         "id": 225,
         "question": "Would you like to play basketball?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. I like",
             "B. I love it",
@@ -3152,8 +3152,8 @@
     {
         "id": 226,
         "question": "Choose the correct response: Excuse me. Can I sit here?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Sure!",
             "B. Here you are!",
@@ -3166,8 +3166,8 @@
     {
         "id": 227,
         "question": "I'd like to send this letter ___ China.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. to",
             "B. on",
@@ -3180,8 +3180,8 @@
     {
         "id": 228,
         "question": "Ann and her brother ___ at home yesterday.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. didn\u2019t are",
             "B. wasn\u2019t",
@@ -3194,8 +3194,8 @@
     {
         "id": 229,
         "question": "Choose the word that has a different pronunciation:",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Wet",
             "B. Chess",
@@ -3208,22 +3208,22 @@
     {
         "id": 230,
         "question": "Choose the odd one out:",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
-            "A. Playing",
-            "B. Learning",
-            "C. Writing",
+            "A. Play",
+            "B. Learn",
+            "C. Write",
             "D. Evening"
         ],
         "correctAnswerIndex": 3,
-        "hint": "Choose the odd one out:\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i\nA. Playing (ch\u01a1i)\nB. Learning (h\u1ecdc)\nC. Writing (vi\u1ebft)\n\u2705 D. Evening (bu\u1ed5i t\u1ed1i) \u2192 kh\u00e1c v\u00ec \u0111\u00e2y l\u00e0 danh t\u1eeb ch\u1ec9 th\u1eddi gian, c\u00f2n c\u00e1c t\u1eeb kh\u00e1c l\u00e0 \u0111\u1ed9ng t\u1eeb."
+        "hint": "Choose the odd one out:\n\u2192 Ch\u1ecdn t\u1eeb kh\u00e1c lo\u1ea1i\nA. Play (Ch\u01a1i)\nB. Learn (H\u1ecdc)\nC. Writte (Vi\u1ebft)\n\u2705 D. Evening (Bu\u1ed5i t\u1ed1i) \u2192 kh\u00e1c v\u00ec \u0111\u00e2y l\u00e0 danh t\u1eeb ch\u1ec9 th\u1eddi gian, c\u00f2n c\u00e1c t\u1eeb kh\u00e1c l\u00e0 \u0111\u1ed9ng t\u1eeb."
     },
     {
         "id": 231,
         "question": "Don't let your brother ___ the present.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. to see",
             "B. seeing",
@@ -3236,8 +3236,8 @@
     {
         "id": 232,
         "question": "How ___ do you study in the school library? - Every afternoon.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. usually",
             "B. never",
@@ -3250,8 +3250,8 @@
     {
         "id": 233,
         "question": "We are ___ work at the moment.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. on",
             "B. in",
@@ -3264,8 +3264,8 @@
     {
         "id": 234,
         "question": "What is Elena's date of birth?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. September 2nd",
             "B. September and 2nd",
@@ -3278,8 +3278,8 @@
     {
         "id": 235,
         "question": "How many ____ are there in the room? \u2013 There _______ one cupboard.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. cupboard - is",
             "B. cupboard \u2013 are",
@@ -3292,8 +3292,8 @@
     {
         "id": 236,
         "question": "TWE___E",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. LV",
             "B. L",
@@ -3306,8 +3306,8 @@
     {
         "id": 237,
         "question": "Choose the odd one out",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Tiger",
             "B. Goldfish",
@@ -3320,8 +3320,8 @@
     {
         "id": 238,
         "question": "My grandmother ______ newspaper in the afternoon.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. read",
             "B. reads",
@@ -3334,8 +3334,8 @@
     {
         "id": 239,
         "question": "The girl in the photo is _________.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. my uncle",
             "B. my brother",
@@ -3348,8 +3348,8 @@
     {
         "id": 240,
         "question": "You have breakfast in ________.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. the morning",
             "B. the evening",
@@ -3362,8 +3362,8 @@
     {
         "id": 241,
         "question": "I can see two _________ in the picture.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. teddy bear",
             "B. teddys bear",
@@ -3376,8 +3376,8 @@
     {
         "id": 242,
         "question": "Which word has the underlined part pronounced differently from the letter \u2018I\u2019 in \u201cSHIP\u201d?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. W<u>i</u>ndy",
             "B. P<u>i</u>cture",
@@ -3390,8 +3390,8 @@
     {
         "id": 243,
         "question": "The opposite of \"Here\" is ______.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. There",
             "B. This",
@@ -3404,8 +3404,8 @@
     {
         "id": 244,
         "question": "EIGH___",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. TTY",
             "B. TY",
@@ -3418,8 +3418,8 @@
     {
         "id": 245,
         "question": "Is there _______ milk in the bottle?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. some",
             "B. any",
@@ -3432,8 +3432,8 @@
     {
         "id": 246,
         "question": "There are two boys _____ three girls in the music room.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. and",
             "B. with",
@@ -3446,8 +3446,8 @@
     {
         "id": 247,
         "question": "The pond is _____ small.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. very",
             "B. many",
@@ -3460,8 +3460,8 @@
     {
         "id": 248,
         "question": "PU__ING",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. T",
             "B. TT",
@@ -3474,8 +3474,8 @@
     {
         "id": 249,
         "question": "____-It\u2019s sunny in Hanoi today",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Is it sunny in Hanoi today?",
             "B. What\u2019s the weather like in Hanoi today?",
@@ -3488,8 +3488,8 @@
     {
         "id": 250,
         "question": "Quang and _____ friend are ten years old.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. he",
             "B. his",
@@ -3502,8 +3502,8 @@
     {
         "id": 251,
         "question": "I have a rabbit. ____ name is Bim.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. She",
             "B. Its",
@@ -3516,8 +3516,8 @@
     {
         "id": 252,
         "question": "Where _____ Phong? \u2013 In the yard.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. am",
             "B. is",
@@ -3530,8 +3530,8 @@
     {
         "id": 253,
         "question": "How many giraffes _____ in the photo?- There are 4.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. there is",
             "B. is there",
@@ -3544,8 +3544,8 @@
     {
         "id": 254,
         "question": "Choose the odd one out",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Chair",
             "B. Table",
@@ -3558,8 +3558,8 @@
     {
         "id": 255,
         "question": "Which word has the underlined part pronounced differently from the letter \u2018EA\u2019 in \u201cBEACH\u201d?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. H<u>ea</u>d",
             "B. L<u>ea</u>ve",
@@ -3572,8 +3572,8 @@
     {
         "id": 256,
         "question": "Choose the incorrect word(s) in the following sentence: What <u>pets</u> <u>does</u> Tom <u>likes</u>? \u2013 <u>He likes</u> parrots.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. pets",
             "B. does",
@@ -3586,8 +3586,8 @@
     {
         "id": 257,
         "question": "Kien Giang is in the ______ of Vietnam.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. north",
             "B. south",
@@ -3600,8 +3600,8 @@
     {
         "id": 258,
         "question": "Choose the odd one out",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Map",
             "B. Poster",
@@ -3614,8 +3614,8 @@
     {
         "id": 259,
         "question": "____ you have any sisters?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Do",
             "B. Does",
@@ -3629,7 +3629,7 @@
         "id": 260,
         "question": "She\u2019s making a _______.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/paperplane.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. paper flower",
             "B. paper boat",
@@ -3642,8 +3642,8 @@
     {
         "id": 261,
         "question": "Are there ______ desks in your bedroom?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. a",
             "B. one",
@@ -3656,8 +3656,8 @@
     {
         "id": 262,
         "question": "Merida _______ long curly red hair.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. have",
             "B. haves",
@@ -3670,7 +3670,7 @@
     {
         "id": 263,
         "question": "Where\u2019s Oscar?",
-        "questionImageUrl": null,
+        "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ioe/audio/audiogarden.mp3",
         "choices": [
             "A. Bedroom",
@@ -3684,8 +3684,8 @@
     {
         "id": 264,
         "question": "Where can you cook dinner?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. In the bedroom",
             "B. In the bathroom",
@@ -3698,8 +3698,8 @@
     {
         "id": 265,
         "question": "The zoo has a ______ of animals.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. collection",
             "B. herd",
@@ -3712,8 +3712,8 @@
     {
         "id": 266,
         "question": "The ______ on the farm say moo-moo.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. cats",
             "B. cows",
@@ -3726,8 +3726,8 @@
     {
         "id": 267,
         "question": "Would you ______ some biscuits?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. like",
             "B. eat",
@@ -3740,8 +3740,8 @@
     {
         "id": 268,
         "question": "Choose the incorrect word(s) in the following sentence: Tien Giang <u>is</u> in <u>central</u> Vietnam. It\u2019s <u>very</u> far <u>from</u> Hanoi.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. is",
             "B. central",
@@ -3754,8 +3754,8 @@
     {
         "id": 269,
         "question": "Does your father ______ a car to work?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. go",
             "B. make",
@@ -3768,8 +3768,8 @@
     {
         "id": 270,
         "question": "Who\u2019s he? \u2013 He\u2019s my _____.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. mother",
             "B. brother",
@@ -3782,8 +3782,8 @@
     {
         "id": 271,
         "question": "_____ colour is your school bag?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. How",
             "B. What",
@@ -3796,8 +3796,8 @@
     {
         "id": 272,
         "question": "The opposite of \"On\" is ______.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. In",
             "B. Off",
@@ -3811,7 +3811,7 @@
         "id": 273,
         "question": "The apple is ____ the box.",
         "questionImageUrl": "https://hoangminhtiendev.github.io/ioe/photos/appleonbox.png",
-        "questionAudioUrl": null,
+        "questionAudioUrl": "",
         "choices": [
             "A. behind",
             "B. on",
@@ -3824,8 +3824,8 @@
     {
         "id": 274,
         "question": "Do you play hide-and-_____ at break time?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. seek",
             "B. run",
@@ -3838,8 +3838,8 @@
     {
         "id": 275,
         "question": "Which word has the underlined part pronounced like the letter \u2018A\u2019 in \u201cFAN\u201d?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Pl<u>a</u>ne",
             "B. P<u>a</u>rrot",
@@ -3852,8 +3852,8 @@
     {
         "id": 276,
         "question": "Point ____ the map, children.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. in",
             "B. at",
@@ -3866,8 +3866,8 @@
     {
         "id": 277,
         "question": "This is my aunt. ____ young and pretty.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. She\u2019s",
             "B. She\u2019s is",
@@ -3880,8 +3880,8 @@
     {
         "id": 278,
         "question": "This is my friend, Andy. - ____",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Nice to meet you, Andy.",
             "B. Hello, Andy!",
@@ -3894,8 +3894,8 @@
     {
         "id": 279,
         "question": "____ you tomorrow, Alice. - Goodbye.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. See",
             "B. See\u2019s",
@@ -3908,8 +3908,8 @@
     {
         "id": 280,
         "question": "____\u2019s her name? - Her name\u2019s Kathy Brown.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. When",
             "B. Where",
@@ -3922,8 +3922,8 @@
     {
         "id": 281,
         "question": "That\u2019s Alice. ____ my new friend.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. She",
             "B. She\u2019s",
@@ -3936,8 +3936,8 @@
     {
         "id": 282,
         "question": "____ is that? \u2013 That\u2019s Marry. She is my friend.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. How",
             "B. When",
@@ -3950,8 +3950,8 @@
     {
         "id": 283,
         "question": "My sister ____ got two new dolls.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Have",
             "B. Is",
@@ -3964,7 +3964,7 @@
     {
         "id": 284,
         "question": "Where are the dolls? - They are in the _____",
-        "questionImageUrl": null,
+        "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ioe/audio/audiodolls.mp3",
         "choices": [
             "A. bedroom",
@@ -3978,8 +3978,8 @@
     {
         "id": 285,
         "question": "____ is my best friend.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. My",
             "B. He",
@@ -3992,7 +3992,7 @@
     {
         "id": 286,
         "question": "What toy is Johnson playing with?",
-        "questionImageUrl": null,
+        "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ioe/audio/audiotoytruck.mp3",
         "choices": [
             "A. a toy train",
@@ -4006,8 +4006,8 @@
     {
         "id": 287,
         "question": "What is Tim\u2019s younger brother doing? - He ____",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. are skating",
             "B. skating",
@@ -4020,8 +4020,8 @@
     {
         "id": 288,
         "question": "May I go out? - ____",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Hello",
             "B. Nice to meet you",
@@ -4034,8 +4034,8 @@
     {
         "id": 289,
         "question": "What are ____ ? ____ cassettes.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. They/ there are",
             "B. They/ it\u2019s",
@@ -4048,7 +4048,7 @@
     {
         "id": 290,
         "question": "What animal does Elise have?",
-        "questionImageUrl": null,
+        "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ioe/audio/audioduck.mp3",
         "choices": [
             "A. a pig",
@@ -4062,8 +4062,8 @@
     {
         "id": 291,
         "question": "Let\u2019s ____ a song, children.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. sing\u2019s",
             "B. sings",
@@ -4076,7 +4076,7 @@
     {
         "id": 292,
         "question": "What is the weather like today?",
-        "questionImageUrl": null,
+        "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ioe/audio/audiocloudy.mp3",
         "choices": [
             "A. Cloudy",
@@ -4090,8 +4090,8 @@
     {
         "id": 293,
         "question": "Odd one out: ",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Sun",
             "B. Rainy",
@@ -4104,8 +4104,8 @@
     {
         "id": 294,
         "question": "Is ____ a flower? \u2013 Yes. That is a flower.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. that\u2019s",
             "B. that",
@@ -4118,8 +4118,8 @@
     {
         "id": 295,
         "question": "____, teacher? \u2013 Sure.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. May I go out",
             "B. Open your book",
@@ -4132,8 +4132,8 @@
     {
         "id": 296,
         "question": "She is good ____ English.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. on",
             "B. at",
@@ -4146,8 +4146,8 @@
     {
         "id": 297,
         "question": "Odd one out:",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Open",
             "B. Is",
@@ -4160,8 +4160,8 @@
     {
         "id": 298,
         "question": "What _____ is your computer? \u2013 It is black.",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. what",
             "B. colour",
@@ -4174,8 +4174,8 @@
     {
         "id": 299,
         "question": "Can you play the piano? - ____",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Yes, I can\u2019t",
             "B. No, I can",
@@ -4188,8 +4188,8 @@
     {
         "id": 300,
         "question": "How many legs does a spider have?",
-        "questionImageUrl": null,
-        "questionAudioUrl": null,
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
             "A. Four",
             "B. Six",

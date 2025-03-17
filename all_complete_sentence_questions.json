@@ -29,7 +29,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "or",
-        "hint": "Or \u2192 Hay\nIs your ball old or new? \u2192 Qu\u1ea3 b\u00f3ng c\u1ee7a b\u1ea1n c\u0169 hay m\u1edbi?"
+        "hint": "Or \u2192 Hay/ Ho\u1eb7c\nIs your ball old or new? \u2192 Qu\u1ea3 b\u00f3ng c\u1ee7a b\u1ea1n c\u0169 hay m\u1edbi?"
     },
     {
         "id": 5,
@@ -101,7 +101,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/basketball.png",
         "audioUrl": "",
         "answer": "basketball",
-        "hint": "In \u2192 Trong\nMy son likes playing basketball in his free time. \n\u2192 Con trai t\u00f4i th\u00edch ch\u01a1i b\u00f3ng r\u1ed5 trong th\u1eddi gian r\u1ea3nh."
+        "hint": "Basketball \u2192 B\u00f3ng r\u1ed5 \nMy son likes playing basketball in his free time. \n\u2192 Con trai t\u00f4i th\u00edch ch\u01a1i b\u00f3ng r\u1ed5 trong th\u1eddi gian r\u1ea3nh."
     },
     {
         "id": 14,
@@ -245,7 +245,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/doctor.png",
         "audioUrl": "",
         "answer": "OCTOR",
-        "hint": "DOCTOR \u2192 B\u00e1c s\u0129"
+        "hint": "DOCTOR \u2192 B\u00c1C S\u0128"
     },
     {
         "id": 32,
@@ -253,7 +253,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/fifteen.png",
         "audioUrl": "",
         "answer": "IFTEEN",
-        "hint": "FIFTEEN \u2192 S\u1ed1 15"
+        "hint": "FIFTEEN \u2192 S\u1ed0 15"
     },
     {
         "id": 33,
@@ -645,7 +645,7 @@
         "imageUrl": "",
         "audioUrl": "",
         "answer": "all",
-        "hint": "Ball \u2192 Q\u1ee7a b\u00f3ng\nBasketball \u2192 b\u00f3ng r\u1ed5\nI like basketball. \u2192 T\u00f4i th\u00edch b\u00f3ng r\u1ed5."
+        "hint": "Ball \u2192 Q\u1ee7a b\u00f3ng\nBasketball \u2192 B\u00f3ng r\u1ed5\nI like basketball. \u2192 T\u00f4i th\u00edch b\u00f3ng r\u1ed5."
     },
     {
         "id": 82,
@@ -1525,7 +1525,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/ioe/photos/seven.png",
         "audioUrl": "",
         "answer": "S",
-        "hint": "Seven \u2192 B\u1ea3y"
+        "hint": "Seven \u2192 S\u1ed1 b\u1ea3y"
     },
     {
         "id": 192,

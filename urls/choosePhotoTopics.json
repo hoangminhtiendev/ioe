@@ -7,104 +7,92 @@
       {
         "id": 1,
         "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/sixteen.mp3",
-        "question": "",
+        "question": "ABCDEF 1",
         "imageUrls": [
-          "https://hoangminhtiendev.github.io/hocki2lop3/photos/eleven.png",
-          "https://hoangminhtiendev.github.io/hocki2lop3/photos/seventeen.png",
-          "https://hoangminhtiendev.github.io/hocki2lop3/photos/sixteen.png"
+          "",
+          ""
         ],
         "imageNames": [
-          "eleven",
-          "seventeen",
-          "sixteen"
+          "TRUE",
+          "FALSE"
         ],
-        "correctIndex": 2,
+        "correctIndex": 0,
         "hint": "sixteen (mười sáu)"
       },
       {
         "id": 2,
         "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/grandparents.mp3",
-        "question": "",
+         "question": "ABCDEF 2",
         "imageUrls": [
-          "https://hoangminhtiendev.github.io/hocki2lop3/photos/grandfather.png",
-          "https://hoangminhtiendev.github.io/hocki2lop3/photos/grandparents.png",
-          "https://hoangminhtiendev.github.io/hocki2lop3/photos/grandmother.png"
+          "",
+          ""
         ],
         "imageNames": [
-          "grandfather",
-          "grandparents",
-          "grandmother"
+          "TRUE",
+          "FALSE"
         ],
         "correctIndex": 1,
-        "hint": "grandparents (ông bà)"
+        "hint": "sixteen (mười sáu)"
       },
       {
         "id": 3,
         "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/brother.mp3",
-        "question": "",
+         "question": "ABCDEF 3",
         "imageUrls": [
-          "https://hoangminhtiendev.github.io/hocki2lop3/photos/son.png",
-          "https://hoangminhtiendev.github.io/hocki2lop3/photos/father.png",
-          "https://hoangminhtiendev.github.io/hocki2lop3/photos/brother.png"
+          "",
+          ""
         ],
         "imageNames": [
-          "son",
-          "father",
-          "brother"
+          "TRUE",
+          "FALSE"
         ],
-        "correctIndex": 2,
-        "hint": "brother (anh/em trai)"
+        "correctIndex": 0,
+        "hint": "sixteen (mười sáu)"
       },
       {
         "id": 4,
         "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/son.mp3",
-        "question": "",
+        "question": "ABCDEF 4",
         "imageUrls": [
-          "https://hoangminhtiendev.github.io/hocki2lop3/photos/father.png",
-          "https://hoangminhtiendev.github.io/hocki2lop3/photos/son.png",
-          "https://hoangminhtiendev.github.io/hocki2lop3/photos/brother.png"
+          "",
+          ""
         ],
         "imageNames": [
-          "father",
-          "son",
-          "brother"
+          "TRUE",
+          "FALSE"
         ],
-        "correctIndex": 1,
-        "hint": "son (con trai)"
+        "correctIndex": 0,
+        "hint": "sixteen (mười sáu)"
       },
       {
         "id": 5,
         "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/seventeen.mp3",
-        "question": "",
+       "question": "ABCDEF 5",
         "imageUrls": [
-          "https://hoangminhtiendev.github.io/hocki2lop3/photos/seventeen.png",
-          "https://hoangminhtiendev.github.io/hocki2lop3/photos/fifteen.png",
-          "https://hoangminhtiendev.github.io/hocki2lop3/photos/nineteen.png"
+          "",
+          ""
         ],
         "imageNames": [
-          "seventeen",
-          "fifteen",
-          "nineteen"
+          "TRUE",
+          "FALSE"
         ],
-        "correctIndex": 0,
-        "hint": "seventeen (mười bảy)"
+        "correctIndex": 1,
+        "hint": "sixteen (mười sáu)"
       },
       {
         "id": 6,
         "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/fourteen.mp3",
-        "question": "",
+        "question": "ABCDEF 6",
         "imageUrls": [
-          "https://hoangminhtiendev.github.io/hocki2lop3/photos/thirteen.png",
-          "https://hoangminhtiendev.github.io/hocki2lop3/photos/twelve.png",
-          "https://hoangminhtiendev.github.io/hocki2lop3/photos/fourteen.png"
+          "",
+          ""
         ],
         "imageNames": [
-          "thirteen",
-          "twelve",
-          "fourteen"
+          "TRUE",
+          "FALSE"
         ],
-        "correctIndex": 2,
-        "hint": "fourteen (mười bốn)"
+        "correctIndex": 1,
+        "hint": "sixteen (mười sáu)"
       },
       {
         "id": 7,

@@ -106,7 +106,7 @@
           "mười tám"
         ],
         "hint": "This is my brother. He is sixteen years old. → Đây là anh trai của tôi. Anh ấy mười sáu tuổi.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 6,
@@ -153,7 +153,7 @@
           "sister."
         ],
         "hint": "Who is this? – It's my sister. → Đây là ai? – Đó là chị/em gái tôi.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 8,
@@ -178,7 +178,7 @@
           "He"
         ],
         "hint": "That is my sister. She is nineteen years old. → Kia là chị/em gái tôi. Chị ấy mười chín tuổi.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 9,
@@ -203,7 +203,7 @@
           "bảy"
         ],
         "hint": "Mai's brother is eighteen years old. → Anh trai của Mai mười tám tuổi.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 10,
@@ -222,7 +222,7 @@
           "she?"
         ],
         "hint": "How old is she? → Cô ấy bao nhiêu tuổi?",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 11,
@@ -247,7 +247,7 @@
           "are"
         ],
         "hint": "My brother is fourteen years old. → Anh/em trai tôi mười bốn tuổi.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 12,
@@ -268,7 +268,7 @@
           "old."
         ],
         "hint": "Lan is eleven years old. → Lan mười một tuổi.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 13,
@@ -293,7 +293,7 @@
           "are"
         ],
         "hint": "Who is that? – It's my brother. → Kia là ai? – Đó là anh/em trai tôi.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 14,
@@ -318,7 +318,7 @@
           "eighteen."
         ],
         "hint": "This is Peter's sister. She's nineteen years old. → Đây là chị của Peter. Cô ấy mười chín tuổi.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 15,
@@ -343,7 +343,7 @@
           "ông "
         ],
         "hint": "Who is that? – That is my grandmother. → Kia là ai? – Đó là bà của tôi.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 16,
@@ -364,7 +364,7 @@
           "old."
         ],
         "hint": "Phong is sixteen years old. → Phong mười sáu tuổi.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 17,
@@ -383,7 +383,7 @@
           "Helen?"
         ],
         "hint": "How old is Helen? → Helen bao nhiêu tuổi?",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 18,
@@ -408,7 +408,7 @@
           "cô ấy"
         ],
         "hint": "My name is Kim. This is my sister. → Tên tôi là Kim. Đây là chị gái của tôi.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 19,
@@ -427,7 +427,7 @@
           "you?"
         ],
         "hint": "How old are you? → Bạn bao nhiêu tuổi?",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 20,
@@ -446,7 +446,7 @@
           "old."
         ],
         "hint": "I'm eighteen years old. → Tôi mười tám tuổi.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 21,
@@ -471,7 +471,7 @@
           "my"
         ],
         "hint": "Look at this photo. This is me. → Hãy nhìn vào bức ảnh này. Đây là tôi.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 22,
@@ -488,7 +488,7 @@
           "sure?"
         ],
         "hint": "Are you sure? → Bạn chắc chứ?",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 23,
@@ -507,7 +507,7 @@
           "mother."
         ],
         "hint": "This is my mother. → Đây là mẹ tôi.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 24,
@@ -528,7 +528,7 @@
           "mother?"
         ],
         "hint": "How old is your mother? → Mẹ bạn bao nhiêu tuổi?",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 25,
@@ -547,7 +547,7 @@
           "father."
         ],
         "hint": "That is my father. → Kia là bố tôi.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 26,
@@ -572,7 +572,7 @@
           "that"
         ],
         "hint": "Who is this? – It's my mother. → Đây là ai? – Đó là mẹ tôi.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 27,
@@ -597,7 +597,7 @@
           "Linh"
         ],
         "hint": "How old is Linh's sister? – She is thirteen years old. → Em gái của Linh bao nhiêu tuổi? – Cô ấy mười ba tuổi.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 28,
@@ -618,7 +618,7 @@
           "father?"
         ],
         "hint": "How old is your father? → Bố bạn bao nhiêu tuổi?",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 29,
@@ -637,7 +637,7 @@
           "sister?"
         ],
         "hint": "Is this your sister? → Đây có phải là chị/em gái của bạn không?",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 30,
@@ -662,7 +662,7 @@
           "This is"
         ],
         "hint": "That is my friend. He's eleven years old. → Kia là bạn của tôi. Cậu ấy mười một tuổi.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       }
     ]
   },
@@ -692,7 +692,7 @@
           "doctor."
         ],
         "hint": "What's her job? – She is a doctor. → Cô ấy làm nghề gì? – Cô ấy là bác sĩ.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 32,
@@ -717,7 +717,7 @@
           "he is"
         ],
         "hint": "Is he a singer? – No, he isn't. He is a farmer. → Anh ấy có phải là ca sĩ không? Không, anh ấy là nông dân.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 33,
@@ -736,7 +736,7 @@
           "worker?"
         ],
         "hint": "Are you a worker? → Bạn có phải là công nhân không?",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 34,
@@ -759,7 +759,7 @@
           "teacher."
         ],
         "hint": "What's his job? – He is a teacher. → Anh ấy làm nghề gì? – Anh ấy là giáo viên.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 35,
@@ -780,7 +780,7 @@
           "worker."
         ],
         "hint": "My father is a worker. → Bố tôi là công nhân.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 36,
@@ -805,7 +805,7 @@
           "bức tranh"
         ],
         "hint": "This is a photo of my family. → Đây là bức ảnh của gia đình tôi.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 37,
@@ -824,7 +824,7 @@
           "driver."
         ],
         "hint": "I am a driver. → Tôi là tài xế.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 38,
@@ -849,7 +849,7 @@
           "Are"
         ],
         "hint": "Is she a nurse? – Yes, she is. → Cô ấy có phải là y tá không? – Vâng, đúng vậy.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 39,
@@ -872,7 +872,7 @@
           "too."
         ],
         "hint": "My sister is a pupil. I'm a pupil, too. → Em gái tôi là học sinh. Tôi cũng là học sinh.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 40,
@@ -897,7 +897,7 @@
           "an cook."
         ],
         "hint": "Is he a farmer? – No, he isn't. He's a cook. → Anh ấy có phải là nông dân không? Không, anh ấy là đầu bếp.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 41,
@@ -918,7 +918,7 @@
           "singer?"
         ],
         "hint": "Is your father a singer? → Bố bạn có phải là ca sĩ không?",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 42,
@@ -943,7 +943,7 @@
           "isn't"
         ],
         "hint": "Is your mom a doctor? – No, she's a nurse. → Mẹ bạn có phải là bác sĩ không? – Không, bà ấy là y tá.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 43,
@@ -966,7 +966,7 @@
           "Mẹ"
         ],
         "hint": "Is your father a farmer? → Bố của bạn có phải là nông dân không?",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 44,
@@ -989,7 +989,7 @@
           "are"
         ],
         "hint": "Hi. My name is Minh. → Xin chào. Tôi tên là Minh.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 45,
@@ -1008,7 +1008,7 @@
           "family."
         ],
         "hint": "This is my family. → Đây là gia đình tôi.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 46,
@@ -1033,7 +1033,7 @@
           "my mom"
         ],
         "hint": "Is your mom a teacher? – Yes, she is. → Mẹ của bạn có phải là giáo viên không? – Vâng, đúng vậy.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 47,
@@ -1058,7 +1058,7 @@
           "giáo viên"
         ],
         "hint": "This is my father. He's a singer. → Đây là bố của tôi. Ông ấy là một ca sĩ.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 48,
@@ -1077,7 +1077,7 @@
           "family?"
         ],
         "hint": "What about your family? → Còn gia đình bạn thì sao?",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 49,
@@ -1102,7 +1102,7 @@
           "is"
         ],
         "hint": "What's her job? – She's a cook. → Cô ấy làm nghề gì? – Cô ấy là đầu bếp.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 50,
@@ -1127,7 +1127,7 @@
           "cô ấy"
         ],
         "hint": "What's his job? – He's a farmer. → Công việc của anh ấy là gì? – Anh ấy là nông dân.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 51,
@@ -1148,7 +1148,7 @@
           "nurse."
         ],
         "hint": "My mother is a nurse. → Mẹ tôi là y tá.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 52,
@@ -1173,7 +1173,7 @@
           "No, he is"
         ],
         "hint": "Is your mother a doctor? – No, she isn't. She's a nurse. → Mẹ bạn có phải là bác sĩ không? – Không, mẹ tôi là y tá.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 53,
@@ -1198,7 +1198,7 @@
           "Yes,"
         ],
         "hint": "No, she isn't a nurse. She's a doctor. → Không, cô ấy không phải là y tá. Cô ấy là bác sĩ.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 54,
@@ -1221,7 +1221,7 @@
           "grandmother."
         ],
         "hint": "This is a photo of my grandmother. → Đây là ảnh của bà tôi.",
-        "eraseFlag": 0
+        "eraseFlag": 1
       },
       {
         "id": 55,
